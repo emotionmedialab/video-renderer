@@ -1,19 +1,31 @@
-name: Render Reel
+name: Render
 
-# Renders the BioIntel reel in the cloud (GitHub-hosted runner has 4 cores / 16 GB,
-# so no OOM constraint like the local ~7 GB laptop).
+# Shared cloud-render farm for Emotion Media's Remotion video skills
+# (biointel-reel, short-form-builder, ...). GitHub-hosted runners are
+# 4 cores / 16 GB, so there's no OOM constraint like a local laptop.
 #
-#  - push to main          -> renders a 1080p draft (scale=1)
-#  - manual "Run workflow"  -> choose scale (1 = 1080p, 2 = 4K/2160x3840) + CRF
+# Usage — one render per branch (branch-per-render):
+#   * push a project on a branch like `biointel/2026-06-17` or `shortform/<client>`
+#     -> renders a 1080p draft (scale=1) automatically
+#   * "Run workflow" (manual) on that branch -> override composition / scale / crf
+#     e.g. scale=2 for a 4K (2160x3840) final
 #
 # The finished MP4 is uploaded as a build artifact; download it from the run's
-# "Summary" page (no need to pull the whole repo).
+# Summary page. Delete the branch after downloading to keep the repo lean
+# (committed video bloats git history).
 
 on:
   push:
-    branches: [main]
+    branches-ignore:
+      - main
   workflow_dispatch:
     inputs:
+      composition:
+        description: "Remotion composition id"
+        default: "Reel"
+      entry:
+        description: "Remotion entry point"
+        default: "src/index.ts"
       scale:
         description: "Render scale (1 = 1080p, 2 = 4K 2160x3840)"
         default: "1"
@@ -50,12 +62,20 @@ jobs:
       - name: Ensure rspack binary
         run: node scripts/bootstrap.mjs || true
 
+      - name: Compute artifact name
+        id: meta
+        run: |
+          SAFE=$(echo "${{ github.ref_name }}" | tr '/ ' '--')
+          echo "name=reel-${SAFE}-scale${{ github.event.inputs.scale || '1' }}" >> "$GITHUB_OUTPUT"
+
       - name: Render
         run: |
+          COMP="${{ github.event.inputs.composition || 'Reel' }}"
+          ENTRY="${{ github.event.inputs.entry || 'src/index.ts' }}"
           SCALE="${{ github.event.inputs.scale || '1' }}"
           CRF="${{ github.event.inputs.crf || '18' }}"
-          echo "Rendering Reel at scale=$SCALE crf=$CRF"
-          npx remotion render src/index.ts Reel out/reel.mp4 \
+          echo "Rendering $COMP ($ENTRY) at scale=$SCALE crf=$CRF"
+          npx remotion render "$ENTRY" "$COMP" out/reel.mp4 \
             --scale="$SCALE" \
             --crf="$CRF" \
             --concurrency=2 \
@@ -67,6 +87,6 @@ jobs:
       - name: Upload reel
         uses: actions/upload-artifact@v4
         with:
-          name: reel-scale${{ github.event.inputs.scale || '1' }}
+          name: ${{ steps.meta.outputs.name }}
           path: out/reel.mp4
           retention-days: 14
