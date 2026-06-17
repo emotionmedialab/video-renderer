@@ -1,0 +1,8 @@
+# Standalone cloud-render repo: the media MUST be committed so the CI runner
+# can render. Only exclude generated / heavy-but-regenerable artifacts.
+node_modules/
+out/
+stills/
+*.wav
+*.log
+tmp.json

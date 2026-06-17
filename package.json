@@ -1,0 +1,27 @@
+{
+  "name": "biointel-reel",
+  "version": "1.0.0",
+  "description": "BioIntel weekly UGC reel — Remotion template (scaffolded by the biointel-reel skill)",
+  "scripts": {
+    "bootstrap": "node scripts/bootstrap.mjs",
+    "transcribe": "node scripts/transcribe.mjs",
+    "analyze": "node scripts/analyze.mjs",
+    "broll": "node scripts/fetch-broll.mjs",
+    "dev": "remotion studio",
+    "render": "remotion render Reel out/reel-draft.mp4",
+    "finalize": "node scripts/finalize.mjs out/reel-draft.mp4 out/reel-final.mp4"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.475",
+    "@remotion/cli": "4.0.475",
+    "@remotion/install-whisper-cpp": "4.0.475",
+    "@remotion/transitions": "4.0.475",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.475"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "typescript": "5.6.3"
+  }
+}

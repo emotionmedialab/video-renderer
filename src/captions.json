@@ -1,0 +1,1132 @@
+{
+  "scene1": [
+    {
+      "text": "$",
+      "startMs": 0,
+      "endMs": 450,
+      "timestampMs": 320,
+      "confidence": 0.516783
+    },
+    {
+      "text": "50",
+      "startMs": 450,
+      "endMs": 860,
+      "timestampMs": 720,
+      "confidence": 0.998744
+    },
+    {
+      "text": " a",
+      "startMs": 860,
+      "endMs": 960,
+      "timestampMs": 1100,
+      "confidence": 0.938349
+    },
+    {
+      "text": " month",
+      "startMs": 960,
+      "endMs": 1900,
+      "timestampMs": 1300,
+      "confidence": 0.998536
+    },
+    {
+      "text": ".",
+      "startMs": 1900,
+      "endMs": 2000,
+      "timestampMs": 1820,
+      "confidence": 0.807396
+    },
+    {
+      "text": " That",
+      "startMs": 2000,
+      "endMs": 2160,
+      "timestampMs": 2020,
+      "confidence": 0.508718
+    },
+    {
+      "text": "'s",
+      "startMs": 2160,
+      "endMs": 2230,
+      "timestampMs": 2120,
+      "confidence": 0.986015
+    },
+    {
+      "text": " what",
+      "startMs": 2230,
+      "endMs": 2390,
+      "timestampMs": 2240,
+      "confidence": 0.997817
+    },
+    {
+      "text": " Medicare",
+      "startMs": 2390,
+      "endMs": 2700,
+      "timestampMs": 2520,
+      "confidence": 0.976956
+    },
+    {
+      "text": " patients",
+      "startMs": 2700,
+      "endMs": 3070,
+      "timestampMs": 2960,
+      "confidence": 0.991362
+    },
+    {
+      "text": " will",
+      "startMs": 3070,
+      "endMs": 3120,
+      "timestampMs": 3160,
+      "confidence": 0.95421
+    },
+    {
+      "text": " pay",
+      "startMs": 3120,
+      "endMs": 3300,
+      "timestampMs": 3320,
+      "confidence": 0.967686
+    },
+    {
+      "text": " for",
+      "startMs": 3300,
+      "endMs": 3440,
+      "timestampMs": 3480,
+      "confidence": 0.917719
+    },
+    {
+      "text": " weight",
+      "startMs": 3440,
+      "endMs": 3670,
+      "timestampMs": 3640,
+      "confidence": 0.892844
+    },
+    {
+      "text": " loss",
+      "startMs": 3670,
+      "endMs": 3840,
+      "timestampMs": 3820,
+      "confidence": 0.72623
+    },
+    {
+      "text": " drugs",
+      "startMs": 3840,
+      "endMs": 4080,
+      "timestampMs": 4140,
+      "confidence": 0.962046
+    },
+    {
+      "text": " starting",
+      "startMs": 4080,
+      "endMs": 4440,
+      "timestampMs": 4420,
+      "confidence": 0.736827
+    },
+    {
+      "text": " July",
+      "startMs": 4440,
+      "endMs": 4840,
+      "timestampMs": 4620,
+      "confidence": 0.915763
+    },
+    {
+      "text": " 1",
+      "startMs": 4840,
+      "endMs": 5080,
+      "timestampMs": 4940,
+      "confidence": 0.694612
+    },
+    {
+      "text": "st",
+      "startMs": 5080,
+      "endMs": 5320,
+      "timestampMs": 5420,
+      "confidence": 0.576331
+    },
+    {
+      "text": ".",
+      "startMs": 5320,
+      "endMs": 5320,
+      "timestampMs": 5480,
+      "confidence": 0.914735
+    },
+    {
+      "text": " The",
+      "startMs": 5320,
+      "endMs": 5580,
+      "timestampMs": 5640,
+      "confidence": 0.986291
+    },
+    {
+      "text": " full",
+      "startMs": 5580,
+      "endMs": 5780,
+      "timestampMs": 5820,
+      "confidence": 0.998561
+    },
+    {
+      "text": " price",
+      "startMs": 5780,
+      "endMs": 6110,
+      "timestampMs": 6160,
+      "confidence": 0.994199
+    },
+    {
+      "text": "?",
+      "startMs": 6110,
+      "endMs": 6390,
+      "timestampMs": 6400,
+      "confidence": 0.544647
+    },
+    {
+      "text": " Over",
+      "startMs": 6390,
+      "endMs": 6570,
+      "timestampMs": 6580,
+      "confidence": 0.949496
+    },
+    {
+      "text": " a",
+      "startMs": 6570,
+      "endMs": 6630,
+      "timestampMs": 6720,
+      "confidence": 0.618655
+    },
+    {
+      "text": " thousand",
+      "startMs": 6630,
+      "endMs": 7120,
+      "timestampMs": 6960,
+      "confidence": 0.94289
+    },
+    {
+      "text": ".",
+      "startMs": 7120,
+      "endMs": 7480,
+      "timestampMs": 7460,
+      "confidence": 0.957795
+    },
+    {
+      "text": " The",
+      "startMs": 7480,
+      "endMs": 7520,
+      "timestampMs": 7600,
+      "confidence": 0.839944
+    },
+    {
+      "text": " government",
+      "startMs": 7520,
+      "endMs": 8020,
+      "timestampMs": 7800,
+      "confidence": 0.983477
+    },
+    {
+      "text": " is",
+      "startMs": 8020,
+      "endMs": 8160,
+      "timestampMs": 8120,
+      "confidence": 0.998075
+    },
+    {
+      "text": " covering",
+      "startMs": 8160,
+      "endMs": 8580,
+      "timestampMs": 8400,
+      "confidence": 0.997685
+    },
+    {
+      "text": " the",
+      "startMs": 8580,
+      "endMs": 8740,
+      "timestampMs": 8580,
+      "confidence": 0.998571
+    },
+    {
+      "text": " rest",
+      "startMs": 8740,
+      "endMs": 8960,
+      "timestampMs": 8840,
+      "confidence": 0.998824
+    },
+    {
+      "text": ".",
+      "startMs": 8960,
+      "endMs": 9160,
+      "timestampMs": 9020,
+      "confidence": 0.988391
+    }
+  ],
+  "scene2": [
+    {
+      "text": "So",
+      "startMs": 70,
+      "endMs": 340,
+      "timestampMs": 420,
+      "confidence": 0.938645
+    },
+    {
+      "text": " here",
+      "startMs": 340,
+      "endMs": 510,
+      "timestampMs": 580,
+      "confidence": 0.688798
+    },
+    {
+      "text": "'s",
+      "startMs": 510,
+      "endMs": 690,
+      "timestampMs": 660,
+      "confidence": 0.984711
+    },
+    {
+      "text": " the",
+      "startMs": 690,
+      "endMs": 940,
+      "timestampMs": 780,
+      "confidence": 0.999211
+    },
+    {
+      "text": " deal",
+      "startMs": 940,
+      "endMs": 1540,
+      "timestampMs": 980,
+      "confidence": 0.99954
+    },
+    {
+      "text": ".",
+      "startMs": 1540,
+      "endMs": 1560,
+      "timestampMs": 1440,
+      "confidence": 0.693764
+    },
+    {
+      "text": " For",
+      "startMs": 1560,
+      "endMs": 1790,
+      "timestampMs": 1600,
+      "confidence": 0.552292
+    },
+    {
+      "text": " the",
+      "startMs": 1790,
+      "endMs": 1900,
+      "timestampMs": 1740,
+      "confidence": 0.998961
+    },
+    {
+      "text": " first",
+      "startMs": 1900,
+      "endMs": 2190,
+      "timestampMs": 1940,
+      "confidence": 0.996533
+    },
+    {
+      "text": " time",
+      "startMs": 2190,
+      "endMs": 2540,
+      "timestampMs": 2340,
+      "confidence": 0.998018
+    },
+    {
+      "text": ",",
+      "startMs": 2540,
+      "endMs": 2560,
+      "timestampMs": 2720,
+      "confidence": 0.904494
+    },
+    {
+      "text": " Medicare",
+      "startMs": 2560,
+      "endMs": 3040,
+      "timestampMs": 2880,
+      "confidence": 0.949117
+    },
+    {
+      "text": " will",
+      "startMs": 3040,
+      "endMs": 3340,
+      "timestampMs": 3220,
+      "confidence": 0.991508
+    },
+    {
+      "text": " cover",
+      "startMs": 3340,
+      "endMs": 3600,
+      "timestampMs": 3560,
+      "confidence": 0.990203
+    },
+    {
+      "text": " approved",
+      "startMs": 3600,
+      "endMs": 4000,
+      "timestampMs": 4040,
+      "confidence": 0.951731
+    },
+    {
+      "text": " weight",
+      "startMs": 4000,
+      "endMs": 4280,
+      "timestampMs": 4300,
+      "confidence": 0.928935
+    },
+    {
+      "text": " loss",
+      "startMs": 4280,
+      "endMs": 4480,
+      "timestampMs": 4500,
+      "confidence": 0.734268
+    },
+    {
+      "text": " drugs",
+      "startMs": 4480,
+      "endMs": 4840,
+      "timestampMs": 4840,
+      "confidence": 0.870772
+    },
+    {
+      "text": " for",
+      "startMs": 4840,
+      "endMs": 5080,
+      "timestampMs": 5100,
+      "confidence": 0.894184
+    },
+    {
+      "text": " eligible",
+      "startMs": 5080,
+      "endMs": 5620,
+      "timestampMs": 5420,
+      "confidence": 0.692321
+    },
+    {
+      "text": " patients",
+      "startMs": 5620,
+      "endMs": 6390,
+      "timestampMs": 6000,
+      "confidence": 0.99874
+    },
+    {
+      "text": ".",
+      "startMs": 6390,
+      "endMs": 6420,
+      "timestampMs": 6420,
+      "confidence": 0.309218
+    },
+    {
+      "text": " A",
+      "startMs": 6420,
+      "endMs": 6480,
+      "timestampMs": 6580,
+      "confidence": 0.938656
+    },
+    {
+      "text": " flat",
+      "startMs": 6480,
+      "endMs": 6760,
+      "timestampMs": 6780,
+      "confidence": 0.994636
+    },
+    {
+      "text": " $",
+      "startMs": 6760,
+      "endMs": 6930,
+      "timestampMs": 6960,
+      "confidence": 0.843406
+    },
+    {
+      "text": "50",
+      "startMs": 6930,
+      "endMs": 7260,
+      "timestampMs": 7180,
+      "confidence": 0.998732
+    },
+    {
+      "text": " a",
+      "startMs": 7260,
+      "endMs": 7330,
+      "timestampMs": 7580,
+      "confidence": 0.928029
+    },
+    {
+      "text": " month",
+      "startMs": 7330,
+      "endMs": 7690,
+      "timestampMs": 7820,
+      "confidence": 0.999458
+    },
+    {
+      "text": ",",
+      "startMs": 7690,
+      "endMs": 7970,
+      "timestampMs": 8060,
+      "confidence": 0.686041
+    },
+    {
+      "text": " no",
+      "startMs": 7970,
+      "endMs": 8130,
+      "timestampMs": 8300,
+      "confidence": 0.994179
+    },
+    {
+      "text": " matter",
+      "startMs": 8130,
+      "endMs": 8400,
+      "timestampMs": 8560,
+      "confidence": 0.999542
+    },
+    {
+      "text": " what",
+      "startMs": 8400,
+      "endMs": 8680,
+      "timestampMs": 8940,
+      "confidence": 0.993257
+    },
+    {
+      "text": " the",
+      "startMs": 8680,
+      "endMs": 8900,
+      "timestampMs": 9100,
+      "confidence": 0.992642
+    },
+    {
+      "text": " drug",
+      "startMs": 8900,
+      "endMs": 9190,
+      "timestampMs": 9320,
+      "confidence": 0.994524
+    },
+    {
+      "text": " costs",
+      "startMs": 9190,
+      "endMs": 9550,
+      "timestampMs": 9620,
+      "confidence": 0.891113
+    },
+    {
+      "text": " at",
+      "startMs": 9550,
+      "endMs": 9740,
+      "timestampMs": 9900,
+      "confidence": 0.986957
+    },
+    {
+      "text": " full",
+      "startMs": 9740,
+      "endMs": 10000,
+      "timestampMs": 10100,
+      "confidence": 0.997077
+    },
+    {
+      "text": " price",
+      "startMs": 10000,
+      "endMs": 10340,
+      "timestampMs": 10440,
+      "confidence": 0.977297
+    },
+    {
+      "text": ".",
+      "startMs": 10340,
+      "endMs": 10640,
+      "timestampMs": 10620,
+      "confidence": 0.990803
+    }
+  ],
+  "scene3": [
+    {
+      "text": "But",
+      "startMs": 0,
+      "endMs": 380,
+      "timestampMs": 480,
+      "confidence": 0.936438
+    },
+    {
+      "text": " here",
+      "startMs": 380,
+      "endMs": 550,
+      "timestampMs": 660,
+      "confidence": 0.972793
+    },
+    {
+      "text": "'s",
+      "startMs": 550,
+      "endMs": 650,
+      "timestampMs": 760,
+      "confidence": 0.989266
+    },
+    {
+      "text": " the",
+      "startMs": 650,
+      "endMs": 950,
+      "timestampMs": 900,
+      "confidence": 0.998997
+    },
+    {
+      "text": " thing",
+      "startMs": 950,
+      "endMs": 1230,
+      "timestampMs": 1160,
+      "confidence": 0.999409
+    },
+    {
+      "text": ",",
+      "startMs": 1230,
+      "endMs": 1400,
+      "timestampMs": 1460,
+      "confidence": 0.470279
+    },
+    {
+      "text": " they",
+      "startMs": 1400,
+      "endMs": 1650,
+      "timestampMs": 1540,
+      "confidence": 0.846105
+    },
+    {
+      "text": "'re",
+      "startMs": 1650,
+      "endMs": 1750,
+      "timestampMs": 1620,
+      "confidence": 0.978379
+    },
+    {
+      "text": " calling",
+      "startMs": 1750,
+      "endMs": 2040,
+      "timestampMs": 1920,
+      "confidence": 0.997547
+    },
+    {
+      "text": " it",
+      "startMs": 2040,
+      "endMs": 2120,
+      "timestampMs": 2120,
+      "confidence": 0.981483
+    },
+    {
+      "text": " a",
+      "startMs": 2120,
+      "endMs": 2250,
+      "timestampMs": 2240,
+      "confidence": 0.946394
+    },
+    {
+      "text": " bridge",
+      "startMs": 2250,
+      "endMs": 2690,
+      "timestampMs": 2400,
+      "confidence": 0.821793
+    },
+    {
+      "text": " program",
+      "startMs": 2690,
+      "endMs": 3200,
+      "timestampMs": 3000,
+      "confidence": 0.992816
+    },
+    {
+      "text": "—",
+      "startMs": 3200,
+      "endMs": 4260,
+      "timestampMs": 4320,
+      "confidence": 0.0247353
+    },
+    {
+      "text": "tem",
+      "startMs": 4260,
+      "endMs": 4410,
+      "timestampMs": 4420,
+      "confidence": 0.766046
+    },
+    {
+      "text": "porary",
+      "startMs": 4410,
+      "endMs": 5920,
+      "timestampMs": 4780,
+      "confidence": 0.984384
+    },
+    {
+      "text": ".",
+      "startMs": 5920,
+      "endMs": 6000,
+      "timestampMs": 5820,
+      "confidence": 0.923421
+    },
+    {
+      "text": " But",
+      "startMs": 6000,
+      "endMs": 6170,
+      "timestampMs": 6020,
+      "confidence": 0.998761
+    },
+    {
+      "text": " once",
+      "startMs": 6170,
+      "endMs": 6420,
+      "timestampMs": 6260,
+      "confidence": 0.903668
+    },
+    {
+      "text": " 60",
+      "startMs": 6420,
+      "endMs": 6740,
+      "timestampMs": 6680,
+      "confidence": 0.934723
+    },
+    {
+      "text": " million",
+      "startMs": 6740,
+      "endMs": 7140,
+      "timestampMs": 7040,
+      "confidence": 0.986384
+    },
+    {
+      "text": " Medicare",
+      "startMs": 7140,
+      "endMs": 7600,
+      "timestampMs": 7280,
+      "confidence": 0.987179
+    },
+    {
+      "text": " members",
+      "startMs": 7600,
+      "endMs": 8000,
+      "timestampMs": 7740,
+      "confidence": 0.993607
+    },
+    {
+      "text": " have",
+      "startMs": 8000,
+      "endMs": 8250,
+      "timestampMs": 7960,
+      "confidence": 0.994495
+    },
+    {
+      "text": " access",
+      "startMs": 8250,
+      "endMs": 8620,
+      "timestampMs": 8340,
+      "confidence": 0.995475
+    },
+    {
+      "text": " to",
+      "startMs": 8620,
+      "endMs": 8680,
+      "timestampMs": 8540,
+      "confidence": 0.995476
+    },
+    {
+      "text": " something",
+      "startMs": 8680,
+      "endMs": 9230,
+      "timestampMs": 8940,
+      "confidence": 0.994956
+    },
+    {
+      "text": ",",
+      "startMs": 9230,
+      "endMs": 9410,
+      "timestampMs": 9200,
+      "confidence": 0.966278
+    },
+    {
+      "text": " taking",
+      "startMs": 9410,
+      "endMs": 9910,
+      "timestampMs": 9420,
+      "confidence": 0.8445
+    },
+    {
+      "text": " it",
+      "startMs": 9910,
+      "endMs": 10090,
+      "timestampMs": 9620,
+      "confidence": 0.994091
+    },
+    {
+      "text": " away",
+      "startMs": 10090,
+      "endMs": 10530,
+      "timestampMs": 9960,
+      "confidence": 0.995528
+    },
+    {
+      "text": " is",
+      "startMs": 10530,
+      "endMs": 10670,
+      "timestampMs": 10660,
+      "confidence": 0.965827
+    },
+    {
+      "text": " almost",
+      "startMs": 10670,
+      "endMs": 11210,
+      "timestampMs": 11120,
+      "confidence": 0.991232
+    },
+    {
+      "text": " impossible",
+      "startMs": 11210,
+      "endMs": 11800,
+      "timestampMs": 11780,
+      "confidence": 0.555423
+    },
+    {
+      "text": ".",
+      "startMs": 11800,
+      "endMs": 12000,
+      "timestampMs": 11980,
+      "confidence": 0.991403
+    }
+  ],
+  "scene4": [
+    {
+      "text": "And",
+      "startMs": 0,
+      "endMs": 340,
+      "timestampMs": 820,
+      "confidence": 0.763398
+    },
+    {
+      "text": " that",
+      "startMs": 340,
+      "endMs": 720,
+      "timestampMs": 1040,
+      "confidence": 0.972841
+    },
+    {
+      "text": " changes",
+      "startMs": 720,
+      "endMs": 1080,
+      "timestampMs": 1380,
+      "confidence": 0.995178
+    },
+    {
+      "text": " everything",
+      "startMs": 1080,
+      "endMs": 1860,
+      "timestampMs": 1840,
+      "confidence": 0.999115
+    },
+    {
+      "text": ".",
+      "startMs": 1860,
+      "endMs": 2120,
+      "timestampMs": 3060,
+      "confidence": 0.974658
+    },
+    {
+      "text": " 60",
+      "startMs": 2120,
+      "endMs": 3060,
+      "timestampMs": 3260,
+      "confidence": 0.893845
+    },
+    {
+      "text": " million",
+      "startMs": 3060,
+      "endMs": 3400,
+      "timestampMs": 3520,
+      "confidence": 0.982434
+    },
+    {
+      "text": " people",
+      "startMs": 3400,
+      "endMs": 3970,
+      "timestampMs": 3940,
+      "confidence": 0.997116
+    },
+    {
+      "text": " just",
+      "startMs": 3970,
+      "endMs": 4160,
+      "timestampMs": 4140,
+      "confidence": 0.967147
+    },
+    {
+      "text": " became",
+      "startMs": 4160,
+      "endMs": 4400,
+      "timestampMs": 4500,
+      "confidence": 0.981463
+    },
+    {
+      "text": " potential",
+      "startMs": 4400,
+      "endMs": 5000,
+      "timestampMs": 4980,
+      "confidence": 0.952869
+    },
+    {
+      "text": " customers",
+      "startMs": 5000,
+      "endMs": 5860,
+      "timestampMs": 5600,
+      "confidence": 0.95025
+    },
+    {
+      "text": " for",
+      "startMs": 5860,
+      "endMs": 5920,
+      "timestampMs": 5920,
+      "confidence": 0.539588
+    },
+    {
+      "text": " the",
+      "startMs": 5920,
+      "endMs": 6040,
+      "timestampMs": 6040,
+      "confidence": 0.930496
+    },
+    {
+      "text": " companies",
+      "startMs": 6040,
+      "endMs": 6460,
+      "timestampMs": 6380,
+      "confidence": 0.911971
+    },
+    {
+      "text": " making",
+      "startMs": 6460,
+      "endMs": 6800,
+      "timestampMs": 6680,
+      "confidence": 0.895982
+    },
+    {
+      "text": " these",
+      "startMs": 6800,
+      "endMs": 6960,
+      "timestampMs": 7020,
+      "confidence": 0.96478
+    },
+    {
+      "text": " drugs",
+      "startMs": 6960,
+      "endMs": 7920,
+      "timestampMs": 7420,
+      "confidence": 0.864841
+    },
+    {
+      "text": " overnight",
+      "startMs": 7920,
+      "endMs": 8440,
+      "timestampMs": 8340,
+      "confidence": 0.686013
+    },
+    {
+      "text": ".",
+      "startMs": 8440,
+      "endMs": 8440,
+      "timestampMs": 9140,
+      "confidence": 0.969949
+    },
+    {
+      "text": " The",
+      "startMs": 8440,
+      "endMs": 8670,
+      "timestampMs": 9340,
+      "confidence": 0.988874
+    },
+    {
+      "text": " market",
+      "startMs": 8670,
+      "endMs": 9010,
+      "timestampMs": 9560,
+      "confidence": 0.979899
+    },
+    {
+      "text": " for",
+      "startMs": 9010,
+      "endMs": 9270,
+      "timestampMs": 9780,
+      "confidence": 0.996671
+    },
+    {
+      "text": " weight",
+      "startMs": 9270,
+      "endMs": 9560,
+      "timestampMs": 9960,
+      "confidence": 0.994158
+    },
+    {
+      "text": " loss",
+      "startMs": 9560,
+      "endMs": 9780,
+      "timestampMs": 10140,
+      "confidence": 0.87102
+    },
+    {
+      "text": " drugs",
+      "startMs": 9780,
+      "endMs": 10090,
+      "timestampMs": 10460,
+      "confidence": 0.98597
+    },
+    {
+      "text": " just",
+      "startMs": 10090,
+      "endMs": 10330,
+      "timestampMs": 10640,
+      "confidence": 0.981938
+    },
+    {
+      "text": " got",
+      "startMs": 10330,
+      "endMs": 10520,
+      "timestampMs": 10800,
+      "confidence": 0.994875
+    },
+    {
+      "text": " a",
+      "startMs": 10520,
+      "endMs": 10570,
+      "timestampMs": 10920,
+      "confidence": 0.994548
+    },
+    {
+      "text": " whole",
+      "startMs": 10570,
+      "endMs": 11020,
+      "timestampMs": 11100,
+      "confidence": 0.989715
+    },
+    {
+      "text": " lot",
+      "startMs": 11020,
+      "endMs": 11060,
+      "timestampMs": 11300,
+      "confidence": 0.998401
+    },
+    {
+      "text": " bigger",
+      "startMs": 11060,
+      "endMs": 11430,
+      "timestampMs": 11540,
+      "confidence": 0.998519
+    },
+    {
+      "text": ".",
+      "startMs": 11430,
+      "endMs": 11680,
+      "timestampMs": 11660,
+      "confidence": 0.981998
+    }
+  ],
+  "scene5": [
+    {
+      "text": "That",
+      "startMs": 230,
+      "endMs": 440,
+      "timestampMs": 340,
+      "confidence": 0.818237
+    },
+    {
+      "text": "'s",
+      "startMs": 440,
+      "endMs": 650,
+      "timestampMs": 460,
+      "confidence": 0.985067
+    },
+    {
+      "text": " today",
+      "startMs": 650,
+      "endMs": 1200,
+      "timestampMs": 580,
+      "confidence": 0.982441
+    },
+    {
+      "text": "'s",
+      "startMs": 1200,
+      "endMs": 1410,
+      "timestampMs": 740,
+      "confidence": 0.99859
+    },
+    {
+      "text": " number",
+      "startMs": 1410,
+      "endMs": 2070,
+      "timestampMs": 980,
+      "confidence": 0.994469
+    },
+    {
+      "text": ".",
+      "startMs": 2070,
+      "endMs": 2420,
+      "timestampMs": 2520,
+      "confidence": 0.965699
+    },
+    {
+      "text": " Follow",
+      "startMs": 2420,
+      "endMs": 2890,
+      "timestampMs": 2860,
+      "confidence": 0.997272
+    },
+    {
+      "text": " the",
+      "startMs": 2890,
+      "endMs": 3120,
+      "timestampMs": 3040,
+      "confidence": 0.975923
+    },
+    {
+      "text": " Bye",
+      "startMs": 3120,
+      "endMs": 3350,
+      "timestampMs": 3220,
+      "confidence": 0.0737574
+    },
+    {
+      "text": " O",
+      "startMs": 3350,
+      "endMs": 3420,
+      "timestampMs": 3380,
+      "confidence": 0.702134
+    },
+    {
+      "text": "int",
+      "startMs": 3420,
+      "endMs": 3650,
+      "timestampMs": 3500,
+      "confidence": 0.705336
+    },
+    {
+      "text": "el",
+      "startMs": 3650,
+      "endMs": 3980,
+      "timestampMs": 3680,
+      "confidence": 0.690961
+    },
+    {
+      "text": " for",
+      "startMs": 3980,
+      "endMs": 3990,
+      "timestampMs": 4040,
+      "confidence": 0.939902
+    },
+    {
+      "text": " tomorrow",
+      "startMs": 3990,
+      "endMs": 4400,
+      "timestampMs": 4340,
+      "confidence": 0.915803
+    },
+    {
+      "text": "'s",
+      "startMs": 4400,
+      "endMs": 4590,
+      "timestampMs": 4580,
+      "confidence": 0.972151
+    },
+    {
+      "text": " signal",
+      "startMs": 4590,
+      "endMs": 4810,
+      "timestampMs": 4840,
+      "confidence": 0.860466
+    },
+    {
+      "text": ".",
+      "startMs": 4810,
+      "endMs": 4980,
+      "timestampMs": 4960,
+      "confidence": 0.976845
+    }
+  ]
+}

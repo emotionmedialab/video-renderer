@@ -1,0 +1,72 @@
+name: Render Reel
+
+# Renders the BioIntel reel in the cloud (GitHub-hosted runner has 4 cores / 16 GB,
+# so no OOM constraint like the local ~7 GB laptop).
+#
+#  - push to main          -> renders a 1080p draft (scale=1)
+#  - manual "Run workflow"  -> choose scale (1 = 1080p, 2 = 4K/2160x3840) + CRF
+#
+# The finished MP4 is uploaded as a build artifact; download it from the run's
+# "Summary" page (no need to pull the whole repo).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      scale:
+        description: "Render scale (1 = 1080p, 2 = 4K 2160x3840)"
+        default: "1"
+        type: choice
+        options: ["1", "2"]
+      crf:
+        description: "H.264 CRF (lower = higher quality; 18 is visually lossless)"
+        default: "18"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # System libraries chrome-headless-shell needs to run, plus ffmpeg.
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            ffmpeg libnss3 libatk1.0-0 libatk-bridge2.0-0 libcups2 libdrm2 \
+            libxkbcommon0 libxcomposite1 libxdamage1 libxfixes3 libxrandr2 \
+            libgbm1 libasound2t64 libpango-1.0-0 libcairo2 libatspi2.0-0 libxshmfence1
+
+      - name: Install dependencies
+        run: npm install
+
+      # Cross-platform rspack native binary fix (installs linux-x64-gnu here).
+      - name: Ensure rspack binary
+        run: node scripts/bootstrap.mjs || true
+
+      - name: Render
+        run: |
+          SCALE="${{ github.event.inputs.scale || '1' }}"
+          CRF="${{ github.event.inputs.crf || '18' }}"
+          echo "Rendering Reel at scale=$SCALE crf=$CRF"
+          npx remotion render src/index.ts Reel out/reel.mp4 \
+            --scale="$SCALE" \
+            --crf="$CRF" \
+            --concurrency=2 \
+            --log=verbose
+
+      - name: Probe output
+        run: ffprobe -v error -select_streams v:0 -show_entries stream=width,height,codec_name -show_entries format=duration -of default=noprint_wrappers=1 out/reel.mp4
+
+      - name: Upload reel
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-scale${{ github.event.inputs.scale || '1' }}
+          path: out/reel.mp4
+          retention-days: 14
