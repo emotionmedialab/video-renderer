@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "s2_meds",
+    "sceneKey": "scene2",
+    "query": "weight loss injection pen medication",
+    "start": 1,
+    "end": 6.1,
+    "file": "broll/s2_meds.mp4",
+    "pexelsId": 8670956,
+    "credit": "Mikhail Nilov",
+    "pexelsUrl": "https://www.pexels.com/video/a-diabetic-woman-injecting-herself-with-insulin-8670956/"
+  },
+  {
+    "id": "s2_cost",
+    "sceneKey": "scene2",
+    "query": "counting hundred dollar bills cash",
+    "start": 6,
+    "end": 11.05,
+    "file": "broll/s2_cost.mp4",
+    "pexelsId": 6266251,
+    "credit": "Tima Miroshnichenko",
+    "pexelsUrl": "https://www.pexels.com/video/a-person-counting-dollar-bills-6266251/"
+  },
+  {
+    "id": "s3_policy",
+    "sceneKey": "scene3",
+    "query": "us capitol building washington dc",
+    "start": 1,
+    "end": 6.1,
+    "file": "broll/s3_policy.mp4",
+    "pexelsId": 29549360,
+    "credit": "Nika Navi",
+    "pexelsUrl": "https://www.pexels.com/video/stunning-view-of-the-us-capitol-building-29549360/"
+  },
+  {
+    "id": "s3_crowd",
+    "sceneKey": "scene3",
+    "query": "subway station commuters rush hour crowd",
+    "start": 6,
+    "end": 11,
+    "file": "broll/s3_crowd.mp4",
+    "pexelsId": 18969031,
+    "credit": "Rafael Fernanz",
+    "pexelsUrl": "https://www.pexels.com/video/new-york-city-subway-18969031/"
+  },
+  {
+    "id": "s4_pharma",
+    "sceneKey": "scene4",
+    "query": "scientist laboratory research microscope",
+    "start": 1.5,
+    "end": 6.6,
+    "file": "broll/s4_pharma.mp4",
+    "pexelsId": 8771135,
+    "credit": "Gustavo Fring",
+    "pexelsUrl": "https://www.pexels.com/video/a-man-using-microscope-8771135/"
+  },
+  {
+    "id": "s4_market",
+    "sceneKey": "scene4",
+    "query": "new york stock exchange building",
+    "start": 6.5,
+    "end": 12.05,
+    "file": "broll/s4_market.mp4",
+    "pexelsId": 13801277,
+    "credit": "Mizuno K",
+    "pexelsUrl": "https://www.pexels.com/video/the-british-flag-waving-at-the-new-york-stock-exchange-building-13801277/"
+  }
+]

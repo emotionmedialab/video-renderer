@@ -1,0 +1,8 @@
+[
+  { "id": "s2_meds",   "sceneKey": "scene2", "query": "weight loss injection pen medication", "start": 1.0, "end": 6.1 },
+  { "id": "s2_cost",   "sceneKey": "scene2", "query": "counting hundred dollar bills cash",   "start": 6.0, "end": 11.05 },
+  { "id": "s3_policy", "sceneKey": "scene3", "query": "us capitol building washington dc",    "start": 1.0, "end": 6.1 },
+  { "id": "s3_crowd",  "sceneKey": "scene3", "query": "subway station commuters rush hour crowd", "start": 6.0, "end": 11.0 },
+  { "id": "s4_pharma", "sceneKey": "scene4", "query": "scientist laboratory research microscope", "start": 1.5, "end": 6.6 },
+  { "id": "s4_market", "sceneKey": "scene4", "query": "new york stock exchange building",     "start": 6.5, "end": 12.05 }
+]
