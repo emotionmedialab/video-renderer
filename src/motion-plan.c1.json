@@ -1,0 +1,242 @@
+{
+  "composition": "TandemMobiShort",
+  "compFile": "src/TandemMobiShort.tsx",
+  "chunk": 1,
+  "kit": [
+    "src/kit/tandem1.tsx"
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "title": "7-day dial fills",
+      "peakFrame": 54,
+      "world": "red",
+      "hero": "round dial with 7",
+      "supports": [
+        "DAYS"
+      ],
+      "move": "NEW: dial-fills",
+      "note": "white dial springs in from depth with '7' dropping in; on 'days' its 7 segments fill red one by one, camera pushes in; 'clock' sweeps the hand once",
+      "camera": [
+        {
+          "cue": "days",
+          "after": 0
+        }
+      ],
+      "movers": [
+        {
+          "what": "dial springs in with 7",
+          "ms": 70,
+          "durMs": 450
+        },
+        {
+          "what": "7 segments fill (push-in)",
+          "cue": "days",
+          "after": 0,
+          "durMs": 610
+        },
+        {
+          "what": "clock hand sweeps",
+          "cue": "clock",
+          "after": 0,
+          "durMs": 700
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "tube snaps off, dial docks",
+      "peakFrame": 150,
+      "world": "red",
+      "hero": "Mobi pump with the 7-day badge",
+      "supports": [
+        "TANDEM MOBI"
+      ],
+      "move": "NEW: tube-snaps-off",
+      "note": "pump falls in trailing a tube ON 'Tandem's'; on 'tubeless' the tube snaps off and falls out of frame; on 'Mobi' the dial flies down and docks on the pump face, camera cranes down with it",
+      "camera": [
+        {
+          "cue": "Mobi",
+          "after": 0
+        }
+      ],
+      "movers": [
+        {
+          "what": "pump falls + squash",
+          "ms": 2680,
+          "durMs": 900
+        },
+        {
+          "what": "tube snaps off and falls",
+          "cue": "tubeless",
+          "after": 0,
+          "durMs": 600
+        },
+        {
+          "what": "dial docks onto pump (crane)",
+          "cue": "Mobi",
+          "after": 0,
+          "durMs": 900
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "FDA tag swings in",
+      "peakFrame": 207,
+      "world": "red",
+      "hero": "pump with badge",
+      "supports": [
+        "TANDEM MOBI",
+        "FDA cleared tag"
+      ],
+      "move": "NEW: tag-swings-in",
+      "note": "on 'cleared' a white FDA tag swings in on a string hinged at the chrome, overshoots once and stops; the camera pushes in with the swing",
+      "camera": [
+        {
+          "cue": "just cleared",
+          "after": 0
+        }
+      ],
+      "movers": [
+        {
+          "what": "FDA tag swings (push-in)",
+          "cue": "just cleared",
+          "after": 0,
+          "durMs": 900
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "3 beads vs 7 red beads",
+      "peakFrame": 420,
+      "world": "ink",
+      "hero": "two bead rows: Omnipod 5 / Tandem Mobi",
+      "supports": [
+        "3 days",
+        "Infusion set · up to 7 days"
+      ],
+      "move": "NEW: beads-shoot-out",
+      "note": "centred stacks (Nel 11-18): Omnipod pod falls (top), INSULET prints on 'incumbent'; 3 white beads shoot out of its underside into a centred row on '3'; Tandem pump springs in below on 'Tandem', camera cranes down; 7 red beads shoot out of it on 'doubled'",
+      "camera": [
+        {
+          "cue": "Tandem has",
+          "after": 7510
+        }
+      ],
+      "movers": [
+        {
+          "what": "pod falls",
+          "ms": 7180,
+          "durMs": 900
+        },
+        {
+          "what": "INSULET prints",
+          "cue": "incumbent",
+          "after": 7510,
+          "durMs": 380
+        },
+        {
+          "what": "3 beads shoot out of the pod",
+          "cue": "3",
+          "after": 7510,
+          "durMs": 600
+        },
+        {
+          "what": "pump springs in (crane)",
+          "cue": "Tandem has",
+          "after": 7510,
+          "durMs": 600
+        },
+        {
+          "what": "7 red beads shoot out",
+          "cue": "doubled",
+          "after": 7510,
+          "durMs": 1100
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "the cartridge swap",
+      "peakFrame": 537,
+      "world": "paper",
+      "hero": "pump with its glass insulin cartridge",
+      "supports": [
+        "Insulin cartridge (on the vial)",
+        "Every 3 days"
+      ],
+      "move": "fall-and-squash",
+      "note": "pump falls onto the card on 'catch'; the glass insulin cartridge (nearly empty) springs up out of the pump's end on 'cartridge'; on 'still' it tumbles away and a full one flies in from the left and slides home, camera pushes in; 'Every 3 days' prints as it clicks in",
+      "camera": [
+        {
+          "ms": 16870
+        }
+      ],
+      "movers": [
+        {
+          "what": "pump falls + squash",
+          "ms": 14730,
+          "durMs": 1000
+        },
+        {
+          "what": "empty cartridge springs out",
+          "cue": "cartridge",
+          "after": 14350,
+          "durMs": 600
+        },
+        {
+          "what": "old tumbles out, full one slides home (push-in)",
+          "cue": "still",
+          "after": 14350,
+          "durMs": 950
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "calendar pages flip to 2027",
+      "peakFrame": 642,
+      "world": "red",
+      "hero": "2027 page",
+      "supports": [
+        "US LAUNCH",
+        "FIRST HALF"
+      ],
+      "move": "NEW: pages-flip-away",
+      "note": "US launch calendar springs in on 'US'; NOV and DEC pages flip up and away on 'waits' / 'until', camera cranes with them; '2027' drops in on 'first half'",
+      "camera": [
+        {
+          "cue": "waits",
+          "after": 18550
+        }
+      ],
+      "movers": [
+        {
+          "what": "calendar springs in",
+          "ms": 18520,
+          "durMs": 450
+        },
+        {
+          "what": "NOV page flips away (crane)",
+          "cue": "waits",
+          "after": 18550,
+          "durMs": 520
+        },
+        {
+          "what": "DEC page flips away",
+          "cue": "until",
+          "after": 18550,
+          "durMs": 520
+        },
+        {
+          "what": "2027 drops in",
+          "cue": "first half",
+          "after": 18550,
+          "durMs": 800
+        }
+      ]
+    }
+  ]
+}

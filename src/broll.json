@@ -1,0 +1,24 @@
+[
+  {
+    "id": "s4_cgm",
+    "sceneKey": "versus",
+    "query": "insulin pump diabetes",
+    "start": 7.6,
+    "end": 14.3,
+    "file": "broll/s4_cgm.mp4",
+    "pexelsId": 6942242,
+    "credit": "Nataliya Vaitkevich",
+    "pexelsUrl": "https://www.pexels.com/video/standing-black-machine-6942242/"
+  },
+  {
+    "id": "s7_pharmacy",
+    "sceneKey": "route",
+    "query": "pharmacy shelves",
+    "start": 22.3,
+    "end": 27.7,
+    "file": "broll/s7_pharmacy.mp4",
+    "pexelsId": 8657333,
+    "credit": "cottonbro studio",
+    "pexelsUrl": "https://www.pexels.com/video/woman-putting-medicine-bottles-on-a-cabinet-8657333/"
+  }
+]

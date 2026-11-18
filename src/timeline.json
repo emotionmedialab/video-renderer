@@ -1,0 +1,935 @@
+{
+  "durationMs": 49280,
+  "fps": 30,
+  "meta": {
+    "title": "Tandem Mobi goes tubeless: 7 days of wear",
+    "intro": "The first 7-day tubeless insulin pump",
+    "cta": "Subscribe free at thecatalystbrief.com"
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "7 days of wear",
+      "startMs": 190
+    },
+    {
+      "index": 1,
+      "title": "Doubled vs Omnipod",
+      "startMs": 7560
+    },
+    {
+      "index": 2,
+      "title": "The catch",
+      "startMs": 14840
+    },
+    {
+      "index": 3,
+      "title": "Pharmacy-only",
+      "startMs": 22280
+    },
+    {
+      "index": 4,
+      "title": "The open question",
+      "startMs": 32450
+    },
+    {
+      "index": 5,
+      "title": "Subscribe",
+      "startMs": 42800
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "7 days of wear",
+      "text": "7 days. That's the new wear clock for Tandem's tubeless Mobi insulin pump, just cleared by the FDA.",
+      "cue": null,
+      "startMs": 190,
+      "endMs": 7560
+    },
+    {
+      "index": 1,
+      "sectionIndex": 1,
+      "section": "Doubled vs Omnipod",
+      "text": "Omnipod 5, the incumbent tubeless pump, wears 3 days. Tandem has doubled that on the infusion set.",
+      "cue": null,
+      "startMs": 7560,
+      "endMs": 14840
+    },
+    {
+      "index": 2,
+      "sectionIndex": 2,
+      "section": "The catch",
+      "text": "The catch? The cartridge still changes every 3 days. And the US launch waits until the first half of 2027.",
+      "cue": null,
+      "startMs": 14840,
+      "endMs": 22280
+    },
+    {
+      "index": 3,
+      "sectionIndex": 3,
+      "section": "Pharmacy-only",
+      "text": "It goes to market pharmacy-only. That reroutes distribution away from the durable equipment channel, which changes the reimbursement path, and the scale mechanics, for a pump launch.",
+      "cue": null,
+      "startMs": 22280,
+      "endMs": 32450
+    },
+    {
+      "index": 4,
+      "sectionIndex": 4,
+      "section": "The open question",
+      "text": "One wear interval doubled. One distribution channel reset. Whether Tandem takes pump share from Insulet, or just forces Insulet to move, is the open question.",
+      "cue": null,
+      "startMs": 32450,
+      "endMs": 42800
+    },
+    {
+      "index": 5,
+      "sectionIndex": 5,
+      "section": "Subscribe",
+      "text": "That read, and the deals behind it, in this week's Catalyst Brief. Subscribe free, signal over noise.",
+      "cue": null,
+      "startMs": 42800,
+      "endMs": 49280
+    }
+  ],
+  "words": [
+    {
+      "raw": "7",
+      "beat": 0,
+      "startMs": 190,
+      "endMs": 420
+    },
+    {
+      "raw": "days.",
+      "beat": 0,
+      "startMs": 1000,
+      "endMs": 1000
+    },
+    {
+      "raw": "That's",
+      "beat": 0,
+      "startMs": 1650,
+      "endMs": 1670
+    },
+    {
+      "raw": "the",
+      "beat": 0,
+      "startMs": 1850,
+      "endMs": 1850
+    },
+    {
+      "raw": "new",
+      "beat": 0,
+      "startMs": 1950,
+      "endMs": 1950
+    },
+    {
+      "raw": "wear",
+      "beat": 0,
+      "startMs": 2060,
+      "endMs": 2230
+    },
+    {
+      "raw": "clock",
+      "beat": 0,
+      "startMs": 2230,
+      "endMs": 2660
+    },
+    {
+      "raw": "for",
+      "beat": 0,
+      "startMs": 2660,
+      "endMs": 2960
+    },
+    {
+      "raw": "Tandem's",
+      "beat": 0,
+      "startMs": 2960,
+      "endMs": 3480
+    },
+    {
+      "raw": "tubeless",
+      "beat": 0,
+      "startMs": 3480,
+      "endMs": 3960
+    },
+    {
+      "raw": "Mobi",
+      "beat": 0,
+      "startMs": 3960,
+      "endMs": 4350
+    },
+    {
+      "raw": "insulin",
+      "beat": 0,
+      "startMs": 4350,
+      "endMs": 5030
+    },
+    {
+      "raw": "pump,",
+      "beat": 0,
+      "startMs": 5030,
+      "endMs": 5500
+    },
+    {
+      "raw": "just",
+      "beat": 0,
+      "startMs": 5500,
+      "endMs": 5900
+    },
+    {
+      "raw": "cleared",
+      "beat": 0,
+      "startMs": 5900,
+      "endMs": 6220
+    },
+    {
+      "raw": "by",
+      "beat": 0,
+      "startMs": 6220,
+      "endMs": 6450
+    },
+    {
+      "raw": "the",
+      "beat": 0,
+      "startMs": 6450,
+      "endMs": 6670
+    },
+    {
+      "raw": "FDA.",
+      "beat": 0,
+      "startMs": 6670,
+      "endMs": 7560
+    },
+    {
+      "raw": "Omnipod",
+      "beat": 1,
+      "startMs": 7560,
+      "endMs": 8220
+    },
+    {
+      "raw": "5,",
+      "beat": 1,
+      "startMs": 8220,
+      "endMs": 8850
+    },
+    {
+      "raw": "the",
+      "beat": 1,
+      "startMs": 8850,
+      "endMs": 8970
+    },
+    {
+      "raw": "incumbent",
+      "beat": 1,
+      "startMs": 8970,
+      "endMs": 9820
+    },
+    {
+      "raw": "tubeless",
+      "beat": 1,
+      "startMs": 9820,
+      "endMs": 10570
+    },
+    {
+      "raw": "pump,",
+      "beat": 1,
+      "startMs": 10570,
+      "endMs": 10950
+    },
+    {
+      "raw": "wears",
+      "beat": 1,
+      "startMs": 10950,
+      "endMs": 11150
+    },
+    {
+      "raw": "3",
+      "beat": 1,
+      "startMs": 11150,
+      "endMs": 11400
+    },
+    {
+      "raw": "days.",
+      "beat": 1,
+      "startMs": 11400,
+      "endMs": 11950
+    },
+    {
+      "raw": "Tandem",
+      "beat": 1,
+      "startMs": 11950,
+      "endMs": 12750
+    },
+    {
+      "raw": "has",
+      "beat": 1,
+      "startMs": 12750,
+      "endMs": 12890
+    },
+    {
+      "raw": "doubled",
+      "beat": 1,
+      "startMs": 12890,
+      "endMs": 13340
+    },
+    {
+      "raw": "that",
+      "beat": 1,
+      "startMs": 13340,
+      "endMs": 13590
+    },
+    {
+      "raw": "on",
+      "beat": 1,
+      "startMs": 13590,
+      "endMs": 13710
+    },
+    {
+      "raw": "the",
+      "beat": 1,
+      "startMs": 13710,
+      "endMs": 13900
+    },
+    {
+      "raw": "infusion",
+      "beat": 1,
+      "startMs": 13900,
+      "endMs": 14240
+    },
+    {
+      "raw": "set.",
+      "beat": 1,
+      "startMs": 14240,
+      "endMs": 14840
+    },
+    {
+      "raw": "The",
+      "beat": 2,
+      "startMs": 14840,
+      "endMs": 15110
+    },
+    {
+      "raw": "catch?",
+      "beat": 2,
+      "startMs": 15110,
+      "endMs": 15840
+    },
+    {
+      "raw": "The",
+      "beat": 2,
+      "startMs": 15840,
+      "endMs": 16040
+    },
+    {
+      "raw": "cartridge",
+      "beat": 2,
+      "startMs": 16040,
+      "endMs": 16620
+    },
+    {
+      "raw": "still",
+      "beat": 2,
+      "startMs": 16620,
+      "endMs": 16940
+    },
+    {
+      "raw": "changes",
+      "beat": 2,
+      "startMs": 16940,
+      "endMs": 17390
+    },
+    {
+      "raw": "every",
+      "beat": 2,
+      "startMs": 17390,
+      "endMs": 17710
+    },
+    {
+      "raw": "3",
+      "beat": 2,
+      "startMs": 17710,
+      "endMs": 17900
+    },
+    {
+      "raw": "days.",
+      "beat": 2,
+      "startMs": 17900,
+      "endMs": 18480
+    },
+    {
+      "raw": "And",
+      "beat": 2,
+      "startMs": 18546,
+      "endMs": 18550
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 18650,
+      "endMs": 18670
+    },
+    {
+      "raw": "US",
+      "beat": 2,
+      "startMs": 18670,
+      "endMs": 18800
+    },
+    {
+      "raw": "launch",
+      "beat": 2,
+      "startMs": 18800,
+      "endMs": 19190
+    },
+    {
+      "raw": "waits",
+      "beat": 2,
+      "startMs": 19190,
+      "endMs": 19510
+    },
+    {
+      "raw": "until",
+      "beat": 2,
+      "startMs": 19510,
+      "endMs": 19830
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 19830,
+      "endMs": 20020
+    },
+    {
+      "raw": "first",
+      "beat": 2,
+      "startMs": 20020,
+      "endMs": 20340
+    },
+    {
+      "raw": "half",
+      "beat": 2,
+      "startMs": 20340,
+      "endMs": 20700
+    },
+    {
+      "raw": "of",
+      "beat": 2,
+      "startMs": 20700,
+      "endMs": 20900
+    },
+    {
+      "raw": "2027.",
+      "beat": 2,
+      "startMs": 20900,
+      "endMs": 22280
+    },
+    {
+      "raw": "It",
+      "beat": 3,
+      "startMs": 22280,
+      "endMs": 22440
+    },
+    {
+      "raw": "goes",
+      "beat": 3,
+      "startMs": 22440,
+      "endMs": 22760
+    },
+    {
+      "raw": "to",
+      "beat": 3,
+      "startMs": 22760,
+      "endMs": 22920
+    },
+    {
+      "raw": "market",
+      "beat": 3,
+      "startMs": 22920,
+      "endMs": 23390
+    },
+    {
+      "raw": "pharmacy-only.",
+      "beat": 3,
+      "startMs": 23390,
+      "endMs": 24350
+    },
+    {
+      "raw": "That",
+      "beat": 3,
+      "startMs": 24350,
+      "endMs": 24810
+    },
+    {
+      "raw": "reroutes",
+      "beat": 3,
+      "startMs": 24810,
+      "endMs": 25220
+    },
+    {
+      "raw": "distribution",
+      "beat": 3,
+      "startMs": 25220,
+      "endMs": 25870
+    },
+    {
+      "raw": "away",
+      "beat": 3,
+      "startMs": 25870,
+      "endMs": 26080
+    },
+    {
+      "raw": "from",
+      "beat": 3,
+      "startMs": 26080,
+      "endMs": 26300
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 26300,
+      "endMs": 26450
+    },
+    {
+      "raw": "durable",
+      "beat": 3,
+      "startMs": 26450,
+      "endMs": 26830
+    },
+    {
+      "raw": "equipment",
+      "beat": 3,
+      "startMs": 26830,
+      "endMs": 27340
+    },
+    {
+      "raw": "channel,",
+      "beat": 3,
+      "startMs": 27340,
+      "endMs": 28010
+    },
+    {
+      "raw": "which",
+      "beat": 3,
+      "startMs": 28012,
+      "endMs": 28070
+    },
+    {
+      "raw": "changes",
+      "beat": 3,
+      "startMs": 28070,
+      "endMs": 28450
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 28450,
+      "endMs": 28610
+    },
+    {
+      "raw": "reimbursement",
+      "beat": 3,
+      "startMs": 28610,
+      "endMs": 29400
+    },
+    {
+      "raw": "path,",
+      "beat": 3,
+      "startMs": 29440,
+      "endMs": 29960
+    },
+    {
+      "raw": "and",
+      "beat": 3,
+      "startMs": 29966,
+      "endMs": 29970
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 29970,
+      "endMs": 30200
+    },
+    {
+      "raw": "scale",
+      "beat": 3,
+      "startMs": 30200,
+      "endMs": 30600
+    },
+    {
+      "raw": "mechanics,",
+      "beat": 3,
+      "startMs": 30600,
+      "endMs": 31320
+    },
+    {
+      "raw": "for",
+      "beat": 3,
+      "startMs": 31320,
+      "endMs": 31560
+    },
+    {
+      "raw": "a",
+      "beat": 3,
+      "startMs": 31560,
+      "endMs": 31700
+    },
+    {
+      "raw": "pump",
+      "beat": 3,
+      "startMs": 31700,
+      "endMs": 31960
+    },
+    {
+      "raw": "launch.",
+      "beat": 3,
+      "startMs": 31960,
+      "endMs": 32450
+    },
+    {
+      "raw": "One",
+      "beat": 4,
+      "startMs": 32450,
+      "endMs": 32940
+    },
+    {
+      "raw": "wear",
+      "beat": 4,
+      "startMs": 32940,
+      "endMs": 33230
+    },
+    {
+      "raw": "interval",
+      "beat": 4,
+      "startMs": 33230,
+      "endMs": 33820
+    },
+    {
+      "raw": "doubled.",
+      "beat": 4,
+      "startMs": 33820,
+      "endMs": 34350
+    },
+    {
+      "raw": "One",
+      "beat": 4,
+      "startMs": 34350,
+      "endMs": 34810
+    },
+    {
+      "raw": "distribution",
+      "beat": 4,
+      "startMs": 34810,
+      "endMs": 35620
+    },
+    {
+      "raw": "channel",
+      "beat": 4,
+      "startMs": 35620,
+      "endMs": 36110
+    },
+    {
+      "raw": "reset.",
+      "beat": 4,
+      "startMs": 36110,
+      "endMs": 36680
+    },
+    {
+      "raw": "Whether",
+      "beat": 4,
+      "startMs": 36687,
+      "endMs": 37140
+    },
+    {
+      "raw": "Tandem",
+      "beat": 4,
+      "startMs": 37140,
+      "endMs": 37530
+    },
+    {
+      "raw": "takes",
+      "beat": 4,
+      "startMs": 37530,
+      "endMs": 37860
+    },
+    {
+      "raw": "pump",
+      "beat": 4,
+      "startMs": 37860,
+      "endMs": 38160
+    },
+    {
+      "raw": "share",
+      "beat": 4,
+      "startMs": 38160,
+      "endMs": 38450
+    },
+    {
+      "raw": "from",
+      "beat": 4,
+      "startMs": 38450,
+      "endMs": 38710
+    },
+    {
+      "raw": "Insulet,",
+      "beat": 4,
+      "startMs": 38710,
+      "endMs": 39370
+    },
+    {
+      "raw": "or",
+      "beat": 4,
+      "startMs": 39370,
+      "endMs": 39650
+    },
+    {
+      "raw": "just",
+      "beat": 4,
+      "startMs": 39650,
+      "endMs": 39760
+    },
+    {
+      "raw": "forces",
+      "beat": 4,
+      "startMs": 39760,
+      "endMs": 40150
+    },
+    {
+      "raw": "Insulet",
+      "beat": 4,
+      "startMs": 40150,
+      "endMs": 40680
+    },
+    {
+      "raw": "to",
+      "beat": 4,
+      "startMs": 40680,
+      "endMs": 40810
+    },
+    {
+      "raw": "move,",
+      "beat": 4,
+      "startMs": 40810,
+      "endMs": 41260
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 41260,
+      "endMs": 41330
+    },
+    {
+      "raw": "the",
+      "beat": 4,
+      "startMs": 41330,
+      "endMs": 41530
+    },
+    {
+      "raw": "open",
+      "beat": 4,
+      "startMs": 41530,
+      "endMs": 41880
+    },
+    {
+      "raw": "question.",
+      "beat": 4,
+      "startMs": 41880,
+      "endMs": 42800
+    },
+    {
+      "raw": "That",
+      "beat": 5,
+      "startMs": 42800,
+      "endMs": 43300
+    },
+    {
+      "raw": "read,",
+      "beat": 5,
+      "startMs": 43300,
+      "endMs": 43690
+    },
+    {
+      "raw": "and",
+      "beat": 5,
+      "startMs": 43690,
+      "endMs": 43880
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 43880,
+      "endMs": 44070
+    },
+    {
+      "raw": "deals",
+      "beat": 5,
+      "startMs": 44070,
+      "endMs": 44390
+    },
+    {
+      "raw": "behind",
+      "beat": 5,
+      "startMs": 44390,
+      "endMs": 44910
+    },
+    {
+      "raw": "it,",
+      "beat": 5,
+      "startMs": 44913,
+      "endMs": 45040
+    },
+    {
+      "raw": "in",
+      "beat": 5,
+      "startMs": 45040,
+      "endMs": 45170
+    },
+    {
+      "raw": "this",
+      "beat": 5,
+      "startMs": 45170,
+      "endMs": 45460
+    },
+    {
+      "raw": "week's",
+      "beat": 5,
+      "startMs": 45460,
+      "endMs": 45820
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 5,
+      "startMs": 45820,
+      "endMs": 46270
+    },
+    {
+      "raw": "Brief.",
+      "beat": 5,
+      "startMs": 46270,
+      "endMs": 46800
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 5,
+      "startMs": 46800,
+      "endMs": 47560
+    },
+    {
+      "raw": "free,",
+      "beat": 5,
+      "startMs": 47560,
+      "endMs": 48080
+    },
+    {
+      "raw": "signal",
+      "beat": 5,
+      "startMs": 48080,
+      "endMs": 48550
+    },
+    {
+      "raw": "over",
+      "beat": 5,
+      "startMs": 48550,
+      "endMs": 48870
+    },
+    {
+      "raw": "noise.",
+      "beat": 5,
+      "startMs": 48870,
+      "endMs": 49280
+    }
+  ],
+  "captions": [
+    {
+      "text": "7 days.",
+      "startMs": 190,
+      "endMs": 1650
+    },
+    {
+      "text": "That's the new wear clock for Tandem's tubeless",
+      "startMs": 1650,
+      "endMs": 3960
+    },
+    {
+      "text": "Mobi insulin pump, just cleared by the FDA.",
+      "startMs": 3960,
+      "endMs": 7560
+    },
+    {
+      "text": "Omnipod 5, the incumbent tubeless pump, wears 3 days.",
+      "startMs": 7560,
+      "endMs": 11950
+    },
+    {
+      "text": "Tandem has doubled that on the infusion set. The catch?",
+      "startMs": 11950,
+      "endMs": 15840
+    },
+    {
+      "text": "The cartridge still changes every 3 days.",
+      "startMs": 15840,
+      "endMs": 18546
+    },
+    {
+      "text": "And the US launch waits until the first half of 2027.",
+      "startMs": 18546,
+      "endMs": 22280
+    },
+    {
+      "text": "It goes to market pharmacy-only.",
+      "startMs": 22280,
+      "endMs": 24350
+    },
+    {
+      "text": "That reroutes distribution away from the durable",
+      "startMs": 24350,
+      "endMs": 26830
+    },
+    {
+      "text": "equipment channel, which changes the reimbursement",
+      "startMs": 26830,
+      "endMs": 29440
+    },
+    {
+      "text": "path, and the scale mechanics, for a pump launch.",
+      "startMs": 29440,
+      "endMs": 32450
+    },
+    {
+      "text": "One wear interval doubled.",
+      "startMs": 32450,
+      "endMs": 34350
+    },
+    {
+      "text": "One distribution channel reset.",
+      "startMs": 34350,
+      "endMs": 36687
+    },
+    {
+      "text": "Whether Tandem takes pump share from Insulet,",
+      "startMs": 36687,
+      "endMs": 39370
+    },
+    {
+      "text": "or just forces Insulet to move, is the open question.",
+      "startMs": 39370,
+      "endMs": 42800
+    },
+    {
+      "text": "That read, and the deals behind it, in this",
+      "startMs": 42800,
+      "endMs": 45460
+    },
+    {
+      "text": "week's Catalyst Brief.",
+      "startMs": 45460,
+      "endMs": 46800
+    },
+    {
+      "text": "Subscribe free, signal over noise.",
+      "startMs": 46800,
+      "endMs": 49680
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "composition": "TandemMobiShort",
+  "compFile": "src/TandemMobiShort.tsx",
+  "chunk": 2,
+  "kit": [
+    "src/kit/tandem2.tsx"
+  ],
+  "scenes": [
+    {
+      "n": 7,
+      "title": "road map: parcel switched to pharmacy",
+      "peakFrame": 810,
+      "world": "ink",
+      "hero": "Mobi parcel at the pharmacy",
+      "supports": [
+        "Pharmacy",
+        "MOBI"
+      ],
+      "move": "NEW: points-switch",
+      "note": "a road runs away from the viewer to a fork; DME warehouse at the far left end, switch blade set left; MOBI parcel drops on the near end on 'market'; pharmacy drops in at the far right on 'pharmacy-only'; on 'reroutes' the blade swings right and the parcel travels up the road to the pharmacy door, shrinking with distance, camera pushes in with it; on 'away from' the warehouse tips over backwards and its branch retracts",
+      "camera": [
+        {
+          "cue": "reroutes",
+          "after": 22230
+        }
+      ],
+      "movers": [
+        {
+          "what": "road + warehouse + blade spring in",
+          "ms": 22280,
+          "durMs": 450
+        },
+        {
+          "what": "parcel drops",
+          "cue": "market",
+          "after": 22230,
+          "offsetMs": -300,
+          "durMs": 700
+        },
+        {
+          "what": "pharmacy drops",
+          "cue": "pharmacy-only",
+          "after": 22230,
+          "offsetMs": -300,
+          "durMs": 1000
+        },
+        {
+          "what": "blade swings, parcel travels (push-in)",
+          "cue": "reroutes",
+          "after": 22230,
+          "durMs": 1050
+        },
+        {
+          "what": "warehouse tips over, branch retracts",
+          "cue": "away from",
+          "after": 22230,
+          "durMs": 750
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "signboards spin round",
+      "peakFrame": 942,
+      "world": "paper",
+      "hero": "signpost",
+      "supports": [
+        "Reimbursement path",
+        "Scale mechanics"
+      ],
+      "move": "NEW: signboards-spin",
+      "note": "the signpost stands centred, two grey boards pointing left; on 'reimbursement' board 1 swings round to point right and the camera trucks with it; on 'scale' board 2 swings and the camera trucks + cranes down, the sign centred again",
+      "camera": [
+        {
+          "cue": "reimbursement",
+          "after": 27730
+        },
+        {
+          "cue": "scale",
+          "after": 27730
+        }
+      ],
+      "movers": [
+        {
+          "what": "post rises",
+          "ms": 27800,
+          "durMs": 500
+        },
+        {
+          "what": "board 1 spins (truck)",
+          "cue": "reimbursement",
+          "after": 27730,
+          "durMs": 800
+        },
+        {
+          "what": "board 2 spins (truck + crane)",
+          "cue": "scale",
+          "after": 27730,
+          "durMs": 800
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "title": "doubled / reset plates",
+      "peakFrame": 1100,
+      "world": "red",
+      "hero": "two plates: 1 wear interval / 1 channel",
+      "supports": [
+        "DOUBLED",
+        "RESET"
+      ],
+      "move": "fall-and-squash",
+      "note": "plate 1 drops on 'One'; red DOUBLED pill slams straight on it on 'doubled'; plate 2 drops on 'One'; on 'channel' plate 2 flips over once, camera pushes in, RESET prints as it lands",
+      "camera": [
+        {
+          "cue": "channel",
+          "after": 32450
+        }
+      ],
+      "movers": [
+        {
+          "what": "plate 1 drops",
+          "cue": "One wear",
+          "after": 32450,
+          "offsetMs": -300,
+          "durMs": 800
+        },
+        {
+          "what": "DOUBLED slams",
+          "cue": "doubled",
+          "after": 32450,
+          "offsetMs": -260,
+          "durMs": 500
+        },
+        {
+          "what": "plate 2 drops",
+          "cue": "One distribution",
+          "after": 32450,
+          "offsetMs": -300,
+          "durMs": 800
+        },
+        {
+          "what": "plate 2 flips (push-in)",
+          "cue": "channel",
+          "after": 32450,
+          "durMs": 900
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "share coin hops and back",
+      "peakFrame": 1254,
+      "world": "ink",
+      "hero": "Omnipod pod + Tandem Mobi",
+      "supports": [
+        "SHARE coin",
+        "?"
+      ],
+      "move": "NEW: coin-hops-back",
+      "note": "pod and Mobi spring in with a red SHARE coin on the pod; on 'pump share' the coin hops onto the Mobi, camera trucks with it; on 'or just' it hops back; on 'forces' the pod steps forward; on 'move' a big ? drops in",
+      "camera": [
+        {
+          "cue": "pump share",
+          "after": 37400
+        }
+      ],
+      "movers": [
+        {
+          "what": "pod + Mobi spring in",
+          "ms": 37400,
+          "durMs": 450
+        },
+        {
+          "what": "coin hops to Mobi (truck)",
+          "cue": "pump share",
+          "after": 37400,
+          "durMs": 600
+        },
+        {
+          "what": "coin hops back",
+          "cue": "or just",
+          "after": 37400,
+          "durMs": 600
+        },
+        {
+          "what": "pod steps forward",
+          "cue": "forces",
+          "after": 37400,
+          "durMs": 500
+        },
+        {
+          "what": "? drops in",
+          "cue": "move",
+          "after": 37400,
+          "durMs": 600
+        }
+      ]
+    }
+  ]
+}

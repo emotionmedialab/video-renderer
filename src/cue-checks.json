@@ -1,0 +1,254 @@
+[
+ {
+  "label": "hook: 7 drops in",
+  "phrase": "7",
+  "after": 0,
+  "expect": 190,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: segments fill + push",
+  "phrase": "days",
+  "after": 0,
+  "expect": 1000,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: hand sweeps",
+  "phrase": "clock",
+  "after": 0,
+  "expect": 2230,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: tube snaps",
+  "phrase": "tubeless",
+  "after": 0,
+  "expect": 3480,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: dial docks + crane",
+  "phrase": "Mobi",
+  "after": 0,
+  "expect": 3960,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: FDA tag + push",
+  "phrase": "just cleared",
+  "after": 0,
+  "expect": 5500,
+  "blockFrom": 0
+ },
+ {
+  "label": "vs: pod falls (pin 7180)",
+  "phrase": "Omnipod",
+  "after": 7510,
+  "expect": 7560,
+  "blockFrom": 7510
+ },
+ {
+  "label": "vs: INSULET prints",
+  "phrase": "incumbent",
+  "after": 7510,
+  "expect": 8970,
+  "blockFrom": 7510
+ },
+ {
+  "label": "vs: 3 beads",
+  "phrase": "3",
+  "after": 7510,
+  "expect": 11150,
+  "blockFrom": 7510
+ },
+ {
+  "label": "vs: pump + crane",
+  "phrase": "Tandem has",
+  "after": 7510,
+  "expect": 11950,
+  "blockFrom": 7510
+ },
+ {
+  "label": "vs: 7 red beads",
+  "phrase": "doubled",
+  "after": 7510,
+  "expect": 12890,
+  "blockFrom": 7510
+ },
+ {
+  "label": "catch: pump falls",
+  "phrase": "catch",
+  "after": 14350,
+  "expect": 15110,
+  "blockFrom": 14350
+ },
+ {
+  "label": "catch: cartridge pops",
+  "phrase": "cartridge",
+  "after": 14350,
+  "expect": 16040,
+  "blockFrom": 14350
+ },
+ {
+  "label": "catch: swap + push",
+  "phrase": "still",
+  "after": 14350,
+  "expect": 16620,
+  "blockFrom": 14350
+ },
+ {
+  "label": "launch: calendar",
+  "phrase": "US",
+  "after": 18550,
+  "expect": 18670,
+  "blockFrom": 18550
+ },
+ {
+  "label": "launch: NOV flips + crane",
+  "phrase": "waits",
+  "after": 18550,
+  "expect": 19190,
+  "blockFrom": 18550
+ },
+ {
+  "label": "launch: DEC flips",
+  "phrase": "until",
+  "after": 18550,
+  "expect": 19510,
+  "blockFrom": 18550
+ },
+ {
+  "label": "launch: 2027",
+  "phrase": "first half",
+  "after": 18550,
+  "expect": 20020,
+  "blockFrom": 18550
+ },
+ {
+  "label": "route: parcel drops",
+  "phrase": "market",
+  "after": 22230,
+  "expect": 22920,
+  "blockFrom": 22230
+ },
+ {
+  "label": "route: pharmacy drops",
+  "phrase": "pharmacy-only",
+  "after": 22230,
+  "expect": 23390,
+  "blockFrom": 22230
+ },
+ {
+  "label": "route: lever + slide + crane",
+  "phrase": "reroutes",
+  "after": 22230,
+  "expect": 24810,
+  "blockFrom": 22230
+ },
+ {
+  "label": "route: DME falls away",
+  "phrase": "away from",
+  "after": 22230,
+  "expect": 25870,
+  "blockFrom": 22230
+ },
+ {
+  "label": "sign: board 1 spins",
+  "phrase": "reimbursement",
+  "after": 27730,
+  "expect": 28610,
+  "blockFrom": 27730
+ },
+ {
+  "label": "sign: board 2 spins + crane",
+  "phrase": "scale",
+  "after": 27730,
+  "expect": 30200,
+  "blockFrom": 27730
+ },
+ {
+  "label": "two: plate 1",
+  "phrase": "One wear",
+  "after": 32450,
+  "expect": 32450,
+  "blockFrom": 32450
+ },
+ {
+  "label": "two: DOUBLED",
+  "phrase": "doubled",
+  "after": 32450,
+  "expect": 33820,
+  "blockFrom": 32450
+ },
+ {
+  "label": "two: plate 2",
+  "phrase": "One distribution",
+  "after": 32450,
+  "expect": 34350,
+  "blockFrom": 32450
+ },
+ {
+  "label": "two: flip + push",
+  "phrase": "channel",
+  "after": 32450,
+  "expect": 35620,
+  "blockFrom": 32450
+ },
+ {
+  "label": "q: coin to Mobi + truck",
+  "phrase": "pump share",
+  "after": 37400,
+  "expect": 37860,
+  "blockFrom": 37400
+ },
+ {
+  "label": "q: coin back",
+  "phrase": "or just",
+  "after": 37400,
+  "expect": 39370,
+  "blockFrom": 37400
+ },
+ {
+  "label": "q: pod steps",
+  "phrase": "forces",
+  "after": 37400,
+  "expect": 39760,
+  "blockFrom": 37400
+ },
+ {
+  "label": "q: ? drops",
+  "phrase": "move",
+  "after": 37400,
+  "expect": 40810,
+  "blockFrom": 37400
+ },
+ {
+  "label": "cta: logo/headline",
+  "phrase": "That read",
+  "after": 42340,
+  "expect": 42800,
+  "blockFrom": 42340
+ },
+ {
+  "label": "cta: sub",
+  "phrase": "this week's",
+  "after": 42340,
+  "expect": 45170,
+  "blockFrom": 42340
+ },
+ {
+  "label": "cta: button",
+  "phrase": "Subscribe free",
+  "after": 42340,
+  "expect": 46800,
+  "blockFrom": 42340
+ },
+ {
+  "label": "cta: tail",
+  "phrase": "Signal over",
+  "after": 42340,
+  "expect": 48080,
+  "blockFrom": 42340
+ }
+]
