@@ -1,0 +1,180 @@
+[
+  {
+    "index": 0,
+    "sectionIndex": 0,
+    "section": "The deal",
+    "text": "Johnson and Johnson is paying $2.2 billion up front for a company with one late-stage eye drug.",
+    "cue": {
+      "type": "stat",
+      "raw": "$2.2B | upfront",
+      "value": "$2.2B",
+      "label": "upfront"
+    }
+  },
+  {
+    "index": 1,
+    "sectionIndex": 0,
+    "section": "The deal",
+    "text": "And it has already lined up someone else to pay for that drug's final trials.",
+    "cue": null
+  },
+  {
+    "index": 2,
+    "sectionIndex": 0,
+    "section": "The deal",
+    "text": "On November 16th, J&J agreed to acquire Ollin Biosciences, a clinical-stage company developing treatments for serious eye diseases.",
+    "cue": null
+  },
+  {
+    "index": 3,
+    "sectionIndex": 1,
+    "section": "The money",
+    "text": "Now the money, in order. $2.2 billion up front.",
+    "cue": null
+  },
+  {
+    "index": 4,
+    "sectionIndex": 1,
+    "section": "The money",
+    "text": "On top of that, up to about $1.125 billion more, but only if regulatory and commercial milestones are reached.",
+    "cue": null
+  },
+  {
+    "index": 5,
+    "sectionIndex": 1,
+    "section": "The money",
+    "text": "By our math, that is up to about $3.3 billion in all. J&J expects the deal to close before the end of 2026, subject to regulatory approvals.",
+    "cue": {
+      "type": "stat",
+      "raw": "$3.3B | up to, our math",
+      "value": "$3.3B",
+      "label": "up to, our math"
+    }
+  },
+  {
+    "index": 6,
+    "sectionIndex": 2,
+    "section": "The drug",
+    "text": "The drug is OLN-324. It is a bispecific antibody: one molecule that blocks two signals behind retinal disease, VEGF and Ang-2.",
+    "cue": null
+  },
+  {
+    "index": 7,
+    "sectionIndex": 2,
+    "section": "The drug",
+    "text": "It is being developed for wet age-related macular degeneration and diabetic macular edema, which J&J says together affect more than 40 million people worldwide.",
+    "cue": null
+  },
+  {
+    "index": 8,
+    "sectionIndex": 2,
+    "section": "The drug",
+    "text": "OLN-324 was discovered by Innovent Biologics, which develops it together with Ollin.",
+    "cue": null
+  },
+  {
+    "index": 9,
+    "sectionIndex": 3,
+    "section": "The data",
+    "text": "The main data come from JADE, a Phase 1B trial of more than 160 patients, run head-to-head against Vabysmo, the approved Roche drug that blocks the same two targets.",
+    "cue": null
+  },
+  {
+    "index": 10,
+    "sectionIndex": 3,
+    "section": "The data",
+    "text": "In diabetic macular edema, Ollin reported that nearly 90% of patients on the higher dose met the trial's definition of no edema at week 12, against 57% on Vabysmo.",
+    "cue": {
+      "type": "stat",
+      "raw": "90% | no edema, week 12",
+      "value": "90%",
+      "label": "no edema, week 12"
+    }
+  },
+  {
+    "index": 11,
+    "sectionIndex": 3,
+    "section": "The data",
+    "text": "In wet AMD, Ollin said the two drugs performed about the same.",
+    "cue": null
+  },
+  {
+    "index": 12,
+    "sectionIndex": 3,
+    "section": "The data",
+    "text": "These are company-reported results from an early-stage trial. J&J's release calls the data compelling, and gives no numbers.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"company-reported\"",
+      "phrase": "company-reported"
+    }
+  },
+  {
+    "index": 13,
+    "sectionIndex": 4,
+    "section": "The funder",
+    "text": "Here is the unusual part. In a separate agreement, Blackstone Life Sciences will pay J&J $750 million over several years, to fully fund OLN-324's Phase 3 development.",
+    "cue": {
+      "type": "stat",
+      "raw": "$750M | Blackstone",
+      "value": "$750M",
+      "label": "Blackstone"
+    }
+  },
+  {
+    "index": 14,
+    "sectionIndex": 4,
+    "section": "The funder",
+    "text": "In return, Blackstone is eligible for regulatory and sales milestones, plus single-digit royalties. That agreement only takes effect if the acquisition closes.",
+    "cue": null
+  },
+  {
+    "index": 15,
+    "sectionIndex": 5,
+    "section": "Why it matters",
+    "text": "Why it matters. This is our read.",
+    "cue": null
+  },
+  {
+    "index": 16,
+    "sectionIndex": 5,
+    "section": "Why it matters",
+    "text": "J&J is buying a drug ready for Phase 3, and handing the bill for that costly, risky stage to an outside funder. If the trials fail, the spending was Blackstone's money. If they succeed, Blackstone shares the upside.",
+    "cue": null
+  },
+  {
+    "index": 17,
+    "sectionIndex": 5,
+    "section": "Why it matters",
+    "text": "And the bar is clear. Vabysmo is already approved in both diseases. OLN-324 has to show it does more than match it.",
+    "cue": null
+  },
+  {
+    "index": 18,
+    "sectionIndex": 6,
+    "section": "What to watch",
+    "text": "So the signal comes in order. First, the deal closing, expected before year-end.",
+    "cue": null
+  },
+  {
+    "index": 19,
+    "sectionIndex": 6,
+    "section": "What to watch",
+    "text": "Then, the start of Phase 3. In June, Ollin said its global trials in both diseases would begin in the second half of 2026.",
+    "cue": null
+  },
+  {
+    "index": 20,
+    "sectionIndex": 6,
+    "section": "What to watch",
+    "text": "And then the real test: whether large trials confirm what about 160 patients suggested. The milestone money sits on the far side of that answer.",
+    "cue": null
+  },
+  {
+    "index": 21,
+    "sectionIndex": 7,
+    "section": "Subscribe",
+    "text": "We track the deals that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+    "cue": null
+  }
+]

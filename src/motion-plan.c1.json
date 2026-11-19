@@ -1,0 +1,43 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 1,
+  "kit": ["src/kit/jnj1.tsx"],
+  "scenes": [
+    { "n": 1, "title": "pod drops, shutter shows one vial", "peakFrame": 198, "world": "red",
+      "hero": "company pod with one vial", "supports": ["$2.2B", "UP FRONT"], "move": "fall-and-squash",
+      "note": "$2.2B drops letter by letter; camera pulls back with the pod's fall on 'company'; shutter rolls up on 'one' with a push-in",
+      "camera": [ { "cue": "company", "after": 0 }, { "cue": "one", "after": 0 } ],
+      "movers": [
+        { "what": "$2.2B kinetic type", "cue": "$2.2", "after": 0, "durMs": 535 },
+        { "what": "UP FRONT prints", "cue": "up front", "after": 0, "durMs": 380 },
+        { "what": "pod falls + squash (kicker retires with it)", "cue": "company", "after": 0, "durMs": 600 },
+        { "what": "shutter rolls up", "cue": "one", "after": 0, "durMs": 400 },
+        { "what": "label prints on the pod", "cue": "late-stage", "after": 0, "durMs": 380 } ] },
+    { "n": 2, "title": "someone else takes the bill", "peakFrame": 336, "world": "ink",
+      "hero": "newcomer holding the FINAL TRIALS bill", "supports": ["J&J block"], "move": "NEW: bill-flicked-across",
+      "note": "J&J rises; a '?' figure hops into line on 'lined up'; the bill falls on J&J on 'pay', then is flicked in an arc into the newcomer's hands, camera trucking with it",
+      "camera": [ { "cue": "that drug's", "after": 7470 } ],
+      "movers": [
+        { "what": "J&J block rises", "cue": "it has", "after": 7470, "durMs": 450 },
+        { "what": "newcomer hops into line", "cue": "lined up", "after": 7470, "durMs": 460 },
+        { "what": "bill falls on J&J", "cue": "pay", "after": 7470, "durMs": 600 },
+        { "what": "bill flicked across", "cue": "that drug's", "after": 7470, "durMs": 520 } ] },
+    { "n": 3, "title": "contract, NOV 16, J&J seal", "peakFrame": 474, "world": "paper",
+      "hero": "sealed contract", "supports": ["NOV 16", "J&J acquires Ollin Biosciences"], "move": "NEW: seal-presses",
+      "note": "contract flies in from depth; NOV 16 drops onto its header; J&J's wax seal comes down from the camera and presses on 'agreed', the camera craning down with it",
+      "camera": [ { "cue": "agreed", "after": 11810 } ],
+      "movers": [
+        { "what": "contract flies in", "cue": "On November", "after": 11810, "durMs": 330 },
+        { "what": "NOV 16 kinetic type", "cue": "November", "after": 11810, "durMs": 600 },
+        { "what": "seal presses", "cue": "agreed", "after": 11810, "durMs": 400 },
+        { "what": "body prints", "cue": "acquire", "after": 11810, "durMs": 380 } ] },
+    { "n": 4, "title": "the eye opens", "peakFrame": 609, "world": "paper",
+      "hero": "eye", "supports": ["Ollin Biosciences", "CLINICAL-STAGE chip"], "move": "NEW: lids-part",
+      "note": "a closed eye flies in from depth; labels print on 'company'; the lids part on 'developing' and the red iris springs open; push-in on 'treatments'",
+      "camera": [ { "cue": "treatments", "after": 16880 } ],
+      "movers": [
+        { "what": "eye flies in", "cue": "a clinical-stage", "after": 16800, "durMs": 420 },
+        { "what": "labels print", "cue": "company", "after": 16880, "durMs": 380 },
+        { "what": "lids part + iris", "cue": "developing", "after": 16880, "durMs": 460 } ] }
+  ]
+}

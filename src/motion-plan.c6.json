@@ -1,0 +1,197 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 6,
+  "kit": [
+    "src/kit/jnj6.tsx"
+  ],
+  "scenes": [
+    {
+      "n": 19,
+      "title": "callback: the bill goes to Blackstone",
+      "peakFrame": 4425,
+      "world": "ink",
+      "hero": "Blackstone holding the bill",
+      "supports": [
+        "J&J + vial (READY FOR PHASE 3)",
+        "BLACKSTONE \u00c2\u00b7 OUTSIDE FUNDER"
+      ],
+      "move": "callback-grows-back",
+      "note": "S2's seats return (K2): J&J rises, the vial lands on it, the '?' hops back, the bill falls on J&J and is flicked across; on 'to an (outside funder)' the head turns red 'B' and the name prints, push-in",
+      "camera": [
+        {
+          "ms": 146520
+        }
+      ],
+      "movers": [
+        {
+          "what": "plate: Why it matters",
+          "cue": "Why",
+          "after": 136490,
+          "durMs": 260
+        },
+        {
+          "what": "OUR READ chip",
+          "cue": "our read",
+          "after": 136490,
+          "durMs": 380
+        },
+        {
+          "what": "J&J rises",
+          "cue": "J&J",
+          "after": 136490,
+          "durMs": 450
+        },
+        {
+          "what": "vial lands on J&J",
+          "ms": 140950,
+          "durMs": 600
+        },
+        {
+          "what": "READY FOR PHASE 3 prints",
+          "cue": "ready for",
+          "after": 136490,
+          "durMs": 380
+        },
+        {
+          "what": "newcomer hops back",
+          "cue": "and handing",
+          "after": 136490,
+          "durMs": 460
+        },
+        {
+          "what": "bill falls on J&J",
+          "ms": 143640,
+          "durMs": 600
+        },
+        {
+          "what": "bill flicked across (pin)",
+          "ms": 145570,
+          "durMs": 520
+        },
+        {
+          "what": "head turns + name",
+          "ms": 146520,
+          "durMs": 360
+        }
+      ]
+    },
+    {
+      "n": 20,
+      "title": "fail / succeed fork",
+      "peakFrame": 4632,
+      "world": "paper",
+      "hero": "fork with a ball in each bin",
+      "supports": [
+        "BLACKSTONE'S MONEY SPENT",
+        "BLACKSTONE SHARES THE UPSIDE"
+      ],
+      "move": "NEW: balls-take-the-fork",
+      "note": "the fork rises in; a ball rolls down the left branch on 'fail' into IF THEY FAIL (camera cranes down with it); a second ball pops up on 'If they' and rolls right on 'succeed' into IF THEY SUCCEED",
+      "camera": [
+        {
+          "ms": 149990
+        }
+      ],
+      "movers": [
+        {
+          "what": "fork rises",
+          "ms": 147930,
+          "durMs": 450
+        },
+        {
+          "what": "first ball pops",
+          "ms": 148230,
+          "durMs": 400
+        },
+        {
+          "what": "IF THEY FAIL prints",
+          "cue": "If the",
+          "after": 147930,
+          "durMs": 380
+        },
+        {
+          "what": "ball rolls left",
+          "cue": "fail",
+          "after": 147930,
+          "durMs": 1400
+        },
+        {
+          "what": "MONEY SPENT prints",
+          "cue": "Blackstone's",
+          "after": 147930,
+          "durMs": 380
+        },
+        {
+          "what": "second ball pops",
+          "durMs": 400,
+          "ms": 152240
+        },
+        {
+          "what": "ball rolls right",
+          "cue": "succeed",
+          "after": 147930,
+          "durMs": 714
+        },
+        {
+          "what": "UPSIDE prints",
+          "cue": "Blackstone shares",
+          "after": 147930,
+          "durMs": 380
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "title": "the bar: more than match",
+      "peakFrame": 4923,
+      "world": "ink",
+      "hero": "two bars on the posts",
+      "supports": [
+        "VABYSMO \u00c2\u00b7 APPROVED IN BOTH DISEASES",
+        "OLN-324 under the bars"
+      ],
+      "move": "fall-and-squash",
+      "note": "posts rise; the Vabysmo bar drops onto the lower pegs on 'bar'; its label prints; OLN-324 slides in under it; the red MORE THAN MATCH bar drops onto the higher pegs on 'does', push-in",
+      "camera": [
+        {
+          "ms": 162800
+        }
+      ],
+      "movers": [
+        {
+          "what": "posts rise",
+          "ms": 155150,
+          "durMs": 450
+        },
+        {
+          "what": "Vabysmo bar drops",
+          "ms": 155580,
+          "durMs": 600
+        },
+        {
+          "what": "VABYSMO prints",
+          "cue": "Vabysmo",
+          "after": 154870,
+          "durMs": 380
+        },
+        {
+          "what": "APPROVED prints",
+          "cue": "approved",
+          "after": 154870,
+          "durMs": 380
+        },
+        {
+          "what": "OLN-324 slides in",
+          "cue": "OLN-324",
+          "after": 154870,
+          "durMs": 500
+        },
+        {
+          "what": "red bar drops (pin)",
+          "ms": 162420,
+          "durMs": 600
+        }
+      ]
+    }
+  ]
+}

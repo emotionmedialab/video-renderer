@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "title": "The deal",
+    "firstBeat": 0
+  },
+  {
+    "index": 1,
+    "title": "The money",
+    "firstBeat": 3
+  },
+  {
+    "index": 2,
+    "title": "The drug",
+    "firstBeat": 6
+  },
+  {
+    "index": 3,
+    "title": "The data",
+    "firstBeat": 9
+  },
+  {
+    "index": 4,
+    "title": "The funder",
+    "firstBeat": 13
+  },
+  {
+    "index": 5,
+    "title": "Why it matters",
+    "firstBeat": 15
+  },
+  {
+    "index": 6,
+    "title": "What to watch",
+    "firstBeat": 18
+  },
+  {
+    "index": 7,
+    "title": "Subscribe",
+    "firstBeat": 21
+  }
+]

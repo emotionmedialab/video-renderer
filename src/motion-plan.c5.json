@@ -1,0 +1,36 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 5,
+  "kit": ["src/kit/jnj5.tsx"],
+  "scenes": [
+    { "n": 16, "title": "hourglass: $750M over years", "peakFrame": 3756, "world": "paper",
+      "hero": "hourglass (BLACKSTONE / OLN-324 PHASE 3 caps)", "supports": ["$750M · over several years", "FULLY FUNDED"], "move": "NEW: hourglass-pours",
+      "note": "THE UNUSUAL PART lands; the hourglass tumbles in two turns on 'Blackstone' (lead-in retires); $750M lands; the sand pours from 'over several years' and the bottom is full on 'fund' (FULLY FUNDED slams, push-in); the Phase 3 cap prints",
+      "camera": [ { "cue": "fund", "after": 111410 } ],
+      "movers": [
+        { "what": "THE UNUSUAL PART kinetic type", "cue": "unusual", "after": 111410, "durMs": 1085 },
+        { "what": "A SEPARATE AGREEMENT prints", "cue": "separate", "after": 111410, "durMs": 380 },
+        { "what": "hourglass tumbles in", "ms": 115530, "durMs": 600 },
+        { "what": "$750M lands", "ms": 118560, "durMs": 560 },
+        { "what": "sand pours", "cue": "over several", "after": 111410, "durMs": 2170 },
+        { "what": "FULLY FUNDED slams", "cue": "fund", "after": 111410, "durMs": 200 },
+        { "what": "Phase 3 cap prints", "cue": "Phase", "after": 111410, "durMs": 380 } ] },
+    { "n": 17, "title": "what Blackstone gets back", "peakFrame": 3966, "world": "ink",
+      "hero": "tray with three tickets (3-row list)", "supports": ["IS ELIGIBLE FOR"], "move": "fall-and-squash",
+      "note": "Blackstone's tray springs in on 'In return'; ELIGIBLE FOR prints; REGULATORY / SALES MILESTONES tickets drop in on their words (camera cranes down with the first); the royalties ticket lands on 'plus'",
+      "camera": [ { "ms": 128440 } ],
+      "movers": [
+        { "what": "tray springs in", "cue": "In return", "after": 125610, "durMs": 500 },
+        { "what": "ELIGIBLE FOR prints", "cue": "eligible", "after": 125610, "durMs": 380 },
+        { "what": "regulatory ticket", "ms": 128440, "durMs": 600 },
+        { "what": "sales ticket", "ms": 129450, "durMs": 600 },
+        { "what": "royalties ticket (pin)", "ms": 130420, "durMs": 600 } ] },
+    { "n": 18, "title": "dominoes: only if it closes", "peakFrame": 4080, "world": "red",
+      "hero": "two dominoes in line", "supports": ["ONLY IF THE DEAL CLOSES"], "move": "NEW: dominoes-stand-in-line",
+      "note": "ACQUISITION CLOSES hinges up from flat on 'That'; on 'only' BLACKSTONE FUNDING TAKES EFFECT hinges up behind it in line, the camera trucking with it; nothing falls",
+      "camera": [ { "cue": "only", "after": 132950 } ],
+      "movers": [
+        { "what": "first domino stands", "ms": 133200, "durMs": 600 },
+        { "what": "second domino stands + chip", "cue": "only", "after": 132950, "durMs": 600 } ] }
+  ]
+}

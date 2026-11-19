@@ -1,0 +1,43 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 2,
+  "kit": ["src/kit/jnj2.tsx"],
+  "scenes": [
+    { "n": 5, "title": "wagon 1: $2.2B up front", "peakFrame": 750, "world": "ink",
+      "hero": "wagon 1 ($2.2B)", "supports": ["UP FRONT"], "move": "NEW: wagon-rolls-in",
+      "note": "section wipe to ink; wagon 1 rolls in on 'money' (wheels turn, rocks once on 'order'), camera pulls back with it; $2.2B drops onto its face",
+      "camera": [ { "cue": "money", "after": 20910 } ],
+      "movers": [
+        { "what": "wagon 1 rolls in", "cue": "money", "after": 20910, "durMs": 760 },
+        { "what": "$2.2B kinetic type", "cue": "$2.2", "after": 20910, "durMs": 535 },
+        { "what": "UP FRONT prints", "cue": "up front", "after": 20910, "durMs": 380 } ] },
+    { "n": 6, "title": "wagon 2 + milestone signal", "peakFrame": 990, "world": "ink",
+      "hero": "signal post with two plates", "supports": ["REGULATORY MILESTONES", "COMMERCIAL MILESTONES"], "move": "fall-and-squash",
+      "note": "wagon 2 drops onto the rails on 'On top' (camera trucks to centre both); $1.125B lands; the signal post springs up between the wagons on 'only if'; plates slam on their words",
+      "camera": [ { "cue": "On top", "after": 20910 } ],
+      "movers": [
+        { "what": "wagon 2 drops", "cue": "On top", "after": 20910, "durMs": 600 },
+        { "what": "UP TO ABOUT prints", "cue": "up to", "after": 20910, "durMs": 380 },
+        { "what": "$1.125B kinetic type", "cue": "$1.125", "after": 20910, "durMs": 640 },
+        { "what": "signal post springs up", "cue": "only if", "after": 20910, "durMs": 450 },
+        { "what": "REGULATORY plate slams", "cue": "regulatory", "after": 20910, "durMs": 200 },
+        { "what": "COMMERCIAL plate slams", "cue": "commercial", "after": 20910, "durMs": 200 } ] },
+    { "n": 7, "title": "figures merge: up to ~$3.3B", "peakFrame": 1110, "world": "ink",
+      "hero": "red total board", "supports": ["UP FRONT wagon", "IF MILESTONES wagon"], "move": "NEW: figures-merge",
+      "note": "post sinks away on 'By our'; both figures fly off the wagons and collide into the red UP TO ABOUT $3.3B · OUR MATH board on '$3.3'; push-in on 'in all'",
+      "camera": [ { "cue": "in all", "after": 20910 } ],
+      "movers": [
+        { "what": "post sinks", "cue": "By our", "after": 20910, "durMs": 360 },
+        { "what": "figures fly up", "ms": 35600, "durMs": 690 },
+        { "what": "board springs out", "cue": "$3.3", "after": 20910, "durMs": 500 } ] },
+    { "n": 8, "title": "train rolls to the close", "peakFrame": 1335, "world": "ink",
+      "hero": "EXPECTED CLOSE sign", "supports": ["SUBJECT TO REGULATORY APPROVALS", "train"], "move": "NEW: train-to-buffer",
+      "note": "board lifts away on 'J&J'; the train rolls toward the buffer stop on 'close' and stops short, camera trucking with it; 2026 drops onto the sign; the approvals tag prints",
+      "camera": [ { "cue": "close", "after": 20910 } ],
+      "movers": [
+        { "what": "board lifts away", "cue": "J&J", "after": 20910, "durMs": 360 },
+        { "what": "train rolls + stops short", "cue": "close", "after": 20910, "durMs": 900 },
+        { "what": "2026 kinetic type", "cue": "2026", "after": 20910, "durMs": 480 },
+        { "what": "approvals tag prints", "cue": "subject", "after": 20910, "durMs": 380 } ] }
+  ]
+}

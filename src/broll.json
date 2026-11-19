@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s15_lab",
+    "sceneKey": "caveat",
+    "query": "scientist laboratory pipette",
+    "start": 103.44,
+    "end": 111.41,
+    "targetHeight": 2160,
+    "file": "broll/s15_lab.mp4",
+    "pexelsId": 8863360,
+    "credit": "Mikhail Nilov",
+    "pexelsUrl": "https://www.pexels.com/video/close-up-of-a-scientist-using-laboratory-equipment-8863360/"
+  },
+  {
+    "id": "s17_finance",
+    "sceneKey": "tickets",
+    "query": "business meeting boardroom",
+    "start": 125.61,
+    "end": 132.95,
+    "targetHeight": 2160,
+    "file": "broll/s17_finance.mp4",
+    "pexelsId": 8847933,
+    "credit": "Mikhail Nilov",
+    "pexelsUrl": "https://www.pexels.com/video/professionals-looking-carefully-on-documents-8847933/"
+  }
+]

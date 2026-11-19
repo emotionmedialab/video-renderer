@@ -1,0 +1,48 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 4,
+  "kit": ["src/kit/jnj4.tsx"],
+  "scenes": [
+    { "n": 12, "title": "JADE: 160 beads, face-off", "peakFrame": 2565, "world": "ink",
+      "hero": "OLN-324 vs Vabysmo face-off", "supports": ["OLN-324 chip", "VABYSMO · ROCHE, APPROVED"], "move": "NEW: beads-pour-face-off",
+      "note": "the JADE tray rises in; 160 beads pour onto it row by row on '160'; the two drugs slide in from the edges and clash to a stop on 'head-to-head'; the same ball + star land on both on 'blocks', push-in",
+      "camera": [ { "cue": "blocks", "after": 74560 } ],
+      "movers": [
+        { "what": "tray rises + JADE drops", "cue": "JADE", "after": 74560, "durMs": 450 },
+        { "what": "160 beads pour", "ms": 78120, "durMs": 700 },
+        { "what": "drugs slide in + clash", "ms": 80260, "durMs": 650 },
+        { "what": "VABYSMO chip", "cue": "Vabysmo", "after": 74560, "durMs": 380 },
+        { "what": "ROCHE · APPROVED", "cue": "Roche", "after": 74560, "durMs": 380 },
+        { "what": "targets land on both", "ms": 84220, "durMs": 500 } ] },
+    { "n": 13, "title": "90% vs 57%: tiles stack", "peakFrame": 2928, "world": "paper",
+      "hero": "two tile stacks", "supports": ["No edema at week 12", "DME · OLLIN-REPORTED"], "move": "fall-and-squash",
+      "note": "chip prints on 'diabetic'; 9 red tiles fall and stack, the 9th landing on '90%' (camera cranes up with the stack); the title prints on 'no edema'; 5.7 grey tiles stack, landing on '57%'",
+      "camera": [ { "ms": 88390 } ],
+      "movers": [
+        { "what": "DME chip", "cue": "diabetic", "after": 85900, "durMs": 380 },
+        { "what": "red stack falls", "ms": 88390, "durMs": 1100 },
+        { "what": "90% kinetic type", "ms": 89190, "durMs": 425 },
+        { "what": "title prints", "cue": "no edema", "after": 85900, "durMs": 380 },
+        { "what": "grey stack falls", "ms": 95780, "durMs": 830 },
+        { "what": "57% kinetic type", "ms": 96310, "durMs": 425 } ] },
+    { "n": 14, "title": "wet AMD: the balance levels", "peakFrame": 3078, "world": "red",
+      "hero": "level balance", "supports": ["Wet AMD", "ABOUT THE SAME · PER OLLIN"], "move": "NEW: balance-swings-level",
+      "note": "the balance drops in tipped (camera pulls back with it); on 'two drugs' Vabysmo drops into the empty pan and the beam swings level, one overshoot",
+      "camera": [ { "ms": 98680 } ],
+      "movers": [
+        { "what": "balance drops in", "ms": 98680, "durMs": 600 },
+        { "what": "Wet AMD prints", "cue": "wet", "after": 98470, "durMs": 380 },
+        { "what": "Vabysmo drops, beam levels", "ms": 100660, "durMs": 900 },
+        { "what": "chip prints", "cue": "performed", "after": 98470, "durMs": 380 } ] },
+    { "n": 15, "title": "company-reported; no numbers", "peakFrame": 3330, "world": "ink",
+      "hero": "J&J release", "supports": ["compelling quote", "NO NUMBERS GIVEN"], "move": "NEW: stamp-then-truck",
+      "note": "Ollin's results card flies in; COMPANY-REPORTED stamps on its word, EARLY-STAGE prints; the camera trucks to J&J's release on 'J&J's'; the real quote prints on 'compelling'; NO NUMBERS GIVEN slams in its empty data box",
+      "camera": [ { "cue": "J&J's", "after": 103440 } ],
+      "movers": [
+        { "what": "card flies in", "ms": 103270, "durMs": 450 },
+        { "what": "stamp", "cue": "company-reported", "after": 103440, "durMs": 200 },
+        { "what": "EARLY-STAGE prints", "cue": "early-stage", "after": 103440, "durMs": 380 },
+        { "what": "quote prints", "cue": "compelling", "after": 103440, "durMs": 380 },
+        { "what": "NO NUMBERS slams (pin)", "ms": 110050, "durMs": 200 } ] }
+  ]
+}

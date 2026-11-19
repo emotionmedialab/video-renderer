@@ -1,0 +1,4 @@
+[
+  { "id": "s15_lab", "sceneKey": "caveat", "query": "scientist laboratory pipette", "start": 103.44, "end": 111.41, "targetHeight": 2160 },
+  { "id": "s17_finance", "sceneKey": "tickets", "query": "business meeting boardroom", "start": 125.61, "end": 132.95, "targetHeight": 2160 }
+]

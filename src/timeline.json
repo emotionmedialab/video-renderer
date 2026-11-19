@@ -1,0 +1,3312 @@
+{
+  "durationMs": 199320,
+  "fps": 30,
+  "meta": {
+    "title": "J&J pays $2.2B for Ollin, and Blackstone pays for the Phase 3",
+    "intro": "Johnson and Johnson is paying $2.2 billion up front for a company with one late-stage eye drug.",
+    "cta": "Subscribe free, at thecatalystbrief.com."
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "The deal",
+      "startMs": 60
+    },
+    {
+      "index": 1,
+      "title": "The money",
+      "startMs": 21337
+    },
+    {
+      "index": 2,
+      "title": "The drug",
+      "startMs": 45800
+    },
+    {
+      "index": 3,
+      "title": "The data",
+      "startMs": 75080
+    },
+    {
+      "index": 4,
+      "title": "The funder",
+      "startMs": 111950
+    },
+    {
+      "index": 5,
+      "title": "Why it matters",
+      "startMs": 137000
+    },
+    {
+      "index": 6,
+      "title": "What to watch",
+      "startMs": 164850
+    },
+    {
+      "index": 7,
+      "title": "Subscribe",
+      "startMs": 189850
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "The deal",
+      "text": "Johnson and Johnson is paying $2.2 billion up front for a company with one late-stage eye drug.",
+      "cue": {
+        "type": "stat",
+        "raw": "$2.2B | upfront",
+        "value": "$2.2B",
+        "label": "upfront"
+      },
+      "startMs": 60,
+      "endMs": 7468
+    },
+    {
+      "index": 1,
+      "sectionIndex": 0,
+      "section": "The deal",
+      "text": "And it has already lined up someone else to pay for that drug's final trials.",
+      "cue": null,
+      "startMs": 7468,
+      "endMs": 12160
+    },
+    {
+      "index": 2,
+      "sectionIndex": 0,
+      "section": "The deal",
+      "text": "On November 16th, J&J agreed to acquire Ollin Biosciences, a clinical-stage company developing treatments for serious eye diseases.",
+      "cue": null,
+      "startMs": 12160,
+      "endMs": 21337
+    },
+    {
+      "index": 3,
+      "sectionIndex": 1,
+      "section": "The money",
+      "text": "Now the money, in order. $2.2 billion up front.",
+      "cue": null,
+      "startMs": 21337,
+      "endMs": 25914
+    },
+    {
+      "index": 4,
+      "sectionIndex": 1,
+      "section": "The money",
+      "text": "On top of that, up to about $1.125 billion more, but only if regulatory and commercial milestones are reached.",
+      "cue": null,
+      "startMs": 25914,
+      "endMs": 33920
+    },
+    {
+      "index": 5,
+      "sectionIndex": 1,
+      "section": "The money",
+      "text": "By our math, that is up to about $3.3 billion in all. J&J expects the deal to close before the end of 2026, subject to regulatory approvals.",
+      "cue": {
+        "type": "stat",
+        "raw": "$3.3B | up to, our math",
+        "value": "$3.3B",
+        "label": "up to, our math"
+      },
+      "startMs": 33920,
+      "endMs": 45800
+    },
+    {
+      "index": 6,
+      "sectionIndex": 2,
+      "section": "The drug",
+      "text": "The drug is OLN-324. It is a bispecific antibody: one molecule that blocks two signals behind retinal disease, VEGF and Ang-2.",
+      "cue": null,
+      "startMs": 45800,
+      "endMs": 57640
+    },
+    {
+      "index": 7,
+      "sectionIndex": 2,
+      "section": "The drug",
+      "text": "It is being developed for wet age-related macular degeneration and diabetic macular edema, which J&J says together affect more than 40 million people worldwide.",
+      "cue": null,
+      "startMs": 57640,
+      "endMs": 68892
+    },
+    {
+      "index": 8,
+      "sectionIndex": 2,
+      "section": "The drug",
+      "text": "OLN-324 was discovered by Innovent Biologics, which develops it together with Ollin.",
+      "cue": null,
+      "startMs": 68892,
+      "endMs": 75080
+    },
+    {
+      "index": 9,
+      "sectionIndex": 3,
+      "section": "The data",
+      "text": "The main data come from JADE, a Phase 1B trial of more than 160 patients, run head-to-head against Vabysmo, the approved Roche drug that blocks the same two targets.",
+      "cue": null,
+      "startMs": 75080,
+      "endMs": 86580
+    },
+    {
+      "index": 10,
+      "sectionIndex": 3,
+      "section": "The data",
+      "text": "In diabetic macular edema, Ollin reported that nearly 90% of patients on the higher dose met the trial's definition of no edema at week 12, against 57% on Vabysmo.",
+      "cue": {
+        "type": "stat",
+        "raw": "90% | no edema, week 12",
+        "value": "90%",
+        "label": "no edema, week 12"
+      },
+      "startMs": 86580,
+      "endMs": 98750
+    },
+    {
+      "index": 11,
+      "sectionIndex": 3,
+      "section": "The data",
+      "text": "In wet AMD, Ollin said the two drugs performed about the same.",
+      "cue": null,
+      "startMs": 98750,
+      "endMs": 103720
+    },
+    {
+      "index": 12,
+      "sectionIndex": 3,
+      "section": "The data",
+      "text": "These are company-reported results from an early-stage trial. J&J's release calls the data compelling, and gives no numbers.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"company-reported\"",
+        "phrase": "company-reported"
+      },
+      "startMs": 103720,
+      "endMs": 111950
+    },
+    {
+      "index": 13,
+      "sectionIndex": 4,
+      "section": "The funder",
+      "text": "Here is the unusual part. In a separate agreement, Blackstone Life Sciences will pay J&J $750 million over several years, to fully fund OLN-324's Phase 3 development.",
+      "cue": {
+        "type": "stat",
+        "raw": "$750M | Blackstone",
+        "value": "$750M",
+        "label": "Blackstone"
+      },
+      "startMs": 111950,
+      "endMs": 126280
+    },
+    {
+      "index": 14,
+      "sectionIndex": 4,
+      "section": "The funder",
+      "text": "In return, Blackstone is eligible for regulatory and sales milestones, plus single-digit royalties. That agreement only takes effect if the acquisition closes.",
+      "cue": null,
+      "startMs": 126280,
+      "endMs": 137000
+    },
+    {
+      "index": 15,
+      "sectionIndex": 5,
+      "section": "Why it matters",
+      "text": "Why it matters. This is our read.",
+      "cue": null,
+      "startMs": 137000,
+      "endMs": 140360
+    },
+    {
+      "index": 16,
+      "sectionIndex": 5,
+      "section": "Why it matters",
+      "text": "J&J is buying a drug ready for Phase 3, and handing the bill for that costly, risky stage to an outside funder. If the trials fail, the spending was Blackstone's money. If they succeed, Blackstone shares the upside.",
+      "cue": null,
+      "startMs": 140360,
+      "endMs": 155300
+    },
+    {
+      "index": 17,
+      "sectionIndex": 5,
+      "section": "Why it matters",
+      "text": "And the bar is clear. Vabysmo is already approved in both diseases. OLN-324 has to show it does more than match it.",
+      "cue": null,
+      "startMs": 155300,
+      "endMs": 164850
+    },
+    {
+      "index": 18,
+      "sectionIndex": 6,
+      "section": "What to watch",
+      "text": "So the signal comes in order. First, the deal closing, expected before year-end.",
+      "cue": null,
+      "startMs": 164850,
+      "endMs": 170550
+    },
+    {
+      "index": 19,
+      "sectionIndex": 6,
+      "section": "What to watch",
+      "text": "Then, the start of Phase 3. In June, Ollin said its global trials in both diseases would begin in the second half of 2026.",
+      "cue": null,
+      "startMs": 170550,
+      "endMs": 179750
+    },
+    {
+      "index": 20,
+      "sectionIndex": 6,
+      "section": "What to watch",
+      "text": "And then the real test: whether large trials confirm what about 160 patients suggested. The milestone money sits on the far side of that answer.",
+      "cue": null,
+      "startMs": 179750,
+      "endMs": 189850
+    },
+    {
+      "index": 21,
+      "sectionIndex": 7,
+      "section": "Subscribe",
+      "text": "We track the deals that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+      "cue": null,
+      "startMs": 189850,
+      "endMs": 199320
+    }
+  ],
+  "words": [
+    {
+      "raw": "Johnson",
+      "beat": 0,
+      "startMs": 60,
+      "endMs": 640
+    },
+    {
+      "raw": "and",
+      "beat": 0,
+      "startMs": 640,
+      "endMs": 730
+    },
+    {
+      "raw": "Johnson",
+      "beat": 0,
+      "startMs": 730,
+      "endMs": 1390
+    },
+    {
+      "raw": "is",
+      "beat": 0,
+      "startMs": 1390,
+      "endMs": 1550
+    },
+    {
+      "raw": "paying",
+      "beat": 0,
+      "startMs": 1550,
+      "endMs": 2090
+    },
+    {
+      "raw": "$2.2",
+      "beat": 0,
+      "startMs": 2090,
+      "endMs": 3000
+    },
+    {
+      "raw": "billion",
+      "beat": 0,
+      "startMs": 3000,
+      "endMs": 3670
+    },
+    {
+      "raw": "up",
+      "beat": 0,
+      "startMs": 3670,
+      "endMs": 3880
+    },
+    {
+      "raw": "front",
+      "beat": 0,
+      "startMs": 3880,
+      "endMs": 4450
+    },
+    {
+      "raw": "for",
+      "beat": 0,
+      "startMs": 4450,
+      "endMs": 4540
+    },
+    {
+      "raw": "a",
+      "beat": 0,
+      "startMs": 4540,
+      "endMs": 4600
+    },
+    {
+      "raw": "company",
+      "beat": 0,
+      "startMs": 4600,
+      "endMs": 5040
+    },
+    {
+      "raw": "with",
+      "beat": 0,
+      "startMs": 5040,
+      "endMs": 5360
+    },
+    {
+      "raw": "one",
+      "beat": 0,
+      "startMs": 5360,
+      "endMs": 5600
+    },
+    {
+      "raw": "late-stage",
+      "beat": 0,
+      "startMs": 5600,
+      "endMs": 6400
+    },
+    {
+      "raw": "eye",
+      "beat": 0,
+      "startMs": 6400,
+      "endMs": 6560
+    },
+    {
+      "raw": "drug.",
+      "beat": 0,
+      "startMs": 6560,
+      "endMs": 7360
+    },
+    {
+      "raw": "And",
+      "beat": 1,
+      "startMs": 7468,
+      "endMs": 7560
+    },
+    {
+      "raw": "it",
+      "beat": 1,
+      "startMs": 7560,
+      "endMs": 7690
+    },
+    {
+      "raw": "has",
+      "beat": 1,
+      "startMs": 7690,
+      "endMs": 7940
+    },
+    {
+      "raw": "already",
+      "beat": 1,
+      "startMs": 7940,
+      "endMs": 8360
+    },
+    {
+      "raw": "lined",
+      "beat": 1,
+      "startMs": 8360,
+      "endMs": 8690
+    },
+    {
+      "raw": "up",
+      "beat": 1,
+      "startMs": 8690,
+      "endMs": 8820
+    },
+    {
+      "raw": "someone",
+      "beat": 1,
+      "startMs": 8820,
+      "endMs": 9290
+    },
+    {
+      "raw": "else",
+      "beat": 1,
+      "startMs": 9290,
+      "endMs": 9550
+    },
+    {
+      "raw": "to",
+      "beat": 1,
+      "startMs": 9550,
+      "endMs": 9680
+    },
+    {
+      "raw": "pay",
+      "beat": 1,
+      "startMs": 9680,
+      "endMs": 9910
+    },
+    {
+      "raw": "for",
+      "beat": 1,
+      "startMs": 9910,
+      "endMs": 10080
+    },
+    {
+      "raw": "that",
+      "beat": 1,
+      "startMs": 10080,
+      "endMs": 10340
+    },
+    {
+      "raw": "drug's",
+      "beat": 1,
+      "startMs": 10340,
+      "endMs": 10800
+    },
+    {
+      "raw": "final",
+      "beat": 1,
+      "startMs": 10800,
+      "endMs": 11270
+    },
+    {
+      "raw": "trials.",
+      "beat": 1,
+      "startMs": 11270,
+      "endMs": 12160
+    },
+    {
+      "raw": "On",
+      "beat": 2,
+      "startMs": 12160,
+      "endMs": 12360
+    },
+    {
+      "raw": "November",
+      "beat": 2,
+      "startMs": 12360,
+      "endMs": 13010
+    },
+    {
+      "raw": "16th,",
+      "beat": 2,
+      "startMs": 13010,
+      "endMs": 13860
+    },
+    {
+      "raw": "J&J",
+      "beat": 2,
+      "startMs": 13860,
+      "endMs": 14100
+    },
+    {
+      "raw": "agreed",
+      "beat": 2,
+      "startMs": 14100,
+      "endMs": 14610
+    },
+    {
+      "raw": "to",
+      "beat": 2,
+      "startMs": 14610,
+      "endMs": 14780
+    },
+    {
+      "raw": "acquire",
+      "beat": 2,
+      "startMs": 14780,
+      "endMs": 15390
+    },
+    {
+      "raw": "Ollin",
+      "beat": 2,
+      "startMs": 15390,
+      "endMs": 15710
+    },
+    {
+      "raw": "Biosciences,",
+      "beat": 2,
+      "startMs": 15710,
+      "endMs": 16880
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 16880,
+      "endMs": 17050
+    },
+    {
+      "raw": "clinical-stage",
+      "beat": 2,
+      "startMs": 17050,
+      "endMs": 17800
+    },
+    {
+      "raw": "company",
+      "beat": 2,
+      "startMs": 17800,
+      "endMs": 18260
+    },
+    {
+      "raw": "developing",
+      "beat": 2,
+      "startMs": 18260,
+      "endMs": 18920
+    },
+    {
+      "raw": "treatments",
+      "beat": 2,
+      "startMs": 18920,
+      "endMs": 19580
+    },
+    {
+      "raw": "for",
+      "beat": 2,
+      "startMs": 19580,
+      "endMs": 19770
+    },
+    {
+      "raw": "serious",
+      "beat": 2,
+      "startMs": 19770,
+      "endMs": 20230
+    },
+    {
+      "raw": "eye",
+      "beat": 2,
+      "startMs": 20230,
+      "endMs": 20410
+    },
+    {
+      "raw": "diseases.",
+      "beat": 2,
+      "startMs": 20410,
+      "endMs": 21200
+    },
+    {
+      "raw": "Now",
+      "beat": 3,
+      "startMs": 21337,
+      "endMs": 21370
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 21370,
+      "endMs": 21540
+    },
+    {
+      "raw": "money,",
+      "beat": 3,
+      "startMs": 21540,
+      "endMs": 21930
+    },
+    {
+      "raw": "in",
+      "beat": 3,
+      "startMs": 22150,
+      "endMs": 22240
+    },
+    {
+      "raw": "order.",
+      "beat": 3,
+      "startMs": 22300,
+      "endMs": 22550
+    },
+    {
+      "raw": "$2.2",
+      "beat": 3,
+      "startMs": 23150,
+      "endMs": 23590
+    },
+    {
+      "raw": "billion",
+      "beat": 3,
+      "startMs": 23700,
+      "endMs": 24320
+    },
+    {
+      "raw": "up",
+      "beat": 3,
+      "startMs": 24320,
+      "endMs": 24600
+    },
+    {
+      "raw": "front.",
+      "beat": 3,
+      "startMs": 24600,
+      "endMs": 25760
+    },
+    {
+      "raw": "On",
+      "beat": 4,
+      "startMs": 25914,
+      "endMs": 25950
+    },
+    {
+      "raw": "top",
+      "beat": 4,
+      "startMs": 25950,
+      "endMs": 26240
+    },
+    {
+      "raw": "of",
+      "beat": 4,
+      "startMs": 26240,
+      "endMs": 26430
+    },
+    {
+      "raw": "that,",
+      "beat": 4,
+      "startMs": 26430,
+      "endMs": 27040
+    },
+    {
+      "raw": "up",
+      "beat": 4,
+      "startMs": 27040,
+      "endMs": 27210
+    },
+    {
+      "raw": "to",
+      "beat": 4,
+      "startMs": 27210,
+      "endMs": 27390
+    },
+    {
+      "raw": "about",
+      "beat": 4,
+      "startMs": 27390,
+      "endMs": 27870
+    },
+    {
+      "raw": "$1.125",
+      "beat": 4,
+      "startMs": 27870,
+      "endMs": 29410
+    },
+    {
+      "raw": "billion",
+      "beat": 4,
+      "startMs": 29410,
+      "endMs": 30090
+    },
+    {
+      "raw": "more,",
+      "beat": 4,
+      "startMs": 30090,
+      "endMs": 30560
+    },
+    {
+      "raw": "but",
+      "beat": 4,
+      "startMs": 30717,
+      "endMs": 30740
+    },
+    {
+      "raw": "only",
+      "beat": 4,
+      "startMs": 30740,
+      "endMs": 30980
+    },
+    {
+      "raw": "if",
+      "beat": 4,
+      "startMs": 30983,
+      "endMs": 31100
+    },
+    {
+      "raw": "regulatory",
+      "beat": 4,
+      "startMs": 31100,
+      "endMs": 31710
+    },
+    {
+      "raw": "and",
+      "beat": 4,
+      "startMs": 31710,
+      "endMs": 31890
+    },
+    {
+      "raw": "commercial",
+      "beat": 4,
+      "startMs": 31890,
+      "endMs": 32510
+    },
+    {
+      "raw": "milestones",
+      "beat": 4,
+      "startMs": 32510,
+      "endMs": 33110
+    },
+    {
+      "raw": "are",
+      "beat": 4,
+      "startMs": 33110,
+      "endMs": 33290
+    },
+    {
+      "raw": "reached.",
+      "beat": 4,
+      "startMs": 33290,
+      "endMs": 33920
+    },
+    {
+      "raw": "By",
+      "beat": 5,
+      "startMs": 33920,
+      "endMs": 34310
+    },
+    {
+      "raw": "our",
+      "beat": 5,
+      "startMs": 34622,
+      "endMs": 34622
+    },
+    {
+      "raw": "math,",
+      "beat": 5,
+      "startMs": 34850,
+      "endMs": 34920
+    },
+    {
+      "raw": "that",
+      "beat": 5,
+      "startMs": 34920,
+      "endMs": 35320
+    },
+    {
+      "raw": "is",
+      "beat": 5,
+      "startMs": 35320,
+      "endMs": 35590
+    },
+    {
+      "raw": "up",
+      "beat": 5,
+      "startMs": 35590,
+      "endMs": 35650
+    },
+    {
+      "raw": "to",
+      "beat": 5,
+      "startMs": 35650,
+      "endMs": 35830
+    },
+    {
+      "raw": "about",
+      "beat": 5,
+      "startMs": 35830,
+      "endMs": 36290
+    },
+    {
+      "raw": "$3.3",
+      "beat": 5,
+      "startMs": 36290,
+      "endMs": 37260
+    },
+    {
+      "raw": "billion",
+      "beat": 5,
+      "startMs": 37260,
+      "endMs": 37830
+    },
+    {
+      "raw": "in",
+      "beat": 5,
+      "startMs": 37830,
+      "endMs": 38010
+    },
+    {
+      "raw": "all.",
+      "beat": 5,
+      "startMs": 38010,
+      "endMs": 38640
+    },
+    {
+      "raw": "J&J",
+      "beat": 5,
+      "startMs": 39150,
+      "endMs": 39380
+    },
+    {
+      "raw": "expects",
+      "beat": 5,
+      "startMs": 39381,
+      "endMs": 39490
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 39490,
+      "endMs": 39750
+    },
+    {
+      "raw": "deal",
+      "beat": 5,
+      "startMs": 39750,
+      "endMs": 40160
+    },
+    {
+      "raw": "to",
+      "beat": 5,
+      "startMs": 40160,
+      "endMs": 40290
+    },
+    {
+      "raw": "close",
+      "beat": 5,
+      "startMs": 40290,
+      "endMs": 40710
+    },
+    {
+      "raw": "before",
+      "beat": 5,
+      "startMs": 40710,
+      "endMs": 41240
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 41240,
+      "endMs": 41520
+    },
+    {
+      "raw": "end",
+      "beat": 5,
+      "startMs": 41520,
+      "endMs": 41760
+    },
+    {
+      "raw": "of",
+      "beat": 5,
+      "startMs": 41760,
+      "endMs": 42000
+    },
+    {
+      "raw": "2026,",
+      "beat": 5,
+      "startMs": 42000,
+      "endMs": 43420
+    },
+    {
+      "raw": "subject",
+      "beat": 5,
+      "startMs": 43420,
+      "endMs": 43750
+    },
+    {
+      "raw": "to",
+      "beat": 5,
+      "startMs": 43750,
+      "endMs": 43900
+    },
+    {
+      "raw": "regulatory",
+      "beat": 5,
+      "startMs": 43900,
+      "endMs": 44440
+    },
+    {
+      "raw": "approvals.",
+      "beat": 5,
+      "startMs": 44440,
+      "endMs": 45120
+    },
+    {
+      "raw": "The",
+      "beat": 6,
+      "startMs": 45800,
+      "endMs": 45840
+    },
+    {
+      "raw": "drug",
+      "beat": 6,
+      "startMs": 45950,
+      "endMs": 46140
+    },
+    {
+      "raw": "is",
+      "beat": 6,
+      "startMs": 46140,
+      "endMs": 46470
+    },
+    {
+      "raw": "OLN-324.",
+      "beat": 6,
+      "startMs": 46470,
+      "endMs": 48800
+    },
+    {
+      "raw": "It",
+      "beat": 6,
+      "startMs": 49008,
+      "endMs": 49008
+    },
+    {
+      "raw": "is",
+      "beat": 6,
+      "startMs": 49120,
+      "endMs": 49140
+    },
+    {
+      "raw": "a",
+      "beat": 6,
+      "startMs": 49140,
+      "endMs": 49220
+    },
+    {
+      "raw": "bispecific",
+      "beat": 6,
+      "startMs": 49220,
+      "endMs": 50140
+    },
+    {
+      "raw": "antibody:",
+      "beat": 6,
+      "startMs": 50140,
+      "endMs": 51120
+    },
+    {
+      "raw": "one",
+      "beat": 6,
+      "startMs": 51121,
+      "endMs": 51200
+    },
+    {
+      "raw": "molecule",
+      "beat": 6,
+      "startMs": 51200,
+      "endMs": 51840
+    },
+    {
+      "raw": "that",
+      "beat": 6,
+      "startMs": 51840,
+      "endMs": 52110
+    },
+    {
+      "raw": "blocks",
+      "beat": 6,
+      "startMs": 52110,
+      "endMs": 52490
+    },
+    {
+      "raw": "two",
+      "beat": 6,
+      "startMs": 52490,
+      "endMs": 52660
+    },
+    {
+      "raw": "signals",
+      "beat": 6,
+      "startMs": 52660,
+      "endMs": 53120
+    },
+    {
+      "raw": "behind",
+      "beat": 6,
+      "startMs": 53120,
+      "endMs": 53520
+    },
+    {
+      "raw": "retinal",
+      "beat": 6,
+      "startMs": 53520,
+      "endMs": 53840
+    },
+    {
+      "raw": "disease,",
+      "beat": 6,
+      "startMs": 53840,
+      "endMs": 54740
+    },
+    {
+      "raw": "VEGF",
+      "beat": 6,
+      "startMs": 54844,
+      "endMs": 55420
+    },
+    {
+      "raw": "and",
+      "beat": 6,
+      "startMs": 55420,
+      "endMs": 56040
+    },
+    {
+      "raw": "Ang-2.",
+      "beat": 6,
+      "startMs": 56040,
+      "endMs": 57640
+    },
+    {
+      "raw": "It",
+      "beat": 7,
+      "startMs": 57640,
+      "endMs": 57830
+    },
+    {
+      "raw": "is",
+      "beat": 7,
+      "startMs": 57830,
+      "endMs": 57900
+    },
+    {
+      "raw": "being",
+      "beat": 7,
+      "startMs": 57900,
+      "endMs": 58230
+    },
+    {
+      "raw": "developed",
+      "beat": 7,
+      "startMs": 58230,
+      "endMs": 58820
+    },
+    {
+      "raw": "for",
+      "beat": 7,
+      "startMs": 58820,
+      "endMs": 59100
+    },
+    {
+      "raw": "wet",
+      "beat": 7,
+      "startMs": 59100,
+      "endMs": 59200
+    },
+    {
+      "raw": "age-related",
+      "beat": 7,
+      "startMs": 59200,
+      "endMs": 59910
+    },
+    {
+      "raw": "macular",
+      "beat": 7,
+      "startMs": 59910,
+      "endMs": 60360
+    },
+    {
+      "raw": "degeneration",
+      "beat": 7,
+      "startMs": 60360,
+      "endMs": 61270
+    },
+    {
+      "raw": "and",
+      "beat": 7,
+      "startMs": 61270,
+      "endMs": 61340
+    },
+    {
+      "raw": "diabetic",
+      "beat": 7,
+      "startMs": 61340,
+      "endMs": 61860
+    },
+    {
+      "raw": "macular",
+      "beat": 7,
+      "startMs": 61860,
+      "endMs": 62400
+    },
+    {
+      "raw": "edema,",
+      "beat": 7,
+      "startMs": 62400,
+      "endMs": 63320
+    },
+    {
+      "raw": "which",
+      "beat": 7,
+      "startMs": 63320,
+      "endMs": 63720
+    },
+    {
+      "raw": "J&J",
+      "beat": 7,
+      "startMs": 63720,
+      "endMs": 63960
+    },
+    {
+      "raw": "says",
+      "beat": 7,
+      "startMs": 63960,
+      "endMs": 64690
+    },
+    {
+      "raw": "together",
+      "beat": 7,
+      "startMs": 64690,
+      "endMs": 65080
+    },
+    {
+      "raw": "affect",
+      "beat": 7,
+      "startMs": 65080,
+      "endMs": 65560
+    },
+    {
+      "raw": "more",
+      "beat": 7,
+      "startMs": 65560,
+      "endMs": 65880
+    },
+    {
+      "raw": "than",
+      "beat": 7,
+      "startMs": 65880,
+      "endMs": 66210
+    },
+    {
+      "raw": "40",
+      "beat": 7,
+      "startMs": 66210,
+      "endMs": 66680
+    },
+    {
+      "raw": "million",
+      "beat": 7,
+      "startMs": 66680,
+      "endMs": 67320
+    },
+    {
+      "raw": "people",
+      "beat": 7,
+      "startMs": 67320,
+      "endMs": 67720
+    },
+    {
+      "raw": "worldwide.",
+      "beat": 7,
+      "startMs": 67720,
+      "endMs": 68720
+    },
+    {
+      "raw": "OLN-324",
+      "beat": 8,
+      "startMs": 68892,
+      "endMs": 69690
+    },
+    {
+      "raw": "was",
+      "beat": 8,
+      "startMs": 69690,
+      "endMs": 69920
+    },
+    {
+      "raw": "discovered",
+      "beat": 8,
+      "startMs": 69920,
+      "endMs": 70730
+    },
+    {
+      "raw": "by",
+      "beat": 8,
+      "startMs": 70730,
+      "endMs": 70880
+    },
+    {
+      "raw": "Innovent",
+      "beat": 8,
+      "startMs": 70880,
+      "endMs": 71440
+    },
+    {
+      "raw": "Biologics,",
+      "beat": 8,
+      "startMs": 71440,
+      "endMs": 72340
+    },
+    {
+      "raw": "which",
+      "beat": 8,
+      "startMs": 72340,
+      "endMs": 72720
+    },
+    {
+      "raw": "develops",
+      "beat": 8,
+      "startMs": 72720,
+      "endMs": 73360
+    },
+    {
+      "raw": "it",
+      "beat": 8,
+      "startMs": 73360,
+      "endMs": 73520
+    },
+    {
+      "raw": "together",
+      "beat": 8,
+      "startMs": 73520,
+      "endMs": 74170
+    },
+    {
+      "raw": "with",
+      "beat": 8,
+      "startMs": 74170,
+      "endMs": 74470
+    },
+    {
+      "raw": "Ollin.",
+      "beat": 8,
+      "startMs": 74470,
+      "endMs": 75080
+    },
+    {
+      "raw": "The",
+      "beat": 9,
+      "startMs": 75080,
+      "endMs": 75300
+    },
+    {
+      "raw": "main",
+      "beat": 9,
+      "startMs": 75300,
+      "endMs": 75600
+    },
+    {
+      "raw": "data",
+      "beat": 9,
+      "startMs": 75600,
+      "endMs": 75900
+    },
+    {
+      "raw": "come",
+      "beat": 9,
+      "startMs": 75900,
+      "endMs": 76220
+    },
+    {
+      "raw": "from",
+      "beat": 9,
+      "startMs": 76220,
+      "endMs": 76490
+    },
+    {
+      "raw": "JADE,",
+      "beat": 9,
+      "startMs": 76490,
+      "endMs": 76950
+    },
+    {
+      "raw": "a",
+      "beat": 9,
+      "startMs": 76950,
+      "endMs": 77130
+    },
+    {
+      "raw": "Phase",
+      "beat": 9,
+      "startMs": 77130,
+      "endMs": 77400
+    },
+    {
+      "raw": "1B",
+      "beat": 9,
+      "startMs": 77400,
+      "endMs": 77700
+    },
+    {
+      "raw": "trial",
+      "beat": 9,
+      "startMs": 77700,
+      "endMs": 78070
+    },
+    {
+      "raw": "of",
+      "beat": 9,
+      "startMs": 78070,
+      "endMs": 78220
+    },
+    {
+      "raw": "more",
+      "beat": 9,
+      "startMs": 78220,
+      "endMs": 78520
+    },
+    {
+      "raw": "than",
+      "beat": 9,
+      "startMs": 78520,
+      "endMs": 78820
+    },
+    {
+      "raw": "160",
+      "beat": 9,
+      "startMs": 78820,
+      "endMs": 79500
+    },
+    {
+      "raw": "patients,",
+      "beat": 9,
+      "startMs": 79500,
+      "endMs": 80260
+    },
+    {
+      "raw": "run",
+      "beat": 9,
+      "startMs": 80260,
+      "endMs": 80710
+    },
+    {
+      "raw": "head-to-head",
+      "beat": 9,
+      "startMs": 80710,
+      "endMs": 81500
+    },
+    {
+      "raw": "against",
+      "beat": 9,
+      "startMs": 81500,
+      "endMs": 82030
+    },
+    {
+      "raw": "Vabysmo,",
+      "beat": 9,
+      "startMs": 82030,
+      "endMs": 82860
+    },
+    {
+      "raw": "the",
+      "beat": 9,
+      "startMs": 82860,
+      "endMs": 82930
+    },
+    {
+      "raw": "approved",
+      "beat": 9,
+      "startMs": 82930,
+      "endMs": 83540
+    },
+    {
+      "raw": "Roche",
+      "beat": 9,
+      "startMs": 83540,
+      "endMs": 83920
+    },
+    {
+      "raw": "drug",
+      "beat": 9,
+      "startMs": 83920,
+      "endMs": 84300
+    },
+    {
+      "raw": "that",
+      "beat": 9,
+      "startMs": 84300,
+      "endMs": 84520
+    },
+    {
+      "raw": "blocks",
+      "beat": 9,
+      "startMs": 84520,
+      "endMs": 84980
+    },
+    {
+      "raw": "the",
+      "beat": 9,
+      "startMs": 84980,
+      "endMs": 85210
+    },
+    {
+      "raw": "same",
+      "beat": 9,
+      "startMs": 85210,
+      "endMs": 85510
+    },
+    {
+      "raw": "two",
+      "beat": 9,
+      "startMs": 85510,
+      "endMs": 85750
+    },
+    {
+      "raw": "targets.",
+      "beat": 9,
+      "startMs": 85750,
+      "endMs": 86580
+    },
+    {
+      "raw": "In",
+      "beat": 10,
+      "startMs": 86580,
+      "endMs": 86710
+    },
+    {
+      "raw": "diabetic",
+      "beat": 10,
+      "startMs": 86710,
+      "endMs": 87220
+    },
+    {
+      "raw": "macular",
+      "beat": 10,
+      "startMs": 87220,
+      "endMs": 87660
+    },
+    {
+      "raw": "edema,",
+      "beat": 10,
+      "startMs": 87660,
+      "endMs": 88100
+    },
+    {
+      "raw": "Ollin",
+      "beat": 10,
+      "startMs": 88450,
+      "endMs": 88490
+    },
+    {
+      "raw": "reported",
+      "beat": 10,
+      "startMs": 88750,
+      "endMs": 88860
+    },
+    {
+      "raw": "that",
+      "beat": 10,
+      "startMs": 88860,
+      "endMs": 89110
+    },
+    {
+      "raw": "nearly",
+      "beat": 10,
+      "startMs": 89110,
+      "endMs": 89490
+    },
+    {
+      "raw": "90%",
+      "beat": 10,
+      "startMs": 89490,
+      "endMs": 90320
+    },
+    {
+      "raw": "of",
+      "beat": 10,
+      "startMs": 90320,
+      "endMs": 90450
+    },
+    {
+      "raw": "patients",
+      "beat": 10,
+      "startMs": 90450,
+      "endMs": 90960
+    },
+    {
+      "raw": "on",
+      "beat": 10,
+      "startMs": 90960,
+      "endMs": 91090
+    },
+    {
+      "raw": "the",
+      "beat": 10,
+      "startMs": 91090,
+      "endMs": 91380
+    },
+    {
+      "raw": "higher",
+      "beat": 10,
+      "startMs": 91380,
+      "endMs": 91680
+    },
+    {
+      "raw": "dose",
+      "beat": 10,
+      "startMs": 91680,
+      "endMs": 92020
+    },
+    {
+      "raw": "met",
+      "beat": 10,
+      "startMs": 92020,
+      "endMs": 92360
+    },
+    {
+      "raw": "the",
+      "beat": 10,
+      "startMs": 92360,
+      "endMs": 92610
+    },
+    {
+      "raw": "trial's",
+      "beat": 10,
+      "startMs": 92610,
+      "endMs": 93150
+    },
+    {
+      "raw": "definition",
+      "beat": 10,
+      "startMs": 93150,
+      "endMs": 94020
+    },
+    {
+      "raw": "of",
+      "beat": 10,
+      "startMs": 94020,
+      "endMs": 94190
+    },
+    {
+      "raw": "no",
+      "beat": 10,
+      "startMs": 94190,
+      "endMs": 94360
+    },
+    {
+      "raw": "edema",
+      "beat": 10,
+      "startMs": 94360,
+      "endMs": 94790
+    },
+    {
+      "raw": "at",
+      "beat": 10,
+      "startMs": 94790,
+      "endMs": 94960
+    },
+    {
+      "raw": "week",
+      "beat": 10,
+      "startMs": 94960,
+      "endMs": 95310
+    },
+    {
+      "raw": "12,",
+      "beat": 10,
+      "startMs": 95310,
+      "endMs": 96000
+    },
+    {
+      "raw": "against",
+      "beat": 10,
+      "startMs": 96000,
+      "endMs": 96610
+    },
+    {
+      "raw": "57%",
+      "beat": 10,
+      "startMs": 96610,
+      "endMs": 97740
+    },
+    {
+      "raw": "on",
+      "beat": 10,
+      "startMs": 97740,
+      "endMs": 97910
+    },
+    {
+      "raw": "Vabysmo.",
+      "beat": 10,
+      "startMs": 97910,
+      "endMs": 98750
+    },
+    {
+      "raw": "In",
+      "beat": 11,
+      "startMs": 98750,
+      "endMs": 99060
+    },
+    {
+      "raw": "wet",
+      "beat": 11,
+      "startMs": 99060,
+      "endMs": 99330
+    },
+    {
+      "raw": "AMD,",
+      "beat": 11,
+      "startMs": 99330,
+      "endMs": 99780
+    },
+    {
+      "raw": "Ollin",
+      "beat": 11,
+      "startMs": 99780,
+      "endMs": 100280
+    },
+    {
+      "raw": "said",
+      "beat": 11,
+      "startMs": 100284,
+      "endMs": 100500
+    },
+    {
+      "raw": "the",
+      "beat": 11,
+      "startMs": 100500,
+      "endMs": 100770
+    },
+    {
+      "raw": "two",
+      "beat": 11,
+      "startMs": 100770,
+      "endMs": 101040
+    },
+    {
+      "raw": "drugs",
+      "beat": 11,
+      "startMs": 101040,
+      "endMs": 101490
+    },
+    {
+      "raw": "performed",
+      "beat": 11,
+      "startMs": 101490,
+      "endMs": 102310
+    },
+    {
+      "raw": "about",
+      "beat": 11,
+      "startMs": 102310,
+      "endMs": 102760
+    },
+    {
+      "raw": "the",
+      "beat": 11,
+      "startMs": 102760,
+      "endMs": 102977
+    },
+    {
+      "raw": "same.",
+      "beat": 11,
+      "startMs": 102977,
+      "endMs": 103720
+    },
+    {
+      "raw": "These",
+      "beat": 12,
+      "startMs": 103720,
+      "endMs": 104040
+    },
+    {
+      "raw": "are",
+      "beat": 12,
+      "startMs": 104040,
+      "endMs": 104240
+    },
+    {
+      "raw": "company-reported",
+      "beat": 12,
+      "startMs": 104240,
+      "endMs": 105280
+    },
+    {
+      "raw": "results",
+      "beat": 12,
+      "startMs": 105280,
+      "endMs": 105810
+    },
+    {
+      "raw": "from",
+      "beat": 12,
+      "startMs": 105810,
+      "endMs": 106000
+    },
+    {
+      "raw": "an",
+      "beat": 12,
+      "startMs": 106000,
+      "endMs": 106130
+    },
+    {
+      "raw": "early-stage",
+      "beat": 12,
+      "startMs": 106130,
+      "endMs": 106790
+    },
+    {
+      "raw": "trial.",
+      "beat": 12,
+      "startMs": 106790,
+      "endMs": 107360
+    },
+    {
+      "raw": "J&J's",
+      "beat": 12,
+      "startMs": 107390,
+      "endMs": 107770
+    },
+    {
+      "raw": "release",
+      "beat": 12,
+      "startMs": 107770,
+      "endMs": 108360
+    },
+    {
+      "raw": "calls",
+      "beat": 12,
+      "startMs": 108360,
+      "endMs": 108800
+    },
+    {
+      "raw": "the",
+      "beat": 12,
+      "startMs": 108800,
+      "endMs": 109060
+    },
+    {
+      "raw": "data",
+      "beat": 12,
+      "startMs": 109060,
+      "endMs": 109400
+    },
+    {
+      "raw": "compelling,",
+      "beat": 12,
+      "startMs": 109400,
+      "endMs": 110250
+    },
+    {
+      "raw": "and",
+      "beat": 12,
+      "startMs": 110250,
+      "endMs": 110680
+    },
+    {
+      "raw": "gives",
+      "beat": 12,
+      "startMs": 110680,
+      "endMs": 111100
+    },
+    {
+      "raw": "no",
+      "beat": 12,
+      "startMs": 111100,
+      "endMs": 111280
+    },
+    {
+      "raw": "numbers.",
+      "beat": 12,
+      "startMs": 111280,
+      "endMs": 111950
+    },
+    {
+      "raw": "Here",
+      "beat": 13,
+      "startMs": 111950,
+      "endMs": 112580
+    },
+    {
+      "raw": "is",
+      "beat": 13,
+      "startMs": 112580,
+      "endMs": 112750
+    },
+    {
+      "raw": "the",
+      "beat": 13,
+      "startMs": 112750,
+      "endMs": 113010
+    },
+    {
+      "raw": "unusual",
+      "beat": 13,
+      "startMs": 113010,
+      "endMs": 113580
+    },
+    {
+      "raw": "part.",
+      "beat": 13,
+      "startMs": 113580,
+      "endMs": 114240
+    },
+    {
+      "raw": "In",
+      "beat": 13,
+      "startMs": 114240,
+      "endMs": 114410
+    },
+    {
+      "raw": "a",
+      "beat": 13,
+      "startMs": 114410,
+      "endMs": 114490
+    },
+    {
+      "raw": "separate",
+      "beat": 13,
+      "startMs": 114490,
+      "endMs": 115180
+    },
+    {
+      "raw": "agreement,",
+      "beat": 13,
+      "startMs": 115180,
+      "endMs": 116130
+    },
+    {
+      "raw": "Blackstone",
+      "beat": 13,
+      "startMs": 116130,
+      "endMs": 117000
+    },
+    {
+      "raw": "Life",
+      "beat": 13,
+      "startMs": 117000,
+      "endMs": 117330
+    },
+    {
+      "raw": "Sciences",
+      "beat": 13,
+      "startMs": 117330,
+      "endMs": 118020
+    },
+    {
+      "raw": "will",
+      "beat": 13,
+      "startMs": 118020,
+      "endMs": 118360
+    },
+    {
+      "raw": "pay",
+      "beat": 13,
+      "startMs": 118360,
+      "endMs": 118620
+    },
+    {
+      "raw": "J&J",
+      "beat": 13,
+      "startMs": 118620,
+      "endMs": 118860
+    },
+    {
+      "raw": "$750",
+      "beat": 13,
+      "startMs": 118860,
+      "endMs": 119720
+    },
+    {
+      "raw": "million",
+      "beat": 13,
+      "startMs": 119720,
+      "endMs": 120320
+    },
+    {
+      "raw": "over",
+      "beat": 13,
+      "startMs": 120320,
+      "endMs": 120660
+    },
+    {
+      "raw": "several",
+      "beat": 13,
+      "startMs": 120660,
+      "endMs": 121260
+    },
+    {
+      "raw": "years,",
+      "beat": 13,
+      "startMs": 121260,
+      "endMs": 121800
+    },
+    {
+      "raw": "to",
+      "beat": 13,
+      "startMs": 121800,
+      "endMs": 122140
+    },
+    {
+      "raw": "fully",
+      "beat": 13,
+      "startMs": 122140,
+      "endMs": 122490
+    },
+    {
+      "raw": "fund",
+      "beat": 13,
+      "startMs": 122490,
+      "endMs": 122860
+    },
+    {
+      "raw": "OLN-324's",
+      "beat": 13,
+      "startMs": 122860,
+      "endMs": 124160
+    },
+    {
+      "raw": "Phase",
+      "beat": 13,
+      "startMs": 124160,
+      "endMs": 124630
+    },
+    {
+      "raw": "3",
+      "beat": 13,
+      "startMs": 124630,
+      "endMs": 124900
+    },
+    {
+      "raw": "development.",
+      "beat": 13,
+      "startMs": 124900,
+      "endMs": 126280
+    },
+    {
+      "raw": "In",
+      "beat": 14,
+      "startMs": 126280,
+      "endMs": 126440
+    },
+    {
+      "raw": "return,",
+      "beat": 14,
+      "startMs": 126440,
+      "endMs": 127220
+    },
+    {
+      "raw": "Blackstone",
+      "beat": 14,
+      "startMs": 127222,
+      "endMs": 127820
+    },
+    {
+      "raw": "is",
+      "beat": 14,
+      "startMs": 127820,
+      "endMs": 127970
+    },
+    {
+      "raw": "eligible",
+      "beat": 14,
+      "startMs": 127970,
+      "endMs": 128590
+    },
+    {
+      "raw": "for",
+      "beat": 14,
+      "startMs": 128590,
+      "endMs": 128820
+    },
+    {
+      "raw": "regulatory",
+      "beat": 14,
+      "startMs": 128820,
+      "endMs": 129600
+    },
+    {
+      "raw": "and",
+      "beat": 14,
+      "startMs": 129600,
+      "endMs": 129830
+    },
+    {
+      "raw": "sales",
+      "beat": 14,
+      "startMs": 129830,
+      "endMs": 130220
+    },
+    {
+      "raw": "milestones,",
+      "beat": 14,
+      "startMs": 130220,
+      "endMs": 130800
+    },
+    {
+      "raw": "plus",
+      "beat": 14,
+      "startMs": 130800,
+      "endMs": 131460
+    },
+    {
+      "raw": "single-digit",
+      "beat": 14,
+      "startMs": 131460,
+      "endMs": 132370
+    },
+    {
+      "raw": "royalties.",
+      "beat": 14,
+      "startMs": 132370,
+      "endMs": 133200
+    },
+    {
+      "raw": "That",
+      "beat": 14,
+      "startMs": 133200,
+      "endMs": 133680
+    },
+    {
+      "raw": "agreement",
+      "beat": 14,
+      "startMs": 133680,
+      "endMs": 134320
+    },
+    {
+      "raw": "only",
+      "beat": 14,
+      "startMs": 134320,
+      "endMs": 134700
+    },
+    {
+      "raw": "takes",
+      "beat": 14,
+      "startMs": 134700,
+      "endMs": 134950
+    },
+    {
+      "raw": "effect",
+      "beat": 14,
+      "startMs": 134950,
+      "endMs": 135360
+    },
+    {
+      "raw": "if",
+      "beat": 14,
+      "startMs": 135360,
+      "endMs": 135500
+    },
+    {
+      "raw": "the",
+      "beat": 14,
+      "startMs": 135500,
+      "endMs": 135710
+    },
+    {
+      "raw": "acquisition",
+      "beat": 14,
+      "startMs": 135710,
+      "endMs": 136470
+    },
+    {
+      "raw": "closes.",
+      "beat": 14,
+      "startMs": 136470,
+      "endMs": 137000
+    },
+    {
+      "raw": "Why",
+      "beat": 15,
+      "startMs": 137000,
+      "endMs": 137580
+    },
+    {
+      "raw": "it",
+      "beat": 15,
+      "startMs": 137580,
+      "endMs": 137860
+    },
+    {
+      "raw": "matters.",
+      "beat": 15,
+      "startMs": 137860,
+      "endMs": 138600
+    },
+    {
+      "raw": "This",
+      "beat": 15,
+      "startMs": 138600,
+      "endMs": 139240
+    },
+    {
+      "raw": "is",
+      "beat": 15,
+      "startMs": 139240,
+      "endMs": 139410
+    },
+    {
+      "raw": "our",
+      "beat": 15,
+      "startMs": 139410,
+      "endMs": 139670
+    },
+    {
+      "raw": "read.",
+      "beat": 15,
+      "startMs": 139670,
+      "endMs": 140360
+    },
+    {
+      "raw": "J&J",
+      "beat": 16,
+      "startMs": 140360,
+      "endMs": 140600
+    },
+    {
+      "raw": "is",
+      "beat": 16,
+      "startMs": 140600,
+      "endMs": 140760
+    },
+    {
+      "raw": "buying",
+      "beat": 16,
+      "startMs": 140760,
+      "endMs": 141270
+    },
+    {
+      "raw": "a",
+      "beat": 16,
+      "startMs": 141270,
+      "endMs": 141330
+    },
+    {
+      "raw": "drug",
+      "beat": 16,
+      "startMs": 141330,
+      "endMs": 141660
+    },
+    {
+      "raw": "ready",
+      "beat": 16,
+      "startMs": 141660,
+      "endMs": 142080
+    },
+    {
+      "raw": "for",
+      "beat": 16,
+      "startMs": 142080,
+      "endMs": 142310
+    },
+    {
+      "raw": "Phase",
+      "beat": 16,
+      "startMs": 142310,
+      "endMs": 142720
+    },
+    {
+      "raw": "3,",
+      "beat": 16,
+      "startMs": 142720,
+      "endMs": 142960
+    },
+    {
+      "raw": "and",
+      "beat": 16,
+      "startMs": 142960,
+      "endMs": 143200
+    },
+    {
+      "raw": "handing",
+      "beat": 16,
+      "startMs": 143550,
+      "endMs": 143780
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 143780,
+      "endMs": 144020
+    },
+    {
+      "raw": "bill",
+      "beat": 16,
+      "startMs": 144020,
+      "endMs": 144350
+    },
+    {
+      "raw": "for",
+      "beat": 16,
+      "startMs": 144350,
+      "endMs": 144600
+    },
+    {
+      "raw": "that",
+      "beat": 16,
+      "startMs": 144600,
+      "endMs": 144920
+    },
+    {
+      "raw": "costly,",
+      "beat": 16,
+      "startMs": 144920,
+      "endMs": 145570
+    },
+    {
+      "raw": "risky",
+      "beat": 16,
+      "startMs": 145570,
+      "endMs": 145990
+    },
+    {
+      "raw": "stage",
+      "beat": 16,
+      "startMs": 145990,
+      "endMs": 146520
+    },
+    {
+      "raw": "to",
+      "beat": 16,
+      "startMs": 146520,
+      "endMs": 146730
+    },
+    {
+      "raw": "an",
+      "beat": 16,
+      "startMs": 146730,
+      "endMs": 147000
+    },
+    {
+      "raw": "outside",
+      "beat": 16,
+      "startMs": 147000,
+      "endMs": 147670
+    },
+    {
+      "raw": "funder.",
+      "beat": 16,
+      "startMs": 147670,
+      "endMs": 148500
+    },
+    {
+      "raw": "If",
+      "beat": 16,
+      "startMs": 148500,
+      "endMs": 148760
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 148760,
+      "endMs": 148970
+    },
+    {
+      "raw": "trials",
+      "beat": 16,
+      "startMs": 148970,
+      "endMs": 149390
+    },
+    {
+      "raw": "fail,",
+      "beat": 16,
+      "startMs": 149390,
+      "endMs": 149880
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 149880,
+      "endMs": 150020
+    },
+    {
+      "raw": "spending",
+      "beat": 16,
+      "startMs": 150020,
+      "endMs": 150580
+    },
+    {
+      "raw": "was",
+      "beat": 16,
+      "startMs": 150580,
+      "endMs": 150790
+    },
+    {
+      "raw": "Blackstone's",
+      "beat": 16,
+      "startMs": 150790,
+      "endMs": 151620
+    },
+    {
+      "raw": "money.",
+      "beat": 16,
+      "startMs": 151620,
+      "endMs": 152240
+    },
+    {
+      "raw": "If",
+      "beat": 16,
+      "startMs": 152240,
+      "endMs": 152380
+    },
+    {
+      "raw": "they",
+      "beat": 16,
+      "startMs": 152380,
+      "endMs": 152670
+    },
+    {
+      "raw": "succeed,",
+      "beat": 16,
+      "startMs": 152670,
+      "endMs": 153380
+    },
+    {
+      "raw": "Blackstone",
+      "beat": 16,
+      "startMs": 153384,
+      "endMs": 154040
+    },
+    {
+      "raw": "shares",
+      "beat": 16,
+      "startMs": 154040,
+      "endMs": 154520
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 154520,
+      "endMs": 154690
+    },
+    {
+      "raw": "upside.",
+      "beat": 16,
+      "startMs": 154690,
+      "endMs": 155300
+    },
+    {
+      "raw": "And",
+      "beat": 17,
+      "startMs": 155300,
+      "endMs": 155680
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 155680,
+      "endMs": 155960
+    },
+    {
+      "raw": "bar",
+      "beat": 17,
+      "startMs": 155960,
+      "endMs": 156200
+    },
+    {
+      "raw": "is",
+      "beat": 17,
+      "startMs": 156200,
+      "endMs": 156370
+    },
+    {
+      "raw": "clear.",
+      "beat": 17,
+      "startMs": 156370,
+      "endMs": 157120
+    },
+    {
+      "raw": "Vabysmo",
+      "beat": 17,
+      "startMs": 157120,
+      "endMs": 157680
+    },
+    {
+      "raw": "is",
+      "beat": 17,
+      "startMs": 157680,
+      "endMs": 157850
+    },
+    {
+      "raw": "already",
+      "beat": 17,
+      "startMs": 157850,
+      "endMs": 158440
+    },
+    {
+      "raw": "approved",
+      "beat": 17,
+      "startMs": 158440,
+      "endMs": 159110
+    },
+    {
+      "raw": "in",
+      "beat": 17,
+      "startMs": 159110,
+      "endMs": 159320
+    },
+    {
+      "raw": "both",
+      "beat": 17,
+      "startMs": 159320,
+      "endMs": 159620
+    },
+    {
+      "raw": "diseases.",
+      "beat": 17,
+      "startMs": 159620,
+      "endMs": 160600
+    },
+    {
+      "raw": "OLN-324",
+      "beat": 17,
+      "startMs": 160600,
+      "endMs": 161820
+    },
+    {
+      "raw": "has",
+      "beat": 17,
+      "startMs": 161820,
+      "endMs": 162040
+    },
+    {
+      "raw": "to",
+      "beat": 17,
+      "startMs": 162040,
+      "endMs": 162230
+    },
+    {
+      "raw": "show",
+      "beat": 17,
+      "startMs": 162230,
+      "endMs": 162610
+    },
+    {
+      "raw": "it",
+      "beat": 17,
+      "startMs": 162610,
+      "endMs": 162800
+    },
+    {
+      "raw": "does",
+      "beat": 17,
+      "startMs": 162800,
+      "endMs": 163240
+    },
+    {
+      "raw": "more",
+      "beat": 17,
+      "startMs": 163240,
+      "endMs": 163560
+    },
+    {
+      "raw": "than",
+      "beat": 17,
+      "startMs": 163560,
+      "endMs": 163940
+    },
+    {
+      "raw": "match",
+      "beat": 17,
+      "startMs": 163940,
+      "endMs": 164410
+    },
+    {
+      "raw": "it.",
+      "beat": 17,
+      "startMs": 164410,
+      "endMs": 164850
+    },
+    {
+      "raw": "So",
+      "beat": 18,
+      "startMs": 164850,
+      "endMs": 165110
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 165110,
+      "endMs": 165330
+    },
+    {
+      "raw": "signal",
+      "beat": 18,
+      "startMs": 165330,
+      "endMs": 165780
+    },
+    {
+      "raw": "comes",
+      "beat": 18,
+      "startMs": 165780,
+      "endMs": 166290
+    },
+    {
+      "raw": "in",
+      "beat": 18,
+      "startMs": 166290,
+      "endMs": 166300
+    },
+    {
+      "raw": "order.",
+      "beat": 18,
+      "startMs": 166300,
+      "endMs": 166920
+    },
+    {
+      "raw": "First,",
+      "beat": 18,
+      "startMs": 167087,
+      "endMs": 167480
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 167480,
+      "endMs": 167720
+    },
+    {
+      "raw": "deal",
+      "beat": 18,
+      "startMs": 167720,
+      "endMs": 168040
+    },
+    {
+      "raw": "closing,",
+      "beat": 18,
+      "startMs": 168040,
+      "endMs": 168880
+    },
+    {
+      "raw": "expected",
+      "beat": 18,
+      "startMs": 168880,
+      "endMs": 169530
+    },
+    {
+      "raw": "before",
+      "beat": 18,
+      "startMs": 169530,
+      "endMs": 170020
+    },
+    {
+      "raw": "year-end.",
+      "beat": 18,
+      "startMs": 170020,
+      "endMs": 170550
+    },
+    {
+      "raw": "Then,",
+      "beat": 19,
+      "startMs": 170550,
+      "endMs": 171220
+    },
+    {
+      "raw": "the",
+      "beat": 19,
+      "startMs": 171220,
+      "endMs": 171470
+    },
+    {
+      "raw": "start",
+      "beat": 19,
+      "startMs": 171470,
+      "endMs": 171900
+    },
+    {
+      "raw": "of",
+      "beat": 19,
+      "startMs": 171900,
+      "endMs": 172070
+    },
+    {
+      "raw": "Phase",
+      "beat": 19,
+      "startMs": 172070,
+      "endMs": 172377
+    },
+    {
+      "raw": "3.",
+      "beat": 19,
+      "startMs": 172377,
+      "endMs": 173040
+    },
+    {
+      "raw": "In",
+      "beat": 19,
+      "startMs": 173040,
+      "endMs": 173180
+    },
+    {
+      "raw": "June,",
+      "beat": 19,
+      "startMs": 173180,
+      "endMs": 173670
+    },
+    {
+      "raw": "Ollin",
+      "beat": 19,
+      "startMs": 173670,
+      "endMs": 173880
+    },
+    {
+      "raw": "said",
+      "beat": 19,
+      "startMs": 173880,
+      "endMs": 174160
+    },
+    {
+      "raw": "its",
+      "beat": 19,
+      "startMs": 174160,
+      "endMs": 174380
+    },
+    {
+      "raw": "global",
+      "beat": 19,
+      "startMs": 174380,
+      "endMs": 174790
+    },
+    {
+      "raw": "trials",
+      "beat": 19,
+      "startMs": 174790,
+      "endMs": 175210
+    },
+    {
+      "raw": "in",
+      "beat": 19,
+      "startMs": 175210,
+      "endMs": 175350
+    },
+    {
+      "raw": "both",
+      "beat": 19,
+      "startMs": 175350,
+      "endMs": 175630
+    },
+    {
+      "raw": "diseases",
+      "beat": 19,
+      "startMs": 175630,
+      "endMs": 176200
+    },
+    {
+      "raw": "would",
+      "beat": 19,
+      "startMs": 176200,
+      "endMs": 176550
+    },
+    {
+      "raw": "begin",
+      "beat": 19,
+      "startMs": 176550,
+      "endMs": 176900
+    },
+    {
+      "raw": "in",
+      "beat": 19,
+      "startMs": 176900,
+      "endMs": 177040
+    },
+    {
+      "raw": "the",
+      "beat": 19,
+      "startMs": 177040,
+      "endMs": 177250
+    },
+    {
+      "raw": "second",
+      "beat": 19,
+      "startMs": 177250,
+      "endMs": 177670
+    },
+    {
+      "raw": "half",
+      "beat": 19,
+      "startMs": 177670,
+      "endMs": 178010
+    },
+    {
+      "raw": "of",
+      "beat": 19,
+      "startMs": 178010,
+      "endMs": 178200
+    },
+    {
+      "raw": "2026.",
+      "beat": 19,
+      "startMs": 178200,
+      "endMs": 179750
+    },
+    {
+      "raw": "And",
+      "beat": 20,
+      "startMs": 179750,
+      "endMs": 180140
+    },
+    {
+      "raw": "then",
+      "beat": 20,
+      "startMs": 180140,
+      "endMs": 180490
+    },
+    {
+      "raw": "the",
+      "beat": 20,
+      "startMs": 180490,
+      "endMs": 180750
+    },
+    {
+      "raw": "real",
+      "beat": 20,
+      "startMs": 180750,
+      "endMs": 181090
+    },
+    {
+      "raw": "test:",
+      "beat": 20,
+      "startMs": 181090,
+      "endMs": 181720
+    },
+    {
+      "raw": "whether",
+      "beat": 20,
+      "startMs": 181720,
+      "endMs": 182260
+    },
+    {
+      "raw": "large",
+      "beat": 20,
+      "startMs": 182260,
+      "endMs": 182650
+    },
+    {
+      "raw": "trials",
+      "beat": 20,
+      "startMs": 182650,
+      "endMs": 183190
+    },
+    {
+      "raw": "confirm",
+      "beat": 20,
+      "startMs": 183190,
+      "endMs": 183650
+    },
+    {
+      "raw": "what",
+      "beat": 20,
+      "startMs": 183650,
+      "endMs": 183960
+    },
+    {
+      "raw": "about",
+      "beat": 20,
+      "startMs": 183960,
+      "endMs": 184350
+    },
+    {
+      "raw": "160",
+      "beat": 20,
+      "startMs": 184350,
+      "endMs": 185060
+    },
+    {
+      "raw": "patients",
+      "beat": 20,
+      "startMs": 185060,
+      "endMs": 185660
+    },
+    {
+      "raw": "suggested.",
+      "beat": 20,
+      "startMs": 185660,
+      "endMs": 186640
+    },
+    {
+      "raw": "The",
+      "beat": 20,
+      "startMs": 186640,
+      "endMs": 186850
+    },
+    {
+      "raw": "milestone",
+      "beat": 20,
+      "startMs": 186850,
+      "endMs": 187470
+    },
+    {
+      "raw": "money",
+      "beat": 20,
+      "startMs": 187470,
+      "endMs": 187810
+    },
+    {
+      "raw": "sits",
+      "beat": 20,
+      "startMs": 187810,
+      "endMs": 188190
+    },
+    {
+      "raw": "on",
+      "beat": 20,
+      "startMs": 188190,
+      "endMs": 188230
+    },
+    {
+      "raw": "the",
+      "beat": 20,
+      "startMs": 188230,
+      "endMs": 188440
+    },
+    {
+      "raw": "far",
+      "beat": 20,
+      "startMs": 188440,
+      "endMs": 188650
+    },
+    {
+      "raw": "side",
+      "beat": 20,
+      "startMs": 188650,
+      "endMs": 188930
+    },
+    {
+      "raw": "of",
+      "beat": 20,
+      "startMs": 188930,
+      "endMs": 189070
+    },
+    {
+      "raw": "that",
+      "beat": 20,
+      "startMs": 189070,
+      "endMs": 189350
+    },
+    {
+      "raw": "answer.",
+      "beat": 20,
+      "startMs": 189350,
+      "endMs": 189850
+    },
+    {
+      "raw": "We",
+      "beat": 21,
+      "startMs": 189850,
+      "endMs": 190140
+    },
+    {
+      "raw": "track",
+      "beat": 21,
+      "startMs": 190140,
+      "endMs": 190530
+    },
+    {
+      "raw": "the",
+      "beat": 21,
+      "startMs": 190530,
+      "endMs": 190760
+    },
+    {
+      "raw": "deals",
+      "beat": 21,
+      "startMs": 190760,
+      "endMs": 191140
+    },
+    {
+      "raw": "that",
+      "beat": 21,
+      "startMs": 191140,
+      "endMs": 191440
+    },
+    {
+      "raw": "move",
+      "beat": 21,
+      "startMs": 191440,
+      "endMs": 191730
+    },
+    {
+      "raw": "biotech,",
+      "beat": 21,
+      "startMs": 191730,
+      "endMs": 192350
+    },
+    {
+      "raw": "every",
+      "beat": 21,
+      "startMs": 192351,
+      "endMs": 192650
+    },
+    {
+      "raw": "week",
+      "beat": 21,
+      "startMs": 192650,
+      "endMs": 193090
+    },
+    {
+      "raw": "in",
+      "beat": 21,
+      "startMs": 193090,
+      "endMs": 193100
+    },
+    {
+      "raw": "The",
+      "beat": 21,
+      "startMs": 193100,
+      "endMs": 193320
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 21,
+      "startMs": 193320,
+      "endMs": 193930
+    },
+    {
+      "raw": "Brief.",
+      "beat": 21,
+      "startMs": 193930,
+      "endMs": 194500
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 21,
+      "startMs": 194500,
+      "endMs": 195360
+    },
+    {
+      "raw": "free,",
+      "beat": 21,
+      "startMs": 195360,
+      "endMs": 195700
+    },
+    {
+      "raw": "at",
+      "beat": 21,
+      "startMs": 195700,
+      "endMs": 195910
+    },
+    {
+      "raw": "thecatalystbrief.com.",
+      "beat": 21,
+      "startMs": 195910,
+      "endMs": 197800
+    },
+    {
+      "raw": "Signal",
+      "beat": 21,
+      "startMs": 197800,
+      "endMs": 198670
+    },
+    {
+      "raw": "over",
+      "beat": 21,
+      "startMs": 198670,
+      "endMs": 198940
+    },
+    {
+      "raw": "noise.",
+      "beat": 21,
+      "startMs": 198940,
+      "endMs": 199320
+    }
+  ],
+  "captions": [
+    {
+      "text": "Johnson and Johnson is paying $2.2 billion",
+      "startMs": 60,
+      "endMs": 3670
+    },
+    {
+      "text": "up front for a company with one late-stage eye drug.",
+      "startMs": 3670,
+      "endMs": 7468
+    },
+    {
+      "text": "And it has already lined up someone else to",
+      "startMs": 7468,
+      "endMs": 9680
+    },
+    {
+      "text": "pay for that drug's final trials.",
+      "startMs": 9680,
+      "endMs": 12160
+    },
+    {
+      "text": "On November 16th, J&J agreed to acquire Ollin",
+      "startMs": 12160,
+      "endMs": 15710
+    },
+    {
+      "text": "Biosciences, a clinical-stage company developing",
+      "startMs": 15710,
+      "endMs": 18920
+    },
+    {
+      "text": "treatments for serious eye diseases.",
+      "startMs": 18920,
+      "endMs": 21337
+    },
+    {
+      "text": "Now the money, in order.",
+      "startMs": 21337,
+      "endMs": 23150
+    },
+    {
+      "text": "$2.2 billion up front.",
+      "startMs": 23150,
+      "endMs": 25914
+    },
+    {
+      "text": "On top of that, up to about $1.125 billion",
+      "startMs": 25914,
+      "endMs": 30090
+    },
+    {
+      "text": "more, but only if regulatory and commercial",
+      "startMs": 30090,
+      "endMs": 32510
+    },
+    {
+      "text": "milestones are reached.",
+      "startMs": 32510,
+      "endMs": 33920
+    },
+    {
+      "text": "By our math, that is up to about $3.3 billion in all.",
+      "startMs": 33920,
+      "endMs": 39150
+    },
+    {
+      "text": "J&J expects the deal to close before the end",
+      "startMs": 39150,
+      "endMs": 41760
+    },
+    {
+      "text": "of 2026, subject to regulatory approvals.",
+      "startMs": 41760,
+      "endMs": 45800
+    },
+    {
+      "text": "The drug is OLN-324.",
+      "startMs": 45800,
+      "endMs": 49008
+    },
+    {
+      "text": "It is a bispecific antibody: one molecule",
+      "startMs": 49008,
+      "endMs": 51840
+    },
+    {
+      "text": "that blocks two signals behind retinal disease,",
+      "startMs": 51840,
+      "endMs": 54844
+    },
+    {
+      "text": "VEGF and Ang-2.",
+      "startMs": 54844,
+      "endMs": 57640
+    },
+    {
+      "text": "It is being developed for wet age-related",
+      "startMs": 57640,
+      "endMs": 59910
+    },
+    {
+      "text": "macular degeneration and diabetic macular",
+      "startMs": 59910,
+      "endMs": 62400
+    },
+    {
+      "text": "edema, which J&J says together affect more",
+      "startMs": 62400,
+      "endMs": 65880
+    },
+    {
+      "text": "than 40 million people worldwide.",
+      "startMs": 65880,
+      "endMs": 68892
+    },
+    {
+      "text": "OLN-324 was discovered by Innovent Biologics,",
+      "startMs": 68892,
+      "endMs": 72340
+    },
+    {
+      "text": "which develops it together with Ollin.",
+      "startMs": 72340,
+      "endMs": 75080
+    },
+    {
+      "text": "The main data come from JADE, a Phase 1B trial",
+      "startMs": 75080,
+      "endMs": 78070
+    },
+    {
+      "text": "of more than 160 patients, run head-to-head",
+      "startMs": 78070,
+      "endMs": 81500
+    },
+    {
+      "text": "against Vabysmo, the approved Roche drug that",
+      "startMs": 81500,
+      "endMs": 84520
+    },
+    {
+      "text": "blocks the same two targets.",
+      "startMs": 84520,
+      "endMs": 86580
+    },
+    {
+      "text": "In diabetic macular edema, Ollin reported",
+      "startMs": 86580,
+      "endMs": 88860
+    },
+    {
+      "text": "that nearly 90% of patients on the higher",
+      "startMs": 88860,
+      "endMs": 91680
+    },
+    {
+      "text": "dose met the trial's definition of no edema",
+      "startMs": 91680,
+      "endMs": 94790
+    },
+    {
+      "text": "at week 12, against 57% on Vabysmo.",
+      "startMs": 94790,
+      "endMs": 98750
+    },
+    {
+      "text": "In wet AMD, Ollin said the two drugs performed",
+      "startMs": 98750,
+      "endMs": 102310
+    },
+    {
+      "text": "about the same.",
+      "startMs": 102310,
+      "endMs": 103720
+    },
+    {
+      "text": "These are company-reported results from an",
+      "startMs": 103720,
+      "endMs": 106130
+    },
+    {
+      "text": "early-stage trial.",
+      "startMs": 106130,
+      "endMs": 107390
+    },
+    {
+      "text": "J&J's release calls the data compelling, and",
+      "startMs": 107390,
+      "endMs": 110680
+    },
+    {
+      "text": "gives no numbers.",
+      "startMs": 110680,
+      "endMs": 111950
+    },
+    {
+      "text": "Here is the unusual part.",
+      "startMs": 111950,
+      "endMs": 114240
+    },
+    {
+      "text": "In a separate agreement, Blackstone Life Sciences",
+      "startMs": 114240,
+      "endMs": 118020
+    },
+    {
+      "text": "will pay J&J $750 million over several years,",
+      "startMs": 118020,
+      "endMs": 121800
+    },
+    {
+      "text": "to fully fund OLN-324's Phase 3 development.",
+      "startMs": 121800,
+      "endMs": 126280
+    },
+    {
+      "text": "In return, Blackstone is eligible for regulatory",
+      "startMs": 126280,
+      "endMs": 129600
+    },
+    {
+      "text": "and sales milestones, plus single-digit royalties.",
+      "startMs": 129600,
+      "endMs": 133200
+    },
+    {
+      "text": "That agreement only takes effect if the acquisition",
+      "startMs": 133200,
+      "endMs": 136470
+    },
+    {
+      "text": "closes.",
+      "startMs": 136470,
+      "endMs": 137000
+    },
+    {
+      "text": "Why it matters.",
+      "startMs": 137000,
+      "endMs": 138600
+    },
+    {
+      "text": "This is our read.",
+      "startMs": 138600,
+      "endMs": 140360
+    },
+    {
+      "text": "J&J is buying a drug ready for Phase 3, and",
+      "startMs": 140360,
+      "endMs": 143550
+    },
+    {
+      "text": "handing the bill for that costly, risky stage",
+      "startMs": 143550,
+      "endMs": 146520
+    },
+    {
+      "text": "to an outside funder.",
+      "startMs": 146520,
+      "endMs": 148500
+    },
+    {
+      "text": "If the trials fail, the spending was Blackstone's money.",
+      "startMs": 148500,
+      "endMs": 152240
+    },
+    {
+      "text": "If they succeed, Blackstone shares the upside.",
+      "startMs": 152240,
+      "endMs": 155300
+    },
+    {
+      "text": "And the bar is clear.",
+      "startMs": 155300,
+      "endMs": 157120
+    },
+    {
+      "text": "Vabysmo is already approved in both diseases.",
+      "startMs": 157120,
+      "endMs": 160600
+    },
+    {
+      "text": "OLN-324 has to show it does more than match it.",
+      "startMs": 160600,
+      "endMs": 164850
+    },
+    {
+      "text": "So the signal comes in order.",
+      "startMs": 164850,
+      "endMs": 167087
+    },
+    {
+      "text": "First, the deal closing, expected before year-end.",
+      "startMs": 167087,
+      "endMs": 170550
+    },
+    {
+      "text": "Then, the start of Phase 3.",
+      "startMs": 170550,
+      "endMs": 173040
+    },
+    {
+      "text": "In June, Ollin said its global trials in both",
+      "startMs": 173040,
+      "endMs": 175630
+    },
+    {
+      "text": "diseases would begin in the second half of 2026.",
+      "startMs": 175630,
+      "endMs": 179750
+    },
+    {
+      "text": "And then the real test: whether large trials",
+      "startMs": 179750,
+      "endMs": 183190
+    },
+    {
+      "text": "confirm what about 160 patients suggested.",
+      "startMs": 183190,
+      "endMs": 186640
+    },
+    {
+      "text": "The milestone money sits on the far side of that answer.",
+      "startMs": 186640,
+      "endMs": 189850
+    },
+    {
+      "text": "We track the deals that move biotech, every",
+      "startMs": 189850,
+      "endMs": 192650
+    },
+    {
+      "text": "week in The Catalyst Brief.",
+      "startMs": 192650,
+      "endMs": 194500
+    },
+    {
+      "text": "Subscribe free, at thecatalystbrief.com.",
+      "startMs": 194500,
+      "endMs": 197800
+    },
+    {
+      "text": "Signal over noise.",
+      "startMs": 197800,
+      "endMs": 199720
+    }
+  ]
+}

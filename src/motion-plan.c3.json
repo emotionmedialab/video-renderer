@@ -1,0 +1,154 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 3,
+  "kit": [
+    "src/kit/jnj3.tsx"
+  ],
+  "scenes": [
+    {
+      "n": 9,
+      "title": "dive into the vial: the antibody",
+      "peakFrame": 1698,
+      "world": "paper",
+      "hero": "Y antibody",
+      "supports": [
+        "VEGF",
+        "ANG-2"
+      ],
+      "move": "assembling-spine",
+      "note": "the hook's vial drops back as the drug, OLN-324 lands; the camera flies INTO the vial on 'It is'; inside, two halves snap into one Y on 'antibody'; two signals fly at the retina and the arm tips catch them",
+      "camera": [
+        {
+          "cue": "It is",
+          "after": 45270
+        }
+      ],
+      "movers": [
+        {
+          "what": "vial drops back",
+          "cue": "The drug",
+          "after": 45270,
+          "durMs": 600
+        },
+        {
+          "what": "OLN-324 kinetic type",
+          "cue": "OLN-324",
+          "after": 45270,
+          "durMs": 640
+        },
+        {
+          "what": "Y halves snap together",
+          "durMs": 500,
+          "ms": 50140
+        },
+        {
+          "what": "signals fly + caught",
+          "cue": "two signals",
+          "after": 45270,
+          "durMs": 600
+        },
+        {
+          "what": "VEGF prints",
+          "cue": "VEGF",
+          "after": 45270,
+          "durMs": 380
+        },
+        {
+          "what": "ANG-2 prints (pin, leads its word)",
+          "ms": 55600,
+          "durMs": 380
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "title": "two diseases burst into 40 people",
+      "peakFrame": 2028,
+      "world": "red",
+      "hero": "40-person grid",
+      "supports": [
+        "More than 40 million people",
+        "1 figure = 1 million \u00c2\u00b7 per J&J"
+      ],
+      "move": "NEW: discs-burst-into-people",
+      "note": "wet AMD and DME discs spring in on their words; on 'together' they roll into each other; on '40' they burst into 40 figures that land in a 10x4 grid; push-in on 'million'",
+      "camera": [
+        {
+          "cue": "million",
+          "after": 57640
+        }
+      ],
+      "movers": [
+        {
+          "what": "wet AMD disc",
+          "cue": "wet",
+          "after": 57640,
+          "durMs": 500
+        },
+        {
+          "what": "DME disc",
+          "cue": "diabetic",
+          "after": 57640,
+          "durMs": 500
+        },
+        {
+          "what": "discs roll together",
+          "cue": "together",
+          "after": 57640,
+          "durMs": 500
+        },
+        {
+          "what": "40 figures assemble",
+          "cue": "40",
+          "after": 57640,
+          "durMs": 740
+        },
+        {
+          "what": "line prints",
+          "cue": "million",
+          "after": 57640,
+          "durMs": 380
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "title": "Innovent + Ollin carry it",
+      "peakFrame": 2220,
+      "world": "paper",
+      "hero": "plank with the antibody",
+      "supports": [
+        "INNOVENT BIOLOGICS pillar",
+        "OLLIN pillar"
+      ],
+      "move": "NEW: pillar-levels-plank",
+      "note": "the plank with the antibody drops on 'OLN-324', tilted on Innovent's pillar (camera pulls back with it); Innovent prints; on 'develops' Ollin's pillar rises under the low end and lifts it level",
+      "camera": [
+        {
+          "cue": "OLN-324",
+          "after": 68150
+        }
+      ],
+      "movers": [
+        {
+          "what": "plank drops tilted",
+          "cue": "OLN-324",
+          "after": 68150,
+          "durMs": 600
+        },
+        {
+          "what": "INNOVENT prints",
+          "cue": "Innovent",
+          "after": 68150,
+          "durMs": 380
+        },
+        {
+          "what": "Ollin pillar rises + levels",
+          "cue": "develops",
+          "after": 68150,
+          "durMs": 700
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+[
+ {
+  "label": "hook: kicker prints",
+  "phrase": "Johnson",
+  "after": 0,
+  "expect": 60,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: $2.2B lands",
+  "phrase": "$2.2",
+  "after": 0,
+  "expect": 2090,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: UP FRONT",
+  "phrase": "up front",
+  "after": 0,
+  "expect": 3670,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: pod lands + pull-back",
+  "phrase": "company",
+  "after": 0,
+  "expect": 4600,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: shutter + push-in",
+  "phrase": "one",
+  "after": 0,
+  "expect": 5360,
+  "blockFrom": 0
+ },
+ {
+  "label": "hook: pod label",
+  "phrase": "late-stage",
+  "after": 0,
+  "expect": 5600,
+  "blockFrom": 0
+ },
+ {
+  "label": "bill: J&J rises",
+  "phrase": "it has",
+  "after": 7470,
+  "expect": 7560,
+  "blockFrom": 7470
+ },
+ {
+  "label": "bill: newcomer hops in",
+  "phrase": "lined up",
+  "after": 7470,
+  "expect": 8360,
+  "blockFrom": 7470
+ },
+ {
+  "label": "bill: lands in line",
+  "phrase": "someone",
+  "after": 7470,
+  "expect": 8820,
+  "blockFrom": 7470
+ },
+ {
+  "label": "bill: bill falls",
+  "phrase": "pay",
+  "after": 7470,
+  "expect": 9680,
+  "blockFrom": 7470
+ },
+ {
+  "label": "bill: flick + truck",
+  "phrase": "that drug's",
+  "after": 7470,
+  "expect": 10080,
+  "blockFrom": 7470
+ },
+ {
+  "label": "sign: NOV 16",
+  "phrase": "November",
+  "after": 12030,
+  "expect": 12360,
+  "blockFrom": 12030
+ },
+ {
+  "label": "sign: seal appears",
+  "phrase": "J&J",
+  "after": 12030,
+  "expect": 13860,
+  "blockFrom": 12030
+ },
+ {
+  "label": "sign: seal presses + crane",
+  "phrase": "agreed",
+  "after": 12030,
+  "expect": 14100,
+  "blockFrom": 12030
+ },
+ {
+  "label": "sign: body prints",
+  "phrase": "acquire",
+  "after": 12030,
+  "expect": 14780,
+  "blockFrom": 12030
+ },
+ {
+  "label": "eye: labels print",
+  "phrase": "company",
+  "after": 16880,
+  "expect": 17800,
+  "blockFrom": 16880
+ },
+ {
+  "label": "eye: lids part",
+  "phrase": "developing",
+  "after": 16880,
+  "expect": 18260,
+  "blockFrom": 16880
+ },
+ {
+  "label": "eye: push-in",
+  "phrase": "treatments",
+  "after": 16880,
+  "expect": 18920,
+  "blockFrom": 16880
+ },
+ {
+  "label": "money: wagon 1 rolls + pull-back",
+  "phrase": "money",
+  "after": 20910,
+  "expect": 21540,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: wagon 1 stops",
+  "phrase": "order",
+  "after": 20910,
+  "expect": 22300,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: $2.2B",
+  "phrase": "$2.2",
+  "after": 20910,
+  "expect": 23150,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: UP FRONT",
+  "phrase": "up front",
+  "after": 20910,
+  "expect": 24320,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: wagon 2 drops + truck",
+  "phrase": "On top",
+  "after": 20910,
+  "expect": 25914,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: UP TO ABOUT",
+  "phrase": "up to",
+  "after": 20910,
+  "expect": 27040,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: $1.125B",
+  "phrase": "$1.125",
+  "after": 20910,
+  "expect": 27870,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: post springs up",
+  "phrase": "only if",
+  "after": 20910,
+  "expect": 30740,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: REGULATORY plate",
+  "phrase": "regulatory",
+  "after": 20910,
+  "expect": 31100,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: COMMERCIAL plate",
+  "phrase": "commercial",
+  "after": 20910,
+  "expect": 31890,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: post sinks",
+  "phrase": "By our",
+  "after": 20910,
+  "expect": 33920,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: board + merge",
+  "phrase": "$3.3",
+  "after": 20910,
+  "expect": 36290,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: push-in",
+  "phrase": "in all",
+  "after": 20910,
+  "expect": 37830,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: board lifts",
+  "phrase": "J&J",
+  "after": 20910,
+  "expect": 39150,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: train rolls + truck",
+  "phrase": "close",
+  "after": 20910,
+  "expect": 40290,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: 2026",
+  "phrase": "2026",
+  "after": 20910,
+  "expect": 42000,
+  "blockFrom": 20910
+ },
+ {
+  "label": "money: approvals tag",
+  "phrase": "subject",
+  "after": 20910,
+  "expect": 43420,
+  "blockFrom": 20910
+ },
+ {
+  "label": "drug: vial drops",
+  "phrase": "The drug",
+  "after": 45270,
+  "expect": 45800,
+  "blockFrom": 45270
+ },
+ {
+  "label": "drug: OLN-324",
+  "phrase": "OLN-324",
+  "after": 45270,
+  "expect": 46470,
+  "blockFrom": 45270
+ },
+ {
+  "label": "drug: dive",
+  "phrase": "It is",
+  "after": 45270,
+  "expect": 49008,
+  "blockFrom": 45270
+ },
+ {
+  "label": "drug: signals fly",
+  "phrase": "two signals",
+  "after": 45270,
+  "expect": 52490,
+  "blockFrom": 45270
+ },
+ {
+  "label": "drug: VEGF",
+  "phrase": "VEGF",
+  "after": 45270,
+  "expect": 54844,
+  "blockFrom": 45270
+ },
+ {
+  "label": "dis: wet AMD",
+  "phrase": "wet",
+  "after": 57640,
+  "expect": 59100,
+  "blockFrom": 57640
+ },
+ {
+  "label": "dis: DME",
+  "phrase": "diabetic",
+  "after": 57640,
+  "expect": 61340,
+  "blockFrom": 57640
+ },
+ {
+  "label": "dis: roll together",
+  "phrase": "together",
+  "after": 57640,
+  "expect": 64690,
+  "blockFrom": 57640
+ },
+ {
+  "label": "dis: burst",
+  "phrase": "40",
+  "after": 57640,
+  "expect": 66210,
+  "blockFrom": 57640
+ },
+ {
+  "label": "dis: line + push",
+  "phrase": "million",
+  "after": 57640,
+  "expect": 66680,
+  "blockFrom": 57640
+ },
+ {
+  "label": "part: plank drops",
+  "phrase": "OLN-324",
+  "after": 68150,
+  "expect": 68892,
+  "blockFrom": 68150
+ },
+ {
+  "label": "part: Innovent",
+  "phrase": "Innovent",
+  "after": 68150,
+  "expect": 70880,
+  "blockFrom": 68150
+ },
+ {
+  "label": "part: Ollin pillar",
+  "phrase": "develops",
+  "after": 68150,
+  "expect": 72720,
+  "blockFrom": 68150
+ },
+ {
+  "label": "data: JADE",
+  "phrase": "JADE",
+  "after": 74560,
+  "expect": 76490,
+  "blockFrom": 74560
+ },
+ {
+  "label": "data: 160 beads",
+  "phrase": "160",
+  "after": 74560,
+  "expect": 78820,
+  "blockFrom": 74560
+ },
+ {
+  "label": "data: face-off",
+  "phrase": "head-to-head",
+  "after": 74560,
+  "expect": 80710,
+  "blockFrom": 74560
+ },
+ {
+  "label": "data: VABYSMO",
+  "phrase": "Vabysmo",
+  "after": 74560,
+  "expect": 82030,
+  "blockFrom": 74560
+ },
+ {
+  "label": "data: ROCHE",
+  "phrase": "Roche",
+  "after": 74560,
+  "expect": 83540,
+  "blockFrom": 74560
+ },
+ {
+  "label": "data: targets + push",
+  "phrase": "blocks",
+  "after": 74560,
+  "expect": 84520,
+  "blockFrom": 74560
+ },
+ {
+  "label": "stack: DME chip",
+  "phrase": "diabetic",
+  "after": 85900,
+  "expect": 86710,
+  "blockFrom": 85900
+ },
+ {
+  "label": "stack: 90%",
+  "phrase": "90%",
+  "after": 85900,
+  "expect": 89490,
+  "blockFrom": 85900
+ },
+ {
+  "label": "stack: title",
+  "phrase": "no edema",
+  "after": 85900,
+  "expect": 94190,
+  "blockFrom": 85900
+ },
+ {
+  "label": "stack: 57%",
+  "phrase": "57%",
+  "after": 85900,
+  "expect": 96610,
+  "blockFrom": 85900
+ },
+ {
+  "label": "bal: drop / Wet AMD",
+  "phrase": "wet",
+  "after": 98470,
+  "expect": 99060,
+  "blockFrom": 98470
+ },
+ {
+  "label": "bal: Vabysmo drops",
+  "phrase": "drugs",
+  "after": 98470,
+  "expect": 101040,
+  "blockFrom": 98470
+ },
+ {
+  "label": "bal: chip",
+  "phrase": "performed",
+  "after": 98470,
+  "expect": 101490,
+  "blockFrom": 98470
+ },
+ {
+  "label": "cav: card",
+  "phrase": "These",
+  "after": 103440,
+  "expect": 103720,
+  "blockFrom": 103440
+ },
+ {
+  "label": "cav: stamp",
+  "phrase": "company-reported",
+  "after": 103440,
+  "expect": 104240,
+  "blockFrom": 103440
+ },
+ {
+  "label": "cav: early-stage",
+  "phrase": "early-stage",
+  "after": 103440,
+  "expect": 106130,
+  "blockFrom": 103440
+ },
+ {
+  "label": "cav: truck",
+  "phrase": "J&J's",
+  "after": 103440,
+  "expect": 107390,
+  "blockFrom": 103440
+ },
+ {
+  "label": "cav: quote",
+  "phrase": "compelling",
+  "after": 103440,
+  "expect": 109400,
+  "blockFrom": 103440
+ },
+ {
+  "label": "fund: THE UNUSUAL PART",
+  "phrase": "unusual",
+  "after": 111410,
+  "expect": 113010,
+  "blockFrom": 111410
+ },
+ {
+  "label": "fund: separate",
+  "phrase": "separate",
+  "after": 111410,
+  "expect": 114490,
+  "blockFrom": 111410
+ },
+ {
+  "label": "fund: hourglass lands",
+  "phrase": "Blackstone",
+  "after": 111410,
+  "expect": 116130,
+  "blockFrom": 111410
+ },
+ {
+  "label": "fund: $750M",
+  "phrase": "$750",
+  "after": 111410,
+  "expect": 118860,
+  "blockFrom": 111410
+ },
+ {
+  "label": "fund: sand pours",
+  "phrase": "over several",
+  "after": 111410,
+  "expect": 120320,
+  "blockFrom": 111410
+ },
+ {
+  "label": "fund: FULLY FUNDED + push",
+  "phrase": "fund",
+  "after": 111410,
+  "expect": 122490,
+  "blockFrom": 111410
+ },
+ {
+  "label": "fund: Phase 3 cap",
+  "phrase": "Phase",
+  "after": 111410,
+  "expect": 124160,
+  "blockFrom": 111410
+ },
+ {
+  "label": "tix: tray",
+  "phrase": "In return",
+  "after": 125610,
+  "expect": 126280,
+  "blockFrom": 125610
+ },
+ {
+  "label": "tix: eligible",
+  "phrase": "eligible",
+  "after": 125610,
+  "expect": 127970,
+  "blockFrom": 125610
+ },
+ {
+  "label": "tix: regulatory ticket",
+  "phrase": "regulatory",
+  "after": 125610,
+  "expect": 128820,
+  "blockFrom": 125610
+ },
+ {
+  "label": "tix: sales ticket",
+  "phrase": "sales",
+  "after": 125610,
+  "expect": 129830,
+  "blockFrom": 125610
+ },
+ {
+  "label": "dom: second domino + truck",
+  "phrase": "only",
+  "after": 132950,
+  "expect": 134320,
+  "blockFrom": 132950
+ },
+ {
+  "label": "why: plate",
+  "phrase": "Why",
+  "after": 136490,
+  "expect": 137000,
+  "blockFrom": 136490
+ },
+ {
+  "label": "why: OUR READ",
+  "phrase": "our read",
+  "after": 136490,
+  "expect": 139410,
+  "blockFrom": 136490
+ },
+ {
+  "label": "why: J&J rises",
+  "phrase": "J&J",
+  "after": 136490,
+  "expect": 140360,
+  "blockFrom": 136490
+ },
+ {
+  "label": "why: vial",
+  "phrase": "drug",
+  "after": 136490,
+  "expect": 141330,
+  "blockFrom": 136490
+ },
+ {
+  "label": "why: ready",
+  "phrase": "ready for",
+  "after": 136490,
+  "expect": 141660,
+  "blockFrom": 136490
+ },
+ {
+  "label": "why: newcomer hops",
+  "phrase": "and handing",
+  "after": 136490,
+  "expect": 142960,
+  "blockFrom": 136490
+ },
+ {
+  "label": "why: bill falls",
+  "phrase": "bill",
+  "after": 136490,
+  "expect": 144020,
+  "blockFrom": 136490
+ },
+ {
+  "label": "fork: IF THEY FAIL",
+  "phrase": "If the",
+  "after": 147930,
+  "expect": 148500,
+  "blockFrom": 147930
+ },
+ {
+  "label": "fork: ball 1 rolls",
+  "phrase": "fail",
+  "after": 147930,
+  "expect": 149390,
+  "blockFrom": 147930
+ },
+ {
+  "label": "fork: money spent",
+  "phrase": "Blackstone's",
+  "after": 147930,
+  "expect": 150790,
+  "blockFrom": 147930
+ },
+ {
+  "label": "fork: ball 2 rolls",
+  "phrase": "succeed",
+  "after": 147930,
+  "expect": 152670,
+  "blockFrom": 147930
+ },
+ {
+  "label": "fork: upside",
+  "phrase": "Blackstone shares",
+  "after": 147930,
+  "expect": 153384,
+  "blockFrom": 147930
+ },
+ {
+  "label": "bar: posts",
+  "phrase": "And the",
+  "after": 154870,
+  "expect": 155300,
+  "blockFrom": 154870
+ },
+ {
+  "label": "bar: Vabysmo bar",
+  "phrase": "bar",
+  "after": 154870,
+  "expect": 155960,
+  "blockFrom": 154870
+ },
+ {
+  "label": "bar: VABYSMO",
+  "phrase": "Vabysmo",
+  "after": 154870,
+  "expect": 157120,
+  "blockFrom": 154870
+ },
+ {
+  "label": "bar: approved",
+  "phrase": "approved",
+  "after": 154870,
+  "expect": 158440,
+  "blockFrom": 154870
+ },
+ {
+  "label": "bar: OLN-324",
+  "phrase": "OLN-324",
+  "after": 154870,
+  "expect": 160600,
+  "blockFrom": 154870
+ },
+ {
+  "label": "watch: plate",
+  "phrase": "So",
+  "after": 164530,
+  "expect": 164850,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: in order",
+  "phrase": "in order",
+  "after": 164530,
+  "expect": 166290,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: push gate 1",
+  "phrase": "First",
+  "after": 164530,
+  "expect": 167087,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: gate 1 title",
+  "phrase": "deal",
+  "after": 164530,
+  "expect": 167720,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: gate 1 date",
+  "phrase": "expected",
+  "after": 164530,
+  "expect": 168880,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: fly to gate 2",
+  "phrase": "Then the start",
+  "after": 164530,
+  "expect": 170550,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: gate 2 title",
+  "phrase": "start",
+  "after": 164530,
+  "expect": 171470,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: gate 2 date + push",
+  "phrase": "second half",
+  "after": 164530,
+  "expect": 177250,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: fly to gate 3",
+  "phrase": "And then",
+  "after": 164530,
+  "expect": 179750,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: gate 3 title",
+  "phrase": "real test",
+  "after": 164530,
+  "expect": 180750,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: gate 3 question",
+  "phrase": "large",
+  "after": 164530,
+  "expect": 182260,
+  "blockFrom": 164530
+ },
+ {
+  "label": "watch: wagon",
+  "phrase": "milestone",
+  "after": 164530,
+  "expect": 186850,
+  "blockFrom": 164530
+ },
+ {
+  "label": "cta: logo + headline",
+  "phrase": "We track",
+  "after": 189450,
+  "expect": 189850,
+  "blockFrom": 189450
+ },
+ {
+  "label": "cta: sub",
+  "phrase": "every week",
+  "after": 189450,
+  "expect": 192351,
+  "blockFrom": 189450
+ },
+ {
+  "label": "cta: button",
+  "phrase": "Subscribe free",
+  "after": 189450,
+  "expect": 194500,
+  "blockFrom": 189450
+ },
+ {
+  "label": "cta: tail",
+  "phrase": "Signal over",
+  "after": 189450,
+  "expect": 197800,
+  "blockFrom": 189450
+ }
+]

@@ -1,0 +1,32 @@
+{
+  "composition": "JnjOllin",
+  "chunk": 7,
+  "kit": ["src/kit/jnj7.tsx"],
+  "scenes": [
+    { "n": 22, "title": "three gates, in order: deal closes", "peakFrame": 5100, "world": "paper",
+      "hero": "gate 1 (1 · DEAL CLOSES)", "supports": ["EXPECTED BEFORE YEAR-END", "plate: What to watch · IN ORDER"], "move": "NEW: gates-rise-in-order",
+      "note": "plate lands on 'So'; three arches rise down the track one after another on 'in order' (camera cranes with them); push-in to gate 1 on 'First'; its title + date print",
+      "camera": [ { "ms": 165890 }, { "cue": "First", "after": 164530 } ],
+      "movers": [
+        { "what": "plate: What to watch", "cue": "So", "after": 164530, "durMs": 260 },
+        { "what": "three gates rise", "ms": 165890, "durMs": 600 },
+        { "what": "IN ORDER chip", "ms": 166290, "durMs": 380 },
+        { "what": "gate 1 title", "cue": "deal", "after": 164530, "durMs": 380 },
+        { "what": "gate 1 date", "cue": "expected", "after": 164530, "durMs": 380 } ] },
+    { "n": 23, "title": "fly through: Phase 3 starts", "peakFrame": 5370, "world": "paper",
+      "hero": "gate 2 (2 · PHASE 3 STARTS)", "supports": ["SECOND HALF OF 2026 · OLLIN, IN JUNE", "plate"], "move": "fly-through-track",
+      "note": "on 'Then' the camera flies down the track through gate 1 to gate 2; its title prints on 'start'; the date prints on 'second half' with a push-in",
+      "camera": [ { "cue": "Then the start", "after": 164530 }, { "cue": "second half", "after": 164530 } ],
+      "movers": [
+        { "what": "gate 2 title", "cue": "start", "after": 164530, "durMs": 380 },
+        { "what": "gate 2 date", "cue": "second half", "after": 164530, "durMs": 380 } ] },
+    { "n": 24, "title": "the real test; the money behind it", "peakFrame": 5670, "world": "paper",
+      "hero": "gate 3 (3 · THE REAL TEST) with the wagon behind", "supports": ["DO LARGE TRIALS CONFIRM ~160 PATIENTS?", "plate"], "move": "NEW: money-on-the-far-side",
+      "note": "on 'And then' the camera flies through gate 2 to gate 3; title + question print; on 'milestone' the S7 wagon (MILESTONE MONEY · UP TO ABOUT $1.125B) rolls in behind the gate and rocks to a stop",
+      "camera": [ { "cue": "And then", "after": 164530 } ],
+      "movers": [
+        { "what": "gate 3 title", "cue": "real test", "after": 164530, "durMs": 380 },
+        { "what": "gate 3 question", "cue": "large", "after": 164530, "durMs": 380 },
+        { "what": "wagon rolls in behind gate 3", "ms": 186550, "durMs": 900 } ] }
+  ]
+}
