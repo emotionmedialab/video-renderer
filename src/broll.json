@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s3_infusion",
+    "sceneKey": "combo",
+    "query": "iv drip hospital",
+    "start": 18.44,
+    "end": 25.08,
+    "targetHeight": 2160,
+    "file": "broll/s3_infusion.mp4",
+    "pexelsId": 6248837,
+    "credit": "Justin Whedon",
+    "pexelsUrl": "https://www.pexels.com/video/hospital-room-6248837/"
+  },
+  {
+    "id": "s10_trial",
+    "sceneKey": "trial",
+    "query": "scientist laboratory research",
+    "start": 70.2,
+    "end": 83.14,
+    "targetHeight": 2160,
+    "file": "broll/s10_trial.mp4",
+    "pexelsId": 3196600,
+    "credit": "Pressmaster",
+    "pexelsUrl": "https://www.pexels.com/video/scientist-looking-through-a-microscope-while-having-a-discussion-with-her-colleague-3196600/"
+  },
+  {
+    "id": "s20_lung",
+    "sceneKey": "faceoff",
+    "query": "doctor looking at lung x-ray",
+    "start": 151.84,
+    "end": 161,
+    "targetHeight": 2160,
+    "file": "broll/s20_lung.mp4",
+    "pexelsId": 4316868,
+    "credit": "Anna Shvets",
+    "pexelsUrl": "https://www.pexels.com/video/female-doctor-looking-at-an-x-ray-4316868/"
+  }
+]

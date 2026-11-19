@@ -1,0 +1,625 @@
+[
+ {
+  "label": "S1 MAY 2025",
+  "phrase": "May",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 160
+ },
+ {
+  "label": "S1 stand falls",
+  "phrase": "FDA told",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 1930
+ },
+ {
+  "label": "S1 bar on low pegs",
+  "phrase": "take",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 4430
+ },
+ {
+  "label": "S1 vial flies in",
+  "phrase": "ivonescimab",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 5400
+ },
+ {
+  "label": "S1 date retires",
+  "phrase": "in one form",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 6200
+ },
+ {
+  "label": "S1 bar springs up red",
+  "phrase": "statistically",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 8660
+ },
+ {
+  "label": "S1 tag swings down",
+  "phrase": "overall survival",
+  "after": 0,
+  "blockFrom": 0,
+  "expect": 10190
+ },
+ {
+  "label": "S2 envelope tumbles in",
+  "phrase": "November 15th",
+  "after": 12360,
+  "blockFrom": 12360,
+  "expect": 12520
+ },
+ {
+  "label": "S2 postmark",
+  "phrase": "15th",
+  "after": 12360,
+  "blockFrom": 12360,
+  "expect": 13170
+ },
+ {
+  "label": "S2 flap opens",
+  "phrase": "same thing",
+  "after": 12360,
+  "blockFrom": 12360,
+  "expect": 14700
+ },
+ {
+  "label": "S2 NOT APPROVED",
+  "phrase": "rejection",
+  "after": 12360,
+  "blockFrom": 12360,
+  "expect": 16880
+ },
+ {
+  "label": "S3 title type",
+  "phrase": "has issued",
+  "after": 18440,
+  "blockFrom": 18440,
+  "expect": 19980
+ },
+ {
+  "label": "S3 vial falls",
+  "phrase": "ivonescimab plus",
+  "after": 18440,
+  "blockFrom": 18440,
+  "expect": 22120
+ },
+ {
+  "label": "S3 plus pops",
+  "phrase": "plus platinum",
+  "after": 18440,
+  "blockFrom": 18440,
+  "expect": 22880
+ },
+ {
+  "label": "S3 bag drops",
+  "phrase": "platinum",
+  "after": 18440,
+  "blockFrom": 18440,
+  "expect": 23080
+ },
+ {
+  "label": "S4 binder falls",
+  "phrase": "application covered",
+  "after": 25080,
+  "blockFrom": 25080,
+  "expect": 25330
+ },
+ {
+  "label": "S4 tab 1",
+  "phrase": "advanced",
+  "after": 25080,
+  "blockFrom": 25080,
+  "expect": 26680
+ },
+ {
+  "label": "S4 tab 2",
+  "phrase": "EGFR mutation",
+  "after": 25080,
+  "blockFrom": 25080,
+  "expect": 29470
+ },
+ {
+  "label": "S4 tab 3",
+  "phrase": "already treated",
+  "after": 25080,
+  "blockFrom": 25080,
+  "expect": 31250
+ },
+ {
+  "label": "S5 coin rolls",
+  "phrase": "FDA's decision",
+  "after": 34520,
+  "blockFrom": 34520,
+  "expect": 34820
+ },
+ {
+  "label": "S5 caption",
+  "phrase": "date had",
+  "after": 34520,
+  "blockFrom": 34520,
+  "expect": 35710
+ },
+ {
+  "label": "S5 NOV 14",
+  "phrase": "November 14th",
+  "after": 34520,
+  "blockFrom": 34520,
+  "expect": 36530
+ },
+ {
+  "label": "S6 name",
+  "phrase": "Ivonescimab",
+  "after": 38000,
+  "blockFrom": 38000,
+  "expect": 38000
+ },
+ {
+  "label": "S6 antibody flies in",
+  "phrase": "bispecific",
+  "after": 38000,
+  "blockFrom": 38000,
+  "expect": 39310
+ },
+ {
+  "label": "S6 targets arrive",
+  "phrase": "two targets",
+  "after": 38000,
+  "blockFrom": 38000,
+  "expect": 42060
+ },
+ {
+  "label": "S6 clamp",
+  "phrase": "at once",
+  "after": 38000,
+  "blockFrom": 38000,
+  "expect": 43010
+ },
+ {
+  "label": "S7 plinths rise",
+  "phrase": "drug of",
+  "after": 45400,
+  "blockFrom": 45400,
+  "expect": 45570
+ },
+ {
+  "label": "S7 vial on U.S. lid",
+  "phrase": "U.S. It",
+  "after": 45400,
+  "blockFrom": 45400,
+  "expect": 47721
+ },
+ {
+  "label": "S7 hop to China",
+  "phrase": "approved in China",
+  "after": 45400,
+  "blockFrom": 45400,
+  "expect": 48930
+ },
+ {
+  "label": "S7 MAY 2024",
+  "phrase": "since May",
+  "after": 45400,
+  "blockFrom": 45400,
+  "expect": 50130
+ },
+ {
+  "label": "S8 stand rises",
+  "phrase": "FDA found",
+  "after": 51650,
+  "blockFrom": 51650,
+  "expect": 53340
+ },
+ {
+  "label": "S8 lift climbs",
+  "phrase": "substantial evidence",
+  "after": 51650,
+  "blockFrom": 51650,
+  "expect": 54100
+ },
+ {
+  "label": "S8 lift sinks",
+  "phrase": "not established",
+  "after": 51650,
+  "blockFrom": 51650,
+  "expect": 56450
+ },
+ {
+  "label": "S8 sign springs up",
+  "phrase": "statistically significant",
+  "after": 51650,
+  "blockFrom": 51650,
+  "expect": 57970
+ },
+ {
+  "label": "S9 balance in",
+  "phrase": "said the",
+  "after": 61820,
+  "blockFrom": 61820,
+  "expect": 62210
+ },
+ {
+  "label": "S9 PFS lands",
+  "phrase": "benefit could",
+  "after": 61820,
+  "blockFrom": 61820,
+  "expect": 64240
+ },
+ {
+  "label": "S9 beam levels",
+  "phrase": "not, on",
+  "after": 61820,
+  "blockFrom": 61820,
+  "expect": 65190
+ },
+ {
+  "label": "S10 slab hovers in",
+  "phrase": "application rested",
+  "after": 69600,
+  "blockFrom": 69600,
+  "expect": 69870
+ },
+ {
+  "label": "S10 foundation",
+  "phrase": "HARMONi, a",
+  "after": 69600,
+  "blockFrom": 69600,
+  "expect": 71340
+ },
+ {
+  "label": "S10 pillars grow",
+  "phrase": "two primary",
+  "after": 69600,
+  "blockFrom": 69600,
+  "expect": 73950
+ },
+ {
+  "label": "S11 pillar 1 label",
+  "phrase": "progression-free",
+  "after": 69600,
+  "blockFrom": 69600,
+  "expect": 76610
+ },
+ {
+  "label": "S11 won",
+  "phrase": "won.",
+  "after": 69600,
+  "blockFrom": 69600,
+  "expect": 79040
+ },
+ {
+  "label": "S11 HR 0.52",
+  "phrase": "hazard ratio",
+  "after": 69600,
+  "blockFrom": 69600,
+  "expect": 80220
+ },
+ {
+  "label": "S12 red column",
+  "phrase": "was 6.8",
+  "after": 83140,
+  "blockFrom": 83140,
+  "expect": 85300
+ },
+ {
+  "label": "S12 6.8 mo",
+  "phrase": "months, against",
+  "after": 83140,
+  "blockFrom": 83140,
+  "expect": 86130
+ },
+ {
+  "label": "S12 chemo column",
+  "phrase": "against 4.4",
+  "after": 83140,
+  "blockFrom": 83140,
+  "expect": 86700
+ },
+ {
+  "label": "S12 4.4 mo",
+  "phrase": "on chemotherapy",
+  "after": 83140,
+  "blockFrom": 83140,
+  "expect": 87830
+ },
+ {
+  "label": "S13 pillar 2 label",
+  "phrase": "overall survival, and",
+  "after": 89520,
+  "blockFrom": 89520,
+  "expect": 90480
+ },
+ {
+  "label": "S13 fell short",
+  "phrase": "fell short",
+  "after": 89520,
+  "blockFrom": 89520,
+  "expect": 93120
+ },
+ {
+  "label": "S13 HR 0.79",
+  "phrase": "hazard ratio",
+  "after": 89520,
+  "blockFrom": 89520,
+  "expect": 96380
+ },
+ {
+  "label": "S14 marker",
+  "phrase": "p-value",
+  "after": 98500,
+  "blockFrom": 98500,
+  "expect": 99320
+ },
+ {
+  "label": "S14 required flag",
+  "phrase": "required",
+  "after": 98500,
+  "blockFrom": 98500,
+  "expect": 103120
+ },
+ {
+  "label": "S15 rail extends",
+  "phrase": "longer follow-up",
+  "after": 105950,
+  "blockFrom": 105950,
+  "expect": 106250
+ },
+ {
+  "label": "S15 0.76 disc",
+  "phrase": "hazard ratio moved",
+  "after": 105950,
+  "blockFrom": 105950,
+  "expect": 108570
+ },
+ {
+  "label": "S15 0.76 lands",
+  "phrase": "to 0.76",
+  "after": 105950,
+  "blockFrom": 105950,
+  "expect": 109910
+ },
+ {
+  "label": "S15 POST-HOC",
+  "phrase": "post-hoc",
+  "after": 105950,
+  "blockFrom": 105950,
+  "expect": 113080
+ },
+ {
+  "label": "S15 fence",
+  "phrase": "prespecified",
+  "after": 105950,
+  "blockFrom": 105950,
+  "expect": 115170
+ },
+ {
+  "label": "S16 stand",
+  "phrase": "Summit filed",
+  "after": 116760,
+  "blockFrom": 116760,
+  "expect": 120160
+ },
+ {
+  "label": "S16 announcement",
+  "phrase": "Its own",
+  "after": 116760,
+  "blockFrom": 116760,
+  "expect": 122200
+ },
+ {
+  "label": "S16 requirement prints",
+  "phrase": "considered a",
+  "after": 116760,
+  "blockFrom": 116760,
+  "expect": 124930
+ },
+ {
+  "label": "S16 clamps",
+  "phrase": "held to",
+  "after": 116760,
+  "blockFrom": 116760,
+  "expect": 128270
+ },
+ {
+  "label": "S16 push",
+  "phrase": "FDA held",
+  "after": 116760,
+  "blockFrom": 116760,
+  "expect": 127940
+ },
+ {
+  "label": "S17 case slides",
+  "phrase": "case was",
+  "after": 129760,
+  "blockFrom": 129760,
+  "expect": 130160
+ },
+ {
+  "label": "S17 tag",
+  "phrase": "regimen in",
+  "after": 129760,
+  "blockFrom": 129760,
+  "expect": 131260
+ },
+ {
+  "label": "S17 hits wall",
+  "phrase": "did not",
+  "after": 129760,
+  "blockFrom": 129760,
+  "expect": 136060
+ },
+ {
+  "label": "S18 tank",
+  "phrase": "company is",
+  "after": 137820,
+  "blockFrom": 137820,
+  "expect": 138080
+ },
+ {
+  "label": "S18 fill 629.8",
+  "phrase": "held $629.8",
+  "after": 137820,
+  "blockFrom": 137820,
+  "expect": 140270
+ },
+ {
+  "label": "S18 plate",
+  "phrase": "million at",
+  "after": 137820,
+  "blockFrom": 137820,
+  "expect": 141940
+ },
+ {
+  "label": "S18 canister in",
+  "phrase": "received",
+  "after": 137820,
+  "blockFrom": 137820,
+  "expect": 144500
+ },
+ {
+  "label": "S18 pour",
+  "phrase": "$2 billion",
+  "after": 137820,
+  "blockFrom": 137820,
+  "expect": 145170
+ },
+ {
+  "label": "S19 envelope",
+  "phrase": "does not say",
+  "after": 148880,
+  "blockFrom": 148880,
+  "expect": 149490
+ },
+ {
+  "label": "S19 RESUBMIT?",
+  "phrase": "whether Summit",
+  "after": 148880,
+  "blockFrom": 148880,
+  "expect": 150090
+ },
+ {
+  "label": "S20 plate",
+  "phrase": "HARMONi-3. It",
+  "after": 151840,
+  "blockFrom": 151840,
+  "expect": 153150
+ },
+ {
+  "label": "S20 left",
+  "phrase": "ivonescimab plus",
+  "after": 151840,
+  "blockFrom": 151840,
+  "expect": 154800
+ },
+ {
+  "label": "S20 VS",
+  "phrase": "against Keytruda",
+  "after": 151840,
+  "blockFrom": 151840,
+  "expect": 156720
+ },
+ {
+  "label": "S20 right",
+  "phrase": "Keytruda plus",
+  "after": 151840,
+  "blockFrom": 151840,
+  "expect": 157310
+ },
+ {
+  "label": "S20 first-line",
+  "phrase": "first-line",
+  "after": 151840,
+  "blockFrom": 151840,
+  "expect": 159210
+ },
+ {
+  "label": "S21 tiles",
+  "phrase": "squamous group",
+  "after": 161000,
+  "blockFrom": 161000,
+  "expect": 161270
+ },
+ {
+  "label": "S21 PFS brick",
+  "phrase": "primary analysis",
+  "after": 161000,
+  "blockFrom": 161000,
+  "expect": 165710
+ },
+ {
+  "label": "S22 early OS brick",
+  "phrase": "alongside it",
+  "after": 161000,
+  "blockFrom": 161000,
+  "expect": 171860
+ },
+ {
+  "label": "S22 separate OS brick",
+  "phrase": "first half",
+  "after": 161000,
+  "blockFrom": 161000,
+  "expect": 174920
+ },
+ {
+  "label": "S23 stand",
+  "phrase": "letter, our",
+  "after": 177043,
+  "blockFrom": 177043,
+  "expect": 177760
+ },
+ {
+  "label": "S23 OUR READ chip",
+  "phrase": "our read",
+  "after": 177043,
+  "blockFrom": 177043,
+  "expect": 178440
+ },
+ {
+  "label": "S23 sign flips",
+  "phrase": "survival number",
+  "after": 177043,
+  "blockFrom": 177043,
+  "expect": 180240
+ },
+ {
+  "label": "CTA logo/headline",
+  "phrase": "We track",
+  "after": 182840,
+  "blockFrom": 182840,
+  "expect": 182840
+ },
+ {
+  "label": "CTA sub",
+  "phrase": "every week",
+  "after": 182840,
+  "blockFrom": 182840,
+  "expect": 185747
+ },
+ {
+  "label": "CTA button",
+  "phrase": "Subscribe free",
+  "after": 182840,
+  "blockFrom": 182840,
+  "expect": 187911
+ },
+ {
+  "label": "CTA link",
+  "phrase": "at thecatalystbrief.com",
+  "after": 182840,
+  "blockFrom": 182840,
+  "expect": 188980
+ },
+ {
+  "label": "CTA tail",
+  "phrase": "Signal over",
+  "after": 182840,
+  "blockFrom": 182840,
+  "expect": 191120
+ }
+]

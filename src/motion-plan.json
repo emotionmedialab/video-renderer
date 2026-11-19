@@ -1,0 +1,111 @@
+{
+  "composition": "Summit",
+  "chunk": 6,
+  "kit": [
+    "src/kit/summit6.tsx"
+  ],
+  "scenes": [
+    {
+      "n": 1,
+      "title": "PFS readout: Q4 2026",
+      "peakFrame": 5070,
+      "world": "paper",
+      "hero": "Q4 2026 and 1H 2027 tiles",
+      "supports": [
+        "HARMONi-3 squamous base label",
+        "PFS primary analysis brick"
+      ],
+      "move": "NEW: quarter-tiles-rise",
+      "note": "the base and two quarter tiles rise from depth on 'squamous group'; the red PFS PRIMARY ANALYSIS brick drops onto Q4 2026 on 'primary analysis' and squashes (camera cranes with it)",
+      "camera": [
+        {
+          "cue": "primary analysis",
+          "after": 161000
+        }
+      ],
+      "movers": [
+        {
+          "what": "tiles rise",
+          "cue": "squamous group",
+          "after": 161000,
+          "durMs": 700
+        },
+        {
+          "what": "PFS brick drops",
+          "cue": "primary analysis",
+          "after": 161000,
+          "durMs": 380
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "OS looks: alongside, then 1H 2027",
+      "peakFrame": 5295,
+      "world": "paper",
+      "hero": "the two tiles with their stacked bricks",
+      "supports": [
+        "analysis bricks (3 rows)",
+        "base label"
+      ],
+      "move": "fall-and-squash",
+      "note": "EARLY OS LOOK drops and stacks on the PFS brick on 'alongside it'; SEPARATE OS ANALYSIS drops onto 1H 2027 on 'first half'; push-in",
+      "camera": [
+        {
+          "cue": "half of 2027",
+          "after": 161000
+        }
+      ],
+      "movers": [
+        {
+          "what": "early OS brick stacks",
+          "cue": "alongside it",
+          "after": 161000,
+          "durMs": 380
+        },
+        {
+          "what": "separate OS brick drops",
+          "cue": "first half",
+          "after": 161000,
+          "durMs": 380
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "the survival number to watch",
+      "peakFrame": 5469,
+      "world": "ink",
+      "hero": "the stand with the survival sign",
+      "supports": [
+        "OUR READ (chrome, not in frame)"
+      ],
+      "move": "NEW: sign-flips-red",
+      "note": "OUR READ returns in the chrome band on \"our read\"; callback: the stand rises with its red bar and survival sign on \"letter\" (camera cranes with it); on \"survival number\" the sign flips over its horizontal axis to a red face: THE ONE TO WATCH / OVERALL SURVIVAL (back face pre-flipped, never mirrored); push-in",
+      "camera": [
+        {
+          "cue": "letter, our",
+          "after": 177043
+        },
+        {
+          "cue": "number is",
+          "after": 177043
+        }
+      ],
+      "movers": [
+        {
+          "what": "stand rises",
+          "cue": "letter, our",
+          "after": 177043,
+          "durMs": 700
+        },
+        {
+          "what": "sign flips red",
+          "cue": "survival number",
+          "after": 177043,
+          "durMs": 700
+        }
+      ]
+    }
+  ]
+}

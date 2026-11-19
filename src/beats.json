@@ -1,0 +1,149 @@
+[
+  {
+    "index": 0,
+    "sectionIndex": 0,
+    "section": "The letter",
+    "text": "In May 2025, the FDA told Summit Therapeutics what it would take to approve ivonescimab in one form of lung cancer: a statistically significant overall survival benefit.",
+    "cue": null
+  },
+  {
+    "index": 1,
+    "sectionIndex": 0,
+    "section": "The letter",
+    "text": "On November 15th, it said the same thing again, this time in a rejection letter.",
+    "cue": null
+  },
+  {
+    "index": 2,
+    "sectionIndex": 0,
+    "section": "The letter",
+    "text": "Summit announced that the FDA has issued a complete response letter for ivonescimab plus platinum chemotherapy. The application covered advanced non-small cell lung cancer with an EGFR mutation, in patients already treated with an EGFR-targeted drug.",
+    "cue": null
+  },
+  {
+    "index": 3,
+    "sectionIndex": 0,
+    "section": "The letter",
+    "text": "The FDA's decision date had been November 14th.",
+    "cue": null
+  },
+  {
+    "index": 4,
+    "sectionIndex": 1,
+    "section": "The drug",
+    "text": "Ivonescimab is a bispecific antibody that blocks two targets at once, PD-1 and VEGF. No drug of that kind is approved in the U.S. It has been approved in China since May 2024.",
+    "cue": null
+  },
+  {
+    "index": 5,
+    "sectionIndex": 2,
+    "section": "The FDA's reasons",
+    "text": "According to Summit, the FDA found that substantial evidence of effectiveness was not established, without a statistically significant improvement in overall survival.",
+    "cue": null
+  },
+  {
+    "index": 6,
+    "sectionIndex": 2,
+    "section": "The FDA's reasons",
+    "text": "It also said the progression-free survival benefit could not, on its own, support a positive balance of benefit and risk.",
+    "cue": null
+  },
+  {
+    "index": 7,
+    "sectionIndex": 3,
+    "section": "The trial",
+    "text": "The application rested on HARMONi, a global Phase 3 trial with two primary endpoints.",
+    "cue": null
+  },
+  {
+    "index": 8,
+    "sectionIndex": 3,
+    "section": "The trial",
+    "text": "The first was progression-free survival, and there it won. The hazard ratio was 0.52. Median progression-free survival was 6.8 months, against 4.4 on chemotherapy alone.",
+    "cue": null
+  },
+  {
+    "index": 9,
+    "sectionIndex": 3,
+    "section": "The trial",
+    "text": "The second was overall survival, and that is where it fell short. At the primary analysis, the hazard ratio was 0.79, with a p-value of 0.057. The trial's plan required 0.0448.",
+    "cue": null
+  },
+  {
+    "index": 10,
+    "sectionIndex": 3,
+    "section": "The trial",
+    "text": "With longer follow-up, the survival hazard ratio moved to 0.76. Summit itself calls that a post-hoc analysis, outside the prespecified test.",
+    "cue": null
+  },
+  {
+    "index": 11,
+    "sectionIndex": 4,
+    "section": "Why it matters",
+    "text": "Why it matters. This is our read.",
+    "cue": null
+  },
+  {
+    "index": 12,
+    "sectionIndex": 4,
+    "section": "Why it matters",
+    "text": "Summit filed knowing the bar. Its own 2025 announcement said the FDA considered a survival benefit necessary. The FDA held to that.",
+    "cue": null
+  },
+  {
+    "index": 13,
+    "sectionIndex": 4,
+    "section": "Why it matters",
+    "text": "Summit's case was that no approved regimen in this setting has shown a significant survival benefit either. That case did not carry the review.",
+    "cue": null
+  },
+  {
+    "index": 14,
+    "sectionIndex": 5,
+    "section": "What comes next",
+    "text": "The company is not short of cash. It held $629.8 million at the end of September, and then received $2 billion from an AstraZeneca equity investment.",
+    "cue": null
+  },
+  {
+    "index": 15,
+    "sectionIndex": 5,
+    "section": "What comes next",
+    "text": "The release does not say whether Summit will resubmit.",
+    "cue": null
+  },
+  {
+    "index": 16,
+    "sectionIndex": 5,
+    "section": "What comes next",
+    "text": "The bigger test is HARMONi-3. It pits ivonescimab plus chemotherapy against Keytruda plus chemotherapy, in first-line lung cancer.",
+    "cue": null
+  },
+  {
+    "index": 17,
+    "sectionIndex": 5,
+    "section": "What comes next",
+    "text": "In the squamous group, Summit expects to have enough progression-free survival events for its primary analysis in the fourth quarter of 2026.",
+    "cue": null
+  },
+  {
+    "index": 18,
+    "sectionIndex": 5,
+    "section": "What comes next",
+    "text": "An early look at overall survival is planned alongside it, and a separate survival analysis in the first half of 2027.",
+    "cue": null
+  },
+  {
+    "index": 19,
+    "sectionIndex": 5,
+    "section": "What comes next",
+    "text": "After this letter, our read is simple. The survival number is the one to watch.",
+    "cue": null
+  },
+  {
+    "index": 20,
+    "sectionIndex": 6,
+    "section": "Subscribe",
+    "text": "We track the FDA decisions that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+    "cue": null
+  }
+]

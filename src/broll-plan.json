@@ -1,0 +1,5 @@
+[
+  { "id": "s3_infusion", "sceneKey": "combo", "query": "iv drip hospital", "start": 18.44, "end": 25.08, "targetHeight": 2160 },
+  { "id": "s10_trial", "sceneKey": "trial", "query": "scientist laboratory research", "start": 70.2, "end": 83.14, "targetHeight": 2160 },
+  { "id": "s20_lung", "sceneKey": "faceoff", "query": "doctor looking at lung x-ray", "start": 151.84, "end": 161.0, "targetHeight": 2160 }
+]

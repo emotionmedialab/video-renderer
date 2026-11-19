@@ -1,0 +1,3213 @@
+{
+  "durationMs": 192480,
+  "fps": 30,
+  "meta": {
+    "title": "The FDA held the bar on ivonescimab",
+    "intro": "The survival number Summit was told it needed, and did not get",
+    "cta": "Subscribe free at thecatalystbrief.com"
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "The letter",
+      "startMs": 50
+    },
+    {
+      "index": 1,
+      "title": "The drug",
+      "startMs": 38000
+    },
+    {
+      "index": 2,
+      "title": "The FDA's reasons",
+      "startMs": 51650
+    },
+    {
+      "index": 3,
+      "title": "The trial",
+      "startMs": 69600
+    },
+    {
+      "index": 4,
+      "title": "Why it matters",
+      "startMs": 116760
+    },
+    {
+      "index": 5,
+      "title": "What comes next",
+      "startMs": 137820
+    },
+    {
+      "index": 6,
+      "title": "Subscribe",
+      "startMs": 182840
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "The letter",
+      "text": "In May 2025, the FDA told Summit Therapeutics what it would take to approve ivonescimab in one form of lung cancer: a statistically significant overall survival benefit.",
+      "cue": null,
+      "startMs": 50,
+      "endMs": 12360
+    },
+    {
+      "index": 1,
+      "sectionIndex": 0,
+      "section": "The letter",
+      "text": "On November 15th, it said the same thing again, this time in a rejection letter.",
+      "cue": null,
+      "startMs": 12360,
+      "endMs": 18440
+    },
+    {
+      "index": 2,
+      "sectionIndex": 0,
+      "section": "The letter",
+      "text": "Summit announced that the FDA has issued a complete response letter for ivonescimab plus platinum chemotherapy. The application covered advanced non-small cell lung cancer with an EGFR mutation, in patients already treated with an EGFR-targeted drug.",
+      "cue": null,
+      "startMs": 18440,
+      "endMs": 34520
+    },
+    {
+      "index": 3,
+      "sectionIndex": 0,
+      "section": "The letter",
+      "text": "The FDA's decision date had been November 14th.",
+      "cue": null,
+      "startMs": 34520,
+      "endMs": 38000
+    },
+    {
+      "index": 4,
+      "sectionIndex": 1,
+      "section": "The drug",
+      "text": "Ivonescimab is a bispecific antibody that blocks two targets at once, PD-1 and VEGF. No drug of that kind is approved in the U.S. It has been approved in China since May 2024.",
+      "cue": null,
+      "startMs": 38000,
+      "endMs": 51650
+    },
+    {
+      "index": 5,
+      "sectionIndex": 2,
+      "section": "The FDA's reasons",
+      "text": "According to Summit, the FDA found that substantial evidence of effectiveness was not established, without a statistically significant improvement in overall survival.",
+      "cue": null,
+      "startMs": 51650,
+      "endMs": 61820
+    },
+    {
+      "index": 6,
+      "sectionIndex": 2,
+      "section": "The FDA's reasons",
+      "text": "It also said the progression-free survival benefit could not, on its own, support a positive balance of benefit and risk.",
+      "cue": null,
+      "startMs": 61820,
+      "endMs": 69600
+    },
+    {
+      "index": 7,
+      "sectionIndex": 3,
+      "section": "The trial",
+      "text": "The application rested on HARMONi, a global Phase 3 trial with two primary endpoints.",
+      "cue": null,
+      "startMs": 69600,
+      "endMs": 75760
+    },
+    {
+      "index": 8,
+      "sectionIndex": 3,
+      "section": "The trial",
+      "text": "The first was progression-free survival, and there it won. The hazard ratio was 0.52. Median progression-free survival was 6.8 months, against 4.4 on chemotherapy alone.",
+      "cue": null,
+      "startMs": 75760,
+      "endMs": 89520
+    },
+    {
+      "index": 9,
+      "sectionIndex": 3,
+      "section": "The trial",
+      "text": "The second was overall survival, and that is where it fell short. At the primary analysis, the hazard ratio was 0.79, with a p-value of 0.057. The trial's plan required 0.0448.",
+      "cue": null,
+      "startMs": 89520,
+      "endMs": 105950
+    },
+    {
+      "index": 10,
+      "sectionIndex": 3,
+      "section": "The trial",
+      "text": "With longer follow-up, the survival hazard ratio moved to 0.76. Summit itself calls that a post-hoc analysis, outside the prespecified test.",
+      "cue": null,
+      "startMs": 105950,
+      "endMs": 116760
+    },
+    {
+      "index": 11,
+      "sectionIndex": 4,
+      "section": "Why it matters",
+      "text": "Why it matters. This is our read.",
+      "cue": null,
+      "startMs": 116760,
+      "endMs": 120160
+    },
+    {
+      "index": 12,
+      "sectionIndex": 4,
+      "section": "Why it matters",
+      "text": "Summit filed knowing the bar. Its own 2025 announcement said the FDA considered a survival benefit necessary. The FDA held to that.",
+      "cue": null,
+      "startMs": 120160,
+      "endMs": 129760
+    },
+    {
+      "index": 13,
+      "sectionIndex": 4,
+      "section": "Why it matters",
+      "text": "Summit's case was that no approved regimen in this setting has shown a significant survival benefit either. That case did not carry the review.",
+      "cue": null,
+      "startMs": 129760,
+      "endMs": 137820
+    },
+    {
+      "index": 14,
+      "sectionIndex": 5,
+      "section": "What comes next",
+      "text": "The company is not short of cash. It held $629.8 million at the end of September, and then received $2 billion from an AstraZeneca equity investment.",
+      "cue": null,
+      "startMs": 137820,
+      "endMs": 148880
+    },
+    {
+      "index": 15,
+      "sectionIndex": 5,
+      "section": "What comes next",
+      "text": "The release does not say whether Summit will resubmit.",
+      "cue": null,
+      "startMs": 148880,
+      "endMs": 151840
+    },
+    {
+      "index": 16,
+      "sectionIndex": 5,
+      "section": "What comes next",
+      "text": "The bigger test is HARMONi-3. It pits ivonescimab plus chemotherapy against Keytruda plus chemotherapy, in first-line lung cancer.",
+      "cue": null,
+      "startMs": 151840,
+      "endMs": 161000
+    },
+    {
+      "index": 17,
+      "sectionIndex": 5,
+      "section": "What comes next",
+      "text": "In the squamous group, Summit expects to have enough progression-free survival events for its primary analysis in the fourth quarter of 2026.",
+      "cue": null,
+      "startMs": 161000,
+      "endMs": 169560
+    },
+    {
+      "index": 18,
+      "sectionIndex": 5,
+      "section": "What comes next",
+      "text": "An early look at overall survival is planned alongside it, and a separate survival analysis in the first half of 2027.",
+      "cue": null,
+      "startMs": 169560,
+      "endMs": 177043
+    },
+    {
+      "index": 19,
+      "sectionIndex": 5,
+      "section": "What comes next",
+      "text": "After this letter, our read is simple. The survival number is the one to watch.",
+      "cue": null,
+      "startMs": 177043,
+      "endMs": 182840
+    },
+    {
+      "index": 20,
+      "sectionIndex": 6,
+      "section": "Subscribe",
+      "text": "We track the FDA decisions that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+      "cue": null,
+      "startMs": 182840,
+      "endMs": 192480
+    }
+  ],
+  "words": [
+    {
+      "raw": "In",
+      "beat": 0,
+      "startMs": 50,
+      "endMs": 160
+    },
+    {
+      "raw": "May",
+      "beat": 0,
+      "startMs": 160,
+      "endMs": 400
+    },
+    {
+      "raw": "2025,",
+      "beat": 0,
+      "startMs": 400,
+      "endMs": 1510
+    },
+    {
+      "raw": "the",
+      "beat": 0,
+      "startMs": 1510,
+      "endMs": 1930
+    },
+    {
+      "raw": "FDA",
+      "beat": 0,
+      "startMs": 1930,
+      "endMs": 2020
+    },
+    {
+      "raw": "told",
+      "beat": 0,
+      "startMs": 2020,
+      "endMs": 2350
+    },
+    {
+      "raw": "Summit",
+      "beat": 0,
+      "startMs": 2350,
+      "endMs": 2840
+    },
+    {
+      "raw": "Therapeutics",
+      "beat": 0,
+      "startMs": 2840,
+      "endMs": 3930
+    },
+    {
+      "raw": "what",
+      "beat": 0,
+      "startMs": 3930,
+      "endMs": 4120
+    },
+    {
+      "raw": "it",
+      "beat": 0,
+      "startMs": 4120,
+      "endMs": 4200
+    },
+    {
+      "raw": "would",
+      "beat": 0,
+      "startMs": 4200,
+      "endMs": 4430
+    },
+    {
+      "raw": "take",
+      "beat": 0,
+      "startMs": 4430,
+      "endMs": 4750
+    },
+    {
+      "raw": "to",
+      "beat": 0,
+      "startMs": 4750,
+      "endMs": 4880
+    },
+    {
+      "raw": "approve",
+      "beat": 0,
+      "startMs": 4880,
+      "endMs": 5400
+    },
+    {
+      "raw": "ivonescimab",
+      "beat": 0,
+      "startMs": 5400,
+      "endMs": 6200
+    },
+    {
+      "raw": "in",
+      "beat": 0,
+      "startMs": 6200,
+      "endMs": 6360
+    },
+    {
+      "raw": "one",
+      "beat": 0,
+      "startMs": 6360,
+      "endMs": 6610
+    },
+    {
+      "raw": "form",
+      "beat": 0,
+      "startMs": 6610,
+      "endMs": 6940
+    },
+    {
+      "raw": "of",
+      "beat": 0,
+      "startMs": 6940,
+      "endMs": 7100
+    },
+    {
+      "raw": "lung",
+      "beat": 0,
+      "startMs": 7100,
+      "endMs": 7430
+    },
+    {
+      "raw": "cancer:",
+      "beat": 0,
+      "startMs": 7430,
+      "endMs": 8090
+    },
+    {
+      "raw": "a",
+      "beat": 0,
+      "startMs": 8560,
+      "endMs": 8560
+    },
+    {
+      "raw": "statistically",
+      "beat": 0,
+      "startMs": 8660,
+      "endMs": 9260
+    },
+    {
+      "raw": "significant",
+      "beat": 0,
+      "startMs": 9260,
+      "endMs": 10190
+    },
+    {
+      "raw": "overall",
+      "beat": 0,
+      "startMs": 10190,
+      "endMs": 10770
+    },
+    {
+      "raw": "survival",
+      "beat": 0,
+      "startMs": 10770,
+      "endMs": 11430
+    },
+    {
+      "raw": "benefit.",
+      "beat": 0,
+      "startMs": 11430,
+      "endMs": 12360
+    },
+    {
+      "raw": "On",
+      "beat": 1,
+      "startMs": 12360,
+      "endMs": 12520
+    },
+    {
+      "raw": "November",
+      "beat": 1,
+      "startMs": 12520,
+      "endMs": 13170
+    },
+    {
+      "raw": "15th,",
+      "beat": 1,
+      "startMs": 13170,
+      "endMs": 13990
+    },
+    {
+      "raw": "it",
+      "beat": 1,
+      "startMs": 13990,
+      "endMs": 14140
+    },
+    {
+      "raw": "said",
+      "beat": 1,
+      "startMs": 14140,
+      "endMs": 14460
+    },
+    {
+      "raw": "the",
+      "beat": 1,
+      "startMs": 14460,
+      "endMs": 14700
+    },
+    {
+      "raw": "same",
+      "beat": 1,
+      "startMs": 14700,
+      "endMs": 15020
+    },
+    {
+      "raw": "thing",
+      "beat": 1,
+      "startMs": 15020,
+      "endMs": 15840
+    },
+    {
+      "raw": "again,",
+      "beat": 1,
+      "startMs": 15902,
+      "endMs": 16000
+    },
+    {
+      "raw": "this",
+      "beat": 1,
+      "startMs": 16000,
+      "endMs": 16320
+    },
+    {
+      "raw": "time",
+      "beat": 1,
+      "startMs": 16320,
+      "endMs": 16640
+    },
+    {
+      "raw": "in",
+      "beat": 1,
+      "startMs": 16640,
+      "endMs": 16800
+    },
+    {
+      "raw": "a",
+      "beat": 1,
+      "startMs": 16800,
+      "endMs": 16880
+    },
+    {
+      "raw": "rejection",
+      "beat": 1,
+      "startMs": 16880,
+      "endMs": 17550
+    },
+    {
+      "raw": "letter.",
+      "beat": 1,
+      "startMs": 17550,
+      "endMs": 18440
+    },
+    {
+      "raw": "Summit",
+      "beat": 2,
+      "startMs": 18440,
+      "endMs": 18810
+    },
+    {
+      "raw": "announced",
+      "beat": 2,
+      "startMs": 18810,
+      "endMs": 19370
+    },
+    {
+      "raw": "that",
+      "beat": 2,
+      "startMs": 19370,
+      "endMs": 19620
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 19620,
+      "endMs": 19800
+    },
+    {
+      "raw": "FDA",
+      "beat": 2,
+      "startMs": 19800,
+      "endMs": 19980
+    },
+    {
+      "raw": "has",
+      "beat": 2,
+      "startMs": 19980,
+      "endMs": 20160
+    },
+    {
+      "raw": "issued",
+      "beat": 2,
+      "startMs": 20160,
+      "endMs": 20540
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 20540,
+      "endMs": 20590
+    },
+    {
+      "raw": "complete",
+      "beat": 2,
+      "startMs": 20590,
+      "endMs": 21080
+    },
+    {
+      "raw": "response",
+      "beat": 2,
+      "startMs": 21080,
+      "endMs": 21590
+    },
+    {
+      "raw": "letter",
+      "beat": 2,
+      "startMs": 21590,
+      "endMs": 21950
+    },
+    {
+      "raw": "for",
+      "beat": 2,
+      "startMs": 21950,
+      "endMs": 22120
+    },
+    {
+      "raw": "ivonescimab",
+      "beat": 2,
+      "startMs": 22120,
+      "endMs": 22880
+    },
+    {
+      "raw": "plus",
+      "beat": 2,
+      "startMs": 22880,
+      "endMs": 23080
+    },
+    {
+      "raw": "platinum",
+      "beat": 2,
+      "startMs": 23080,
+      "endMs": 23770
+    },
+    {
+      "raw": "chemotherapy.",
+      "beat": 2,
+      "startMs": 23770,
+      "endMs": 25080
+    },
+    {
+      "raw": "The",
+      "beat": 2,
+      "startMs": 25080,
+      "endMs": 25330
+    },
+    {
+      "raw": "application",
+      "beat": 2,
+      "startMs": 25330,
+      "endMs": 26160
+    },
+    {
+      "raw": "covered",
+      "beat": 2,
+      "startMs": 26160,
+      "endMs": 26680
+    },
+    {
+      "raw": "advanced",
+      "beat": 2,
+      "startMs": 26680,
+      "endMs": 27290
+    },
+    {
+      "raw": "non-small",
+      "beat": 2,
+      "startMs": 27290,
+      "endMs": 27970
+    },
+    {
+      "raw": "cell",
+      "beat": 2,
+      "startMs": 27970,
+      "endMs": 28270
+    },
+    {
+      "raw": "lung",
+      "beat": 2,
+      "startMs": 28270,
+      "endMs": 28570
+    },
+    {
+      "raw": "cancer",
+      "beat": 2,
+      "startMs": 28570,
+      "endMs": 29020
+    },
+    {
+      "raw": "with",
+      "beat": 2,
+      "startMs": 29020,
+      "endMs": 29320
+    },
+    {
+      "raw": "an",
+      "beat": 2,
+      "startMs": 29320,
+      "endMs": 29470
+    },
+    {
+      "raw": "EGFR",
+      "beat": 2,
+      "startMs": 29470,
+      "endMs": 29770
+    },
+    {
+      "raw": "mutation,",
+      "beat": 2,
+      "startMs": 29770,
+      "endMs": 30550
+    },
+    {
+      "raw": "in",
+      "beat": 2,
+      "startMs": 30554,
+      "endMs": 30600
+    },
+    {
+      "raw": "patients",
+      "beat": 2,
+      "startMs": 30600,
+      "endMs": 31250
+    },
+    {
+      "raw": "already",
+      "beat": 2,
+      "startMs": 31250,
+      "endMs": 31820
+    },
+    {
+      "raw": "treated",
+      "beat": 2,
+      "startMs": 31820,
+      "endMs": 32390
+    },
+    {
+      "raw": "with",
+      "beat": 2,
+      "startMs": 32390,
+      "endMs": 32710
+    },
+    {
+      "raw": "an",
+      "beat": 2,
+      "startMs": 32710,
+      "endMs": 32870
+    },
+    {
+      "raw": "EGFR-targeted",
+      "beat": 2,
+      "startMs": 32870,
+      "endMs": 33797
+    },
+    {
+      "raw": "drug.",
+      "beat": 2,
+      "startMs": 33797,
+      "endMs": 34520
+    },
+    {
+      "raw": "The",
+      "beat": 3,
+      "startMs": 34520,
+      "endMs": 34820
+    },
+    {
+      "raw": "FDA's",
+      "beat": 3,
+      "startMs": 34820,
+      "endMs": 35160
+    },
+    {
+      "raw": "decision",
+      "beat": 3,
+      "startMs": 35160,
+      "endMs": 35710
+    },
+    {
+      "raw": "date",
+      "beat": 3,
+      "startMs": 35710,
+      "endMs": 36010
+    },
+    {
+      "raw": "had",
+      "beat": 3,
+      "startMs": 36010,
+      "endMs": 36230
+    },
+    {
+      "raw": "been",
+      "beat": 3,
+      "startMs": 36230,
+      "endMs": 36530
+    },
+    {
+      "raw": "November",
+      "beat": 3,
+      "startMs": 36530,
+      "endMs": 37090
+    },
+    {
+      "raw": "14th.",
+      "beat": 3,
+      "startMs": 37090,
+      "endMs": 38000
+    },
+    {
+      "raw": "Ivonescimab",
+      "beat": 4,
+      "startMs": 38000,
+      "endMs": 39030
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 39030,
+      "endMs": 39250
+    },
+    {
+      "raw": "a",
+      "beat": 4,
+      "startMs": 39250,
+      "endMs": 39310
+    },
+    {
+      "raw": "bispecific",
+      "beat": 4,
+      "startMs": 39310,
+      "endMs": 40350
+    },
+    {
+      "raw": "antibody",
+      "beat": 4,
+      "startMs": 40350,
+      "endMs": 41110
+    },
+    {
+      "raw": "that",
+      "beat": 4,
+      "startMs": 41110,
+      "endMs": 41490
+    },
+    {
+      "raw": "blocks",
+      "beat": 4,
+      "startMs": 41490,
+      "endMs": 42060
+    },
+    {
+      "raw": "two",
+      "beat": 4,
+      "startMs": 42060,
+      "endMs": 42340
+    },
+    {
+      "raw": "targets",
+      "beat": 4,
+      "startMs": 42340,
+      "endMs": 43010
+    },
+    {
+      "raw": "at",
+      "beat": 4,
+      "startMs": 43010,
+      "endMs": 43200
+    },
+    {
+      "raw": "once,",
+      "beat": 4,
+      "startMs": 43200,
+      "endMs": 43820
+    },
+    {
+      "raw": "PD-1",
+      "beat": 4,
+      "startMs": 43820,
+      "endMs": 44330
+    },
+    {
+      "raw": "and",
+      "beat": 4,
+      "startMs": 44330,
+      "endMs": 44510
+    },
+    {
+      "raw": "VEGF.",
+      "beat": 4,
+      "startMs": 44510,
+      "endMs": 45400
+    },
+    {
+      "raw": "No",
+      "beat": 4,
+      "startMs": 45400,
+      "endMs": 45570
+    },
+    {
+      "raw": "drug",
+      "beat": 4,
+      "startMs": 45570,
+      "endMs": 45860
+    },
+    {
+      "raw": "of",
+      "beat": 4,
+      "startMs": 45860,
+      "endMs": 46010
+    },
+    {
+      "raw": "that",
+      "beat": 4,
+      "startMs": 46010,
+      "endMs": 46320
+    },
+    {
+      "raw": "kind",
+      "beat": 4,
+      "startMs": 46320,
+      "endMs": 46740
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 46740,
+      "endMs": 46780
+    },
+    {
+      "raw": "approved",
+      "beat": 4,
+      "startMs": 46780,
+      "endMs": 47410
+    },
+    {
+      "raw": "in",
+      "beat": 4,
+      "startMs": 47410,
+      "endMs": 47570
+    },
+    {
+      "raw": "the",
+      "beat": 4,
+      "startMs": 47570,
+      "endMs": 47721
+    },
+    {
+      "raw": "U.S.",
+      "beat": 4,
+      "startMs": 47721,
+      "endMs": 48240
+    },
+    {
+      "raw": "It",
+      "beat": 4,
+      "startMs": 48240,
+      "endMs": 48440
+    },
+    {
+      "raw": "has",
+      "beat": 4,
+      "startMs": 48440,
+      "endMs": 48650
+    },
+    {
+      "raw": "been",
+      "beat": 4,
+      "startMs": 48650,
+      "endMs": 48930
+    },
+    {
+      "raw": "approved",
+      "beat": 4,
+      "startMs": 48930,
+      "endMs": 49560
+    },
+    {
+      "raw": "in",
+      "beat": 4,
+      "startMs": 49560,
+      "endMs": 49710
+    },
+    {
+      "raw": "China",
+      "beat": 4,
+      "startMs": 49710,
+      "endMs": 50130
+    },
+    {
+      "raw": "since",
+      "beat": 4,
+      "startMs": 50130,
+      "endMs": 50510
+    },
+    {
+      "raw": "May",
+      "beat": 4,
+      "startMs": 50510,
+      "endMs": 50710
+    },
+    {
+      "raw": "2024.",
+      "beat": 4,
+      "startMs": 50710,
+      "endMs": 51650
+    },
+    {
+      "raw": "According",
+      "beat": 5,
+      "startMs": 51650,
+      "endMs": 52520
+    },
+    {
+      "raw": "to",
+      "beat": 5,
+      "startMs": 52520,
+      "endMs": 52860
+    },
+    {
+      "raw": "Summit,",
+      "beat": 5,
+      "startMs": 52860,
+      "endMs": 53210
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 53210,
+      "endMs": 53340
+    },
+    {
+      "raw": "FDA",
+      "beat": 5,
+      "startMs": 53340,
+      "endMs": 53600
+    },
+    {
+      "raw": "found",
+      "beat": 5,
+      "startMs": 53600,
+      "endMs": 53850
+    },
+    {
+      "raw": "that",
+      "beat": 5,
+      "startMs": 53850,
+      "endMs": 54100
+    },
+    {
+      "raw": "substantial",
+      "beat": 5,
+      "startMs": 54100,
+      "endMs": 54800
+    },
+    {
+      "raw": "evidence",
+      "beat": 5,
+      "startMs": 54800,
+      "endMs": 55430
+    },
+    {
+      "raw": "of",
+      "beat": 5,
+      "startMs": 55430,
+      "endMs": 55430
+    },
+    {
+      "raw": "effectiveness",
+      "beat": 5,
+      "startMs": 55600,
+      "endMs": 56260
+    },
+    {
+      "raw": "was",
+      "beat": 5,
+      "startMs": 56260,
+      "endMs": 56450
+    },
+    {
+      "raw": "not",
+      "beat": 5,
+      "startMs": 56450,
+      "endMs": 56640
+    },
+    {
+      "raw": "established,",
+      "beat": 5,
+      "startMs": 56640,
+      "endMs": 57420
+    },
+    {
+      "raw": "without",
+      "beat": 5,
+      "startMs": 57574,
+      "endMs": 57900
+    },
+    {
+      "raw": "a",
+      "beat": 5,
+      "startMs": 57900,
+      "endMs": 57970
+    },
+    {
+      "raw": "statistically",
+      "beat": 5,
+      "startMs": 57970,
+      "endMs": 58870
+    },
+    {
+      "raw": "significant",
+      "beat": 5,
+      "startMs": 58870,
+      "endMs": 59630
+    },
+    {
+      "raw": "improvement",
+      "beat": 5,
+      "startMs": 59630,
+      "endMs": 60390
+    },
+    {
+      "raw": "in",
+      "beat": 5,
+      "startMs": 60390,
+      "endMs": 60530
+    },
+    {
+      "raw": "overall",
+      "beat": 5,
+      "startMs": 60530,
+      "endMs": 60990
+    },
+    {
+      "raw": "survival.",
+      "beat": 5,
+      "startMs": 60990,
+      "endMs": 61820
+    },
+    {
+      "raw": "It",
+      "beat": 6,
+      "startMs": 61820,
+      "endMs": 61950
+    },
+    {
+      "raw": "also",
+      "beat": 6,
+      "startMs": 61950,
+      "endMs": 62210
+    },
+    {
+      "raw": "said",
+      "beat": 6,
+      "startMs": 62210,
+      "endMs": 62470
+    },
+    {
+      "raw": "the",
+      "beat": 6,
+      "startMs": 62470,
+      "endMs": 62700
+    },
+    {
+      "raw": "progression-free",
+      "beat": 6,
+      "startMs": 62700,
+      "endMs": 63700
+    },
+    {
+      "raw": "survival",
+      "beat": 6,
+      "startMs": 63700,
+      "endMs": 64240
+    },
+    {
+      "raw": "benefit",
+      "beat": 6,
+      "startMs": 64240,
+      "endMs": 64680
+    },
+    {
+      "raw": "could",
+      "beat": 6,
+      "startMs": 64680,
+      "endMs": 65190
+    },
+    {
+      "raw": "not,",
+      "beat": 6,
+      "startMs": 65190,
+      "endMs": 65330
+    },
+    {
+      "raw": "on",
+      "beat": 6,
+      "startMs": 65330,
+      "endMs": 65460
+    },
+    {
+      "raw": "its",
+      "beat": 6,
+      "startMs": 65460,
+      "endMs": 65650
+    },
+    {
+      "raw": "own,",
+      "beat": 6,
+      "startMs": 65650,
+      "endMs": 66110
+    },
+    {
+      "raw": "support",
+      "beat": 6,
+      "startMs": 66110,
+      "endMs": 66430
+    },
+    {
+      "raw": "a",
+      "beat": 6,
+      "startMs": 66430,
+      "endMs": 66520
+    },
+    {
+      "raw": "positive",
+      "beat": 6,
+      "startMs": 66520,
+      "endMs": 67120
+    },
+    {
+      "raw": "balance",
+      "beat": 6,
+      "startMs": 67120,
+      "endMs": 67840
+    },
+    {
+      "raw": "of",
+      "beat": 6,
+      "startMs": 67840,
+      "endMs": 67970
+    },
+    {
+      "raw": "benefit",
+      "beat": 6,
+      "startMs": 67970,
+      "endMs": 68630
+    },
+    {
+      "raw": "and",
+      "beat": 6,
+      "startMs": 68630,
+      "endMs": 68889
+    },
+    {
+      "raw": "risk.",
+      "beat": 6,
+      "startMs": 68889,
+      "endMs": 69600
+    },
+    {
+      "raw": "The",
+      "beat": 7,
+      "startMs": 69600,
+      "endMs": 69870
+    },
+    {
+      "raw": "application",
+      "beat": 7,
+      "startMs": 69870,
+      "endMs": 70710
+    },
+    {
+      "raw": "rested",
+      "beat": 7,
+      "startMs": 70710,
+      "endMs": 71180
+    },
+    {
+      "raw": "on",
+      "beat": 7,
+      "startMs": 71180,
+      "endMs": 71340
+    },
+    {
+      "raw": "HARMONi,",
+      "beat": 7,
+      "startMs": 71340,
+      "endMs": 71900
+    },
+    {
+      "raw": "a",
+      "beat": 7,
+      "startMs": 71900,
+      "endMs": 72120
+    },
+    {
+      "raw": "global",
+      "beat": 7,
+      "startMs": 72120,
+      "endMs": 72610
+    },
+    {
+      "raw": "Phase",
+      "beat": 7,
+      "startMs": 72610,
+      "endMs": 72990
+    },
+    {
+      "raw": "3",
+      "beat": 7,
+      "startMs": 72990,
+      "endMs": 73230
+    },
+    {
+      "raw": "trial",
+      "beat": 7,
+      "startMs": 73230,
+      "endMs": 73630
+    },
+    {
+      "raw": "with",
+      "beat": 7,
+      "startMs": 73630,
+      "endMs": 73950
+    },
+    {
+      "raw": "two",
+      "beat": 7,
+      "startMs": 73950,
+      "endMs": 74210
+    },
+    {
+      "raw": "primary",
+      "beat": 7,
+      "startMs": 74210,
+      "endMs": 74740
+    },
+    {
+      "raw": "endpoints.",
+      "beat": 7,
+      "startMs": 74740,
+      "endMs": 75760
+    },
+    {
+      "raw": "The",
+      "beat": 8,
+      "startMs": 75760,
+      "endMs": 75990
+    },
+    {
+      "raw": "first",
+      "beat": 8,
+      "startMs": 75990,
+      "endMs": 76380
+    },
+    {
+      "raw": "was",
+      "beat": 8,
+      "startMs": 76380,
+      "endMs": 76610
+    },
+    {
+      "raw": "progression-free",
+      "beat": 8,
+      "startMs": 76610,
+      "endMs": 78120
+    },
+    {
+      "raw": "survival,",
+      "beat": 8,
+      "startMs": 78122,
+      "endMs": 78830
+    },
+    {
+      "raw": "and",
+      "beat": 8,
+      "startMs": 78830,
+      "endMs": 78850
+    },
+    {
+      "raw": "there",
+      "beat": 8,
+      "startMs": 78850,
+      "endMs": 78960
+    },
+    {
+      "raw": "it",
+      "beat": 8,
+      "startMs": 78960,
+      "endMs": 79040
+    },
+    {
+      "raw": "won.",
+      "beat": 8,
+      "startMs": 79040,
+      "endMs": 79920
+    },
+    {
+      "raw": "The",
+      "beat": 8,
+      "startMs": 79920,
+      "endMs": 80220
+    },
+    {
+      "raw": "hazard",
+      "beat": 8,
+      "startMs": 80220,
+      "endMs": 80820
+    },
+    {
+      "raw": "ratio",
+      "beat": 8,
+      "startMs": 80820,
+      "endMs": 81320
+    },
+    {
+      "raw": "was",
+      "beat": 8,
+      "startMs": 81320,
+      "endMs": 81620
+    },
+    {
+      "raw": "0.52.",
+      "beat": 8,
+      "startMs": 81620,
+      "endMs": 83140
+    },
+    {
+      "raw": "Median",
+      "beat": 8,
+      "startMs": 83140,
+      "endMs": 83580
+    },
+    {
+      "raw": "progression-free",
+      "beat": 8,
+      "startMs": 83580,
+      "endMs": 84720
+    },
+    {
+      "raw": "survival",
+      "beat": 8,
+      "startMs": 84720,
+      "endMs": 85300
+    },
+    {
+      "raw": "was",
+      "beat": 8,
+      "startMs": 85300,
+      "endMs": 85540
+    },
+    {
+      "raw": "6.8",
+      "beat": 8,
+      "startMs": 85540,
+      "endMs": 86130
+    },
+    {
+      "raw": "months,",
+      "beat": 8,
+      "startMs": 86130,
+      "endMs": 86700
+    },
+    {
+      "raw": "against",
+      "beat": 8,
+      "startMs": 86700,
+      "endMs": 87200
+    },
+    {
+      "raw": "4.4",
+      "beat": 8,
+      "startMs": 87200,
+      "endMs": 87830
+    },
+    {
+      "raw": "on",
+      "beat": 8,
+      "startMs": 87830,
+      "endMs": 88000
+    },
+    {
+      "raw": "chemotherapy",
+      "beat": 8,
+      "startMs": 88000,
+      "endMs": 88830
+    },
+    {
+      "raw": "alone.",
+      "beat": 8,
+      "startMs": 88830,
+      "endMs": 89520
+    },
+    {
+      "raw": "The",
+      "beat": 9,
+      "startMs": 89520,
+      "endMs": 89760
+    },
+    {
+      "raw": "second",
+      "beat": 9,
+      "startMs": 89760,
+      "endMs": 90240
+    },
+    {
+      "raw": "was",
+      "beat": 9,
+      "startMs": 90240,
+      "endMs": 90480
+    },
+    {
+      "raw": "overall",
+      "beat": 9,
+      "startMs": 90480,
+      "endMs": 91020
+    },
+    {
+      "raw": "survival,",
+      "beat": 9,
+      "startMs": 91020,
+      "endMs": 91880
+    },
+    {
+      "raw": "and",
+      "beat": 9,
+      "startMs": 91884,
+      "endMs": 92110
+    },
+    {
+      "raw": "that",
+      "beat": 9,
+      "startMs": 92110,
+      "endMs": 92430
+    },
+    {
+      "raw": "is",
+      "beat": 9,
+      "startMs": 92430,
+      "endMs": 92560
+    },
+    {
+      "raw": "where",
+      "beat": 9,
+      "startMs": 92560,
+      "endMs": 92960
+    },
+    {
+      "raw": "it",
+      "beat": 9,
+      "startMs": 92960,
+      "endMs": 93120
+    },
+    {
+      "raw": "fell",
+      "beat": 9,
+      "startMs": 93120,
+      "endMs": 93410
+    },
+    {
+      "raw": "short.",
+      "beat": 9,
+      "startMs": 93410,
+      "endMs": 94140
+    },
+    {
+      "raw": "At",
+      "beat": 9,
+      "startMs": 94140,
+      "endMs": 94340
+    },
+    {
+      "raw": "the",
+      "beat": 9,
+      "startMs": 94340,
+      "endMs": 94590
+    },
+    {
+      "raw": "primary",
+      "beat": 9,
+      "startMs": 94590,
+      "endMs": 95220
+    },
+    {
+      "raw": "analysis,",
+      "beat": 9,
+      "startMs": 95220,
+      "endMs": 96110
+    },
+    {
+      "raw": "the",
+      "beat": 9,
+      "startMs": 96110,
+      "endMs": 96380
+    },
+    {
+      "raw": "hazard",
+      "beat": 9,
+      "startMs": 96380,
+      "endMs": 96920
+    },
+    {
+      "raw": "ratio",
+      "beat": 9,
+      "startMs": 96920,
+      "endMs": 97370
+    },
+    {
+      "raw": "was",
+      "beat": 9,
+      "startMs": 97370,
+      "endMs": 97640
+    },
+    {
+      "raw": "0.79,",
+      "beat": 9,
+      "startMs": 97640,
+      "endMs": 98500
+    },
+    {
+      "raw": "with",
+      "beat": 9,
+      "startMs": 98500,
+      "endMs": 99230
+    },
+    {
+      "raw": "a",
+      "beat": 9,
+      "startMs": 99230,
+      "endMs": 99320
+    },
+    {
+      "raw": "p-value",
+      "beat": 9,
+      "startMs": 99320,
+      "endMs": 99990
+    },
+    {
+      "raw": "of",
+      "beat": 9,
+      "startMs": 99990,
+      "endMs": 100110
+    },
+    {
+      "raw": "0.057.",
+      "beat": 9,
+      "startMs": 100110,
+      "endMs": 101800
+    },
+    {
+      "raw": "The",
+      "beat": 9,
+      "startMs": 101800,
+      "endMs": 102080
+    },
+    {
+      "raw": "trial's",
+      "beat": 9,
+      "startMs": 102080,
+      "endMs": 102740
+    },
+    {
+      "raw": "plan",
+      "beat": 9,
+      "startMs": 102740,
+      "endMs": 103120
+    },
+    {
+      "raw": "required",
+      "beat": 9,
+      "startMs": 103120,
+      "endMs": 103880
+    },
+    {
+      "raw": "0.0448.",
+      "beat": 9,
+      "startMs": 103880,
+      "endMs": 105920
+    },
+    {
+      "raw": "With",
+      "beat": 10,
+      "startMs": 105950,
+      "endMs": 106250
+    },
+    {
+      "raw": "longer",
+      "beat": 10,
+      "startMs": 106250,
+      "endMs": 106750
+    },
+    {
+      "raw": "follow-up,",
+      "beat": 10,
+      "startMs": 106750,
+      "endMs": 107650
+    },
+    {
+      "raw": "the",
+      "beat": 10,
+      "startMs": 107650,
+      "endMs": 107900
+    },
+    {
+      "raw": "survival",
+      "beat": 10,
+      "startMs": 107900,
+      "endMs": 108570
+    },
+    {
+      "raw": "hazard",
+      "beat": 10,
+      "startMs": 108570,
+      "endMs": 109070
+    },
+    {
+      "raw": "ratio",
+      "beat": 10,
+      "startMs": 109070,
+      "endMs": 109490
+    },
+    {
+      "raw": "moved",
+      "beat": 10,
+      "startMs": 109490,
+      "endMs": 109910
+    },
+    {
+      "raw": "to",
+      "beat": 10,
+      "startMs": 109910,
+      "endMs": 110070
+    },
+    {
+      "raw": "0.76.",
+      "beat": 10,
+      "startMs": 110070,
+      "endMs": 111100
+    },
+    {
+      "raw": "Summit",
+      "beat": 10,
+      "startMs": 111100,
+      "endMs": 111990
+    },
+    {
+      "raw": "itself",
+      "beat": 10,
+      "startMs": 111990,
+      "endMs": 112320
+    },
+    {
+      "raw": "calls",
+      "beat": 10,
+      "startMs": 112320,
+      "endMs": 112710
+    },
+    {
+      "raw": "that",
+      "beat": 10,
+      "startMs": 112710,
+      "endMs": 113020
+    },
+    {
+      "raw": "a",
+      "beat": 10,
+      "startMs": 113020,
+      "endMs": 113080
+    },
+    {
+      "raw": "post-hoc",
+      "beat": 10,
+      "startMs": 113080,
+      "endMs": 113620
+    },
+    {
+      "raw": "analysis,",
+      "beat": 10,
+      "startMs": 113620,
+      "endMs": 114250
+    },
+    {
+      "raw": "outside",
+      "beat": 10,
+      "startMs": 114250,
+      "endMs": 114920
+    },
+    {
+      "raw": "the",
+      "beat": 10,
+      "startMs": 114920,
+      "endMs": 115170
+    },
+    {
+      "raw": "prespecified",
+      "beat": 10,
+      "startMs": 115170,
+      "endMs": 116104
+    },
+    {
+      "raw": "test.",
+      "beat": 10,
+      "startMs": 116104,
+      "endMs": 116760
+    },
+    {
+      "raw": "Why",
+      "beat": 11,
+      "startMs": 116760,
+      "endMs": 117170
+    },
+    {
+      "raw": "it",
+      "beat": 11,
+      "startMs": 117170,
+      "endMs": 117430
+    },
+    {
+      "raw": "matters.",
+      "beat": 11,
+      "startMs": 117430,
+      "endMs": 118200
+    },
+    {
+      "raw": "This",
+      "beat": 11,
+      "startMs": 118200,
+      "endMs": 118840
+    },
+    {
+      "raw": "is",
+      "beat": 11,
+      "startMs": 118840,
+      "endMs": 119060
+    },
+    {
+      "raw": "our",
+      "beat": 11,
+      "startMs": 119060,
+      "endMs": 119375
+    },
+    {
+      "raw": "read.",
+      "beat": 11,
+      "startMs": 119375,
+      "endMs": 120160
+    },
+    {
+      "raw": "Summit",
+      "beat": 12,
+      "startMs": 120160,
+      "endMs": 120580
+    },
+    {
+      "raw": "filed",
+      "beat": 12,
+      "startMs": 120580,
+      "endMs": 120930
+    },
+    {
+      "raw": "knowing",
+      "beat": 12,
+      "startMs": 120930,
+      "endMs": 121480
+    },
+    {
+      "raw": "the",
+      "beat": 12,
+      "startMs": 121480,
+      "endMs": 121630
+    },
+    {
+      "raw": "bar.",
+      "beat": 12,
+      "startMs": 121630,
+      "endMs": 122200
+    },
+    {
+      "raw": "Its",
+      "beat": 12,
+      "startMs": 122200,
+      "endMs": 122400
+    },
+    {
+      "raw": "own",
+      "beat": 12,
+      "startMs": 122400,
+      "endMs": 122610
+    },
+    {
+      "raw": "2025",
+      "beat": 12,
+      "startMs": 122610,
+      "endMs": 123430
+    },
+    {
+      "raw": "announcement",
+      "beat": 12,
+      "startMs": 123430,
+      "endMs": 124260
+    },
+    {
+      "raw": "said",
+      "beat": 12,
+      "startMs": 124260,
+      "endMs": 124530
+    },
+    {
+      "raw": "the",
+      "beat": 12,
+      "startMs": 124530,
+      "endMs": 124800
+    },
+    {
+      "raw": "FDA",
+      "beat": 12,
+      "startMs": 124800,
+      "endMs": 124930
+    },
+    {
+      "raw": "considered",
+      "beat": 12,
+      "startMs": 124930,
+      "endMs": 125620
+    },
+    {
+      "raw": "a",
+      "beat": 12,
+      "startMs": 125620,
+      "endMs": 125680
+    },
+    {
+      "raw": "survival",
+      "beat": 12,
+      "startMs": 125680,
+      "endMs": 126230
+    },
+    {
+      "raw": "benefit",
+      "beat": 12,
+      "startMs": 126230,
+      "endMs": 126710
+    },
+    {
+      "raw": "necessary.",
+      "beat": 12,
+      "startMs": 126710,
+      "endMs": 127600
+    },
+    {
+      "raw": "The",
+      "beat": 12,
+      "startMs": 127600,
+      "endMs": 127940
+    },
+    {
+      "raw": "FDA",
+      "beat": 12,
+      "startMs": 127940,
+      "endMs": 128270
+    },
+    {
+      "raw": "held",
+      "beat": 12,
+      "startMs": 128270,
+      "endMs": 128720
+    },
+    {
+      "raw": "to",
+      "beat": 12,
+      "startMs": 128720,
+      "endMs": 128861
+    },
+    {
+      "raw": "that.",
+      "beat": 12,
+      "startMs": 128861,
+      "endMs": 129760
+    },
+    {
+      "raw": "Summit's",
+      "beat": 13,
+      "startMs": 129760,
+      "endMs": 130160
+    },
+    {
+      "raw": "case",
+      "beat": 13,
+      "startMs": 130160,
+      "endMs": 130380
+    },
+    {
+      "raw": "was",
+      "beat": 13,
+      "startMs": 130380,
+      "endMs": 130530
+    },
+    {
+      "raw": "that",
+      "beat": 13,
+      "startMs": 130530,
+      "endMs": 130740
+    },
+    {
+      "raw": "no",
+      "beat": 13,
+      "startMs": 130740,
+      "endMs": 130840
+    },
+    {
+      "raw": "approved",
+      "beat": 13,
+      "startMs": 130840,
+      "endMs": 131260
+    },
+    {
+      "raw": "regimen",
+      "beat": 13,
+      "startMs": 131260,
+      "endMs": 131630
+    },
+    {
+      "raw": "in",
+      "beat": 13,
+      "startMs": 131630,
+      "endMs": 131730
+    },
+    {
+      "raw": "this",
+      "beat": 13,
+      "startMs": 131730,
+      "endMs": 131940
+    },
+    {
+      "raw": "setting",
+      "beat": 13,
+      "startMs": 131940,
+      "endMs": 132310
+    },
+    {
+      "raw": "has",
+      "beat": 13,
+      "startMs": 132310,
+      "endMs": 132460
+    },
+    {
+      "raw": "shown",
+      "beat": 13,
+      "startMs": 132460,
+      "endMs": 132720
+    },
+    {
+      "raw": "a",
+      "beat": 13,
+      "startMs": 132720,
+      "endMs": 132770
+    },
+    {
+      "raw": "significant",
+      "beat": 13,
+      "startMs": 132770,
+      "endMs": 133350
+    },
+    {
+      "raw": "survival",
+      "beat": 13,
+      "startMs": 133350,
+      "endMs": 133860
+    },
+    {
+      "raw": "benefit",
+      "beat": 13,
+      "startMs": 133860,
+      "endMs": 134560
+    },
+    {
+      "raw": "either.",
+      "beat": 13,
+      "startMs": 134560,
+      "endMs": 135460
+    },
+    {
+      "raw": "That",
+      "beat": 13,
+      "startMs": 135580,
+      "endMs": 135760
+    },
+    {
+      "raw": "case",
+      "beat": 13,
+      "startMs": 135760,
+      "endMs": 136060
+    },
+    {
+      "raw": "did",
+      "beat": 13,
+      "startMs": 136060,
+      "endMs": 136280
+    },
+    {
+      "raw": "not",
+      "beat": 13,
+      "startMs": 136280,
+      "endMs": 136510
+    },
+    {
+      "raw": "carry",
+      "beat": 13,
+      "startMs": 136510,
+      "endMs": 136880
+    },
+    {
+      "raw": "the",
+      "beat": 13,
+      "startMs": 136880,
+      "endMs": 137100
+    },
+    {
+      "raw": "review.",
+      "beat": 13,
+      "startMs": 137100,
+      "endMs": 137820
+    },
+    {
+      "raw": "The",
+      "beat": 14,
+      "startMs": 137820,
+      "endMs": 138080
+    },
+    {
+      "raw": "company",
+      "beat": 14,
+      "startMs": 138080,
+      "endMs": 138600
+    },
+    {
+      "raw": "is",
+      "beat": 14,
+      "startMs": 138600,
+      "endMs": 138750
+    },
+    {
+      "raw": "not",
+      "beat": 14,
+      "startMs": 138750,
+      "endMs": 138980
+    },
+    {
+      "raw": "short",
+      "beat": 14,
+      "startMs": 138980,
+      "endMs": 139370
+    },
+    {
+      "raw": "of",
+      "beat": 14,
+      "startMs": 139370,
+      "endMs": 139520
+    },
+    {
+      "raw": "cash.",
+      "beat": 14,
+      "startMs": 139520,
+      "endMs": 140120
+    },
+    {
+      "raw": "It",
+      "beat": 14,
+      "startMs": 140120,
+      "endMs": 140270
+    },
+    {
+      "raw": "held",
+      "beat": 14,
+      "startMs": 140270,
+      "endMs": 140580
+    },
+    {
+      "raw": "$629.8",
+      "beat": 14,
+      "startMs": 140580,
+      "endMs": 141940
+    },
+    {
+      "raw": "million",
+      "beat": 14,
+      "startMs": 141940,
+      "endMs": 142350
+    },
+    {
+      "raw": "at",
+      "beat": 14,
+      "startMs": 142350,
+      "endMs": 142500
+    },
+    {
+      "raw": "the",
+      "beat": 14,
+      "startMs": 142500,
+      "endMs": 142730
+    },
+    {
+      "raw": "end",
+      "beat": 14,
+      "startMs": 142730,
+      "endMs": 142950
+    },
+    {
+      "raw": "of",
+      "beat": 14,
+      "startMs": 142950,
+      "endMs": 143110
+    },
+    {
+      "raw": "September,",
+      "beat": 14,
+      "startMs": 143110,
+      "endMs": 143960
+    },
+    {
+      "raw": "and",
+      "beat": 14,
+      "startMs": 143960,
+      "endMs": 144380
+    },
+    {
+      "raw": "then",
+      "beat": 14,
+      "startMs": 144380,
+      "endMs": 144500
+    },
+    {
+      "raw": "received",
+      "beat": 14,
+      "startMs": 144500,
+      "endMs": 145170
+    },
+    {
+      "raw": "$2",
+      "beat": 14,
+      "startMs": 145170,
+      "endMs": 145420
+    },
+    {
+      "raw": "billion",
+      "beat": 14,
+      "startMs": 145420,
+      "endMs": 145960
+    },
+    {
+      "raw": "from",
+      "beat": 14,
+      "startMs": 145960,
+      "endMs": 146270
+    },
+    {
+      "raw": "an",
+      "beat": 14,
+      "startMs": 146270,
+      "endMs": 146420
+    },
+    {
+      "raw": "AstraZeneca",
+      "beat": 14,
+      "startMs": 146420,
+      "endMs": 147240
+    },
+    {
+      "raw": "equity",
+      "beat": 14,
+      "startMs": 147240,
+      "endMs": 147750
+    },
+    {
+      "raw": "investment.",
+      "beat": 14,
+      "startMs": 147750,
+      "endMs": 148880
+    },
+    {
+      "raw": "The",
+      "beat": 15,
+      "startMs": 148880,
+      "endMs": 149060
+    },
+    {
+      "raw": "release",
+      "beat": 15,
+      "startMs": 149060,
+      "endMs": 149490
+    },
+    {
+      "raw": "does",
+      "beat": 15,
+      "startMs": 149490,
+      "endMs": 149770
+    },
+    {
+      "raw": "not",
+      "beat": 15,
+      "startMs": 149770,
+      "endMs": 149910
+    },
+    {
+      "raw": "say",
+      "beat": 15,
+      "startMs": 149910,
+      "endMs": 150090
+    },
+    {
+      "raw": "whether",
+      "beat": 15,
+      "startMs": 150090,
+      "endMs": 150520
+    },
+    {
+      "raw": "Summit",
+      "beat": 15,
+      "startMs": 150520,
+      "endMs": 150880
+    },
+    {
+      "raw": "will",
+      "beat": 15,
+      "startMs": 150880,
+      "endMs": 151120
+    },
+    {
+      "raw": "resubmit.",
+      "beat": 15,
+      "startMs": 151120,
+      "endMs": 151840
+    },
+    {
+      "raw": "The",
+      "beat": 16,
+      "startMs": 151840,
+      "endMs": 152100
+    },
+    {
+      "raw": "bigger",
+      "beat": 16,
+      "startMs": 152100,
+      "endMs": 152630
+    },
+    {
+      "raw": "test",
+      "beat": 16,
+      "startMs": 152630,
+      "endMs": 152980
+    },
+    {
+      "raw": "is",
+      "beat": 16,
+      "startMs": 152980,
+      "endMs": 153150
+    },
+    {
+      "raw": "HARMONi-3.",
+      "beat": 16,
+      "startMs": 153150,
+      "endMs": 154200
+    },
+    {
+      "raw": "It",
+      "beat": 16,
+      "startMs": 154200,
+      "endMs": 154480
+    },
+    {
+      "raw": "pits",
+      "beat": 16,
+      "startMs": 154480,
+      "endMs": 154800
+    },
+    {
+      "raw": "ivonescimab",
+      "beat": 16,
+      "startMs": 154800,
+      "endMs": 155550
+    },
+    {
+      "raw": "plus",
+      "beat": 16,
+      "startMs": 155550,
+      "endMs": 155760
+    },
+    {
+      "raw": "chemotherapy",
+      "beat": 16,
+      "startMs": 155760,
+      "endMs": 156720
+    },
+    {
+      "raw": "against",
+      "beat": 16,
+      "startMs": 156720,
+      "endMs": 157310
+    },
+    {
+      "raw": "Keytruda",
+      "beat": 16,
+      "startMs": 157310,
+      "endMs": 157750
+    },
+    {
+      "raw": "plus",
+      "beat": 16,
+      "startMs": 157750,
+      "endMs": 158010
+    },
+    {
+      "raw": "chemotherapy,",
+      "beat": 16,
+      "startMs": 158010,
+      "endMs": 158960
+    },
+    {
+      "raw": "in",
+      "beat": 16,
+      "startMs": 158960,
+      "endMs": 159210
+    },
+    {
+      "raw": "first-line",
+      "beat": 16,
+      "startMs": 159210,
+      "endMs": 159920
+    },
+    {
+      "raw": "lung",
+      "beat": 16,
+      "startMs": 159920,
+      "endMs": 160230
+    },
+    {
+      "raw": "cancer.",
+      "beat": 16,
+      "startMs": 160230,
+      "endMs": 161000
+    },
+    {
+      "raw": "In",
+      "beat": 17,
+      "startMs": 161000,
+      "endMs": 161110
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 161110,
+      "endMs": 161270
+    },
+    {
+      "raw": "squamous",
+      "beat": 17,
+      "startMs": 161270,
+      "endMs": 161700
+    },
+    {
+      "raw": "group,",
+      "beat": 17,
+      "startMs": 161700,
+      "endMs": 162190
+    },
+    {
+      "raw": "Summit",
+      "beat": 17,
+      "startMs": 162190,
+      "endMs": 162420
+    },
+    {
+      "raw": "expects",
+      "beat": 17,
+      "startMs": 162420,
+      "endMs": 162810
+    },
+    {
+      "raw": "to",
+      "beat": 17,
+      "startMs": 162810,
+      "endMs": 162920
+    },
+    {
+      "raw": "have",
+      "beat": 17,
+      "startMs": 162920,
+      "endMs": 163140
+    },
+    {
+      "raw": "enough",
+      "beat": 17,
+      "startMs": 163140,
+      "endMs": 163470
+    },
+    {
+      "raw": "progression-free",
+      "beat": 17,
+      "startMs": 163470,
+      "endMs": 164350
+    },
+    {
+      "raw": "survival",
+      "beat": 17,
+      "startMs": 164350,
+      "endMs": 164790
+    },
+    {
+      "raw": "events",
+      "beat": 17,
+      "startMs": 164790,
+      "endMs": 165200
+    },
+    {
+      "raw": "for",
+      "beat": 17,
+      "startMs": 165200,
+      "endMs": 165360
+    },
+    {
+      "raw": "its",
+      "beat": 17,
+      "startMs": 165360,
+      "endMs": 165710
+    },
+    {
+      "raw": "primary",
+      "beat": 17,
+      "startMs": 165710,
+      "endMs": 166140
+    },
+    {
+      "raw": "analysis",
+      "beat": 17,
+      "startMs": 166140,
+      "endMs": 166770
+    },
+    {
+      "raw": "in",
+      "beat": 17,
+      "startMs": 166770,
+      "endMs": 167100
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 167100,
+      "endMs": 167150
+    },
+    {
+      "raw": "fourth",
+      "beat": 17,
+      "startMs": 167150,
+      "endMs": 167620
+    },
+    {
+      "raw": "quarter",
+      "beat": 17,
+      "startMs": 167620,
+      "endMs": 168180
+    },
+    {
+      "raw": "of",
+      "beat": 17,
+      "startMs": 168180,
+      "endMs": 168320
+    },
+    {
+      "raw": "2026.",
+      "beat": 17,
+      "startMs": 168320,
+      "endMs": 169560
+    },
+    {
+      "raw": "An",
+      "beat": 18,
+      "startMs": 169560,
+      "endMs": 169710
+    },
+    {
+      "raw": "early",
+      "beat": 18,
+      "startMs": 169710,
+      "endMs": 169990
+    },
+    {
+      "raw": "look",
+      "beat": 18,
+      "startMs": 169990,
+      "endMs": 170250
+    },
+    {
+      "raw": "at",
+      "beat": 18,
+      "startMs": 170250,
+      "endMs": 170360
+    },
+    {
+      "raw": "overall",
+      "beat": 18,
+      "startMs": 170360,
+      "endMs": 170800
+    },
+    {
+      "raw": "survival",
+      "beat": 18,
+      "startMs": 170800,
+      "endMs": 171300
+    },
+    {
+      "raw": "is",
+      "beat": 18,
+      "startMs": 171300,
+      "endMs": 171420
+    },
+    {
+      "raw": "planned",
+      "beat": 18,
+      "startMs": 171420,
+      "endMs": 171860
+    },
+    {
+      "raw": "alongside",
+      "beat": 18,
+      "startMs": 171860,
+      "endMs": 172410
+    },
+    {
+      "raw": "it,",
+      "beat": 18,
+      "startMs": 172410,
+      "endMs": 172850
+    },
+    {
+      "raw": "and",
+      "beat": 18,
+      "startMs": 172850,
+      "endMs": 172879
+    },
+    {
+      "raw": "a",
+      "beat": 18,
+      "startMs": 172980,
+      "endMs": 172980
+    },
+    {
+      "raw": "separate",
+      "beat": 18,
+      "startMs": 173060,
+      "endMs": 173420
+    },
+    {
+      "raw": "survival",
+      "beat": 18,
+      "startMs": 173420,
+      "endMs": 173920
+    },
+    {
+      "raw": "analysis",
+      "beat": 18,
+      "startMs": 173920,
+      "endMs": 174520
+    },
+    {
+      "raw": "in",
+      "beat": 18,
+      "startMs": 174520,
+      "endMs": 174680
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 174680,
+      "endMs": 174920
+    },
+    {
+      "raw": "first",
+      "beat": 18,
+      "startMs": 174920,
+      "endMs": 175320
+    },
+    {
+      "raw": "half",
+      "beat": 18,
+      "startMs": 175320,
+      "endMs": 175670
+    },
+    {
+      "raw": "of",
+      "beat": 18,
+      "startMs": 175670,
+      "endMs": 175800
+    },
+    {
+      "raw": "2027.",
+      "beat": 18,
+      "startMs": 175800,
+      "endMs": 177000
+    },
+    {
+      "raw": "After",
+      "beat": 19,
+      "startMs": 177043,
+      "endMs": 177420
+    },
+    {
+      "raw": "this",
+      "beat": 19,
+      "startMs": 177420,
+      "endMs": 177760
+    },
+    {
+      "raw": "letter,",
+      "beat": 19,
+      "startMs": 177760,
+      "endMs": 178440
+    },
+    {
+      "raw": "our",
+      "beat": 19,
+      "startMs": 178440,
+      "endMs": 178690
+    },
+    {
+      "raw": "read",
+      "beat": 19,
+      "startMs": 178690,
+      "endMs": 179030
+    },
+    {
+      "raw": "is",
+      "beat": 19,
+      "startMs": 179030,
+      "endMs": 179190
+    },
+    {
+      "raw": "simple.",
+      "beat": 19,
+      "startMs": 179190,
+      "endMs": 180000
+    },
+    {
+      "raw": "The",
+      "beat": 19,
+      "startMs": 180000,
+      "endMs": 180240
+    },
+    {
+      "raw": "survival",
+      "beat": 19,
+      "startMs": 180240,
+      "endMs": 180880
+    },
+    {
+      "raw": "number",
+      "beat": 19,
+      "startMs": 180880,
+      "endMs": 181360
+    },
+    {
+      "raw": "is",
+      "beat": 19,
+      "startMs": 181360,
+      "endMs": 181520
+    },
+    {
+      "raw": "the",
+      "beat": 19,
+      "startMs": 181520,
+      "endMs": 181760
+    },
+    {
+      "raw": "one",
+      "beat": 19,
+      "startMs": 181760,
+      "endMs": 181990
+    },
+    {
+      "raw": "to",
+      "beat": 19,
+      "startMs": 181990,
+      "endMs": 182160
+    },
+    {
+      "raw": "watch.",
+      "beat": 19,
+      "startMs": 182160,
+      "endMs": 182840
+    },
+    {
+      "raw": "We",
+      "beat": 20,
+      "startMs": 182840,
+      "endMs": 182980
+    },
+    {
+      "raw": "track",
+      "beat": 20,
+      "startMs": 182980,
+      "endMs": 183340
+    },
+    {
+      "raw": "the",
+      "beat": 20,
+      "startMs": 183340,
+      "endMs": 183610
+    },
+    {
+      "raw": "FDA",
+      "beat": 20,
+      "startMs": 183610,
+      "endMs": 183760
+    },
+    {
+      "raw": "decisions",
+      "beat": 20,
+      "startMs": 183760,
+      "endMs": 184410
+    },
+    {
+      "raw": "that",
+      "beat": 20,
+      "startMs": 184410,
+      "endMs": 184700
+    },
+    {
+      "raw": "move",
+      "beat": 20,
+      "startMs": 184700,
+      "endMs": 184980
+    },
+    {
+      "raw": "biotech,",
+      "beat": 20,
+      "startMs": 184980,
+      "endMs": 185740
+    },
+    {
+      "raw": "every",
+      "beat": 20,
+      "startMs": 185747,
+      "endMs": 186000
+    },
+    {
+      "raw": "week",
+      "beat": 20,
+      "startMs": 186000,
+      "endMs": 186380
+    },
+    {
+      "raw": "in",
+      "beat": 20,
+      "startMs": 186380,
+      "endMs": 186460
+    },
+    {
+      "raw": "The",
+      "beat": 20,
+      "startMs": 186460,
+      "endMs": 186660
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 20,
+      "startMs": 186660,
+      "endMs": 187220
+    },
+    {
+      "raw": "Brief.",
+      "beat": 20,
+      "startMs": 187220,
+      "endMs": 187880
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 20,
+      "startMs": 187911,
+      "endMs": 188640
+    },
+    {
+      "raw": "free,",
+      "beat": 20,
+      "startMs": 188640,
+      "endMs": 188980
+    },
+    {
+      "raw": "at",
+      "beat": 20,
+      "startMs": 188980,
+      "endMs": 189210
+    },
+    {
+      "raw": "thecatalystbrief.com.",
+      "beat": 20,
+      "startMs": 189210,
+      "endMs": 191120
+    },
+    {
+      "raw": "Signal",
+      "beat": 20,
+      "startMs": 191120,
+      "endMs": 191710
+    },
+    {
+      "raw": "over",
+      "beat": 20,
+      "startMs": 191710,
+      "endMs": 192020
+    },
+    {
+      "raw": "noise.",
+      "beat": 20,
+      "startMs": 192020,
+      "endMs": 192480
+    }
+  ],
+  "captions": [
+    {
+      "text": "In May 2025, the FDA told Summit Therapeutics",
+      "startMs": 50,
+      "endMs": 3930
+    },
+    {
+      "text": "what it would take to approve ivonescimab",
+      "startMs": 3930,
+      "endMs": 6200
+    },
+    {
+      "text": "in one form of lung cancer: a statistically",
+      "startMs": 6200,
+      "endMs": 9260
+    },
+    {
+      "text": "significant overall survival benefit.",
+      "startMs": 9260,
+      "endMs": 12360
+    },
+    {
+      "text": "On November 15th, it said the same thing again,",
+      "startMs": 12360,
+      "endMs": 16000
+    },
+    {
+      "text": "this time in a rejection letter.",
+      "startMs": 16000,
+      "endMs": 18440
+    },
+    {
+      "text": "Summit announced that the FDA has issued a",
+      "startMs": 18440,
+      "endMs": 20590
+    },
+    {
+      "text": "complete response letter for ivonescimab plus",
+      "startMs": 20590,
+      "endMs": 23080
+    },
+    {
+      "text": "platinum chemotherapy.",
+      "startMs": 23080,
+      "endMs": 25080
+    },
+    {
+      "text": "The application covered advanced non-small",
+      "startMs": 25080,
+      "endMs": 27970
+    },
+    {
+      "text": "cell lung cancer with an EGFR mutation, in",
+      "startMs": 27970,
+      "endMs": 30600
+    },
+    {
+      "text": "patients already treated with an EGFR-targeted drug.",
+      "startMs": 30600,
+      "endMs": 34520
+    },
+    {
+      "text": "The FDA's decision date had been November 14th.",
+      "startMs": 34520,
+      "endMs": 38000
+    },
+    {
+      "text": "Ivonescimab is a bispecific antibody that",
+      "startMs": 38000,
+      "endMs": 41490
+    },
+    {
+      "text": "blocks two targets at once, PD-1 and VEGF.",
+      "startMs": 41490,
+      "endMs": 45400
+    },
+    {
+      "text": "No drug of that kind is approved in the U.S.",
+      "startMs": 45400,
+      "endMs": 48240
+    },
+    {
+      "text": "It has been approved in China since May 2024.",
+      "startMs": 48240,
+      "endMs": 51650
+    },
+    {
+      "text": "According to Summit, the FDA found that substantial",
+      "startMs": 51650,
+      "endMs": 54800
+    },
+    {
+      "text": "evidence of effectiveness was not established,",
+      "startMs": 54800,
+      "endMs": 57574
+    },
+    {
+      "text": "without a statistically significant improvement",
+      "startMs": 57574,
+      "endMs": 60390
+    },
+    {
+      "text": "in overall survival.",
+      "startMs": 60390,
+      "endMs": 61820
+    },
+    {
+      "text": "It also said the progression-free survival",
+      "startMs": 61820,
+      "endMs": 64240
+    },
+    {
+      "text": "benefit could not, on its own, support a positive",
+      "startMs": 64240,
+      "endMs": 67120
+    },
+    {
+      "text": "balance of benefit and risk.",
+      "startMs": 67120,
+      "endMs": 69600
+    },
+    {
+      "text": "The application rested on HARMONi, a global",
+      "startMs": 69600,
+      "endMs": 72610
+    },
+    {
+      "text": "Phase 3 trial with two primary endpoints.",
+      "startMs": 72610,
+      "endMs": 75760
+    },
+    {
+      "text": "The first was progression-free survival, and",
+      "startMs": 75760,
+      "endMs": 78850
+    },
+    {
+      "text": "there it won.",
+      "startMs": 78850,
+      "endMs": 79920
+    },
+    {
+      "text": "The hazard ratio was 0.52.",
+      "startMs": 79920,
+      "endMs": 83140
+    },
+    {
+      "text": "Median progression-free survival was 6.8 months,",
+      "startMs": 83140,
+      "endMs": 86700
+    },
+    {
+      "text": "against 4.4 on chemotherapy alone.",
+      "startMs": 86700,
+      "endMs": 89520
+    },
+    {
+      "text": "The second was overall survival, and that",
+      "startMs": 89520,
+      "endMs": 92430
+    },
+    {
+      "text": "is where it fell short.",
+      "startMs": 92430,
+      "endMs": 94140
+    },
+    {
+      "text": "At the primary analysis, the hazard ratio",
+      "startMs": 94140,
+      "endMs": 97370
+    },
+    {
+      "text": "was 0.79, with a p-value of 0.057.",
+      "startMs": 97370,
+      "endMs": 101800
+    },
+    {
+      "text": "The trial's plan required 0.0448.",
+      "startMs": 101800,
+      "endMs": 105950
+    },
+    {
+      "text": "With longer follow-up, the survival hazard",
+      "startMs": 105950,
+      "endMs": 109070
+    },
+    {
+      "text": "ratio moved to 0.76.",
+      "startMs": 109070,
+      "endMs": 111100
+    },
+    {
+      "text": "Summit itself calls that a post-hoc analysis,",
+      "startMs": 111100,
+      "endMs": 114250
+    },
+    {
+      "text": "outside the prespecified test.",
+      "startMs": 114250,
+      "endMs": 116760
+    },
+    {
+      "text": "Why it matters.",
+      "startMs": 116760,
+      "endMs": 118200
+    },
+    {
+      "text": "This is our read.",
+      "startMs": 118200,
+      "endMs": 120160
+    },
+    {
+      "text": "Summit filed knowing the bar.",
+      "startMs": 120160,
+      "endMs": 122200
+    },
+    {
+      "text": "Its own 2025 announcement said the FDA considered",
+      "startMs": 122200,
+      "endMs": 125620
+    },
+    {
+      "text": "a survival benefit necessary.",
+      "startMs": 125620,
+      "endMs": 127600
+    },
+    {
+      "text": "The FDA held to that.",
+      "startMs": 127600,
+      "endMs": 129760
+    },
+    {
+      "text": "Summit's case was that no approved regimen",
+      "startMs": 129760,
+      "endMs": 131630
+    },
+    {
+      "text": "in this setting has shown a significant survival",
+      "startMs": 131630,
+      "endMs": 133860
+    },
+    {
+      "text": "benefit either.",
+      "startMs": 133860,
+      "endMs": 135580
+    },
+    {
+      "text": "That case did not carry the review.",
+      "startMs": 135580,
+      "endMs": 137820
+    },
+    {
+      "text": "The company is not short of cash.",
+      "startMs": 137820,
+      "endMs": 140120
+    },
+    {
+      "text": "It held $629.8 million at the end of September,",
+      "startMs": 140120,
+      "endMs": 143960
+    },
+    {
+      "text": "and then received $2 billion from an AstraZeneca",
+      "startMs": 143960,
+      "endMs": 147240
+    },
+    {
+      "text": "equity investment.",
+      "startMs": 147240,
+      "endMs": 148880
+    },
+    {
+      "text": "The release does not say whether Summit will resubmit.",
+      "startMs": 148880,
+      "endMs": 151840
+    },
+    {
+      "text": "The bigger test is HARMONi-3.",
+      "startMs": 151840,
+      "endMs": 154200
+    },
+    {
+      "text": "It pits ivonescimab plus chemotherapy against",
+      "startMs": 154200,
+      "endMs": 157310
+    },
+    {
+      "text": "Keytruda plus chemotherapy, in first-line lung cancer.",
+      "startMs": 157310,
+      "endMs": 161000
+    },
+    {
+      "text": "In the squamous group, Summit expects to have",
+      "startMs": 161000,
+      "endMs": 163140
+    },
+    {
+      "text": "enough progression-free survival events for",
+      "startMs": 163140,
+      "endMs": 165360
+    },
+    {
+      "text": "its primary analysis in the fourth quarter of 2026.",
+      "startMs": 165360,
+      "endMs": 169560
+    },
+    {
+      "text": "An early look at overall survival is planned",
+      "startMs": 169560,
+      "endMs": 171860
+    },
+    {
+      "text": "alongside it, and a separate survival analysis",
+      "startMs": 171860,
+      "endMs": 174520
+    },
+    {
+      "text": "in the first half of 2027.",
+      "startMs": 174520,
+      "endMs": 177043
+    },
+    {
+      "text": "After this letter, our read is simple.",
+      "startMs": 177043,
+      "endMs": 180000
+    },
+    {
+      "text": "The survival number is the one to watch.",
+      "startMs": 180000,
+      "endMs": 182840
+    },
+    {
+      "text": "We track the FDA decisions that move biotech,",
+      "startMs": 182840,
+      "endMs": 185747
+    },
+    {
+      "text": "every week in The Catalyst Brief.",
+      "startMs": 185747,
+      "endMs": 187911
+    },
+    {
+      "text": "Subscribe free, at thecatalystbrief.com.",
+      "startMs": 187911,
+      "endMs": 191120
+    },
+    {
+      "text": "Signal over noise.",
+      "startMs": 191120,
+      "endMs": 192880
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "title": "The letter",
+    "firstBeat": 0
+  },
+  {
+    "index": 1,
+    "title": "The drug",
+    "firstBeat": 4
+  },
+  {
+    "index": 2,
+    "title": "The FDA's reasons",
+    "firstBeat": 5
+  },
+  {
+    "index": 3,
+    "title": "The trial",
+    "firstBeat": 7
+  },
+  {
+    "index": 4,
+    "title": "Why it matters",
+    "firstBeat": 11
+  },
+  {
+    "index": 5,
+    "title": "What comes next",
+    "firstBeat": 14
+  },
+  {
+    "index": 6,
+    "title": "Subscribe",
+    "firstBeat": 20
+  }
+]
