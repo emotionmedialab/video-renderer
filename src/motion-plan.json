@@ -1,0 +1,39 @@
+{
+  "composition": "PfizerStarnaShort",
+  "compFile": "src/PfizerStarnaShort.tsx",
+  "chunk": 2,
+  "kit": ["src/kit/starna2.tsx"],
+  "scenes": [
+    { "n": 7, "title": "target spins to autoimmune", "peakFrame": 1110, "world": "red", "hero": "AUTOIMMUNE target + dart", "supports": ["CANCER CAR-T disc"],
+      "move": "NEW: target-spins-dart-hits",
+      "note": "a CANCER target springs in from depth on 'target'; on 'isn't' it spins round to AUTOIMMUNE; on 'autoimmune' a dart flies in through depth and hits the bull (camera cranes with it); a small CANCER CAR-T disc drops below on 'market'; on 'larger' the target swells as the camera pulls back",
+      "camera": [{ "cue": "autoimmune", "after": 30000 }, { "cue": "larger", "after": 30000 }],
+      "movers": [
+        { "what": "target springs in", "cue": "target", "after": 30000, "durMs": 450 },
+        { "what": "target spins to AUTOIMMUNE", "cue": "isn't cancer", "after": 30000, "durMs": 700 },
+        { "what": "dart hits (crane)", "cue": "autoimmune", "after": 30000, "durMs": 600 },
+        { "what": "small disc drops", "cue": "market", "after": 30000, "durMs": 550 },
+        { "what": "target swells (pull-back)", "cue": "larger", "after": 30000, "durMs": 800 }
+      ] },
+    { "n": 8, "title": "clinic door shuts, IND waits at the slot", "peakFrame": 1278, "world": "ink", "hero": "shut clinic door + three vials", "supports": ["CLINIC", "IND FILING"],
+      "move": "fall-and-squash",
+      "note": "the three vials return on their tray seats on 'Three programs'; a clinic door lands above them on 'programs'; on 'none' its two leaves swing shut with one bounce; on 'next' an IND FILING envelope flies up through depth to the door's slot and stops there, not inside (camera pushes in with it)",
+      "camera": [{ "cue": "next real", "after": 37450 }],
+      "movers": [
+        { "what": "vials + tray return", "cue": "Three programs", "after": 37450, "durMs": 500 },
+        { "what": "door lands", "cue": "programs", "after": 37450, "durMs": 600 },
+        { "what": "leaves swing shut", "cue": "none yet", "after": 37450, "durMs": 600 },
+        { "what": "envelope to the slot (push-in)", "cue": "next real", "after": 37450, "durMs": 750 }
+      ] },
+    { "n": 9, "title": "$330M buys an option, not a product", "peakFrame": 1494, "world": "red", "hero": "$330M brick + OPTION ticket", "supports": ["A PLATFORM OPTION"],
+      "move": "NEW: ticket-prints-carton-tips",
+      "note": "the hook's brick steps back into its seat from the front on '$330 million' (reverses S1); on 'platform option' an OPTION ticket prints up out of its top (camera cranes); on 'not' a PRODUCT carton drops below; on 'product' it tips over backwards and falls out of the frame",
+      "camera": [{ "cue": "platform option", "after": 43200 }],
+      "movers": [
+        { "what": "brick steps back", "cue": "$330 million", "after": 43200, "durMs": 600 },
+        { "what": "ticket prints up (crane)", "cue": "platform option", "after": 43200, "durMs": 650 },
+        { "what": "carton drops", "cue": "not a product", "after": 43200, "durMs": 360 },
+        { "what": "carton tips + falls away", "cue": "product", "after": 43200, "durMs": 650 }
+      ] }
+  ]
+}

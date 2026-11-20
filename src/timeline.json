@@ -1,0 +1,943 @@
+{
+  "durationMs": 54000,
+  "fps": 30,
+  "meta": {
+    "title": "Pfizer's $330M option on in vivo CAR-T",
+    "intro": "Pfizer x Starna",
+    "cta": "Subscribe free at thecatalystbrief.com"
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "The deal",
+      "startMs": 50
+    },
+    {
+      "index": 1,
+      "title": "The bet",
+      "startMs": 14300
+    },
+    {
+      "index": 2,
+      "title": "The target",
+      "startMs": 30440
+    },
+    {
+      "index": 3,
+      "title": "The catch",
+      "startMs": 37843
+    },
+    {
+      "index": 4,
+      "title": "Subscribe",
+      "startMs": 48907
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "The deal",
+      "text": "$330 million dollars. Up front.",
+      "cue": {
+        "type": "stat",
+        "raw": "$330M | upfront",
+        "value": "$330M",
+        "label": "upfront"
+      },
+      "startMs": 50,
+      "endMs": 3600
+    },
+    {
+      "index": 1,
+      "sectionIndex": 0,
+      "section": "The deal",
+      "text": "That's what Pfizer just paid to license three pre-IND in vivo CAR T programs from Starna Therapeutics... with up to $2.3 billion in milestones behind it.",
+      "cue": {
+        "type": "stat",
+        "raw": "$2.3B | in milestones",
+        "value": "$2.3B",
+        "label": "in milestones"
+      },
+      "startMs": 3600,
+      "endMs": 14300
+    },
+    {
+      "index": 2,
+      "sectionIndex": 1,
+      "section": "The bet",
+      "text": "CAR T has always been cancer medicine. Remove the patient's T-cells. Engineer them in a lab. Re-infuse. Expensive, slow, bespoke. Starna's bet is different... engineer the T-cells inside the patient, using RNA.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"inside the patient\"",
+        "phrase": "inside the patient"
+      },
+      "startMs": 14300,
+      "endMs": 30440
+    },
+    {
+      "index": 3,
+      "sectionIndex": 2,
+      "section": "The target",
+      "text": "And the first target isn't cancer. It's autoimmune disease... a market an order of magnitude larger than cancer CAR T.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"autoimmune disease\"",
+        "phrase": "autoimmune disease"
+      },
+      "startMs": 30440,
+      "endMs": 37843
+    },
+    {
+      "index": 4,
+      "sectionIndex": 3,
+      "section": "The catch",
+      "text": "Three programs. None yet in people. The next real read is an IND filing. Until then... $330 million is the price of a platform option... not a product.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"not a product\"",
+        "phrase": "not a product"
+      },
+      "startMs": 37843,
+      "endMs": 48907
+    },
+    {
+      "index": 5,
+      "sectionIndex": 4,
+      "section": "Subscribe",
+      "text": "Signal over noise. This week's Catalyst Brief. Subscribe free.",
+      "cue": null,
+      "startMs": 48907,
+      "endMs": 54000
+    }
+  ],
+  "words": [
+    {
+      "raw": "$330",
+      "beat": 0,
+      "startMs": 50,
+      "endMs": 940
+    },
+    {
+      "raw": "million",
+      "beat": 0,
+      "startMs": 940,
+      "endMs": 1600
+    },
+    {
+      "raw": "dollars.",
+      "beat": 0,
+      "startMs": 1600,
+      "endMs": 2600
+    },
+    {
+      "raw": "Up",
+      "beat": 0,
+      "startMs": 2600,
+      "endMs": 2800
+    },
+    {
+      "raw": "front.",
+      "beat": 0,
+      "startMs": 2800,
+      "endMs": 3600
+    },
+    {
+      "raw": "That's",
+      "beat": 1,
+      "startMs": 3600,
+      "endMs": 4260
+    },
+    {
+      "raw": "what",
+      "beat": 1,
+      "startMs": 4260,
+      "endMs": 4570
+    },
+    {
+      "raw": "Pfizer",
+      "beat": 1,
+      "startMs": 4570,
+      "endMs": 5030
+    },
+    {
+      "raw": "just",
+      "beat": 1,
+      "startMs": 5030,
+      "endMs": 5340
+    },
+    {
+      "raw": "paid",
+      "beat": 1,
+      "startMs": 5340,
+      "endMs": 5650
+    },
+    {
+      "raw": "to",
+      "beat": 1,
+      "startMs": 5650,
+      "endMs": 5870
+    },
+    {
+      "raw": "license",
+      "beat": 1,
+      "startMs": 5870,
+      "endMs": 6340
+    },
+    {
+      "raw": "three",
+      "beat": 1,
+      "startMs": 6340,
+      "endMs": 6730
+    },
+    {
+      "raw": "pre-IND",
+      "beat": 1,
+      "startMs": 6730,
+      "endMs": 7260
+    },
+    {
+      "raw": "in",
+      "beat": 1,
+      "startMs": 7260,
+      "endMs": 7410
+    },
+    {
+      "raw": "vivo",
+      "beat": 1,
+      "startMs": 7410,
+      "endMs": 7720
+    },
+    {
+      "raw": "CAR",
+      "beat": 1,
+      "startMs": 7720,
+      "endMs": 7950
+    },
+    {
+      "raw": "T",
+      "beat": 1,
+      "startMs": 7950,
+      "endMs": 8020
+    },
+    {
+      "raw": "programs",
+      "beat": 1,
+      "startMs": 8020,
+      "endMs": 8640
+    },
+    {
+      "raw": "from",
+      "beat": 1,
+      "startMs": 8640,
+      "endMs": 9040
+    },
+    {
+      "raw": "Starna",
+      "beat": 1,
+      "startMs": 9040,
+      "endMs": 9360
+    },
+    {
+      "raw": "Therapeutics...",
+      "beat": 1,
+      "startMs": 9360,
+      "endMs": 10650
+    },
+    {
+      "raw": "with",
+      "beat": 1,
+      "startMs": 10655,
+      "endMs": 10710
+    },
+    {
+      "raw": "up",
+      "beat": 1,
+      "startMs": 10710,
+      "endMs": 10920
+    },
+    {
+      "raw": "to",
+      "beat": 1,
+      "startMs": 10920,
+      "endMs": 11090
+    },
+    {
+      "raw": "$2.3",
+      "beat": 1,
+      "startMs": 11090,
+      "endMs": 11880
+    },
+    {
+      "raw": "billion",
+      "beat": 1,
+      "startMs": 11880,
+      "endMs": 12470
+    },
+    {
+      "raw": "in",
+      "beat": 1,
+      "startMs": 12470,
+      "endMs": 12640
+    },
+    {
+      "raw": "milestones",
+      "beat": 1,
+      "startMs": 12640,
+      "endMs": 13490
+    },
+    {
+      "raw": "behind",
+      "beat": 1,
+      "startMs": 13490,
+      "endMs": 13550
+    },
+    {
+      "raw": "it.",
+      "beat": 1,
+      "startMs": 13550,
+      "endMs": 14300
+    },
+    {
+      "raw": "CAR",
+      "beat": 2,
+      "startMs": 14300,
+      "endMs": 14730
+    },
+    {
+      "raw": "T",
+      "beat": 2,
+      "startMs": 14730,
+      "endMs": 14810
+    },
+    {
+      "raw": "has",
+      "beat": 2,
+      "startMs": 14810,
+      "endMs": 15160
+    },
+    {
+      "raw": "always",
+      "beat": 2,
+      "startMs": 15160,
+      "endMs": 15610
+    },
+    {
+      "raw": "been",
+      "beat": 2,
+      "startMs": 15610,
+      "endMs": 15910
+    },
+    {
+      "raw": "cancer",
+      "beat": 2,
+      "startMs": 15910,
+      "endMs": 16420
+    },
+    {
+      "raw": "medicine.",
+      "beat": 2,
+      "startMs": 16420,
+      "endMs": 17100
+    },
+    {
+      "raw": "Remove",
+      "beat": 2,
+      "startMs": 17100,
+      "endMs": 17850
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 17850,
+      "endMs": 18100
+    },
+    {
+      "raw": "patient's",
+      "beat": 2,
+      "startMs": 18100,
+      "endMs": 18900
+    },
+    {
+      "raw": "T-cells.",
+      "beat": 2,
+      "startMs": 18900,
+      "endMs": 19540
+    },
+    {
+      "raw": "Engineer",
+      "beat": 2,
+      "startMs": 19540,
+      "endMs": 20370
+    },
+    {
+      "raw": "them",
+      "beat": 2,
+      "startMs": 20370,
+      "endMs": 20500
+    },
+    {
+      "raw": "in",
+      "beat": 2,
+      "startMs": 20500,
+      "endMs": 20730
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 20730,
+      "endMs": 20740
+    },
+    {
+      "raw": "lab.",
+      "beat": 2,
+      "startMs": 20740,
+      "endMs": 21300
+    },
+    {
+      "raw": "Re-infuse.",
+      "beat": 2,
+      "startMs": 21500,
+      "endMs": 22020
+    },
+    {
+      "raw": "Expensive,",
+      "beat": 2,
+      "startMs": 22020,
+      "endMs": 22900
+    },
+    {
+      "raw": "slow,",
+      "beat": 2,
+      "startMs": 22900,
+      "endMs": 23245
+    },
+    {
+      "raw": "bespoke.",
+      "beat": 2,
+      "startMs": 23400,
+      "endMs": 24450
+    },
+    {
+      "raw": "Starna's",
+      "beat": 2,
+      "startMs": 24450,
+      "endMs": 25400
+    },
+    {
+      "raw": "bet",
+      "beat": 2,
+      "startMs": 25400,
+      "endMs": 25650
+    },
+    {
+      "raw": "is",
+      "beat": 2,
+      "startMs": 25650,
+      "endMs": 25820
+    },
+    {
+      "raw": "different...",
+      "beat": 2,
+      "startMs": 25820,
+      "endMs": 26550
+    },
+    {
+      "raw": "engineer",
+      "beat": 2,
+      "startMs": 26550,
+      "endMs": 27550
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 27550,
+      "endMs": 27800
+    },
+    {
+      "raw": "T-cells",
+      "beat": 2,
+      "startMs": 27800,
+      "endMs": 28380
+    },
+    {
+      "raw": "inside",
+      "beat": 2,
+      "startMs": 28500,
+      "endMs": 29080
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 29080,
+      "endMs": 29130
+    },
+    {
+      "raw": "patient,",
+      "beat": 2,
+      "startMs": 29130,
+      "endMs": 29720
+    },
+    {
+      "raw": "using",
+      "beat": 2,
+      "startMs": 29720,
+      "endMs": 29800
+    },
+    {
+      "raw": "RNA.",
+      "beat": 2,
+      "startMs": 29800,
+      "endMs": 30440
+    },
+    {
+      "raw": "And",
+      "beat": 3,
+      "startMs": 30440,
+      "endMs": 30650
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 30650,
+      "endMs": 30840
+    },
+    {
+      "raw": "first",
+      "beat": 3,
+      "startMs": 30840,
+      "endMs": 31170
+    },
+    {
+      "raw": "target",
+      "beat": 3,
+      "startMs": 31170,
+      "endMs": 31630
+    },
+    {
+      "raw": "isn't",
+      "beat": 3,
+      "startMs": 31630,
+      "endMs": 31900
+    },
+    {
+      "raw": "cancer.",
+      "beat": 3,
+      "startMs": 31900,
+      "endMs": 32400
+    },
+    {
+      "raw": "It's",
+      "beat": 3,
+      "startMs": 32400,
+      "endMs": 32650
+    },
+    {
+      "raw": "autoimmune",
+      "beat": 3,
+      "startMs": 32650,
+      "endMs": 33560
+    },
+    {
+      "raw": "disease...",
+      "beat": 3,
+      "startMs": 33560,
+      "endMs": 34210
+    },
+    {
+      "raw": "a",
+      "beat": 3,
+      "startMs": 34210,
+      "endMs": 34280
+    },
+    {
+      "raw": "market",
+      "beat": 3,
+      "startMs": 34280,
+      "endMs": 34720
+    },
+    {
+      "raw": "an",
+      "beat": 3,
+      "startMs": 34720,
+      "endMs": 34910
+    },
+    {
+      "raw": "order",
+      "beat": 3,
+      "startMs": 34912,
+      "endMs": 35230
+    },
+    {
+      "raw": "of",
+      "beat": 3,
+      "startMs": 35230,
+      "endMs": 35370
+    },
+    {
+      "raw": "magnitude",
+      "beat": 3,
+      "startMs": 35370,
+      "endMs": 36020
+    },
+    {
+      "raw": "larger",
+      "beat": 3,
+      "startMs": 36020,
+      "endMs": 36460
+    },
+    {
+      "raw": "than",
+      "beat": 3,
+      "startMs": 36460,
+      "endMs": 36760
+    },
+    {
+      "raw": "cancer",
+      "beat": 3,
+      "startMs": 36760,
+      "endMs": 37240
+    },
+    {
+      "raw": "CAR",
+      "beat": 3,
+      "startMs": 37240,
+      "endMs": 37410
+    },
+    {
+      "raw": "T.",
+      "beat": 3,
+      "startMs": 37410,
+      "endMs": 37800
+    },
+    {
+      "raw": "Three",
+      "beat": 4,
+      "startMs": 37843,
+      "endMs": 38250
+    },
+    {
+      "raw": "programs.",
+      "beat": 4,
+      "startMs": 38250,
+      "endMs": 39210
+    },
+    {
+      "raw": "None",
+      "beat": 4,
+      "startMs": 39210,
+      "endMs": 39510
+    },
+    {
+      "raw": "yet",
+      "beat": 4,
+      "startMs": 39510,
+      "endMs": 39780
+    },
+    {
+      "raw": "in",
+      "beat": 4,
+      "startMs": 39780,
+      "endMs": 39960
+    },
+    {
+      "raw": "people.",
+      "beat": 4,
+      "startMs": 39960,
+      "endMs": 40800
+    },
+    {
+      "raw": "The",
+      "beat": 4,
+      "startMs": 40800,
+      "endMs": 41030
+    },
+    {
+      "raw": "next",
+      "beat": 4,
+      "startMs": 41030,
+      "endMs": 41330
+    },
+    {
+      "raw": "real",
+      "beat": 4,
+      "startMs": 41330,
+      "endMs": 41630
+    },
+    {
+      "raw": "read",
+      "beat": 4,
+      "startMs": 41630,
+      "endMs": 41930
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 41930,
+      "endMs": 42080
+    },
+    {
+      "raw": "an",
+      "beat": 4,
+      "startMs": 42080,
+      "endMs": 42230
+    },
+    {
+      "raw": "IND",
+      "beat": 4,
+      "startMs": 42230,
+      "endMs": 42460
+    },
+    {
+      "raw": "filing.",
+      "beat": 4,
+      "startMs": 42460,
+      "endMs": 43200
+    },
+    {
+      "raw": "Until",
+      "beat": 4,
+      "startMs": 43200,
+      "endMs": 43610
+    },
+    {
+      "raw": "then...",
+      "beat": 4,
+      "startMs": 43610,
+      "endMs": 44100
+    },
+    {
+      "raw": "$330",
+      "beat": 4,
+      "startMs": 44274,
+      "endMs": 44920
+    },
+    {
+      "raw": "million",
+      "beat": 4,
+      "startMs": 44920,
+      "endMs": 45490
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 45490,
+      "endMs": 45640
+    },
+    {
+      "raw": "the",
+      "beat": 4,
+      "startMs": 45640,
+      "endMs": 46000
+    },
+    {
+      "raw": "price",
+      "beat": 4,
+      "startMs": 46000,
+      "endMs": 46300
+    },
+    {
+      "raw": "of",
+      "beat": 4,
+      "startMs": 46300,
+      "endMs": 46450
+    },
+    {
+      "raw": "a",
+      "beat": 4,
+      "startMs": 46450,
+      "endMs": 46540
+    },
+    {
+      "raw": "platform",
+      "beat": 4,
+      "startMs": 46540,
+      "endMs": 47200
+    },
+    {
+      "raw": "option...",
+      "beat": 4,
+      "startMs": 47200,
+      "endMs": 47690
+    },
+    {
+      "raw": "not",
+      "beat": 4,
+      "startMs": 47710,
+      "endMs": 47920
+    },
+    {
+      "raw": "a",
+      "beat": 4,
+      "startMs": 47920,
+      "endMs": 48080
+    },
+    {
+      "raw": "product.",
+      "beat": 4,
+      "startMs": 48080,
+      "endMs": 48830
+    },
+    {
+      "raw": "Signal",
+      "beat": 5,
+      "startMs": 48907,
+      "endMs": 49470
+    },
+    {
+      "raw": "over",
+      "beat": 5,
+      "startMs": 49470,
+      "endMs": 49900
+    },
+    {
+      "raw": "noise.",
+      "beat": 5,
+      "startMs": 49900,
+      "endMs": 50470
+    },
+    {
+      "raw": "This",
+      "beat": 5,
+      "startMs": 50530,
+      "endMs": 50780
+    },
+    {
+      "raw": "week's",
+      "beat": 5,
+      "startMs": 50780,
+      "endMs": 51180
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 5,
+      "startMs": 51180,
+      "endMs": 51730
+    },
+    {
+      "raw": "Brief.",
+      "beat": 5,
+      "startMs": 51730,
+      "endMs": 52000
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 5,
+      "startMs": 52200,
+      "endMs": 52720
+    },
+    {
+      "raw": "free.",
+      "beat": 5,
+      "startMs": 52720,
+      "endMs": 54000
+    }
+  ],
+  "captions": [
+    {
+      "text": "$330 million dollars. Up front.",
+      "startMs": 50,
+      "endMs": 3600
+    },
+    {
+      "text": "That's what Pfizer just paid to license three",
+      "startMs": 3600,
+      "endMs": 6730
+    },
+    {
+      "text": "pre-IND in vivo CAR T programs from Starna",
+      "startMs": 6730,
+      "endMs": 9360
+    },
+    {
+      "text": "Therapeutics...",
+      "startMs": 9360,
+      "endMs": 10655
+    },
+    {
+      "text": "with up to $2.3 billion in milestones behind it.",
+      "startMs": 10655,
+      "endMs": 14300
+    },
+    {
+      "text": "CAR T has always been cancer medicine.",
+      "startMs": 14300,
+      "endMs": 17100
+    },
+    {
+      "text": "Remove the patient's T-cells.",
+      "startMs": 17100,
+      "endMs": 19540
+    },
+    {
+      "text": "Engineer them in a lab. Re-infuse.",
+      "startMs": 19540,
+      "endMs": 22020
+    },
+    {
+      "text": "Expensive, slow, bespoke.",
+      "startMs": 22020,
+      "endMs": 24450
+    },
+    {
+      "text": "Starna's bet is different...",
+      "startMs": 24450,
+      "endMs": 26550
+    },
+    {
+      "text": "engineer the T-cells inside the patient, using RNA.",
+      "startMs": 26550,
+      "endMs": 30440
+    },
+    {
+      "text": "And the first target isn't cancer.",
+      "startMs": 30440,
+      "endMs": 32400
+    },
+    {
+      "text": "It's autoimmune disease...",
+      "startMs": 32400,
+      "endMs": 34210
+    },
+    {
+      "text": "a market an order of magnitude larger than",
+      "startMs": 34210,
+      "endMs": 36760
+    },
+    {
+      "text": "cancer CAR T. Three programs.",
+      "startMs": 36760,
+      "endMs": 39210
+    },
+    {
+      "text": "None yet in people.",
+      "startMs": 39210,
+      "endMs": 40800
+    },
+    {
+      "text": "The next real read is an IND filing. Until then...",
+      "startMs": 40800,
+      "endMs": 44274
+    },
+    {
+      "text": "$330 million is the price of a platform option...",
+      "startMs": 44274,
+      "endMs": 47710
+    },
+    {
+      "text": "not a product.",
+      "startMs": 47710,
+      "endMs": 48907
+    },
+    {
+      "text": "Signal over noise.",
+      "startMs": 48907,
+      "endMs": 50530
+    },
+    {
+      "text": "This week's Catalyst Brief. Subscribe free.",
+      "startMs": 50530,
+      "endMs": 54400
+    }
+  ]
+}

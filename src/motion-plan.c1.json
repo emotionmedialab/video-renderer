@@ -1,0 +1,69 @@
+{
+  "composition": "PfizerStarnaShort",
+  "compFile": "src/PfizerStarnaShort.tsx",
+  "chunk": 1,
+  "kit": ["src/kit/starna1.tsx"],
+  "scenes": [
+    { "n": 1, "title": "brick steps up front", "peakFrame": 105, "world": "red", "hero": "$330M brick", "supports": ["UPFRONT"],
+      "move": "NEW: brick-steps-forward",
+      "note": "a white cash brick falls and squashes; $330M lands whole on its face; on 'Up front' the brick steps toward the camera out of the frame plane and UPFRONT prints on it; camera pushes in with it",
+      "camera": [{ "cue": "Up front", "after": 0 }],
+      "movers": [
+        { "what": "brick falls + squash", "ms": -330, "durMs": 380 },
+        { "what": "$330M lands", "ms": 350, "durMs": 450 },
+        { "what": "brick steps forward (push-in)", "cue": "Up front", "after": 0, "durMs": 600 }
+      ] },
+    { "n": 2, "title": "three vials on the Starna tray", "peakFrame": 300, "world": "ink", "hero": "three CAR-T vials", "supports": ["STARNA tray", "PRE-IND"],
+      "move": "fall-and-squash",
+      "note": "'Pfizer licenses' drops in; the Starna tray springs in from depth on 'license'; on 'three' three vials fall onto it one after another and squash (camera cranes); lead-in retires; PRE-IND drops under the tray; STARNA prints on the tray on 'Starna'",
+      "camera": [{ "cue": "three pre-IND", "after": 4450 }],
+      "movers": [
+        { "what": "Pfizer licenses", "cue": "Pfizer", "after": 4450, "durMs": 450 },
+        { "what": "tray springs in", "cue": "license", "after": 4450, "durMs": 450 },
+        { "what": "3 vials fall in sequence (crane)", "cue": "three pre-IND", "after": 4450, "durMs": 680 },
+        { "what": "PRE-IND drops", "ms": 7050, "durMs": 450 },
+        { "what": "STARNA prints", "cue": "Starna Therapeutics", "after": 4450, "durMs": 380 }
+      ] },
+    { "n": 3, "title": "seven milestone bricks queue behind", "peakFrame": 400, "world": "paper", "hero": "brick row (PAID $330M + 7 grey)", "supports": ["UP TO $2.3B", "in milestones"],
+      "move": "NEW: queue-rises-behind",
+      "note": "the $330M brick returns marked PAID, springing in from depth on 'up to'; on '$2.3' seven grey bricks (~$2.3B / $330M) rise one by one in a row receding behind it while the camera pulls back; UP TO $2.3B / in milestones lands on 'billion'",
+      "camera": [{ "cue": "$2.3", "after": 10300 }],
+      "movers": [
+        { "what": "PAID brick springs in", "cue": "up to", "after": 10300, "durMs": 450 },
+        { "what": "7 grey bricks rise (pull-back)", "cue": "$2.3", "after": 10300, "durMs": 950 },
+        { "what": "UP TO $2.3B plate", "cue": "billion", "after": 10300, "durMs": 450 }
+      ] },
+    { "n": 4, "title": "the CAR-T bag", "peakFrame": 490, "world": "red", "hero": "CAR-T IV bag", "supports": ["FOR CANCER"],
+      "move": "NEW: bag-swings-in",
+      "note": "an IV bag drops on its line from the chrome and swings to rest (one overshoot, still) on 'CAR T has'; FOR CANCER prints on it on 'always' with a push-in",
+      "camera": [{ "cue": "always", "after": 13700 }],
+      "movers": [
+        { "what": "bag drops + swings", "cue": "CAR T has", "after": 13700, "durMs": 900 },
+        { "what": "FOR CANCER prints (push-in)", "cue": "always", "after": 13700, "durMs": 600 }
+      ] },
+    { "n": 5, "title": "the ex vivo round trip", "peakFrame": 720, "world": "ink", "hero": "patient + lab + T-cell", "supports": ["Expensive slow bespoke", "LAB"],
+      "move": "NEW: cell-round-trip",
+      "note": "patient and lab flask spring in on 'Remove'; on 'T-cells' a cell arcs out of the patient into the flask (camera cranes down with it); on 'Engineer' red receptors spring out of it; on 're-infuse' it arcs back into the patient (camera pulls back); the three costs drop word by word; on 'Starna's' the lab falls out of the frame",
+      "camera": [{ "cue": "T-cells", "after": 17100 }, { "cue": "re-infuse", "after": 17100 }],
+      "movers": [
+        { "what": "patient + flask spring in", "cue": "Remove", "after": 17100, "durMs": 570 },
+        { "what": "cell out to lab (crane)", "cue": "T-cells", "after": 17100, "durMs": 700 },
+        { "what": "receptors spring out", "cue": "Engineer them", "after": 17100, "durMs": 500 },
+        { "what": "cell back in (pull-back)", "cue": "re-infuse", "after": 17100, "durMs": 700 },
+        { "what": "Expensive", "cue": "expensive", "after": 17100, "durMs": 300 },
+        { "what": "slow", "cue": "slow", "after": 17100, "durMs": 300 },
+        { "what": "bespoke", "cue": "bespoke", "after": 17100, "durMs": 300 },
+        { "what": "lab falls away", "cue": "Starna's bet", "after": 17100, "durMs": 700 }
+      ] },
+    { "n": 6, "title": "RNA goes in, cells turn red", "peakFrame": 880, "world": "paper", "hero": "patient with T-cells", "supports": ["RNA capsule"],
+      "move": "NEW: capsule-flies-in",
+      "note": "a large ink patient springs in; on 'engineer' a red RNA capsule flies from deep z into the chest and vanishes (camera pushes in with it); on 'T-cells' five cells pop in inside the body; on 'inside' they turn red one by one",
+      "camera": [{ "cue": "engineer the", "after": 26000 }],
+      "movers": [
+        { "what": "patient springs in", "ms": 26100, "durMs": 450 },
+        { "what": "RNA capsule flies in (push-in)", "cue": "engineer the", "after": 26000, "durMs": 900 },
+        { "what": "cells pop in", "cue": "T-cells inside", "after": 26000, "durMs": 450 },
+        { "what": "cells turn red", "cue": "inside the", "after": 26000, "durMs": 560 }
+      ] }
+  ]
+}

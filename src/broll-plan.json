@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s2_lab",
+    "sceneKey": "vials",
+    "query": "laboratory scientist pipette",
+    "start": 4.45,
+    "end": 10.3,
+    "pexelsId": 8863362
+  },
+  {
+    "id": "s5_cells",
+    "sceneKey": "loop",
+    "query": "cell culture laboratory",
+    "start": 17.1,
+    "end": 26.0,
+    "pexelsId": 8852383
+  },
+  {
+    "id": "s8_clinic",
+    "sceneKey": "clinic",
+    "query": "hospital corridor",
+    "start": 37.45,
+    "end": 42.85,
+    "pexelsId": 29241126
+  }
+]

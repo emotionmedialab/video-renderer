@@ -1,0 +1,261 @@
+[
+ {
+  "label": "hook: brick steps forward",
+  "phrase": "Up front",
+  "after": 0,
+  "expect": 2600,
+  "blockFrom": 0
+ },
+ {
+  "label": "vials: Pfizer licenses",
+  "phrase": "Pfizer",
+  "after": 4450,
+  "expect": 4570,
+  "blockFrom": 4450
+ },
+ {
+  "label": "vials: tray",
+  "phrase": "license",
+  "after": 4450,
+  "expect": 5870,
+  "blockFrom": 4450
+ },
+ {
+  "label": "vials: three fall + crane",
+  "phrase": "three pre-IND",
+  "after": 4450,
+  "expect": 6340,
+  "blockFrom": 4450
+ },
+ {
+  "label": "vials: STARNA prints",
+  "phrase": "Starna Therapeutics",
+  "after": 4450,
+  "expect": 9040,
+  "blockFrom": 4450
+ },
+ {
+  "label": "queue: PAID brick",
+  "phrase": "up to",
+  "after": 10300,
+  "expect": 10710,
+  "blockFrom": 10300
+ },
+ {
+  "label": "queue: row + pull-back",
+  "phrase": "$2.3",
+  "after": 10300,
+  "expect": 11090,
+  "blockFrom": 10300
+ },
+ {
+  "label": "queue: plate",
+  "phrase": "billion",
+  "after": 10300,
+  "expect": 11880,
+  "blockFrom": 10300
+ },
+ {
+  "label": "bag: drops",
+  "phrase": "CAR T has",
+  "after": 13700,
+  "expect": 14300,
+  "blockFrom": 13700
+ },
+ {
+  "label": "bag: FOR CANCER + push",
+  "phrase": "always",
+  "after": 13700,
+  "expect": 15160,
+  "blockFrom": 13700
+ },
+ {
+  "label": "loop: patient + lab",
+  "phrase": "Remove",
+  "after": 17100,
+  "expect": 17100,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: cell out + crane",
+  "phrase": "T-cells",
+  "after": 17100,
+  "expect": 18900,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: receptors",
+  "phrase": "Engineer them",
+  "after": 17100,
+  "expect": 19540,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: cell back + pull",
+  "phrase": "re-infuse",
+  "after": 17100,
+  "expect": 21500,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: Expensive",
+  "phrase": "expensive",
+  "after": 17100,
+  "expect": 22020,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: slow",
+  "phrase": "slow",
+  "after": 17100,
+  "expect": 22900,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: bespoke",
+  "phrase": "bespoke",
+  "after": 17100,
+  "expect": 23400,
+  "blockFrom": 17100
+ },
+ {
+  "label": "loop: lab falls",
+  "phrase": "Starna's bet",
+  "after": 17100,
+  "expect": 24450,
+  "blockFrom": 17100
+ },
+ {
+  "label": "vivo: capsule + push",
+  "phrase": "engineer the",
+  "after": 26000,
+  "expect": 26550,
+  "blockFrom": 26000
+ },
+ {
+  "label": "vivo: cells pop",
+  "phrase": "T-cells inside",
+  "after": 26000,
+  "expect": 27800,
+  "blockFrom": 26000
+ },
+ {
+  "label": "vivo: cells red",
+  "phrase": "inside the",
+  "after": 26000,
+  "expect": 28500,
+  "blockFrom": 26000
+ },
+ {
+  "label": "target: springs in",
+  "phrase": "target",
+  "after": 30000,
+  "expect": 31170,
+  "blockFrom": 30000
+ },
+ {
+  "label": "target: spins",
+  "phrase": "isn't cancer",
+  "after": 30000,
+  "expect": 31630,
+  "blockFrom": 30000
+ },
+ {
+  "label": "target: dart + crane",
+  "phrase": "autoimmune",
+  "after": 30000,
+  "expect": 32650,
+  "blockFrom": 30000
+ },
+ {
+  "label": "target: disc drops",
+  "phrase": "market",
+  "after": 30000,
+  "expect": 34280,
+  "blockFrom": 30000
+ },
+ {
+  "label": "target: swell + pull",
+  "phrase": "larger",
+  "after": 30000,
+  "expect": 36020,
+  "blockFrom": 30000
+ },
+ {
+  "label": "clinic: vials return",
+  "phrase": "Three programs",
+  "after": 37450,
+  "expect": 37843,
+  "blockFrom": 37450
+ },
+ {
+  "label": "clinic: door lands",
+  "phrase": "programs",
+  "after": 37450,
+  "expect": 38250,
+  "blockFrom": 37450
+ },
+ {
+  "label": "clinic: leaves shut",
+  "phrase": "none yet",
+  "after": 37450,
+  "expect": 39210,
+  "blockFrom": 37450
+ },
+ {
+  "label": "clinic: envelope + push",
+  "phrase": "next real",
+  "after": 37450,
+  "expect": 41030,
+  "blockFrom": 37450
+ },
+ {
+  "label": "option: brick back",
+  "phrase": "$330 million",
+  "after": 43200,
+  "expect": 44274,
+  "blockFrom": 43200
+ },
+ {
+  "label": "option: ticket + crane",
+  "phrase": "platform option",
+  "after": 43200,
+  "expect": 46540,
+  "blockFrom": 43200
+ },
+ {
+  "label": "option: carton drops",
+  "phrase": "not a product",
+  "after": 43200,
+  "expect": 47710,
+  "blockFrom": 43200
+ },
+ {
+  "label": "option: carton tips",
+  "phrase": "product",
+  "after": 43200,
+  "expect": 48080,
+  "blockFrom": 43200
+ },
+ {
+  "label": "cta: logo + headline",
+  "phrase": "This week's",
+  "after": 50200,
+  "expect": 50530,
+  "blockFrom": 50200
+ },
+ {
+  "label": "cta: sub",
+  "phrase": "Catalyst Brief",
+  "after": 50200,
+  "expect": 51180,
+  "blockFrom": 50200
+ },
+ {
+  "label": "cta: button",
+  "phrase": "Subscribe free",
+  "after": 50200,
+  "expect": 52200,
+  "blockFrom": 50200
+ }
+]

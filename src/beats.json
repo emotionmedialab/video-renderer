@@ -1,0 +1,66 @@
+[
+  {
+    "index": 0,
+    "sectionIndex": 0,
+    "section": "The deal",
+    "text": "$330 million dollars. Up front.",
+    "cue": {
+      "type": "stat",
+      "raw": "$330M | upfront",
+      "value": "$330M",
+      "label": "upfront"
+    }
+  },
+  {
+    "index": 1,
+    "sectionIndex": 0,
+    "section": "The deal",
+    "text": "That's what Pfizer just paid to license three pre-IND in vivo CAR T programs from Starna Therapeutics... with up to $2.3 billion in milestones behind it.",
+    "cue": {
+      "type": "stat",
+      "raw": "$2.3B | in milestones",
+      "value": "$2.3B",
+      "label": "in milestones"
+    }
+  },
+  {
+    "index": 2,
+    "sectionIndex": 1,
+    "section": "The bet",
+    "text": "CAR T has always been cancer medicine. Remove the patient's T-cells. Engineer them in a lab. Re-infuse. Expensive, slow, bespoke. Starna's bet is different... engineer the T-cells inside the patient, using RNA.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"inside the patient\"",
+      "phrase": "inside the patient"
+    }
+  },
+  {
+    "index": 3,
+    "sectionIndex": 2,
+    "section": "The target",
+    "text": "And the first target isn't cancer. It's autoimmune disease... a market an order of magnitude larger than cancer CAR T.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"autoimmune disease\"",
+      "phrase": "autoimmune disease"
+    }
+  },
+  {
+    "index": 4,
+    "sectionIndex": 3,
+    "section": "The catch",
+    "text": "Three programs. None yet in people. The next real read is an IND filing. Until then... $330 million is the price of a platform option... not a product.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"not a product\"",
+      "phrase": "not a product"
+    }
+  },
+  {
+    "index": 5,
+    "sectionIndex": 4,
+    "section": "Subscribe",
+    "text": "Signal over noise. This week's Catalyst Brief. Subscribe free.",
+    "cue": null
+  }
+]

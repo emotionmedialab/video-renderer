@@ -1,0 +1,35 @@
+[
+  {
+    "id": "s2_lab",
+    "sceneKey": "vials",
+    "query": "laboratory scientist pipette",
+    "start": 4.45,
+    "end": 10.3,
+    "file": "broll/s2_lab.mp4",
+    "pexelsId": 8863362,
+    "credit": "Mikhail Nilov",
+    "pexelsUrl": "https://www.pexels.com/video/a-person-working-at-a-laboratory-8863362/"
+  },
+  {
+    "id": "s5_cells",
+    "sceneKey": "loop",
+    "query": "cell culture laboratory",
+    "start": 17.1,
+    "end": 26,
+    "file": "broll/s5_cells.mp4",
+    "pexelsId": 8852383,
+    "credit": "Mikhail Nilov",
+    "pexelsUrl": "https://www.pexels.com/video/a-person-putting-chemical-on-a-petri-dish-using-pipette-8852383/"
+  },
+  {
+    "id": "s8_clinic",
+    "sceneKey": "clinic",
+    "query": "hospital corridor",
+    "start": 37.45,
+    "end": 42.85,
+    "file": "broll/s8_clinic.mp4",
+    "pexelsId": 29241126,
+    "credit": "SN.CHE",
+    "pexelsUrl": "https://www.pexels.com/video/dimly-lit-hospital-corridor-with-gurney-29241126/"
+  }
+]
