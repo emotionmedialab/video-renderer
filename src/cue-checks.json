@@ -1,0 +1,226 @@
+[
+ {
+  "label": "cheque: $30B+ lands + push",
+  "phrase": "$30",
+  "after": 0,
+  "expect": 740,
+  "blockFrom": 0
+ },
+ {
+  "label": "handover: REPORTED prints",
+  "phrase": "says",
+  "after": 3100,
+  "expect": 4550,
+  "blockFrom": 3100
+ },
+ {
+  "label": "handover: SANOFI prints",
+  "phrase": "Sanofi",
+  "after": 3100,
+  "expect": 4800,
+  "blockFrom": 3100
+ },
+ {
+  "label": "handover: INSMED rises",
+  "phrase": "could pay",
+  "after": 3100,
+  "expect": 5180,
+  "blockFrom": 3100
+ },
+ {
+  "label": "handover: cheque arcs + crane",
+  "phrase": "Insmed",
+  "after": 3100,
+  "expect": 5880,
+  "blockFrom": 3100
+ },
+ {
+  "label": "handover: grey cheque in",
+  "phrase": "analyst",
+  "after": 3100,
+  "expect": 6810,
+  "blockFrom": 3100
+ },
+ {
+  "label": "handover: SCENARIO prints",
+  "phrase": "scenario",
+  "after": 3100,
+  "expect": 7250,
+  "blockFrom": 3100
+ },
+ {
+  "label": "handover: $40B lands",
+  "phrase": "toward",
+  "after": 3100,
+  "expect": 8200,
+  "blockFrom": 3100
+ },
+ {
+  "label": "lungs: land on target",
+  "phrase": "target",
+  "after": 9600,
+  "expect": 10310,
+  "blockFrom": 9600
+ },
+ {
+  "label": "lungs: BRINSUPRI plate + push",
+  "phrase": "Brinsupri",
+  "after": 9600,
+  "expect": 10970,
+  "blockFrom": 9600
+ },
+ {
+  "label": "lift: BRINSUPRI kicker",
+  "phrase": "just raised",
+  "after": 12650,
+  "expect": 13160,
+  "blockFrom": 12650
+ },
+ {
+  "label": "lift: platform lifts + crane",
+  "phrase": "raised",
+  "after": 12650,
+  "expect": 13500,
+  "blockFrom": 12650
+ },
+ {
+  "label": "lift: $1.35",
+  "phrase": "$1.35",
+  "after": 12650,
+  "expect": 14180,
+  "blockFrom": 12650
+ },
+ {
+  "label": "lift: 1.4B",
+  "phrase": "$1.4",
+  "after": 12650,
+  "expect": 15440,
+  "blockFrom": 12650
+ },
+ {
+  "label": "lift: 2026 GUIDANCE",
+  "phrase": "2026",
+  "after": 12650,
+  "expect": 17200,
+  "blockFrom": 12650
+ },
+ {
+  "label": "lift: base turns Q3 + pull",
+  "phrase": "$400",
+  "after": 12650,
+  "expect": 19510,
+  "blockFrom": 12650
+ },
+ {
+  "label": "peak: INSMED MODEL",
+  "phrase": "Insmed",
+  "after": 21570,
+  "expect": 21950,
+  "blockFrom": 21570
+ },
+ {
+  "label": "peak: mountain rises",
+  "phrase": "models",
+  "after": 21570,
+  "expect": 23070,
+  "blockFrom": 21570
+ },
+ {
+  "label": "peak: flag plants + push",
+  "phrase": "above",
+  "after": 21570,
+  "expect": 24420,
+  "blockFrom": 21570
+ },
+ {
+  "label": "cliff: DUPIXENT prints",
+  "phrase": "Dupixent",
+  "after": 25850,
+  "expect": 27390,
+  "blockFrom": 25850
+ },
+ {
+  "label": "cliff: lip breaks + crane",
+  "phrase": "Cliff",
+  "after": 25850,
+  "expect": 28050,
+  "blockFrom": 25850
+ },
+ {
+  "label": "cliff: fence falls",
+  "phrase": "loses exclusivity",
+  "after": 25850,
+  "expect": 29220,
+  "blockFrom": 25850
+ },
+ {
+  "label": "cliff: EARLY NEXT DECADE",
+  "phrase": "early next",
+  "after": 25850,
+  "expect": 30440,
+  "blockFrom": 25850
+ },
+ {
+  "label": "cliff: pedestal + pull",
+  "phrase": "needs",
+  "after": 25850,
+  "expect": 31810,
+  "blockFrom": 25850
+ },
+ {
+  "label": "knob: POST-DUPIXENT BET",
+  "phrase": "post-Dupixent",
+  "after": 33390,
+  "expect": 36020,
+  "blockFrom": 33390
+ },
+ {
+  "label": "knob: turns + push",
+  "phrase": "immunology",
+  "after": 33390,
+  "expect": 37585,
+  "blockFrom": 33390
+ },
+ {
+  "label": "unsigned: AFFORDABILITY",
+  "phrase": "affordability",
+  "after": 39280,
+  "expect": 40050,
+  "blockFrom": 39280
+ },
+ {
+  "label": "unsigned: ? drops + crane",
+  "phrase": "question",
+  "after": 39280,
+  "expect": 40680,
+  "blockFrom": 39280
+ },
+ {
+  "label": "cta: logo + headline",
+  "phrase": "We're tracking",
+  "after": 42450,
+  "expect": 42800,
+  "blockFrom": 42450
+ },
+ {
+  "label": "cta: sub",
+  "phrase": "Catalyst Brief",
+  "after": 42450,
+  "expect": 45160,
+  "blockFrom": 42450
+ },
+ {
+  "label": "cta: button",
+  "phrase": "Subscribe free",
+  "after": 42450,
+  "expect": 46396,
+  "blockFrom": 42450
+ },
+ {
+  "label": "cta: tail",
+  "phrase": "Signal over",
+  "after": 42450,
+  "expect": 47601,
+  "blockFrom": 42450
+ }
+]

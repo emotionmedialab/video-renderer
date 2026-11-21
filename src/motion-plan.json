@@ -1,0 +1,38 @@
+{
+  "composition": "SanofiInsmedShort",
+  "compFile": "src/SanofiInsmedShort.tsx",
+  "chunk": 2,
+  "kit": ["src/kit/sanofi2.tsx"],
+  "scenes": [
+    { "n": 6, "title": "Dupixent cliff, fence falls", "peakFrame": 990, "world": "red", "hero": "DUPIXENT column on its broken ledge", "supports": ["EARLY NEXT DECADE", "NEXT GROWTH STORY? pedestal"],
+      "move": "NEW: fence-falls-flat",
+      "note": "a ledge with a fenced white column springs in from depth; DUPIXENT prints on 'Dupixent'; on 'cliff' the ledge's lip breaks off and falls (camera cranes down with it); on 'loses exclusivity' the EXCLUSIVITY fence falls flat toward us and slides off; EARLY NEXT DECADE drops; on 'needs' an empty NEXT GROWTH STORY? pedestal springs up below as the camera pulls back",
+      "camera": [{ "cue": "Cliff", "after": 25850 }, { "cue": "needs", "after": 25850 }],
+      "movers": [
+        { "what": "ledge + column spring in", "ms": 26050, "durMs": 600 },
+        { "what": "DUPIXENT prints", "cue": "Dupixent", "after": 25850, "durMs": 380 },
+        { "what": "lip breaks off (crane)", "cue": "Cliff", "after": 25850, "durMs": 800 },
+        { "what": "fence falls flat + slides off", "cue": "loses exclusivity", "after": 25850, "durMs": 1000 },
+        { "what": "EARLY NEXT DECADE drops", "cue": "early next", "after": 25850, "durMs": 380 },
+        { "what": "pedestal springs up (pull-back)", "cue": "needs", "after": 25850, "durMs": 700 }
+      ] },
+    { "n": 7, "title": "knob turns to respiratory", "peakFrame": 1170, "world": "paper", "hero": "selector knob (IMMUNOLOGY → RESPIRATORY)", "supports": ["POST-DUPIXENT BET"],
+      "move": "NEW: knob-turns-to",
+      "note": "a selector knob springs in from depth pointing at IMMUNOLOGY; POST-DUPIXENT BET drops on 'post-Dupixent'; on 'immunology' the knob turns (one overshoot) to RESPIRATORY, which lights red, as the camera pushes in",
+      "camera": [{ "cue": "immunology", "after": 33390 }],
+      "movers": [
+        { "what": "knob springs in", "ms": 33840, "durMs": 600 },
+        { "what": "POST-DUPIXENT BET drops", "cue": "post-Dupixent", "after": 33390, "durMs": 380 },
+        { "what": "knob turns (push-in)", "cue": "immunology", "after": 33390, "durMs": 800 }
+      ] },
+    { "n": 8, "title": "cheque returns unsigned", "peakFrame": 1263, "world": "ink", "hero": "the $30B+ cheque with a red ? on its signature line", "supports": ["AFFORDABILITY"],
+      "move": "fall-and-squash",
+      "note": "callback: the hook's $30B+ cheque (REPORTED) springs back into its own seat; AFFORDABILITY drops on 'affordability'; on 'question' a red ? falls onto the empty signature line and squashes once (camera cranes down with it): unsigned, no deal",
+      "camera": [{ "cue": "question", "after": 39280 }],
+      "movers": [
+        { "what": "cheque returns", "ms": 39480, "durMs": 500 },
+        { "what": "AFFORDABILITY drops", "cue": "affordability", "after": 39280, "durMs": 380 },
+        { "what": "? falls + squashes (crane)", "cue": "question", "after": 39280, "durMs": 600 }
+      ] }
+  ]
+}

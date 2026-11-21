@@ -1,0 +1,522 @@
+[
+  {
+    "text": "Over",
+    "start": 130,
+    "end": 740
+  },
+  {
+    "text": "$30",
+    "start": 740,
+    "end": 2030
+  },
+  {
+    "text": "billion.",
+    "start": 2030,
+    "end": 3100
+  },
+  {
+    "text": "That",
+    "start": 3100,
+    "end": 3610
+  },
+  {
+    "text": "is",
+    "start": 3610,
+    "end": 3730
+  },
+  {
+    "text": "what",
+    "start": 3730,
+    "end": 3980
+  },
+  {
+    "text": "Bloomberg",
+    "start": 3980,
+    "end": 4550
+  },
+  {
+    "text": "says",
+    "start": 4550,
+    "end": 4800
+  },
+  {
+    "text": "Sanofi",
+    "start": 4800,
+    "end": 5180
+  },
+  {
+    "text": "could",
+    "start": 5180,
+    "end": 5500
+  },
+  {
+    "text": "pay",
+    "start": 5500,
+    "end": 5690
+  },
+  {
+    "text": "for",
+    "start": 5690,
+    "end": 5880
+  },
+  {
+    "text": "InSmed,",
+    "start": 5880,
+    "end": 6520
+  },
+  {
+    "text": "with",
+    "start": 6526,
+    "end": 6670
+  },
+  {
+    "text": "one",
+    "start": 6670,
+    "end": 6810
+  },
+  {
+    "text": "analyst",
+    "start": 6810,
+    "end": 7250
+  },
+  {
+    "text": "scenario",
+    "start": 7250,
+    "end": 7840
+  },
+  {
+    "text": "reaching",
+    "start": 7840,
+    "end": 8200
+  },
+  {
+    "text": "toward",
+    "start": 8200,
+    "end": 8670
+  },
+  {
+    "text": "$40",
+    "start": 8670,
+    "end": 9230
+  },
+  {
+    "text": "billion.",
+    "start": 9230,
+    "end": 10040
+  },
+  {
+    "text": "The",
+    "start": 10042,
+    "end": 10310
+  },
+  {
+    "text": "target",
+    "start": 10310,
+    "end": 10800
+  },
+  {
+    "text": "is",
+    "start": 10800,
+    "end": 10970
+  },
+  {
+    "text": "Brinsupri,",
+    "start": 10970,
+    "end": 11900
+  },
+  {
+    "text": "a",
+    "start": 11900,
+    "end": 11980
+  },
+  {
+    "text": "lung",
+    "start": 11980,
+    "end": 12320
+  },
+  {
+    "text": "drug",
+    "start": 12320,
+    "end": 12660
+  },
+  {
+    "text": "InSmed",
+    "start": 12660,
+    "end": 13160
+  },
+  {
+    "text": "just",
+    "start": 13160,
+    "end": 13500
+  },
+  {
+    "text": "raised",
+    "start": 13500,
+    "end": 14010
+  },
+  {
+    "text": "to",
+    "start": 14010,
+    "end": 14180
+  },
+  {
+    "text": "$1.35",
+    "start": 14180,
+    "end": 15270
+  },
+  {
+    "text": "to",
+    "start": 15270,
+    "end": 15440
+  },
+  {
+    "text": "$1.4",
+    "start": 15440,
+    "end": 16270
+  },
+  {
+    "text": "billion",
+    "start": 16270,
+    "end": 16870
+  },
+  {
+    "text": "in",
+    "start": 16870,
+    "end": 17200
+  },
+  {
+    "text": "2026",
+    "start": 17200,
+    "end": 18160
+  },
+  {
+    "text": "guidance,",
+    "start": 18160,
+    "end": 18970
+  },
+  {
+    "text": "after",
+    "start": 18970,
+    "end": 19360
+  },
+  {
+    "text": "a",
+    "start": 19360,
+    "end": 19510
+  },
+  {
+    "text": "$400",
+    "start": 19510,
+    "end": 20260
+  },
+  {
+    "text": "million",
+    "start": 20260,
+    "end": 20920
+  },
+  {
+    "text": "third",
+    "start": 20920,
+    "end": 21220
+  },
+  {
+    "text": "quarter.",
+    "start": 21220,
+    "end": 21950
+  },
+  {
+    "text": "InSmed",
+    "start": 21950,
+    "end": 22630
+  },
+  {
+    "text": "still",
+    "start": 22630,
+    "end": 23070
+  },
+  {
+    "text": "models",
+    "start": 23070,
+    "end": 23610
+  },
+  {
+    "text": "peak",
+    "start": 23610,
+    "end": 23990
+  },
+  {
+    "text": "sales",
+    "start": 23990,
+    "end": 24420
+  },
+  {
+    "text": "above",
+    "start": 24420,
+    "end": 24920
+  },
+  {
+    "text": "$7",
+    "start": 24920,
+    "end": 25230
+  },
+  {
+    "text": "billion.",
+    "start": 25230,
+    "end": 26200
+  },
+  {
+    "text": "The",
+    "start": 26205,
+    "end": 26450
+  },
+  {
+    "text": "driver",
+    "start": 26450,
+    "end": 26960
+  },
+  {
+    "text": "is",
+    "start": 26960,
+    "end": 27130
+  },
+  {
+    "text": "the",
+    "start": 27130,
+    "end": 27390
+  },
+  {
+    "text": "Dupixent",
+    "start": 27390,
+    "end": 28050
+  },
+  {
+    "text": "Cliff.",
+    "start": 28050,
+    "end": 28550
+  },
+  {
+    "text": "Sanofi",
+    "start": 28550,
+    "end": 29220
+  },
+  {
+    "text": "loses",
+    "start": 29220,
+    "end": 29600
+  },
+  {
+    "text": "exclusivity",
+    "start": 29600,
+    "end": 30440
+  },
+  {
+    "text": "early",
+    "start": 30440,
+    "end": 30850
+  },
+  {
+    "text": "next",
+    "start": 30850,
+    "end": 31170
+  },
+  {
+    "text": "decade",
+    "start": 31170,
+    "end": 31770
+  },
+  {
+    "text": "and",
+    "start": 31777,
+    "end": 31810
+  },
+  {
+    "text": "needs",
+    "start": 31810,
+    "end": 32190
+  },
+  {
+    "text": "the",
+    "start": 32190,
+    "end": 32420
+  },
+  {
+    "text": "next",
+    "start": 32420,
+    "end": 32760
+  },
+  {
+    "text": "growth",
+    "start": 32760,
+    "end": 33180
+  },
+  {
+    "text": "story.",
+    "start": 33180,
+    "end": 33840
+  },
+  {
+    "text": "The",
+    "start": 33840,
+    "end": 34140
+  },
+  {
+    "text": "read?",
+    "start": 34140,
+    "end": 34650
+  },
+  {
+    "text": "This",
+    "start": 34650,
+    "end": 35180
+  },
+  {
+    "text": "is",
+    "start": 35180,
+    "end": 35350
+  },
+  {
+    "text": "Sanofi's",
+    "start": 35350,
+    "end": 36020
+  },
+  {
+    "text": "post-Dupixent",
+    "start": 36020,
+    "end": 37100
+  },
+  {
+    "text": "bet,",
+    "start": 37100,
+    "end": 37580
+  },
+  {
+    "text": "immunology",
+    "start": 37585,
+    "end": 38390
+  },
+  {
+    "text": "to",
+    "start": 38390,
+    "end": 38550
+  },
+  {
+    "text": "respiratory.",
+    "start": 38550,
+    "end": 39840
+  },
+  {
+    "text": "The",
+    "start": 39840,
+    "end": 40050
+  },
+  {
+    "text": "affordability",
+    "start": 40050,
+    "end": 40680
+  },
+  {
+    "text": "question",
+    "start": 40680,
+    "end": 41090
+  },
+  {
+    "text": "is",
+    "start": 41090,
+    "end": 41190
+  },
+  {
+    "text": "the",
+    "start": 41190,
+    "end": 41340
+  },
+  {
+    "text": "one",
+    "start": 41340,
+    "end": 41490
+  },
+  {
+    "text": "that",
+    "start": 41490,
+    "end": 41700
+  },
+  {
+    "text": "matters",
+    "start": 41700,
+    "end": 42060
+  },
+  {
+    "text": "next.",
+    "start": 42060,
+    "end": 42480
+  },
+  {
+    "text": "We're",
+    "start": 42800,
+    "end": 42830
+  },
+  {
+    "text": "tracking",
+    "start": 43000,
+    "end": 43410
+  },
+  {
+    "text": "Sanofi's",
+    "start": 43410,
+    "end": 43970
+  },
+  {
+    "text": "move",
+    "start": 43970,
+    "end": 44260
+  },
+  {
+    "text": "in",
+    "start": 44260,
+    "end": 44400
+  },
+  {
+    "text": "this",
+    "start": 44400,
+    "end": 44690
+  },
+  {
+    "text": "week's",
+    "start": 44690,
+    "end": 45160
+  },
+  {
+    "text": "Catalyst",
+    "start": 45160,
+    "end": 45720
+  },
+  {
+    "text": "Brief.",
+    "start": 45720,
+    "end": 46360
+  },
+  {
+    "text": "Subscribe",
+    "start": 46396,
+    "end": 47010
+  },
+  {
+    "text": "free.",
+    "start": 47010,
+    "end": 47520
+  },
+  {
+    "text": "Signal",
+    "start": 47601,
+    "end": 48090
+  },
+  {
+    "text": "over",
+    "start": 48090,
+    "end": 48470
+  },
+  {
+    "text": "noise.",
+    "start": 48470,
+    "end": 48960
+  }
+]

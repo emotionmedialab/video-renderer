@@ -1,0 +1,842 @@
+{
+  "durationMs": 48960,
+  "fps": 30,
+  "meta": {
+    "title": "Sanofi's $30B+ bet on Insmed",
+    "intro": "Sanofi x Insmed",
+    "cta": "Subscribe free at thecatalystbrief.com"
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "The price",
+      "startMs": 130
+    },
+    {
+      "index": 1,
+      "title": "The drug",
+      "startMs": 10042
+    },
+    {
+      "index": 2,
+      "title": "The driver",
+      "startMs": 26205
+    },
+    {
+      "index": 3,
+      "title": "The read",
+      "startMs": 33840
+    },
+    {
+      "index": 4,
+      "title": "Subscribe",
+      "startMs": 42800
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "The price",
+      "text": "Over $30 billion...",
+      "cue": {
+        "type": "stat",
+        "raw": "$30B+ | reported",
+        "value": "$30B+",
+        "label": "reported"
+      },
+      "startMs": 130,
+      "endMs": 3100
+    },
+    {
+      "index": 1,
+      "sectionIndex": 0,
+      "section": "The price",
+      "text": "That is what Bloomberg says Sanofi could pay for Insmed, with one analyst scenario reaching toward $40 billion.",
+      "cue": {
+        "type": "stat",
+        "raw": "$40B | one analyst scenario",
+        "value": "$40B",
+        "label": "one analyst scenario"
+      },
+      "startMs": 3100,
+      "endMs": 10042
+    },
+    {
+      "index": 2,
+      "sectionIndex": 1,
+      "section": "The drug",
+      "text": "The target is Brinsupri, a lung drug Insmed just raised to $1.35 to $1.4 billion in 2026 guidance... after a $400 million third quarter.",
+      "cue": {
+        "type": "stat",
+        "raw": "$1.35-1.4B | 2026 guidance",
+        "value": "$1.35-1.4B",
+        "label": "2026 guidance"
+      },
+      "startMs": 10042,
+      "endMs": 21950
+    },
+    {
+      "index": 3,
+      "sectionIndex": 1,
+      "section": "The drug",
+      "text": "Insmed still models peak sales above $7 billion.",
+      "cue": {
+        "type": "stat",
+        "raw": "$7B+ | Insmed's peak model",
+        "value": "$7B+",
+        "label": "Insmed's peak model"
+      },
+      "startMs": 21950,
+      "endMs": 26205
+    },
+    {
+      "index": 4,
+      "sectionIndex": 2,
+      "section": "The driver",
+      "text": "The driver is the Dupixent cliff. Sanofi loses exclusivity early next decade... and needs the next growth story.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"the Dupixent cliff\"",
+        "phrase": "the Dupixent cliff"
+      },
+      "startMs": 26205,
+      "endMs": 33840
+    },
+    {
+      "index": 5,
+      "sectionIndex": 3,
+      "section": "The read",
+      "text": "The read: this is Sanofi's post-Dupixent bet. Immunology to respiratory. The affordability question is the one that matters next.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"Immunology to respiratory\"",
+        "phrase": "Immunology to respiratory"
+      },
+      "startMs": 33840,
+      "endMs": 42800
+    },
+    {
+      "index": 6,
+      "sectionIndex": 4,
+      "section": "Subscribe",
+      "text": "We're tracking Sanofi's move in this week's Catalyst Brief. Subscribe free... signal over noise.",
+      "cue": null,
+      "startMs": 42800,
+      "endMs": 48960
+    }
+  ],
+  "words": [
+    {
+      "raw": "Over",
+      "beat": 0,
+      "startMs": 130,
+      "endMs": 740
+    },
+    {
+      "raw": "$30",
+      "beat": 0,
+      "startMs": 740,
+      "endMs": 2030
+    },
+    {
+      "raw": "billion...",
+      "beat": 0,
+      "startMs": 2030,
+      "endMs": 3100
+    },
+    {
+      "raw": "That",
+      "beat": 1,
+      "startMs": 3100,
+      "endMs": 3610
+    },
+    {
+      "raw": "is",
+      "beat": 1,
+      "startMs": 3610,
+      "endMs": 3730
+    },
+    {
+      "raw": "what",
+      "beat": 1,
+      "startMs": 3730,
+      "endMs": 3980
+    },
+    {
+      "raw": "Bloomberg",
+      "beat": 1,
+      "startMs": 3980,
+      "endMs": 4550
+    },
+    {
+      "raw": "says",
+      "beat": 1,
+      "startMs": 4550,
+      "endMs": 4800
+    },
+    {
+      "raw": "Sanofi",
+      "beat": 1,
+      "startMs": 4800,
+      "endMs": 5180
+    },
+    {
+      "raw": "could",
+      "beat": 1,
+      "startMs": 5180,
+      "endMs": 5500
+    },
+    {
+      "raw": "pay",
+      "beat": 1,
+      "startMs": 5500,
+      "endMs": 5690
+    },
+    {
+      "raw": "for",
+      "beat": 1,
+      "startMs": 5690,
+      "endMs": 5880
+    },
+    {
+      "raw": "Insmed,",
+      "beat": 1,
+      "startMs": 5880,
+      "endMs": 6520
+    },
+    {
+      "raw": "with",
+      "beat": 1,
+      "startMs": 6526,
+      "endMs": 6670
+    },
+    {
+      "raw": "one",
+      "beat": 1,
+      "startMs": 6670,
+      "endMs": 6810
+    },
+    {
+      "raw": "analyst",
+      "beat": 1,
+      "startMs": 6810,
+      "endMs": 7250
+    },
+    {
+      "raw": "scenario",
+      "beat": 1,
+      "startMs": 7250,
+      "endMs": 7840
+    },
+    {
+      "raw": "reaching",
+      "beat": 1,
+      "startMs": 7840,
+      "endMs": 8200
+    },
+    {
+      "raw": "toward",
+      "beat": 1,
+      "startMs": 8200,
+      "endMs": 8670
+    },
+    {
+      "raw": "$40",
+      "beat": 1,
+      "startMs": 8670,
+      "endMs": 9230
+    },
+    {
+      "raw": "billion.",
+      "beat": 1,
+      "startMs": 9230,
+      "endMs": 10040
+    },
+    {
+      "raw": "The",
+      "beat": 2,
+      "startMs": 10042,
+      "endMs": 10310
+    },
+    {
+      "raw": "target",
+      "beat": 2,
+      "startMs": 10310,
+      "endMs": 10800
+    },
+    {
+      "raw": "is",
+      "beat": 2,
+      "startMs": 10800,
+      "endMs": 10970
+    },
+    {
+      "raw": "Brinsupri,",
+      "beat": 2,
+      "startMs": 10970,
+      "endMs": 11900
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 11900,
+      "endMs": 11980
+    },
+    {
+      "raw": "lung",
+      "beat": 2,
+      "startMs": 11980,
+      "endMs": 12320
+    },
+    {
+      "raw": "drug",
+      "beat": 2,
+      "startMs": 12320,
+      "endMs": 12660
+    },
+    {
+      "raw": "Insmed",
+      "beat": 2,
+      "startMs": 12660,
+      "endMs": 13160
+    },
+    {
+      "raw": "just",
+      "beat": 2,
+      "startMs": 13160,
+      "endMs": 13500
+    },
+    {
+      "raw": "raised",
+      "beat": 2,
+      "startMs": 13500,
+      "endMs": 14010
+    },
+    {
+      "raw": "to",
+      "beat": 2,
+      "startMs": 14010,
+      "endMs": 14180
+    },
+    {
+      "raw": "$1.35",
+      "beat": 2,
+      "startMs": 14180,
+      "endMs": 15270
+    },
+    {
+      "raw": "to",
+      "beat": 2,
+      "startMs": 15270,
+      "endMs": 15440
+    },
+    {
+      "raw": "$1.4",
+      "beat": 2,
+      "startMs": 15440,
+      "endMs": 16270
+    },
+    {
+      "raw": "billion",
+      "beat": 2,
+      "startMs": 16270,
+      "endMs": 16870
+    },
+    {
+      "raw": "in",
+      "beat": 2,
+      "startMs": 16870,
+      "endMs": 17200
+    },
+    {
+      "raw": "2026",
+      "beat": 2,
+      "startMs": 17200,
+      "endMs": 18160
+    },
+    {
+      "raw": "guidance...",
+      "beat": 2,
+      "startMs": 18160,
+      "endMs": 18970
+    },
+    {
+      "raw": "after",
+      "beat": 2,
+      "startMs": 18970,
+      "endMs": 19360
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 19360,
+      "endMs": 19510
+    },
+    {
+      "raw": "$400",
+      "beat": 2,
+      "startMs": 19510,
+      "endMs": 20260
+    },
+    {
+      "raw": "million",
+      "beat": 2,
+      "startMs": 20260,
+      "endMs": 20920
+    },
+    {
+      "raw": "third",
+      "beat": 2,
+      "startMs": 20920,
+      "endMs": 21220
+    },
+    {
+      "raw": "quarter.",
+      "beat": 2,
+      "startMs": 21220,
+      "endMs": 21950
+    },
+    {
+      "raw": "Insmed",
+      "beat": 3,
+      "startMs": 21950,
+      "endMs": 22630
+    },
+    {
+      "raw": "still",
+      "beat": 3,
+      "startMs": 22630,
+      "endMs": 23070
+    },
+    {
+      "raw": "models",
+      "beat": 3,
+      "startMs": 23070,
+      "endMs": 23610
+    },
+    {
+      "raw": "peak",
+      "beat": 3,
+      "startMs": 23610,
+      "endMs": 23990
+    },
+    {
+      "raw": "sales",
+      "beat": 3,
+      "startMs": 23990,
+      "endMs": 24420
+    },
+    {
+      "raw": "above",
+      "beat": 3,
+      "startMs": 24420,
+      "endMs": 24920
+    },
+    {
+      "raw": "$7",
+      "beat": 3,
+      "startMs": 24920,
+      "endMs": 25230
+    },
+    {
+      "raw": "billion.",
+      "beat": 3,
+      "startMs": 25230,
+      "endMs": 26200
+    },
+    {
+      "raw": "The",
+      "beat": 4,
+      "startMs": 26205,
+      "endMs": 26450
+    },
+    {
+      "raw": "driver",
+      "beat": 4,
+      "startMs": 26450,
+      "endMs": 26960
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 26960,
+      "endMs": 27130
+    },
+    {
+      "raw": "the",
+      "beat": 4,
+      "startMs": 27130,
+      "endMs": 27390
+    },
+    {
+      "raw": "Dupixent",
+      "beat": 4,
+      "startMs": 27390,
+      "endMs": 28050
+    },
+    {
+      "raw": "cliff.",
+      "beat": 4,
+      "startMs": 28050,
+      "endMs": 28550
+    },
+    {
+      "raw": "Sanofi",
+      "beat": 4,
+      "startMs": 28550,
+      "endMs": 29220
+    },
+    {
+      "raw": "loses",
+      "beat": 4,
+      "startMs": 29220,
+      "endMs": 29600
+    },
+    {
+      "raw": "exclusivity",
+      "beat": 4,
+      "startMs": 29600,
+      "endMs": 30440
+    },
+    {
+      "raw": "early",
+      "beat": 4,
+      "startMs": 30440,
+      "endMs": 30850
+    },
+    {
+      "raw": "next",
+      "beat": 4,
+      "startMs": 30850,
+      "endMs": 31170
+    },
+    {
+      "raw": "decade...",
+      "beat": 4,
+      "startMs": 31170,
+      "endMs": 31770
+    },
+    {
+      "raw": "and",
+      "beat": 4,
+      "startMs": 31777,
+      "endMs": 31810
+    },
+    {
+      "raw": "needs",
+      "beat": 4,
+      "startMs": 31810,
+      "endMs": 32190
+    },
+    {
+      "raw": "the",
+      "beat": 4,
+      "startMs": 32190,
+      "endMs": 32420
+    },
+    {
+      "raw": "next",
+      "beat": 4,
+      "startMs": 32420,
+      "endMs": 32760
+    },
+    {
+      "raw": "growth",
+      "beat": 4,
+      "startMs": 32760,
+      "endMs": 33180
+    },
+    {
+      "raw": "story.",
+      "beat": 4,
+      "startMs": 33180,
+      "endMs": 33840
+    },
+    {
+      "raw": "The",
+      "beat": 5,
+      "startMs": 33840,
+      "endMs": 34140
+    },
+    {
+      "raw": "read:",
+      "beat": 5,
+      "startMs": 34140,
+      "endMs": 34650
+    },
+    {
+      "raw": "this",
+      "beat": 5,
+      "startMs": 34650,
+      "endMs": 35180
+    },
+    {
+      "raw": "is",
+      "beat": 5,
+      "startMs": 35180,
+      "endMs": 35350
+    },
+    {
+      "raw": "Sanofi's",
+      "beat": 5,
+      "startMs": 35350,
+      "endMs": 36020
+    },
+    {
+      "raw": "post-Dupixent",
+      "beat": 5,
+      "startMs": 36020,
+      "endMs": 37100
+    },
+    {
+      "raw": "bet.",
+      "beat": 5,
+      "startMs": 37100,
+      "endMs": 37580
+    },
+    {
+      "raw": "Immunology",
+      "beat": 5,
+      "startMs": 37585,
+      "endMs": 38390
+    },
+    {
+      "raw": "to",
+      "beat": 5,
+      "startMs": 38390,
+      "endMs": 38550
+    },
+    {
+      "raw": "respiratory.",
+      "beat": 5,
+      "startMs": 38550,
+      "endMs": 39840
+    },
+    {
+      "raw": "The",
+      "beat": 5,
+      "startMs": 39840,
+      "endMs": 40050
+    },
+    {
+      "raw": "affordability",
+      "beat": 5,
+      "startMs": 40050,
+      "endMs": 40680
+    },
+    {
+      "raw": "question",
+      "beat": 5,
+      "startMs": 40680,
+      "endMs": 41090
+    },
+    {
+      "raw": "is",
+      "beat": 5,
+      "startMs": 41090,
+      "endMs": 41190
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 41190,
+      "endMs": 41340
+    },
+    {
+      "raw": "one",
+      "beat": 5,
+      "startMs": 41340,
+      "endMs": 41490
+    },
+    {
+      "raw": "that",
+      "beat": 5,
+      "startMs": 41490,
+      "endMs": 41700
+    },
+    {
+      "raw": "matters",
+      "beat": 5,
+      "startMs": 41700,
+      "endMs": 42060
+    },
+    {
+      "raw": "next.",
+      "beat": 5,
+      "startMs": 42060,
+      "endMs": 42480
+    },
+    {
+      "raw": "We're",
+      "beat": 6,
+      "startMs": 42800,
+      "endMs": 42830
+    },
+    {
+      "raw": "tracking",
+      "beat": 6,
+      "startMs": 43000,
+      "endMs": 43410
+    },
+    {
+      "raw": "Sanofi's",
+      "beat": 6,
+      "startMs": 43410,
+      "endMs": 43970
+    },
+    {
+      "raw": "move",
+      "beat": 6,
+      "startMs": 43970,
+      "endMs": 44260
+    },
+    {
+      "raw": "in",
+      "beat": 6,
+      "startMs": 44260,
+      "endMs": 44400
+    },
+    {
+      "raw": "this",
+      "beat": 6,
+      "startMs": 44400,
+      "endMs": 44690
+    },
+    {
+      "raw": "week's",
+      "beat": 6,
+      "startMs": 44690,
+      "endMs": 45160
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 6,
+      "startMs": 45160,
+      "endMs": 45720
+    },
+    {
+      "raw": "Brief.",
+      "beat": 6,
+      "startMs": 45720,
+      "endMs": 46360
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 6,
+      "startMs": 46396,
+      "endMs": 47010
+    },
+    {
+      "raw": "free...",
+      "beat": 6,
+      "startMs": 47010,
+      "endMs": 47520
+    },
+    {
+      "raw": "signal",
+      "beat": 6,
+      "startMs": 47601,
+      "endMs": 48090
+    },
+    {
+      "raw": "over",
+      "beat": 6,
+      "startMs": 48090,
+      "endMs": 48470
+    },
+    {
+      "raw": "noise.",
+      "beat": 6,
+      "startMs": 48470,
+      "endMs": 48960
+    }
+  ],
+  "captions": [
+    {
+      "text": "Over $30 billion...",
+      "startMs": 130,
+      "endMs": 3100
+    },
+    {
+      "text": "That is what Bloomberg says Sanofi could pay",
+      "startMs": 3100,
+      "endMs": 5690
+    },
+    {
+      "text": "for Insmed, with one analyst scenario reaching",
+      "startMs": 5690,
+      "endMs": 8200
+    },
+    {
+      "text": "toward $40 billion.",
+      "startMs": 8200,
+      "endMs": 10042
+    },
+    {
+      "text": "The target is Brinsupri, a lung drug Insmed",
+      "startMs": 10042,
+      "endMs": 13160
+    },
+    {
+      "text": "just raised to $1.35 to $1.4 billion in 2026 guidance...",
+      "startMs": 13160,
+      "endMs": 18970
+    },
+    {
+      "text": "after a $400 million third quarter.",
+      "startMs": 18970,
+      "endMs": 21950
+    },
+    {
+      "text": "Insmed still models peak sales above $7 billion.",
+      "startMs": 21950,
+      "endMs": 26205
+    },
+    {
+      "text": "The driver is the Dupixent cliff.",
+      "startMs": 26205,
+      "endMs": 28550
+    },
+    {
+      "text": "Sanofi loses exclusivity early next decade...",
+      "startMs": 28550,
+      "endMs": 31777
+    },
+    {
+      "text": "and needs the next growth story.",
+      "startMs": 31777,
+      "endMs": 33840
+    },
+    {
+      "text": "The read: this is Sanofi's post-Dupixent bet.",
+      "startMs": 33840,
+      "endMs": 37585
+    },
+    {
+      "text": "Immunology to respiratory.",
+      "startMs": 37585,
+      "endMs": 39840
+    },
+    {
+      "text": "The affordability question is the one that matters next.",
+      "startMs": 39840,
+      "endMs": 42800
+    },
+    {
+      "text": "We're tracking Sanofi's move in this week's",
+      "startMs": 42800,
+      "endMs": 45160
+    },
+    {
+      "text": "Catalyst Brief. Subscribe free...",
+      "startMs": 45160,
+      "endMs": 47601
+    },
+    {
+      "text": "signal over noise.",
+      "startMs": 47601,
+      "endMs": 49360
+    }
+  ]
+}

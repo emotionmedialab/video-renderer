@@ -1,0 +1,241 @@
+{
+ "composition": "SanofiInsmedShort",
+ "compFile": "src/SanofiInsmedShort.tsx",
+ "chunk": 1,
+ "kit": [
+  "src/kit/sanofi1.tsx"
+ ],
+ "scenes": [
+  {
+   "n": 1,
+   "title": "cheque flips in, $30B+",
+   "peakFrame": 72,
+   "world": "red",
+   "hero": "cheque with $30B+",
+   "supports": [],
+   "move": "NEW: cheque-flips-in",
+   "note": "a white cheque flies in edge-on from deep z and flips square (one overshoot); on '$30' the $30B+ figure swings up whole into its ink amount box; the camera pushes in with it",
+   "camera": [
+    {
+     "cue": "$30",
+     "after": 0
+    }
+   ],
+   "movers": [
+    {
+     "what": "cheque flips in",
+     "ms": 60,
+     "durMs": 600
+    },
+    {
+     "what": "$30B+ lands (push-in)",
+     "cue": "$30",
+     "after": 0,
+     "durMs": 500
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "cheque handed toward Insmed, $40B behind",
+   "peakFrame": 279,
+   "world": "ink",
+   "hero": "cheque handover (SANOFI → $30B+ cheque → INSMED)",
+   "supports": [
+    "grey $40B scenario cheque"
+   ],
+   "move": "NEW: cheque-hovers-handover",
+   "note": "SANOFI block + the hook cheque spring in from depth; REPORTED prints on the cheque memo on 'says'; SANOFI prints on 'Sanofi'; on 'could pay' the red INSMED block rises from below; on 'Insmed' the cheque arcs down and stops ABOVE it, the camera craning down with it; on 'analyst' a grey cheque slides in behind from depth, ONE ANALYST SCENARIO printing on 'scenario' and $40B landing on 'toward'",
+   "camera": [
+    {
+     "cue": "Insmed",
+     "after": 3100
+    }
+   ],
+   "movers": [
+    {
+     "what": "SANOFI + cheque spring in",
+     "ms": 3100,
+     "durMs": 600
+    },
+    {
+     "what": "REPORTED prints",
+     "cue": "says",
+     "after": 3100,
+     "durMs": 380
+    },
+    {
+     "what": "SANOFI prints",
+     "cue": "Sanofi",
+     "after": 3100,
+     "durMs": 380
+    },
+    {
+     "what": "INSMED rises",
+     "cue": "could pay",
+     "after": 3100,
+     "durMs": 600
+    },
+    {
+     "what": "cheque arcs to hover (crane)",
+     "cue": "Insmed",
+     "after": 3100,
+     "durMs": 700
+    },
+    {
+     "what": "grey cheque slides in",
+     "cue": "analyst",
+     "after": 3100,
+     "durMs": 600
+    },
+    {
+     "what": "ONE ANALYST SCENARIO prints",
+     "cue": "scenario",
+     "after": 3100,
+     "durMs": 380
+    },
+    {
+     "what": "$40B lands",
+     "cue": "toward",
+     "after": 3100,
+     "durMs": 500
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "lungs fly in, BRINSUPRI",
+   "peakFrame": 360,
+   "world": "red",
+   "hero": "lungs",
+   "supports": [
+    "BRINSUPRI plate"
+   ],
+   "move": "fall-and-squash",
+   "note": "a pair of lungs flies in from z -2400 tumbling and lands square on 'target'; on 'Brinsupri' the white BRINSUPRI plate drops and squashes; the camera pushes in on it",
+   "camera": [
+    {
+     "cue": "Brinsupri",
+     "after": 9600
+    }
+   ],
+   "movers": [
+    {
+     "what": "lungs fly in",
+     "ms": 10010,
+     "durMs": 650
+    },
+    {
+     "what": "BRINSUPRI drops (push-in)",
+     "cue": "Brinsupri",
+     "after": 9600,
+     "durMs": 700
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "guidance lifts on the Q3 base",
+   "peakFrame": 636,
+   "world": "paper",
+   "hero": "guidance platform ($1.35–1.4B · 2026 GUIDANCE)",
+   "supports": [
+    "BRINSUPRI",
+    "Q3 · $400M base"
+   ],
+   "move": "NEW: lift-then-base-turns",
+   "note": "an ink platform on a post over a blank base springs in from depth; BRINSUPRI drops on 'just'; on 'raised' the platform lifts (one overshoot) and the camera cranes up with it; $1.35– and 1.4B land on their words, 2026 GUIDANCE prints; on '$400' the base turns over to a red Q3 · $400M face as the camera pulls back",
+   "camera": [
+    {
+     "cue": "raised",
+     "after": 12650
+    },
+    {
+     "cue": "$400",
+     "after": 12650
+    }
+   ],
+   "movers": [
+    {
+     "what": "lift springs in",
+     "ms": 12650,
+     "durMs": 500
+    },
+    {
+     "what": "BRINSUPRI drops",
+     "cue": "just raised",
+     "after": 12650,
+     "durMs": 300
+    },
+    {
+     "what": "platform lifts (crane)",
+     "cue": "raised",
+     "after": 12650,
+     "durMs": 800
+    },
+    {
+     "what": "$1.35– lands",
+     "cue": "$1.35",
+     "after": 12650,
+     "durMs": 400
+    },
+    {
+     "what": "1.4B lands",
+     "cue": "$1.4",
+     "after": 12650,
+     "durMs": 400
+    },
+    {
+     "what": "2026 GUIDANCE prints",
+     "cue": "2026",
+     "after": 12650,
+     "durMs": 380
+    },
+    {
+     "what": "base turns to Q3 $400M (pull-back)",
+     "cue": "$400",
+     "after": 12650,
+     "durMs": 800
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "$7B+ flag on the peak",
+   "peakFrame": 765,
+   "world": "ink",
+   "hero": "mountain + $7B+ flag",
+   "supports": [
+    "INSMED'S MODEL"
+   ],
+   "move": "NEW: flag-plants-on-peak",
+   "note": "INSMED'S MODEL drops on 'Insmed'; on 'models' a mountain (PEAK SALES) rises out of the floor with one overshoot; on 'above' a red $7B+ flag falls through depth and plants on the summit with a small squash and a vanishing scatter; the camera pushes in with it",
+   "camera": [
+    {
+     "cue": "above",
+     "after": 21570
+    }
+   ],
+   "movers": [
+    {
+     "what": "INSMED'S MODEL drops",
+     "cue": "Insmed",
+     "after": 21570,
+     "durMs": 380
+    },
+    {
+     "what": "mountain rises",
+     "cue": "models",
+     "after": 21570,
+     "durMs": 700
+    },
+    {
+     "what": "flag plants (push-in)",
+     "cue": "above",
+     "after": 21570,
+     "durMs": 700
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "index": 0,
+    "sectionIndex": 0,
+    "section": "The price",
+    "text": "Over $30 billion...",
+    "cue": {
+      "type": "stat",
+      "raw": "$30B+ | reported",
+      "value": "$30B+",
+      "label": "reported"
+    }
+  },
+  {
+    "index": 1,
+    "sectionIndex": 0,
+    "section": "The price",
+    "text": "That is what Bloomberg says Sanofi could pay for Insmed, with one analyst scenario reaching toward $40 billion.",
+    "cue": {
+      "type": "stat",
+      "raw": "$40B | one analyst scenario",
+      "value": "$40B",
+      "label": "one analyst scenario"
+    }
+  },
+  {
+    "index": 2,
+    "sectionIndex": 1,
+    "section": "The drug",
+    "text": "The target is Brinsupri, a lung drug Insmed just raised to $1.35 to $1.4 billion in 2026 guidance... after a $400 million third quarter.",
+    "cue": {
+      "type": "stat",
+      "raw": "$1.35-1.4B | 2026 guidance",
+      "value": "$1.35-1.4B",
+      "label": "2026 guidance"
+    }
+  },
+  {
+    "index": 3,
+    "sectionIndex": 1,
+    "section": "The drug",
+    "text": "Insmed still models peak sales above $7 billion.",
+    "cue": {
+      "type": "stat",
+      "raw": "$7B+ | Insmed's peak model",
+      "value": "$7B+",
+      "label": "Insmed's peak model"
+    }
+  },
+  {
+    "index": 4,
+    "sectionIndex": 2,
+    "section": "The driver",
+    "text": "The driver is the Dupixent cliff. Sanofi loses exclusivity early next decade... and needs the next growth story.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"the Dupixent cliff\"",
+      "phrase": "the Dupixent cliff"
+    }
+  },
+  {
+    "index": 5,
+    "sectionIndex": 3,
+    "section": "The read",
+    "text": "The read: this is Sanofi's post-Dupixent bet. Immunology to respiratory. The affordability question is the one that matters next.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"Immunology to respiratory\"",
+      "phrase": "Immunology to respiratory"
+    }
+  },
+  {
+    "index": 6,
+    "sectionIndex": 4,
+    "section": "Subscribe",
+    "text": "We're tracking Sanofi's move in this week's Catalyst Brief. Subscribe free... signal over noise.",
+    "cue": null
+  }
+]
