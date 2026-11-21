@@ -1,0 +1,190 @@
+[
+  {
+    "index": 0,
+    "sectionIndex": 0,
+    "section": "The headline",
+    "text": "Eli Lilly's new cancer deal with Stipple Bio is worth up to $5.9 billion.",
+    "cue": {
+      "type": "stat",
+      "raw": "$5.9B | up to, in milestones",
+      "value": "$5.9B",
+      "label": "up to, in milestones"
+    }
+  },
+  {
+    "index": 1,
+    "sectionIndex": 0,
+    "section": "The headline",
+    "text": "That is the headline. The number that matters is the one neither company published.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"neither company published\"",
+      "phrase": "neither company published"
+    }
+  },
+  {
+    "index": 2,
+    "sectionIndex": 0,
+    "section": "The headline",
+    "text": "On November 16, Stipple announced a research collaboration and license agreement with Lilly, covering multiple targets and multiple types of drugs.",
+    "cue": null
+  },
+  {
+    "index": 3,
+    "sectionIndex": 1,
+    "section": "The terms",
+    "text": "Here is the money, in order. Stipple gets an upfront payment, and Lilly makes an equity investment in the company.",
+    "cue": null
+  },
+  {
+    "index": 4,
+    "sectionIndex": 1,
+    "section": "The terms",
+    "text": "How big either one is has not been disclosed.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"has not been disclosed\"",
+      "phrase": "has not been disclosed"
+    }
+  },
+  {
+    "index": 5,
+    "sectionIndex": 1,
+    "section": "The terms",
+    "text": "Everything after that is conditional. The $5.9 billion is the ceiling on research, development and commercial milestones, paid only as programs reach them. On top of that, tiered royalties if a product is ever sold.",
+    "cue": null
+  },
+  {
+    "index": 6,
+    "sectionIndex": 1,
+    "section": "The terms",
+    "text": "In return, Lilly gets exclusive worldwide rights to the products that come out of the collaboration.",
+    "cue": null
+  },
+  {
+    "index": 7,
+    "sectionIndex": 2,
+    "section": "The platform",
+    "text": "So Lilly is not buying a drug. It is buying a way to find targets.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"a way to find targets\"",
+      "phrase": "a way to find targets"
+    }
+  },
+  {
+    "index": 8,
+    "sectionIndex": 2,
+    "section": "The platform",
+    "text": "Stipple's Pointillist platform looks for binders to tumor-specific epitopes on the cell surface. An epitope is the exact spot on a protein where an antibody attaches. Stipple says these binders are designed to hit tumor cells selectively.",
+    "cue": null
+  },
+  {
+    "index": 9,
+    "sectionIndex": 2,
+    "section": "The platform",
+    "text": "The aim is to avoid on-target, off-tumor toxicity: a drug that finds its target in healthy tissue too.",
+    "cue": null
+  },
+  {
+    "index": 10,
+    "sectionIndex": 2,
+    "section": "The platform",
+    "text": "Lilly will pair those binders with its own oncology technologies, across more than one modality.",
+    "cue": null
+  },
+  {
+    "index": 11,
+    "sectionIndex": 3,
+    "section": "The company",
+    "text": "Stipple is a private biotech in Cambridge, Massachusetts. It came out of stealth in April with a $100 million Series A, co-led by RA Capital, a16z Bio+Health, and Nextech Invest.",
+    "cue": {
+      "type": "stat",
+      "raw": "$100M | Series A, April",
+      "value": "$100M",
+      "label": "Series A, April"
+    }
+  },
+  {
+    "index": 12,
+    "sectionIndex": 3,
+    "section": "The company",
+    "text": "Its lead drug, STP-100, is an antibody-drug conjugate. Stipple says the Lilly deal lets it keep advancing its own pipeline, with a Phase 1 trial of STP-100 planned for early 2027, in solid tumors including pancreatic cancer.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"early 2027\"",
+      "phrase": "early 2027"
+    }
+  },
+  {
+    "index": 13,
+    "sectionIndex": 3,
+    "section": "The company",
+    "text": "The announcement names no targets for the Lilly work, gives no count, and describes none of it as clinical.",
+    "cue": null
+  },
+  {
+    "index": 14,
+    "sectionIndex": 4,
+    "section": "Our read",
+    "text": "Why it matters. This is our read.",
+    "cue": null
+  },
+  {
+    "index": 15,
+    "sectionIndex": 4,
+    "section": "Our read",
+    "text": "When the ceiling is public and the upfront is private, the headline tells you how big success could be, not what Lilly has paid.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"not what Lilly has paid\"",
+      "phrase": "not what Lilly has paid"
+    }
+  },
+  {
+    "index": 16,
+    "sectionIndex": 4,
+    "section": "Our read",
+    "text": "Lilly is paying to come in at target discovery, before any program in this deal has been described as reaching patients. Most of the $5.9 billion only exists if the science works, program by program.",
+    "cue": null
+  },
+  {
+    "index": 17,
+    "sectionIndex": 4,
+    "section": "Our read",
+    "text": "And the equity matters. Lilly is not only a partner. It is also an investor in the company whose platform it is betting on.",
+    "cue": null
+  },
+  {
+    "index": 18,
+    "sectionIndex": 5,
+    "section": "What to watch",
+    "text": "So the signal comes in order. First, whether either company ever discloses the upfront. That is the real price of entry.",
+    "cue": null
+  },
+  {
+    "index": 19,
+    "sectionIndex": 5,
+    "section": "What to watch",
+    "text": "Then, STP-100's Phase 1 start in early 2027, when Stipple's lead drug is due to be tested in people for the first time.",
+    "cue": null
+  },
+  {
+    "index": 20,
+    "sectionIndex": 5,
+    "section": "What to watch",
+    "text": "And then, the first named program under the Lilly deal. Until that happens, $5.9 billion is a ceiling, not a payment.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"a ceiling, not a payment\"",
+      "phrase": "a ceiling, not a payment"
+    }
+  },
+  {
+    "index": 21,
+    "sectionIndex": 6,
+    "section": "Subscribe",
+    "text": "We track the deals that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+    "cue": null
+  }
+]

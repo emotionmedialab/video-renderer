@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "title": "The headline",
+    "firstBeat": 0
+  },
+  {
+    "index": 1,
+    "title": "The terms",
+    "firstBeat": 3
+  },
+  {
+    "index": 2,
+    "title": "The platform",
+    "firstBeat": 7
+  },
+  {
+    "index": 3,
+    "title": "The company",
+    "firstBeat": 11
+  },
+  {
+    "index": 4,
+    "title": "Our read",
+    "firstBeat": 14
+  },
+  {
+    "index": 5,
+    "title": "What to watch",
+    "firstBeat": 18
+  },
+  {
+    "index": 6,
+    "title": "Subscribe",
+    "firstBeat": 21
+  }
+]

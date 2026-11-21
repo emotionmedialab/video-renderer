@@ -1,0 +1,3494 @@
+{
+  "durationMs": 188000,
+  "fps": 30,
+  "meta": {
+    "title": "Lilly's $5.9B Stipple Bio deal, and the number nobody published",
+    "intro": "Lilly × Stipple Bio, research collaboration and license",
+    "cta": "Subscribe free at thecatalystbrief.com"
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "The headline",
+      "startMs": 130
+    },
+    {
+      "index": 1,
+      "title": "The terms",
+      "startMs": 20630
+    },
+    {
+      "index": 2,
+      "title": "The platform",
+      "startMs": 51980
+    },
+    {
+      "index": 3,
+      "title": "The company",
+      "startMs": 85200
+    },
+    {
+      "index": 4,
+      "title": "Our read",
+      "startMs": 120090
+    },
+    {
+      "index": 5,
+      "title": "What to watch",
+      "startMs": 152128
+    },
+    {
+      "index": 6,
+      "title": "Subscribe",
+      "startMs": 178860
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "The headline",
+      "text": "Eli Lilly's new cancer deal with Stipple Bio is worth up to $5.9 billion.",
+      "cue": {
+        "type": "stat",
+        "raw": "$5.9B | up to, in milestones",
+        "value": "$5.9B",
+        "label": "up to, in milestones"
+      },
+      "startMs": 130,
+      "endMs": 5680
+    },
+    {
+      "index": 1,
+      "sectionIndex": 0,
+      "section": "The headline",
+      "text": "That is the headline. The number that matters is the one neither company published.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"neither company published\"",
+        "phrase": "neither company published"
+      },
+      "startMs": 5680,
+      "endMs": 11680
+    },
+    {
+      "index": 2,
+      "sectionIndex": 0,
+      "section": "The headline",
+      "text": "On November 16, Stipple announced a research collaboration and license agreement with Lilly, covering multiple targets and multiple types of drugs.",
+      "cue": null,
+      "startMs": 11680,
+      "endMs": 20630
+    },
+    {
+      "index": 3,
+      "sectionIndex": 1,
+      "section": "The terms",
+      "text": "Here is the money, in order. Stipple gets an upfront payment, and Lilly makes an equity investment in the company.",
+      "cue": null,
+      "startMs": 20630,
+      "endMs": 28590
+    },
+    {
+      "index": 4,
+      "sectionIndex": 1,
+      "section": "The terms",
+      "text": "How big either one is has not been disclosed.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"has not been disclosed\"",
+        "phrase": "has not been disclosed"
+      },
+      "startMs": 28590,
+      "endMs": 31710
+    },
+    {
+      "index": 5,
+      "sectionIndex": 1,
+      "section": "The terms",
+      "text": "Everything after that is conditional. The $5.9 billion is the ceiling on research, development and commercial milestones, paid only as programs reach them. On top of that, tiered royalties if a product is ever sold.",
+      "cue": null,
+      "startMs": 31710,
+      "endMs": 46832
+    },
+    {
+      "index": 6,
+      "sectionIndex": 1,
+      "section": "The terms",
+      "text": "In return, Lilly gets exclusive worldwide rights to the products that come out of the collaboration.",
+      "cue": null,
+      "startMs": 46832,
+      "endMs": 51980
+    },
+    {
+      "index": 7,
+      "sectionIndex": 2,
+      "section": "The platform",
+      "text": "So Lilly is not buying a drug. It is buying a way to find targets.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"a way to find targets\"",
+        "phrase": "a way to find targets"
+      },
+      "startMs": 51980,
+      "endMs": 57320
+    },
+    {
+      "index": 8,
+      "sectionIndex": 2,
+      "section": "The platform",
+      "text": "Stipple's Pointillist platform looks for binders to tumor-specific epitopes on the cell surface. An epitope is the exact spot on a protein where an antibody attaches. Stipple says these binders are designed to hit tumor cells selectively.",
+      "cue": null,
+      "startMs": 57320,
+      "endMs": 72528
+    },
+    {
+      "index": 9,
+      "sectionIndex": 2,
+      "section": "The platform",
+      "text": "The aim is to avoid on-target, off-tumor toxicity: a drug that finds its target in healthy tissue too.",
+      "cue": null,
+      "startMs": 72528,
+      "endMs": 79594
+    },
+    {
+      "index": 10,
+      "sectionIndex": 2,
+      "section": "The platform",
+      "text": "Lilly will pair those binders with its own oncology technologies, across more than one modality.",
+      "cue": null,
+      "startMs": 79594,
+      "endMs": 85200
+    },
+    {
+      "index": 11,
+      "sectionIndex": 3,
+      "section": "The company",
+      "text": "Stipple is a private biotech in Cambridge, Massachusetts. It came out of stealth in April with a $100 million Series A, co-led by RA Capital, a16z Bio+Health, and Nextech Invest.",
+      "cue": {
+        "type": "stat",
+        "raw": "$100M | Series A, April",
+        "value": "$100M",
+        "label": "Series A, April"
+      },
+      "startMs": 85200,
+      "endMs": 98370
+    },
+    {
+      "index": 12,
+      "sectionIndex": 3,
+      "section": "The company",
+      "text": "Its lead drug, STP-100, is an antibody-drug conjugate. Stipple says the Lilly deal lets it keep advancing its own pipeline, with a Phase 1 trial of STP-100 planned for early 2027, in solid tumors including pancreatic cancer.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"early 2027\"",
+        "phrase": "early 2027"
+      },
+      "startMs": 98370,
+      "endMs": 114350
+    },
+    {
+      "index": 13,
+      "sectionIndex": 3,
+      "section": "The company",
+      "text": "The announcement names no targets for the Lilly work, gives no count, and describes none of it as clinical.",
+      "cue": null,
+      "startMs": 114350,
+      "endMs": 120090
+    },
+    {
+      "index": 14,
+      "sectionIndex": 4,
+      "section": "Our read",
+      "text": "Why it matters. This is our read.",
+      "cue": null,
+      "startMs": 120090,
+      "endMs": 122950
+    },
+    {
+      "index": 15,
+      "sectionIndex": 4,
+      "section": "Our read",
+      "text": "When the ceiling is public and the upfront is private, the headline tells you how big success could be, not what Lilly has paid.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"not what Lilly has paid\"",
+        "phrase": "not what Lilly has paid"
+      },
+      "startMs": 122950,
+      "endMs": 131740
+    },
+    {
+      "index": 16,
+      "sectionIndex": 4,
+      "section": "Our read",
+      "text": "Lilly is paying to come in at target discovery, before any program in this deal has been described as reaching patients. Most of the $5.9 billion only exists if the science works, program by program.",
+      "cue": null,
+      "startMs": 131740,
+      "endMs": 144447
+    },
+    {
+      "index": 17,
+      "sectionIndex": 4,
+      "section": "Our read",
+      "text": "And the equity matters. Lilly is not only a partner. It is also an investor in the company whose platform it is betting on.",
+      "cue": null,
+      "startMs": 144447,
+      "endMs": 152128
+    },
+    {
+      "index": 18,
+      "sectionIndex": 5,
+      "section": "What to watch",
+      "text": "So the signal comes in order. First, whether either company ever discloses the upfront. That is the real price of entry.",
+      "cue": null,
+      "startMs": 152128,
+      "endMs": 160526
+    },
+    {
+      "index": 19,
+      "sectionIndex": 5,
+      "section": "What to watch",
+      "text": "Then, STP-100's Phase 1 start in early 2027, when Stipple's lead drug is due to be tested in people for the first time.",
+      "cue": null,
+      "startMs": 160526,
+      "endMs": 169588
+    },
+    {
+      "index": 20,
+      "sectionIndex": 5,
+      "section": "What to watch",
+      "text": "And then, the first named program under the Lilly deal. Until that happens, $5.9 billion is a ceiling, not a payment.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"a ceiling, not a payment\"",
+        "phrase": "a ceiling, not a payment"
+      },
+      "startMs": 169588,
+      "endMs": 178860
+    },
+    {
+      "index": 21,
+      "sectionIndex": 6,
+      "section": "Subscribe",
+      "text": "We track the deals that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+      "cue": null,
+      "startMs": 178860,
+      "endMs": 188000
+    }
+  ],
+  "words": [
+    {
+      "raw": "Eli",
+      "beat": 0,
+      "startMs": 130,
+      "endMs": 230
+    },
+    {
+      "raw": "Lilly's",
+      "beat": 0,
+      "startMs": 230,
+      "endMs": 760
+    },
+    {
+      "raw": "new",
+      "beat": 0,
+      "startMs": 760,
+      "endMs": 990
+    },
+    {
+      "raw": "cancer",
+      "beat": 0,
+      "startMs": 990,
+      "endMs": 1450
+    },
+    {
+      "raw": "deal",
+      "beat": 0,
+      "startMs": 1450,
+      "endMs": 1760
+    },
+    {
+      "raw": "with",
+      "beat": 0,
+      "startMs": 1760,
+      "endMs": 2070
+    },
+    {
+      "raw": "Stipple",
+      "beat": 0,
+      "startMs": 2070,
+      "endMs": 2600
+    },
+    {
+      "raw": "Bio",
+      "beat": 0,
+      "startMs": 2600,
+      "endMs": 2920
+    },
+    {
+      "raw": "is",
+      "beat": 0,
+      "startMs": 2920,
+      "endMs": 3010
+    },
+    {
+      "raw": "worth",
+      "beat": 0,
+      "startMs": 3010,
+      "endMs": 3360
+    },
+    {
+      "raw": "up",
+      "beat": 0,
+      "startMs": 3360,
+      "endMs": 3560
+    },
+    {
+      "raw": "to",
+      "beat": 0,
+      "startMs": 3560,
+      "endMs": 3820
+    },
+    {
+      "raw": "$5.9",
+      "beat": 0,
+      "startMs": 3820,
+      "endMs": 4930
+    },
+    {
+      "raw": "billion.",
+      "beat": 0,
+      "startMs": 4930,
+      "endMs": 5680
+    },
+    {
+      "raw": "That",
+      "beat": 1,
+      "startMs": 5680,
+      "endMs": 6250
+    },
+    {
+      "raw": "is",
+      "beat": 1,
+      "startMs": 6450,
+      "endMs": 6492
+    },
+    {
+      "raw": "the",
+      "beat": 1,
+      "startMs": 6550,
+      "endMs": 6550
+    },
+    {
+      "raw": "headline.",
+      "beat": 1,
+      "startMs": 6600,
+      "endMs": 7580
+    },
+    {
+      "raw": "The",
+      "beat": 1,
+      "startMs": 7580,
+      "endMs": 8140
+    },
+    {
+      "raw": "number",
+      "beat": 1,
+      "startMs": 8693,
+      "endMs": 8710
+    },
+    {
+      "raw": "that",
+      "beat": 1,
+      "startMs": 8710,
+      "endMs": 8990
+    },
+    {
+      "raw": "matters",
+      "beat": 1,
+      "startMs": 8990,
+      "endMs": 9760
+    },
+    {
+      "raw": "is",
+      "beat": 1,
+      "startMs": 9760,
+      "endMs": 9920
+    },
+    {
+      "raw": "the",
+      "beat": 1,
+      "startMs": 9920,
+      "endMs": 10150
+    },
+    {
+      "raw": "one",
+      "beat": 1,
+      "startMs": 10150,
+      "endMs": 10400
+    },
+    {
+      "raw": "neither",
+      "beat": 1,
+      "startMs": 10400,
+      "endMs": 10720
+    },
+    {
+      "raw": "company",
+      "beat": 1,
+      "startMs": 10720,
+      "endMs": 11070
+    },
+    {
+      "raw": "published.",
+      "beat": 1,
+      "startMs": 11070,
+      "endMs": 11680
+    },
+    {
+      "raw": "On",
+      "beat": 2,
+      "startMs": 11680,
+      "endMs": 12380
+    },
+    {
+      "raw": "November",
+      "beat": 2,
+      "startMs": 12386,
+      "endMs": 12410
+    },
+    {
+      "raw": "16,",
+      "beat": 2,
+      "startMs": 12410,
+      "endMs": 13130
+    },
+    {
+      "raw": "Stipple",
+      "beat": 2,
+      "startMs": 13130,
+      "endMs": 13760
+    },
+    {
+      "raw": "announced",
+      "beat": 2,
+      "startMs": 13760,
+      "endMs": 14300
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 14300,
+      "endMs": 14370
+    },
+    {
+      "raw": "research",
+      "beat": 2,
+      "startMs": 14370,
+      "endMs": 15040
+    },
+    {
+      "raw": "collaboration",
+      "beat": 2,
+      "startMs": 15040,
+      "endMs": 15840
+    },
+    {
+      "raw": "and",
+      "beat": 2,
+      "startMs": 15840,
+      "endMs": 16030
+    },
+    {
+      "raw": "license",
+      "beat": 2,
+      "startMs": 16030,
+      "endMs": 16490
+    },
+    {
+      "raw": "agreement",
+      "beat": 2,
+      "startMs": 16490,
+      "endMs": 16880
+    },
+    {
+      "raw": "with",
+      "beat": 2,
+      "startMs": 16880,
+      "endMs": 17140
+    },
+    {
+      "raw": "Lilly,",
+      "beat": 2,
+      "startMs": 17140,
+      "endMs": 17760
+    },
+    {
+      "raw": "covering",
+      "beat": 2,
+      "startMs": 17902,
+      "endMs": 18230
+    },
+    {
+      "raw": "multiple",
+      "beat": 2,
+      "startMs": 18230,
+      "endMs": 18700
+    },
+    {
+      "raw": "targets",
+      "beat": 2,
+      "startMs": 18700,
+      "endMs": 19110
+    },
+    {
+      "raw": "and",
+      "beat": 2,
+      "startMs": 19110,
+      "endMs": 19280
+    },
+    {
+      "raw": "multiple",
+      "beat": 2,
+      "startMs": 19280,
+      "endMs": 19760
+    },
+    {
+      "raw": "types",
+      "beat": 2,
+      "startMs": 19760,
+      "endMs": 20040
+    },
+    {
+      "raw": "of",
+      "beat": 2,
+      "startMs": 20040,
+      "endMs": 20150
+    },
+    {
+      "raw": "drugs.",
+      "beat": 2,
+      "startMs": 20150,
+      "endMs": 20630
+    },
+    {
+      "raw": "Here",
+      "beat": 3,
+      "startMs": 20630,
+      "endMs": 21330
+    },
+    {
+      "raw": "is",
+      "beat": 3,
+      "startMs": 21330,
+      "endMs": 21420
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 21420,
+      "endMs": 21810
+    },
+    {
+      "raw": "money,",
+      "beat": 3,
+      "startMs": 21810,
+      "endMs": 22610
+    },
+    {
+      "raw": "in",
+      "beat": 3,
+      "startMs": 22610,
+      "endMs": 22630
+    },
+    {
+      "raw": "order.",
+      "beat": 3,
+      "startMs": 22630,
+      "endMs": 22960
+    },
+    {
+      "raw": "Stipple",
+      "beat": 3,
+      "startMs": 22960,
+      "endMs": 23600
+    },
+    {
+      "raw": "gets",
+      "beat": 3,
+      "startMs": 23603,
+      "endMs": 23780
+    },
+    {
+      "raw": "an",
+      "beat": 3,
+      "startMs": 23780,
+      "endMs": 23940
+    },
+    {
+      "raw": "upfront",
+      "beat": 3,
+      "startMs": 23940,
+      "endMs": 24520
+    },
+    {
+      "raw": "payment,",
+      "beat": 3,
+      "startMs": 24520,
+      "endMs": 24970
+    },
+    {
+      "raw": "and",
+      "beat": 3,
+      "startMs": 24970,
+      "endMs": 25190
+    },
+    {
+      "raw": "Lilly",
+      "beat": 3,
+      "startMs": 25190,
+      "endMs": 25650
+    },
+    {
+      "raw": "makes",
+      "beat": 3,
+      "startMs": 25650,
+      "endMs": 25930
+    },
+    {
+      "raw": "an",
+      "beat": 3,
+      "startMs": 25930,
+      "endMs": 26080
+    },
+    {
+      "raw": "equity",
+      "beat": 3,
+      "startMs": 26080,
+      "endMs": 26620
+    },
+    {
+      "raw": "investment",
+      "beat": 3,
+      "startMs": 26620,
+      "endMs": 27280
+    },
+    {
+      "raw": "in",
+      "beat": 3,
+      "startMs": 27280,
+      "endMs": 27430
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 27430,
+      "endMs": 27680
+    },
+    {
+      "raw": "company.",
+      "beat": 3,
+      "startMs": 27680,
+      "endMs": 28480
+    },
+    {
+      "raw": "How",
+      "beat": 4,
+      "startMs": 28590,
+      "endMs": 28720
+    },
+    {
+      "raw": "big",
+      "beat": 4,
+      "startMs": 28720,
+      "endMs": 28960
+    },
+    {
+      "raw": "either",
+      "beat": 4,
+      "startMs": 28960,
+      "endMs": 29430
+    },
+    {
+      "raw": "one",
+      "beat": 4,
+      "startMs": 29430,
+      "endMs": 29670
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 29670,
+      "endMs": 29830
+    },
+    {
+      "raw": "has",
+      "beat": 4,
+      "startMs": 29830,
+      "endMs": 30070
+    },
+    {
+      "raw": "not",
+      "beat": 4,
+      "startMs": 30070,
+      "endMs": 30310
+    },
+    {
+      "raw": "been",
+      "beat": 4,
+      "startMs": 30310,
+      "endMs": 30630
+    },
+    {
+      "raw": "disclosed.",
+      "beat": 4,
+      "startMs": 30630,
+      "endMs": 31710
+    },
+    {
+      "raw": "Everything",
+      "beat": 5,
+      "startMs": 31710,
+      "endMs": 32310
+    },
+    {
+      "raw": "after",
+      "beat": 5,
+      "startMs": 32310,
+      "endMs": 32660
+    },
+    {
+      "raw": "that",
+      "beat": 5,
+      "startMs": 32660,
+      "endMs": 33080
+    },
+    {
+      "raw": "is",
+      "beat": 5,
+      "startMs": 33080,
+      "endMs": 33120
+    },
+    {
+      "raw": "conditional.",
+      "beat": 5,
+      "startMs": 33120,
+      "endMs": 34380
+    },
+    {
+      "raw": "The",
+      "beat": 5,
+      "startMs": 34380,
+      "endMs": 34400
+    },
+    {
+      "raw": "$5.9",
+      "beat": 5,
+      "startMs": 34400,
+      "endMs": 35280
+    },
+    {
+      "raw": "billion",
+      "beat": 5,
+      "startMs": 35280,
+      "endMs": 35800
+    },
+    {
+      "raw": "is",
+      "beat": 5,
+      "startMs": 35800,
+      "endMs": 35930
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 35930,
+      "endMs": 36150
+    },
+    {
+      "raw": "ceiling",
+      "beat": 5,
+      "startMs": 36150,
+      "endMs": 36660
+    },
+    {
+      "raw": "on",
+      "beat": 5,
+      "startMs": 36660,
+      "endMs": 36800
+    },
+    {
+      "raw": "research,",
+      "beat": 5,
+      "startMs": 36800,
+      "endMs": 37530
+    },
+    {
+      "raw": "development",
+      "beat": 5,
+      "startMs": 37530,
+      "endMs": 38480
+    },
+    {
+      "raw": "and",
+      "beat": 5,
+      "startMs": 38480,
+      "endMs": 38790
+    },
+    {
+      "raw": "commercial",
+      "beat": 5,
+      "startMs": 38790,
+      "endMs": 39430
+    },
+    {
+      "raw": "milestones,",
+      "beat": 5,
+      "startMs": 39430,
+      "endMs": 40360
+    },
+    {
+      "raw": "paid",
+      "beat": 5,
+      "startMs": 40360,
+      "endMs": 40690
+    },
+    {
+      "raw": "only",
+      "beat": 5,
+      "startMs": 40690,
+      "endMs": 41010
+    },
+    {
+      "raw": "as",
+      "beat": 5,
+      "startMs": 41010,
+      "endMs": 41300
+    },
+    {
+      "raw": "programs",
+      "beat": 5,
+      "startMs": 41300,
+      "endMs": 41680
+    },
+    {
+      "raw": "reach",
+      "beat": 5,
+      "startMs": 41680,
+      "endMs": 42090
+    },
+    {
+      "raw": "them.",
+      "beat": 5,
+      "startMs": 42090,
+      "endMs": 42740
+    },
+    {
+      "raw": "On",
+      "beat": 5,
+      "startMs": 42740,
+      "endMs": 42760
+    },
+    {
+      "raw": "top",
+      "beat": 5,
+      "startMs": 42760,
+      "endMs": 42990
+    },
+    {
+      "raw": "of",
+      "beat": 5,
+      "startMs": 42990,
+      "endMs": 43140
+    },
+    {
+      "raw": "that,",
+      "beat": 5,
+      "startMs": 43140,
+      "endMs": 43830
+    },
+    {
+      "raw": "tiered",
+      "beat": 5,
+      "startMs": 43860,
+      "endMs": 44060
+    },
+    {
+      "raw": "royalties",
+      "beat": 5,
+      "startMs": 44060,
+      "endMs": 44760
+    },
+    {
+      "raw": "if",
+      "beat": 5,
+      "startMs": 44760,
+      "endMs": 44910
+    },
+    {
+      "raw": "a",
+      "beat": 5,
+      "startMs": 44910,
+      "endMs": 44980
+    },
+    {
+      "raw": "product",
+      "beat": 5,
+      "startMs": 44980,
+      "endMs": 45530
+    },
+    {
+      "raw": "is",
+      "beat": 5,
+      "startMs": 45530,
+      "endMs": 45680
+    },
+    {
+      "raw": "ever",
+      "beat": 5,
+      "startMs": 45680,
+      "endMs": 45990
+    },
+    {
+      "raw": "sold.",
+      "beat": 5,
+      "startMs": 45990,
+      "endMs": 46830
+    },
+    {
+      "raw": "In",
+      "beat": 6,
+      "startMs": 46832,
+      "endMs": 46832
+    },
+    {
+      "raw": "return,",
+      "beat": 6,
+      "startMs": 46900,
+      "endMs": 47710
+    },
+    {
+      "raw": "Lilly",
+      "beat": 6,
+      "startMs": 47717,
+      "endMs": 47920
+    },
+    {
+      "raw": "gets",
+      "beat": 6,
+      "startMs": 47920,
+      "endMs": 48240
+    },
+    {
+      "raw": "exclusive",
+      "beat": 6,
+      "startMs": 48240,
+      "endMs": 48730
+    },
+    {
+      "raw": "worldwide",
+      "beat": 6,
+      "startMs": 48730,
+      "endMs": 49220
+    },
+    {
+      "raw": "rights",
+      "beat": 6,
+      "startMs": 49220,
+      "endMs": 49540
+    },
+    {
+      "raw": "to",
+      "beat": 6,
+      "startMs": 49540,
+      "endMs": 49630
+    },
+    {
+      "raw": "the",
+      "beat": 6,
+      "startMs": 49630,
+      "endMs": 49800
+    },
+    {
+      "raw": "products",
+      "beat": 6,
+      "startMs": 49800,
+      "endMs": 50230
+    },
+    {
+      "raw": "that",
+      "beat": 6,
+      "startMs": 50230,
+      "endMs": 50440
+    },
+    {
+      "raw": "come",
+      "beat": 6,
+      "startMs": 50440,
+      "endMs": 50650
+    },
+    {
+      "raw": "out",
+      "beat": 6,
+      "startMs": 50650,
+      "endMs": 50810
+    },
+    {
+      "raw": "of",
+      "beat": 6,
+      "startMs": 50810,
+      "endMs": 50910
+    },
+    {
+      "raw": "the",
+      "beat": 6,
+      "startMs": 50910,
+      "endMs": 51070
+    },
+    {
+      "raw": "collaboration.",
+      "beat": 6,
+      "startMs": 51070,
+      "endMs": 51980
+    },
+    {
+      "raw": "So",
+      "beat": 7,
+      "startMs": 51980,
+      "endMs": 53110
+    },
+    {
+      "raw": "Lilly",
+      "beat": 7,
+      "startMs": 53110,
+      "endMs": 53440
+    },
+    {
+      "raw": "is",
+      "beat": 7,
+      "startMs": 53440,
+      "endMs": 53680
+    },
+    {
+      "raw": "not",
+      "beat": 7,
+      "startMs": 53680,
+      "endMs": 53920
+    },
+    {
+      "raw": "buying",
+      "beat": 7,
+      "startMs": 53920,
+      "endMs": 54390
+    },
+    {
+      "raw": "a",
+      "beat": 7,
+      "startMs": 54390,
+      "endMs": 54460
+    },
+    {
+      "raw": "drug.",
+      "beat": 7,
+      "startMs": 54460,
+      "endMs": 55150
+    },
+    {
+      "raw": "It",
+      "beat": 7,
+      "startMs": 55274,
+      "endMs": 55274
+    },
+    {
+      "raw": "is",
+      "beat": 7,
+      "startMs": 55330,
+      "endMs": 55330
+    },
+    {
+      "raw": "buying",
+      "beat": 7,
+      "startMs": 55550,
+      "endMs": 55770
+    },
+    {
+      "raw": "a",
+      "beat": 7,
+      "startMs": 55770,
+      "endMs": 55840
+    },
+    {
+      "raw": "way",
+      "beat": 7,
+      "startMs": 55840,
+      "endMs": 56070
+    },
+    {
+      "raw": "to",
+      "beat": 7,
+      "startMs": 56070,
+      "endMs": 56220
+    },
+    {
+      "raw": "find",
+      "beat": 7,
+      "startMs": 56220,
+      "endMs": 56530
+    },
+    {
+      "raw": "targets.",
+      "beat": 7,
+      "startMs": 56530,
+      "endMs": 57320
+    },
+    {
+      "raw": "Stipple's",
+      "beat": 8,
+      "startMs": 57320,
+      "endMs": 57990
+    },
+    {
+      "raw": "Pointillist",
+      "beat": 8,
+      "startMs": 57990,
+      "endMs": 58840
+    },
+    {
+      "raw": "platform",
+      "beat": 8,
+      "startMs": 58840,
+      "endMs": 59600
+    },
+    {
+      "raw": "looks",
+      "beat": 8,
+      "startMs": 59600,
+      "endMs": 59850
+    },
+    {
+      "raw": "for",
+      "beat": 8,
+      "startMs": 59850,
+      "endMs": 60080
+    },
+    {
+      "raw": "binders",
+      "beat": 8,
+      "startMs": 60080,
+      "endMs": 60560
+    },
+    {
+      "raw": "to",
+      "beat": 8,
+      "startMs": 60560,
+      "endMs": 60700
+    },
+    {
+      "raw": "tumor-specific",
+      "beat": 8,
+      "startMs": 60700,
+      "endMs": 61730
+    },
+    {
+      "raw": "epitopes",
+      "beat": 8,
+      "startMs": 61730,
+      "endMs": 62310
+    },
+    {
+      "raw": "on",
+      "beat": 8,
+      "startMs": 62310,
+      "endMs": 62450
+    },
+    {
+      "raw": "the",
+      "beat": 8,
+      "startMs": 62450,
+      "endMs": 62670
+    },
+    {
+      "raw": "cell",
+      "beat": 8,
+      "startMs": 62670,
+      "endMs": 62960
+    },
+    {
+      "raw": "surface.",
+      "beat": 8,
+      "startMs": 62960,
+      "endMs": 63810
+    },
+    {
+      "raw": "An",
+      "beat": 8,
+      "startMs": 63810,
+      "endMs": 63840
+    },
+    {
+      "raw": "epitope",
+      "beat": 8,
+      "startMs": 63840,
+      "endMs": 64350
+    },
+    {
+      "raw": "is",
+      "beat": 8,
+      "startMs": 64350,
+      "endMs": 64550
+    },
+    {
+      "raw": "the",
+      "beat": 8,
+      "startMs": 64550,
+      "endMs": 64710
+    },
+    {
+      "raw": "exact",
+      "beat": 8,
+      "startMs": 64710,
+      "endMs": 65080
+    },
+    {
+      "raw": "spot",
+      "beat": 8,
+      "startMs": 65080,
+      "endMs": 65430
+    },
+    {
+      "raw": "on",
+      "beat": 8,
+      "startMs": 65430,
+      "endMs": 65510
+    },
+    {
+      "raw": "a",
+      "beat": 8,
+      "startMs": 65510,
+      "endMs": 65570
+    },
+    {
+      "raw": "protein",
+      "beat": 8,
+      "startMs": 65570,
+      "endMs": 66240
+    },
+    {
+      "raw": "where",
+      "beat": 8,
+      "startMs": 66240,
+      "endMs": 66480
+    },
+    {
+      "raw": "an",
+      "beat": 8,
+      "startMs": 66480,
+      "endMs": 66610
+    },
+    {
+      "raw": "antibody",
+      "beat": 8,
+      "startMs": 66610,
+      "endMs": 67150
+    },
+    {
+      "raw": "attaches.",
+      "beat": 8,
+      "startMs": 67150,
+      "endMs": 68020
+    },
+    {
+      "raw": "Stipple",
+      "beat": 8,
+      "startMs": 68314,
+      "endMs": 68350
+    },
+    {
+      "raw": "says",
+      "beat": 8,
+      "startMs": 68350,
+      "endMs": 68620
+    },
+    {
+      "raw": "these",
+      "beat": 8,
+      "startMs": 68620,
+      "endMs": 68960
+    },
+    {
+      "raw": "binders",
+      "beat": 8,
+      "startMs": 68960,
+      "endMs": 69430
+    },
+    {
+      "raw": "are",
+      "beat": 8,
+      "startMs": 69430,
+      "endMs": 69630
+    },
+    {
+      "raw": "designed",
+      "beat": 8,
+      "startMs": 69630,
+      "endMs": 70170
+    },
+    {
+      "raw": "to",
+      "beat": 8,
+      "startMs": 70170,
+      "endMs": 70340
+    },
+    {
+      "raw": "hit",
+      "beat": 8,
+      "startMs": 70340,
+      "endMs": 70510
+    },
+    {
+      "raw": "tumor",
+      "beat": 8,
+      "startMs": 70510,
+      "endMs": 70840
+    },
+    {
+      "raw": "cells",
+      "beat": 8,
+      "startMs": 70840,
+      "endMs": 71270
+    },
+    {
+      "raw": "selectively.",
+      "beat": 8,
+      "startMs": 71270,
+      "endMs": 72400
+    },
+    {
+      "raw": "The",
+      "beat": 9,
+      "startMs": 72528,
+      "endMs": 72710
+    },
+    {
+      "raw": "aim",
+      "beat": 9,
+      "startMs": 72710,
+      "endMs": 72900
+    },
+    {
+      "raw": "is",
+      "beat": 9,
+      "startMs": 72900,
+      "endMs": 73050
+    },
+    {
+      "raw": "to",
+      "beat": 9,
+      "startMs": 73050,
+      "endMs": 73230
+    },
+    {
+      "raw": "avoid",
+      "beat": 9,
+      "startMs": 73230,
+      "endMs": 73630
+    },
+    {
+      "raw": "on-target,",
+      "beat": 9,
+      "startMs": 73630,
+      "endMs": 74660
+    },
+    {
+      "raw": "off-tumor",
+      "beat": 9,
+      "startMs": 74666,
+      "endMs": 75250
+    },
+    {
+      "raw": "toxicity:",
+      "beat": 9,
+      "startMs": 75250,
+      "endMs": 76300
+    },
+    {
+      "raw": "a",
+      "beat": 9,
+      "startMs": 76389,
+      "endMs": 76400
+    },
+    {
+      "raw": "drug",
+      "beat": 9,
+      "startMs": 76400,
+      "endMs": 76560
+    },
+    {
+      "raw": "that",
+      "beat": 9,
+      "startMs": 76560,
+      "endMs": 76810
+    },
+    {
+      "raw": "finds",
+      "beat": 9,
+      "startMs": 76810,
+      "endMs": 77150
+    },
+    {
+      "raw": "its",
+      "beat": 9,
+      "startMs": 77150,
+      "endMs": 77340
+    },
+    {
+      "raw": "target",
+      "beat": 9,
+      "startMs": 77340,
+      "endMs": 77760
+    },
+    {
+      "raw": "in",
+      "beat": 9,
+      "startMs": 77760,
+      "endMs": 77920
+    },
+    {
+      "raw": "healthy",
+      "beat": 9,
+      "startMs": 77920,
+      "endMs": 78400
+    },
+    {
+      "raw": "tissue",
+      "beat": 9,
+      "startMs": 78400,
+      "endMs": 78900
+    },
+    {
+      "raw": "too.",
+      "beat": 9,
+      "startMs": 78900,
+      "endMs": 79590
+    },
+    {
+      "raw": "Lilly",
+      "beat": 10,
+      "startMs": 79594,
+      "endMs": 79610
+    },
+    {
+      "raw": "will",
+      "beat": 10,
+      "startMs": 79610,
+      "endMs": 79870
+    },
+    {
+      "raw": "pair",
+      "beat": 10,
+      "startMs": 79870,
+      "endMs": 80130
+    },
+    {
+      "raw": "those",
+      "beat": 10,
+      "startMs": 80130,
+      "endMs": 80460
+    },
+    {
+      "raw": "binders",
+      "beat": 10,
+      "startMs": 80460,
+      "endMs": 80910
+    },
+    {
+      "raw": "with",
+      "beat": 10,
+      "startMs": 80910,
+      "endMs": 81180
+    },
+    {
+      "raw": "its",
+      "beat": 10,
+      "startMs": 81180,
+      "endMs": 81420
+    },
+    {
+      "raw": "own",
+      "beat": 10,
+      "startMs": 81420,
+      "endMs": 81550
+    },
+    {
+      "raw": "oncology",
+      "beat": 10,
+      "startMs": 81550,
+      "endMs": 82070
+    },
+    {
+      "raw": "technologies,",
+      "beat": 10,
+      "startMs": 82070,
+      "endMs": 82960
+    },
+    {
+      "raw": "across",
+      "beat": 10,
+      "startMs": 83050,
+      "endMs": 83420
+    },
+    {
+      "raw": "more",
+      "beat": 10,
+      "startMs": 83420,
+      "endMs": 83720
+    },
+    {
+      "raw": "than",
+      "beat": 10,
+      "startMs": 83720,
+      "endMs": 84010
+    },
+    {
+      "raw": "one",
+      "beat": 10,
+      "startMs": 84010,
+      "endMs": 84250
+    },
+    {
+      "raw": "modality.",
+      "beat": 10,
+      "startMs": 84250,
+      "endMs": 85200
+    },
+    {
+      "raw": "Stipple",
+      "beat": 11,
+      "startMs": 85200,
+      "endMs": 85620
+    },
+    {
+      "raw": "is",
+      "beat": 11,
+      "startMs": 85620,
+      "endMs": 85770
+    },
+    {
+      "raw": "a",
+      "beat": 11,
+      "startMs": 85770,
+      "endMs": 85840
+    },
+    {
+      "raw": "private",
+      "beat": 11,
+      "startMs": 85840,
+      "endMs": 86370
+    },
+    {
+      "raw": "biotech",
+      "beat": 11,
+      "startMs": 86370,
+      "endMs": 86980
+    },
+    {
+      "raw": "in",
+      "beat": 11,
+      "startMs": 86980,
+      "endMs": 87040
+    },
+    {
+      "raw": "Cambridge,",
+      "beat": 11,
+      "startMs": 87040,
+      "endMs": 87520
+    },
+    {
+      "raw": "Massachusetts.",
+      "beat": 11,
+      "startMs": 87520,
+      "endMs": 88720
+    },
+    {
+      "raw": "It",
+      "beat": 11,
+      "startMs": 88853,
+      "endMs": 88870
+    },
+    {
+      "raw": "came",
+      "beat": 11,
+      "startMs": 88870,
+      "endMs": 89170
+    },
+    {
+      "raw": "out",
+      "beat": 11,
+      "startMs": 89170,
+      "endMs": 89400
+    },
+    {
+      "raw": "of",
+      "beat": 11,
+      "startMs": 89400,
+      "endMs": 89580
+    },
+    {
+      "raw": "stealth",
+      "beat": 11,
+      "startMs": 89580,
+      "endMs": 90060
+    },
+    {
+      "raw": "in",
+      "beat": 11,
+      "startMs": 90060,
+      "endMs": 90230
+    },
+    {
+      "raw": "April",
+      "beat": 11,
+      "startMs": 90230,
+      "endMs": 90580
+    },
+    {
+      "raw": "with",
+      "beat": 11,
+      "startMs": 90580,
+      "endMs": 90880
+    },
+    {
+      "raw": "a",
+      "beat": 11,
+      "startMs": 90880,
+      "endMs": 90950
+    },
+    {
+      "raw": "$100",
+      "beat": 11,
+      "startMs": 90950,
+      "endMs": 91690
+    },
+    {
+      "raw": "million",
+      "beat": 11,
+      "startMs": 91690,
+      "endMs": 92210
+    },
+    {
+      "raw": "Series",
+      "beat": 11,
+      "startMs": 92210,
+      "endMs": 92610
+    },
+    {
+      "raw": "A,",
+      "beat": 11,
+      "startMs": 92610,
+      "endMs": 92960
+    },
+    {
+      "raw": "co-led",
+      "beat": 11,
+      "startMs": 92960,
+      "endMs": 93410
+    },
+    {
+      "raw": "by",
+      "beat": 11,
+      "startMs": 93410,
+      "endMs": 93650
+    },
+    {
+      "raw": "RA",
+      "beat": 11,
+      "startMs": 93650,
+      "endMs": 93780
+    },
+    {
+      "raw": "Capital,",
+      "beat": 11,
+      "startMs": 93780,
+      "endMs": 94640
+    },
+    {
+      "raw": "a16z",
+      "beat": 11,
+      "startMs": 94765,
+      "endMs": 95310
+    },
+    {
+      "raw": "Bio+Health,",
+      "beat": 11,
+      "startMs": 95310,
+      "endMs": 96800
+    },
+    {
+      "raw": "and",
+      "beat": 11,
+      "startMs": 96800,
+      "endMs": 96830
+    },
+    {
+      "raw": "Nextech",
+      "beat": 11,
+      "startMs": 96830,
+      "endMs": 97420
+    },
+    {
+      "raw": "Invest.",
+      "beat": 11,
+      "startMs": 97420,
+      "endMs": 98370
+    },
+    {
+      "raw": "Its",
+      "beat": 12,
+      "startMs": 98370,
+      "endMs": 98490
+    },
+    {
+      "raw": "lead",
+      "beat": 12,
+      "startMs": 98490,
+      "endMs": 98830
+    },
+    {
+      "raw": "drug,",
+      "beat": 12,
+      "startMs": 98830,
+      "endMs": 99440
+    },
+    {
+      "raw": "STP-100,",
+      "beat": 12,
+      "startMs": 99440,
+      "endMs": 100880
+    },
+    {
+      "raw": "is",
+      "beat": 12,
+      "startMs": 100880,
+      "endMs": 100950
+    },
+    {
+      "raw": "an",
+      "beat": 12,
+      "startMs": 100950,
+      "endMs": 101160
+    },
+    {
+      "raw": "antibody-drug",
+      "beat": 12,
+      "startMs": 101160,
+      "endMs": 102000
+    },
+    {
+      "raw": "conjugate.",
+      "beat": 12,
+      "startMs": 102000,
+      "endMs": 102880
+    },
+    {
+      "raw": "Stipple",
+      "beat": 12,
+      "startMs": 102983,
+      "endMs": 103330
+    },
+    {
+      "raw": "says",
+      "beat": 12,
+      "startMs": 103330,
+      "endMs": 103590
+    },
+    {
+      "raw": "the",
+      "beat": 12,
+      "startMs": 103590,
+      "endMs": 103780
+    },
+    {
+      "raw": "Lilly",
+      "beat": 12,
+      "startMs": 103780,
+      "endMs": 104100
+    },
+    {
+      "raw": "deal",
+      "beat": 12,
+      "startMs": 104100,
+      "endMs": 104360
+    },
+    {
+      "raw": "lets",
+      "beat": 12,
+      "startMs": 104360,
+      "endMs": 104620
+    },
+    {
+      "raw": "it",
+      "beat": 12,
+      "startMs": 104620,
+      "endMs": 104830
+    },
+    {
+      "raw": "keep",
+      "beat": 12,
+      "startMs": 104830,
+      "endMs": 105020
+    },
+    {
+      "raw": "advancing",
+      "beat": 12,
+      "startMs": 105020,
+      "endMs": 105620
+    },
+    {
+      "raw": "its",
+      "beat": 12,
+      "startMs": 105620,
+      "endMs": 105790
+    },
+    {
+      "raw": "own",
+      "beat": 12,
+      "startMs": 105790,
+      "endMs": 105990
+    },
+    {
+      "raw": "pipeline,",
+      "beat": 12,
+      "startMs": 105990,
+      "endMs": 106720
+    },
+    {
+      "raw": "with",
+      "beat": 12,
+      "startMs": 106722,
+      "endMs": 106830
+    },
+    {
+      "raw": "a",
+      "beat": 12,
+      "startMs": 106830,
+      "endMs": 106870
+    },
+    {
+      "raw": "Phase",
+      "beat": 12,
+      "startMs": 106870,
+      "endMs": 107120
+    },
+    {
+      "raw": "1",
+      "beat": 12,
+      "startMs": 107120,
+      "endMs": 107360
+    },
+    {
+      "raw": "trial",
+      "beat": 12,
+      "startMs": 107360,
+      "endMs": 107760
+    },
+    {
+      "raw": "of",
+      "beat": 12,
+      "startMs": 107760,
+      "endMs": 107920
+    },
+    {
+      "raw": "STP-100",
+      "beat": 12,
+      "startMs": 107920,
+      "endMs": 109200
+    },
+    {
+      "raw": "planned",
+      "beat": 12,
+      "startMs": 109270,
+      "endMs": 109760
+    },
+    {
+      "raw": "for",
+      "beat": 12,
+      "startMs": 109760,
+      "endMs": 109900
+    },
+    {
+      "raw": "early",
+      "beat": 12,
+      "startMs": 109900,
+      "endMs": 110250
+    },
+    {
+      "raw": "2027,",
+      "beat": 12,
+      "startMs": 110250,
+      "endMs": 111260
+    },
+    {
+      "raw": "in",
+      "beat": 12,
+      "startMs": 111264,
+      "endMs": 111370
+    },
+    {
+      "raw": "solid",
+      "beat": 12,
+      "startMs": 111370,
+      "endMs": 111720
+    },
+    {
+      "raw": "tumors",
+      "beat": 12,
+      "startMs": 111720,
+      "endMs": 112140
+    },
+    {
+      "raw": "including",
+      "beat": 12,
+      "startMs": 112140,
+      "endMs": 112770
+    },
+    {
+      "raw": "pancreatic",
+      "beat": 12,
+      "startMs": 112770,
+      "endMs": 113490
+    },
+    {
+      "raw": "cancer.",
+      "beat": 12,
+      "startMs": 113490,
+      "endMs": 114320
+    },
+    {
+      "raw": "The",
+      "beat": 13,
+      "startMs": 114350,
+      "endMs": 114350
+    },
+    {
+      "raw": "announcement",
+      "beat": 13,
+      "startMs": 114450,
+      "endMs": 114990
+    },
+    {
+      "raw": "names",
+      "beat": 13,
+      "startMs": 114990,
+      "endMs": 115360
+    },
+    {
+      "raw": "no",
+      "beat": 13,
+      "startMs": 115360,
+      "endMs": 115600
+    },
+    {
+      "raw": "targets",
+      "beat": 13,
+      "startMs": 115600,
+      "endMs": 116040
+    },
+    {
+      "raw": "for",
+      "beat": 13,
+      "startMs": 116040,
+      "endMs": 116220
+    },
+    {
+      "raw": "the",
+      "beat": 13,
+      "startMs": 116220,
+      "endMs": 116400
+    },
+    {
+      "raw": "Lilly",
+      "beat": 13,
+      "startMs": 116400,
+      "endMs": 116700
+    },
+    {
+      "raw": "work,",
+      "beat": 13,
+      "startMs": 116700,
+      "endMs": 117230
+    },
+    {
+      "raw": "gives",
+      "beat": 13,
+      "startMs": 117230,
+      "endMs": 117390
+    },
+    {
+      "raw": "no",
+      "beat": 13,
+      "startMs": 117390,
+      "endMs": 117510
+    },
+    {
+      "raw": "count,",
+      "beat": 13,
+      "startMs": 117510,
+      "endMs": 117940
+    },
+    {
+      "raw": "and",
+      "beat": 13,
+      "startMs": 117940,
+      "endMs": 118280
+    },
+    {
+      "raw": "describes",
+      "beat": 13,
+      "startMs": 118280,
+      "endMs": 118680
+    },
+    {
+      "raw": "none",
+      "beat": 13,
+      "startMs": 118680,
+      "endMs": 118930
+    },
+    {
+      "raw": "of",
+      "beat": 13,
+      "startMs": 118930,
+      "endMs": 119050
+    },
+    {
+      "raw": "it",
+      "beat": 13,
+      "startMs": 119050,
+      "endMs": 119170
+    },
+    {
+      "raw": "as",
+      "beat": 13,
+      "startMs": 119170,
+      "endMs": 119290
+    },
+    {
+      "raw": "clinical.",
+      "beat": 13,
+      "startMs": 119290,
+      "endMs": 120090
+    },
+    {
+      "raw": "Why",
+      "beat": 14,
+      "startMs": 120090,
+      "endMs": 120760
+    },
+    {
+      "raw": "it",
+      "beat": 14,
+      "startMs": 120760,
+      "endMs": 121200
+    },
+    {
+      "raw": "matters.",
+      "beat": 14,
+      "startMs": 121200,
+      "endMs": 121600
+    },
+    {
+      "raw": "This",
+      "beat": 14,
+      "startMs": 121600,
+      "endMs": 121910
+    },
+    {
+      "raw": "is",
+      "beat": 14,
+      "startMs": 122326,
+      "endMs": 122350
+    },
+    {
+      "raw": "our",
+      "beat": 14,
+      "startMs": 122350,
+      "endMs": 122360
+    },
+    {
+      "raw": "read.",
+      "beat": 14,
+      "startMs": 122360,
+      "endMs": 122950
+    },
+    {
+      "raw": "When",
+      "beat": 15,
+      "startMs": 122950,
+      "endMs": 123280
+    },
+    {
+      "raw": "the",
+      "beat": 15,
+      "startMs": 123280,
+      "endMs": 124060
+    },
+    {
+      "raw": "ceiling",
+      "beat": 15,
+      "startMs": 124062,
+      "endMs": 124130
+    },
+    {
+      "raw": "is",
+      "beat": 15,
+      "startMs": 124130,
+      "endMs": 124300
+    },
+    {
+      "raw": "public",
+      "beat": 15,
+      "startMs": 124300,
+      "endMs": 124900
+    },
+    {
+      "raw": "and",
+      "beat": 15,
+      "startMs": 124900,
+      "endMs": 125050
+    },
+    {
+      "raw": "the",
+      "beat": 15,
+      "startMs": 125050,
+      "endMs": 125380
+    },
+    {
+      "raw": "upfront",
+      "beat": 15,
+      "startMs": 125380,
+      "endMs": 125900
+    },
+    {
+      "raw": "is",
+      "beat": 15,
+      "startMs": 125900,
+      "endMs": 126080
+    },
+    {
+      "raw": "private,",
+      "beat": 15,
+      "startMs": 126080,
+      "endMs": 126880
+    },
+    {
+      "raw": "the",
+      "beat": 15,
+      "startMs": 127050,
+      "endMs": 127100
+    },
+    {
+      "raw": "headline",
+      "beat": 15,
+      "startMs": 127100,
+      "endMs": 127700
+    },
+    {
+      "raw": "tells",
+      "beat": 15,
+      "startMs": 127700,
+      "endMs": 128080
+    },
+    {
+      "raw": "you",
+      "beat": 15,
+      "startMs": 128080,
+      "endMs": 128300
+    },
+    {
+      "raw": "how",
+      "beat": 15,
+      "startMs": 128300,
+      "endMs": 128520
+    },
+    {
+      "raw": "big",
+      "beat": 15,
+      "startMs": 128520,
+      "endMs": 128740
+    },
+    {
+      "raw": "success",
+      "beat": 15,
+      "startMs": 128740,
+      "endMs": 129270
+    },
+    {
+      "raw": "could",
+      "beat": 15,
+      "startMs": 129270,
+      "endMs": 129640
+    },
+    {
+      "raw": "be,",
+      "beat": 15,
+      "startMs": 129640,
+      "endMs": 129900
+    },
+    {
+      "raw": "not",
+      "beat": 15,
+      "startMs": 129900,
+      "endMs": 130170
+    },
+    {
+      "raw": "what",
+      "beat": 15,
+      "startMs": 130170,
+      "endMs": 130470
+    },
+    {
+      "raw": "Lilly",
+      "beat": 15,
+      "startMs": 130470,
+      "endMs": 130850
+    },
+    {
+      "raw": "has",
+      "beat": 15,
+      "startMs": 130850,
+      "endMs": 131070
+    },
+    {
+      "raw": "paid.",
+      "beat": 15,
+      "startMs": 131070,
+      "endMs": 131740
+    },
+    {
+      "raw": "Lilly",
+      "beat": 16,
+      "startMs": 131740,
+      "endMs": 132000
+    },
+    {
+      "raw": "is",
+      "beat": 16,
+      "startMs": 132000,
+      "endMs": 132120
+    },
+    {
+      "raw": "paying",
+      "beat": 16,
+      "startMs": 132120,
+      "endMs": 132480
+    },
+    {
+      "raw": "to",
+      "beat": 16,
+      "startMs": 132480,
+      "endMs": 132640
+    },
+    {
+      "raw": "come",
+      "beat": 16,
+      "startMs": 132640,
+      "endMs": 132960
+    },
+    {
+      "raw": "in",
+      "beat": 16,
+      "startMs": 132960,
+      "endMs": 133080
+    },
+    {
+      "raw": "at",
+      "beat": 16,
+      "startMs": 133080,
+      "endMs": 133200
+    },
+    {
+      "raw": "target",
+      "beat": 16,
+      "startMs": 133200,
+      "endMs": 133580
+    },
+    {
+      "raw": "discovery,",
+      "beat": 16,
+      "startMs": 133580,
+      "endMs": 134260
+    },
+    {
+      "raw": "before",
+      "beat": 16,
+      "startMs": 134260,
+      "endMs": 134650
+    },
+    {
+      "raw": "any",
+      "beat": 16,
+      "startMs": 134650,
+      "endMs": 134840
+    },
+    {
+      "raw": "program",
+      "beat": 16,
+      "startMs": 134840,
+      "endMs": 135370
+    },
+    {
+      "raw": "in",
+      "beat": 16,
+      "startMs": 135370,
+      "endMs": 135400
+    },
+    {
+      "raw": "this",
+      "beat": 16,
+      "startMs": 135400,
+      "endMs": 135650
+    },
+    {
+      "raw": "deal",
+      "beat": 16,
+      "startMs": 135650,
+      "endMs": 135900
+    },
+    {
+      "raw": "has",
+      "beat": 16,
+      "startMs": 135900,
+      "endMs": 136090
+    },
+    {
+      "raw": "been",
+      "beat": 16,
+      "startMs": 136090,
+      "endMs": 136340
+    },
+    {
+      "raw": "described",
+      "beat": 16,
+      "startMs": 136340,
+      "endMs": 136910
+    },
+    {
+      "raw": "as",
+      "beat": 16,
+      "startMs": 136910,
+      "endMs": 137030
+    },
+    {
+      "raw": "reaching",
+      "beat": 16,
+      "startMs": 137030,
+      "endMs": 137620
+    },
+    {
+      "raw": "patients.",
+      "beat": 16,
+      "startMs": 137620,
+      "endMs": 138480
+    },
+    {
+      "raw": "Most",
+      "beat": 16,
+      "startMs": 138560,
+      "endMs": 138770
+    },
+    {
+      "raw": "of",
+      "beat": 16,
+      "startMs": 138770,
+      "endMs": 138910
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 138910,
+      "endMs": 139190
+    },
+    {
+      "raw": "$5.9",
+      "beat": 16,
+      "startMs": 139190,
+      "endMs": 139860
+    },
+    {
+      "raw": "billion",
+      "beat": 16,
+      "startMs": 139860,
+      "endMs": 140380
+    },
+    {
+      "raw": "only",
+      "beat": 16,
+      "startMs": 140380,
+      "endMs": 140660
+    },
+    {
+      "raw": "exists",
+      "beat": 16,
+      "startMs": 140660,
+      "endMs": 141100
+    },
+    {
+      "raw": "if",
+      "beat": 16,
+      "startMs": 141100,
+      "endMs": 141270
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 141270,
+      "endMs": 141460
+    },
+    {
+      "raw": "science",
+      "beat": 16,
+      "startMs": 141460,
+      "endMs": 141990
+    },
+    {
+      "raw": "works,",
+      "beat": 16,
+      "startMs": 141990,
+      "endMs": 142760
+    },
+    {
+      "raw": "program",
+      "beat": 16,
+      "startMs": 142760,
+      "endMs": 143170
+    },
+    {
+      "raw": "by",
+      "beat": 16,
+      "startMs": 143170,
+      "endMs": 143340
+    },
+    {
+      "raw": "program.",
+      "beat": 16,
+      "startMs": 143340,
+      "endMs": 144400
+    },
+    {
+      "raw": "And",
+      "beat": 17,
+      "startMs": 144447,
+      "endMs": 144447
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 144530,
+      "endMs": 144740
+    },
+    {
+      "raw": "equity",
+      "beat": 17,
+      "startMs": 144740,
+      "endMs": 145200
+    },
+    {
+      "raw": "matters.",
+      "beat": 17,
+      "startMs": 145200,
+      "endMs": 146160
+    },
+    {
+      "raw": "Lilly",
+      "beat": 17,
+      "startMs": 146242,
+      "endMs": 146570
+    },
+    {
+      "raw": "is",
+      "beat": 17,
+      "startMs": 146570,
+      "endMs": 146730
+    },
+    {
+      "raw": "not",
+      "beat": 17,
+      "startMs": 146730,
+      "endMs": 146980
+    },
+    {
+      "raw": "only",
+      "beat": 17,
+      "startMs": 146980,
+      "endMs": 147310
+    },
+    {
+      "raw": "a",
+      "beat": 17,
+      "startMs": 147310,
+      "endMs": 147390
+    },
+    {
+      "raw": "partner.",
+      "beat": 17,
+      "startMs": 147390,
+      "endMs": 148270
+    },
+    {
+      "raw": "It",
+      "beat": 17,
+      "startMs": 148270,
+      "endMs": 148290
+    },
+    {
+      "raw": "is",
+      "beat": 17,
+      "startMs": 148290,
+      "endMs": 148450
+    },
+    {
+      "raw": "also",
+      "beat": 17,
+      "startMs": 148450,
+      "endMs": 148780
+    },
+    {
+      "raw": "an",
+      "beat": 17,
+      "startMs": 148780,
+      "endMs": 148940
+    },
+    {
+      "raw": "investor",
+      "beat": 17,
+      "startMs": 148940,
+      "endMs": 149680
+    },
+    {
+      "raw": "in",
+      "beat": 17,
+      "startMs": 149680,
+      "endMs": 149760
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 149760,
+      "endMs": 149840
+    },
+    {
+      "raw": "company",
+      "beat": 17,
+      "startMs": 149840,
+      "endMs": 150240
+    },
+    {
+      "raw": "whose",
+      "beat": 17,
+      "startMs": 150240,
+      "endMs": 150640
+    },
+    {
+      "raw": "platform",
+      "beat": 17,
+      "startMs": 150640,
+      "endMs": 151040
+    },
+    {
+      "raw": "it",
+      "beat": 17,
+      "startMs": 151040,
+      "endMs": 151200
+    },
+    {
+      "raw": "is",
+      "beat": 17,
+      "startMs": 151200,
+      "endMs": 151280
+    },
+    {
+      "raw": "betting",
+      "beat": 17,
+      "startMs": 151280,
+      "endMs": 151690
+    },
+    {
+      "raw": "on.",
+      "beat": 17,
+      "startMs": 151690,
+      "endMs": 152000
+    },
+    {
+      "raw": "So",
+      "beat": 18,
+      "startMs": 152128,
+      "endMs": 152170
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 152170,
+      "endMs": 152430
+    },
+    {
+      "raw": "signal",
+      "beat": 18,
+      "startMs": 152430,
+      "endMs": 152960
+    },
+    {
+      "raw": "comes",
+      "beat": 18,
+      "startMs": 152960,
+      "endMs": 153400
+    },
+    {
+      "raw": "in",
+      "beat": 18,
+      "startMs": 153400,
+      "endMs": 153570
+    },
+    {
+      "raw": "order.",
+      "beat": 18,
+      "startMs": 153570,
+      "endMs": 154440
+    },
+    {
+      "raw": "First,",
+      "beat": 18,
+      "startMs": 154440,
+      "endMs": 155100
+    },
+    {
+      "raw": "whether",
+      "beat": 18,
+      "startMs": 155106,
+      "endMs": 155470
+    },
+    {
+      "raw": "either",
+      "beat": 18,
+      "startMs": 155470,
+      "endMs": 155800
+    },
+    {
+      "raw": "company",
+      "beat": 18,
+      "startMs": 155800,
+      "endMs": 156360
+    },
+    {
+      "raw": "ever",
+      "beat": 18,
+      "startMs": 156360,
+      "endMs": 156480
+    },
+    {
+      "raw": "discloses",
+      "beat": 18,
+      "startMs": 156480,
+      "endMs": 157040
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 157040,
+      "endMs": 157280
+    },
+    {
+      "raw": "upfront.",
+      "beat": 18,
+      "startMs": 157280,
+      "endMs": 158080
+    },
+    {
+      "raw": "That",
+      "beat": 18,
+      "startMs": 158080,
+      "endMs": 158420
+    },
+    {
+      "raw": "is",
+      "beat": 18,
+      "startMs": 158420,
+      "endMs": 158600
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 158600,
+      "endMs": 158840
+    },
+    {
+      "raw": "real",
+      "beat": 18,
+      "startMs": 158840,
+      "endMs": 159180
+    },
+    {
+      "raw": "price",
+      "beat": 18,
+      "startMs": 159180,
+      "endMs": 159600
+    },
+    {
+      "raw": "of",
+      "beat": 18,
+      "startMs": 159600,
+      "endMs": 159770
+    },
+    {
+      "raw": "entry.",
+      "beat": 18,
+      "startMs": 159770,
+      "endMs": 160520
+    },
+    {
+      "raw": "Then,",
+      "beat": 19,
+      "startMs": 160526,
+      "endMs": 161350
+    },
+    {
+      "raw": "STP-100's",
+      "beat": 19,
+      "startMs": 161350,
+      "endMs": 162370
+    },
+    {
+      "raw": "Phase",
+      "beat": 19,
+      "startMs": 162370,
+      "endMs": 162790
+    },
+    {
+      "raw": "1",
+      "beat": 19,
+      "startMs": 162790,
+      "endMs": 162870
+    },
+    {
+      "raw": "start",
+      "beat": 19,
+      "startMs": 162870,
+      "endMs": 163290
+    },
+    {
+      "raw": "in",
+      "beat": 19,
+      "startMs": 163290,
+      "endMs": 163460
+    },
+    {
+      "raw": "early",
+      "beat": 19,
+      "startMs": 163460,
+      "endMs": 163920
+    },
+    {
+      "raw": "2027,",
+      "beat": 19,
+      "startMs": 163920,
+      "endMs": 165270
+    },
+    {
+      "raw": "when",
+      "beat": 19,
+      "startMs": 165270,
+      "endMs": 165400
+    },
+    {
+      "raw": "Stipple's",
+      "beat": 19,
+      "startMs": 165400,
+      "endMs": 165840
+    },
+    {
+      "raw": "lead",
+      "beat": 19,
+      "startMs": 165840,
+      "endMs": 166080
+    },
+    {
+      "raw": "drug",
+      "beat": 19,
+      "startMs": 166080,
+      "endMs": 166380
+    },
+    {
+      "raw": "is",
+      "beat": 19,
+      "startMs": 166380,
+      "endMs": 166530
+    },
+    {
+      "raw": "due",
+      "beat": 19,
+      "startMs": 166530,
+      "endMs": 166800
+    },
+    {
+      "raw": "to",
+      "beat": 19,
+      "startMs": 166800,
+      "endMs": 166900
+    },
+    {
+      "raw": "be",
+      "beat": 19,
+      "startMs": 166900,
+      "endMs": 167050
+    },
+    {
+      "raw": "tested",
+      "beat": 19,
+      "startMs": 167050,
+      "endMs": 167500
+    },
+    {
+      "raw": "in",
+      "beat": 19,
+      "startMs": 167500,
+      "endMs": 167650
+    },
+    {
+      "raw": "people",
+      "beat": 19,
+      "startMs": 167650,
+      "endMs": 168150
+    },
+    {
+      "raw": "for",
+      "beat": 19,
+      "startMs": 168150,
+      "endMs": 168470
+    },
+    {
+      "raw": "the",
+      "beat": 19,
+      "startMs": 168470,
+      "endMs": 168540
+    },
+    {
+      "raw": "first",
+      "beat": 19,
+      "startMs": 168540,
+      "endMs": 168920
+    },
+    {
+      "raw": "time.",
+      "beat": 19,
+      "startMs": 168920,
+      "endMs": 169580
+    },
+    {
+      "raw": "And",
+      "beat": 20,
+      "startMs": 169588,
+      "endMs": 169660
+    },
+    {
+      "raw": "then,",
+      "beat": 20,
+      "startMs": 169660,
+      "endMs": 170110
+    },
+    {
+      "raw": "the",
+      "beat": 20,
+      "startMs": 170110,
+      "endMs": 170500
+    },
+    {
+      "raw": "first",
+      "beat": 20,
+      "startMs": 170502,
+      "endMs": 170740
+    },
+    {
+      "raw": "named",
+      "beat": 20,
+      "startMs": 170740,
+      "endMs": 171200
+    },
+    {
+      "raw": "program",
+      "beat": 20,
+      "startMs": 171200,
+      "endMs": 171680
+    },
+    {
+      "raw": "under",
+      "beat": 20,
+      "startMs": 171680,
+      "endMs": 171920
+    },
+    {
+      "raw": "the",
+      "beat": 20,
+      "startMs": 171920,
+      "endMs": 172080
+    },
+    {
+      "raw": "Lilly",
+      "beat": 20,
+      "startMs": 172080,
+      "endMs": 172530
+    },
+    {
+      "raw": "deal.",
+      "beat": 20,
+      "startMs": 172530,
+      "endMs": 173280
+    },
+    {
+      "raw": "Until",
+      "beat": 20,
+      "startMs": 173281,
+      "endMs": 173610
+    },
+    {
+      "raw": "that",
+      "beat": 20,
+      "startMs": 173610,
+      "endMs": 173980
+    },
+    {
+      "raw": "happens,",
+      "beat": 20,
+      "startMs": 173980,
+      "endMs": 174780
+    },
+    {
+      "raw": "$5.9",
+      "beat": 20,
+      "startMs": 174780,
+      "endMs": 175680
+    },
+    {
+      "raw": "billion",
+      "beat": 20,
+      "startMs": 175680,
+      "endMs": 176310
+    },
+    {
+      "raw": "is",
+      "beat": 20,
+      "startMs": 176310,
+      "endMs": 176490
+    },
+    {
+      "raw": "a",
+      "beat": 20,
+      "startMs": 176490,
+      "endMs": 176580
+    },
+    {
+      "raw": "ceiling,",
+      "beat": 20,
+      "startMs": 176580,
+      "endMs": 177480
+    },
+    {
+      "raw": "not",
+      "beat": 20,
+      "startMs": 177482,
+      "endMs": 177660
+    },
+    {
+      "raw": "a",
+      "beat": 20,
+      "startMs": 177660,
+      "endMs": 177750
+    },
+    {
+      "raw": "payment.",
+      "beat": 20,
+      "startMs": 177750,
+      "endMs": 178830
+    },
+    {
+      "raw": "We",
+      "beat": 21,
+      "startMs": 178860,
+      "endMs": 178860
+    },
+    {
+      "raw": "track",
+      "beat": 21,
+      "startMs": 178950,
+      "endMs": 179100
+    },
+    {
+      "raw": "the",
+      "beat": 21,
+      "startMs": 179100,
+      "endMs": 179330
+    },
+    {
+      "raw": "deals",
+      "beat": 21,
+      "startMs": 179330,
+      "endMs": 179600
+    },
+    {
+      "raw": "that",
+      "beat": 21,
+      "startMs": 179600,
+      "endMs": 179840
+    },
+    {
+      "raw": "move",
+      "beat": 21,
+      "startMs": 179840,
+      "endMs": 180210
+    },
+    {
+      "raw": "biotech,",
+      "beat": 21,
+      "startMs": 180210,
+      "endMs": 181170
+    },
+    {
+      "raw": "every",
+      "beat": 21,
+      "startMs": 181170,
+      "endMs": 181320
+    },
+    {
+      "raw": "week",
+      "beat": 21,
+      "startMs": 181320,
+      "endMs": 181650
+    },
+    {
+      "raw": "in",
+      "beat": 21,
+      "startMs": 181650,
+      "endMs": 181810
+    },
+    {
+      "raw": "The",
+      "beat": 21,
+      "startMs": 181810,
+      "endMs": 182050
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 21,
+      "startMs": 182050,
+      "endMs": 182700
+    },
+    {
+      "raw": "Brief.",
+      "beat": 21,
+      "startMs": 182700,
+      "endMs": 183370
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 21,
+      "startMs": 183370,
+      "endMs": 184100
+    },
+    {
+      "raw": "free,",
+      "beat": 21,
+      "startMs": 184100,
+      "endMs": 184430
+    },
+    {
+      "raw": "at",
+      "beat": 21,
+      "startMs": 184430,
+      "endMs": 184640
+    },
+    {
+      "raw": "thecatalystbrief.com.",
+      "beat": 21,
+      "startMs": 184640,
+      "endMs": 186500
+    },
+    {
+      "raw": "Signal",
+      "beat": 21,
+      "startMs": 186500,
+      "endMs": 186960
+    },
+    {
+      "raw": "over",
+      "beat": 21,
+      "startMs": 186960,
+      "endMs": 187280
+    },
+    {
+      "raw": "noise.",
+      "beat": 21,
+      "startMs": 187280,
+      "endMs": 188000
+    }
+  ],
+  "captions": [
+    {
+      "text": "Eli Lilly's new cancer deal with Stipple Bio",
+      "startMs": 130,
+      "endMs": 2920
+    },
+    {
+      "text": "is worth up to $5.9 billion.",
+      "startMs": 2920,
+      "endMs": 5680
+    },
+    {
+      "text": "That is the headline.",
+      "startMs": 5680,
+      "endMs": 7580
+    },
+    {
+      "text": "The number that matters is the one neither",
+      "startMs": 7580,
+      "endMs": 10720
+    },
+    {
+      "text": "company published.",
+      "startMs": 10720,
+      "endMs": 11680
+    },
+    {
+      "text": "On November 16, Stipple announced a research",
+      "startMs": 11680,
+      "endMs": 15040
+    },
+    {
+      "text": "collaboration and license agreement with Lilly,",
+      "startMs": 15040,
+      "endMs": 17902
+    },
+    {
+      "text": "covering multiple targets and multiple types of drugs.",
+      "startMs": 17902,
+      "endMs": 20630
+    },
+    {
+      "text": "Here is the money, in order.",
+      "startMs": 20630,
+      "endMs": 22960
+    },
+    {
+      "text": "Stipple gets an upfront payment, and Lilly",
+      "startMs": 22960,
+      "endMs": 25650
+    },
+    {
+      "text": "makes an equity investment in the company.",
+      "startMs": 25650,
+      "endMs": 28590
+    },
+    {
+      "text": "How big either one is has not been disclosed.",
+      "startMs": 28590,
+      "endMs": 31710
+    },
+    {
+      "text": "Everything after that is conditional.",
+      "startMs": 31710,
+      "endMs": 34380
+    },
+    {
+      "text": "The $5.9 billion is the ceiling on research,",
+      "startMs": 34380,
+      "endMs": 37530
+    },
+    {
+      "text": "development and commercial milestones, paid",
+      "startMs": 37530,
+      "endMs": 40690
+    },
+    {
+      "text": "only as programs reach them.",
+      "startMs": 40690,
+      "endMs": 42740
+    },
+    {
+      "text": "On top of that, tiered royalties if a product",
+      "startMs": 42740,
+      "endMs": 45530
+    },
+    {
+      "text": "is ever sold.",
+      "startMs": 45530,
+      "endMs": 46832
+    },
+    {
+      "text": "In return, Lilly gets exclusive worldwide",
+      "startMs": 46832,
+      "endMs": 49220
+    },
+    {
+      "text": "rights to the products that come out of the",
+      "startMs": 49220,
+      "endMs": 51070
+    },
+    {
+      "text": "collaboration.",
+      "startMs": 51070,
+      "endMs": 51980
+    },
+    {
+      "text": "So Lilly is not buying a drug.",
+      "startMs": 51980,
+      "endMs": 55274
+    },
+    {
+      "text": "It is buying a way to find targets.",
+      "startMs": 55274,
+      "endMs": 57320
+    },
+    {
+      "text": "Stipple's Pointillist platform looks for binders",
+      "startMs": 57320,
+      "endMs": 60560
+    },
+    {
+      "text": "to tumor-specific epitopes on the cell surface.",
+      "startMs": 60560,
+      "endMs": 63810
+    },
+    {
+      "text": "An epitope is the exact spot on a protein",
+      "startMs": 63810,
+      "endMs": 66240
+    },
+    {
+      "text": "where an antibody attaches.",
+      "startMs": 66240,
+      "endMs": 68314
+    },
+    {
+      "text": "Stipple says these binders are designed to",
+      "startMs": 68314,
+      "endMs": 70340
+    },
+    {
+      "text": "hit tumor cells selectively.",
+      "startMs": 70340,
+      "endMs": 72528
+    },
+    {
+      "text": "The aim is to avoid on-target, off-tumor toxicity:",
+      "startMs": 72528,
+      "endMs": 76389
+    },
+    {
+      "text": "a drug that finds its target in healthy tissue too.",
+      "startMs": 76389,
+      "endMs": 79594
+    },
+    {
+      "text": "Lilly will pair those binders with its own",
+      "startMs": 79594,
+      "endMs": 81550
+    },
+    {
+      "text": "oncology technologies, across more than one modality.",
+      "startMs": 81550,
+      "endMs": 85200
+    },
+    {
+      "text": "Stipple is a private biotech in Cambridge, Massachusetts.",
+      "startMs": 85200,
+      "endMs": 88853
+    },
+    {
+      "text": "It came out of stealth in April with a $100",
+      "startMs": 88853,
+      "endMs": 91690
+    },
+    {
+      "text": "million Series A, co-led by RA Capital, a16z",
+      "startMs": 91690,
+      "endMs": 95310
+    },
+    {
+      "text": "Bio+Health, and Nextech Invest.",
+      "startMs": 95310,
+      "endMs": 98370
+    },
+    {
+      "text": "Its lead drug, STP-100, is an antibody-drug conjugate.",
+      "startMs": 98370,
+      "endMs": 102983
+    },
+    {
+      "text": "Stipple says the Lilly deal lets it keep advancing",
+      "startMs": 102983,
+      "endMs": 105620
+    },
+    {
+      "text": "its own pipeline, with a Phase 1 trial of",
+      "startMs": 105620,
+      "endMs": 107920
+    },
+    {
+      "text": "STP-100 planned for early 2027, in solid tumors",
+      "startMs": 107920,
+      "endMs": 112140
+    },
+    {
+      "text": "including pancreatic cancer.",
+      "startMs": 112140,
+      "endMs": 114350
+    },
+    {
+      "text": "The announcement names no targets for the",
+      "startMs": 114350,
+      "endMs": 116400
+    },
+    {
+      "text": "Lilly work, gives no count, and describes",
+      "startMs": 116400,
+      "endMs": 118680
+    },
+    {
+      "text": "none of it as clinical.",
+      "startMs": 118680,
+      "endMs": 120090
+    },
+    {
+      "text": "Why it matters.",
+      "startMs": 120090,
+      "endMs": 121600
+    },
+    {
+      "text": "This is our read.",
+      "startMs": 121600,
+      "endMs": 122950
+    },
+    {
+      "text": "When the ceiling is public and the upfront",
+      "startMs": 122950,
+      "endMs": 125900
+    },
+    {
+      "text": "is private, the headline tells you how big",
+      "startMs": 125900,
+      "endMs": 128740
+    },
+    {
+      "text": "success could be, not what Lilly has paid.",
+      "startMs": 128740,
+      "endMs": 131740
+    },
+    {
+      "text": "Lilly is paying to come in at target discovery,",
+      "startMs": 131740,
+      "endMs": 134260
+    },
+    {
+      "text": "before any program in this deal has been described",
+      "startMs": 134260,
+      "endMs": 136910
+    },
+    {
+      "text": "as reaching patients.",
+      "startMs": 136910,
+      "endMs": 138560
+    },
+    {
+      "text": "Most of the $5.9 billion only exists if the",
+      "startMs": 138560,
+      "endMs": 141460
+    },
+    {
+      "text": "science works, program by program.",
+      "startMs": 141460,
+      "endMs": 144447
+    },
+    {
+      "text": "And the equity matters.",
+      "startMs": 144447,
+      "endMs": 146242
+    },
+    {
+      "text": "Lilly is not only a partner.",
+      "startMs": 146242,
+      "endMs": 148270
+    },
+    {
+      "text": "It is also an investor in the company whose",
+      "startMs": 148270,
+      "endMs": 150640
+    },
+    {
+      "text": "platform it is betting on.",
+      "startMs": 150640,
+      "endMs": 152128
+    },
+    {
+      "text": "So the signal comes in order.",
+      "startMs": 152128,
+      "endMs": 154440
+    },
+    {
+      "text": "First, whether either company ever discloses the upfront.",
+      "startMs": 154440,
+      "endMs": 158080
+    },
+    {
+      "text": "That is the real price of entry.",
+      "startMs": 158080,
+      "endMs": 160526
+    },
+    {
+      "text": "Then, STP-100's Phase 1 start in early 2027,",
+      "startMs": 160526,
+      "endMs": 165270
+    },
+    {
+      "text": "when Stipple's lead drug is due to be tested",
+      "startMs": 165270,
+      "endMs": 167500
+    },
+    {
+      "text": "in people for the first time.",
+      "startMs": 167500,
+      "endMs": 169588
+    },
+    {
+      "text": "And then, the first named program under the Lilly deal.",
+      "startMs": 169588,
+      "endMs": 173281
+    },
+    {
+      "text": "Until that happens, $5.9 billion is a ceiling,",
+      "startMs": 173281,
+      "endMs": 177482
+    },
+    {
+      "text": "not a payment.",
+      "startMs": 177482,
+      "endMs": 178860
+    },
+    {
+      "text": "We track the deals that move biotech, every",
+      "startMs": 178860,
+      "endMs": 181320
+    },
+    {
+      "text": "week in The Catalyst Brief.",
+      "startMs": 181320,
+      "endMs": 183370
+    },
+    {
+      "text": "Subscribe free, at thecatalystbrief.com.",
+      "startMs": 183370,
+      "endMs": 186500
+    },
+    {
+      "text": "Signal over noise.",
+      "startMs": 186500,
+      "endMs": 188400
+    }
+  ]
+}

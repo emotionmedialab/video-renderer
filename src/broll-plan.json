@@ -1,0 +1,5 @@
+[
+ { "id": "s1_lab", "sceneKey": "S1", "query": "scientist laboratory pipette cancer research", "start": 0.4, "end": 7.4 },
+ { "id": "s18_lab", "sceneKey": "S18", "query": "pharmaceutical laboratory research vials", "start": 103.3, "end": 114.0 },
+ { "id": "s23_micro", "sceneKey": "S23", "query": "microscope laboratory scientist", "start": 138.8, "end": 144.2 }
+]

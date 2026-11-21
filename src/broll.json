@@ -1,0 +1,35 @@
+[
+  {
+    "id": "s1_lab",
+    "sceneKey": "S1",
+    "query": "scientist laboratory pipette cancer research",
+    "start": 0.4,
+    "end": 7.4,
+    "file": "broll/s1_lab.mp4",
+    "pexelsId": 8863360,
+    "credit": "Mikhail Nilov",
+    "pexelsUrl": "https://www.pexels.com/video/close-up-of-a-scientist-using-laboratory-equipment-8863360/"
+  },
+  {
+    "id": "s18_lab",
+    "sceneKey": "S18",
+    "query": "pharmaceutical laboratory research vials",
+    "start": 103.3,
+    "end": 114,
+    "file": "broll/s18_lab.mp4",
+    "pexelsId": 8534418,
+    "credit": "Artem Podrez",
+    "pexelsUrl": "https://www.pexels.com/video/vials-on-the-table-8534418/"
+  },
+  {
+    "id": "s23_micro",
+    "sceneKey": "S23",
+    "query": "microscope laboratory scientist",
+    "start": 138.8,
+    "end": 144.2,
+    "file": "broll/s23_micro.mp4",
+    "pexelsId": 32402606,
+    "credit": "TimePRO TV",
+    "pexelsUrl": "https://www.pexels.com/video/female-scientists-in-laboratory-with-microscopes-32402606/"
+  }
+]

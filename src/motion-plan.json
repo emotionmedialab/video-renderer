@@ -1,0 +1,43 @@
+{
+ "composition": "LillyStipple",
+ "chunk": 6,
+ "kit": ["src/kit/stipple6.tsx"],
+ "scenes": [
+  {
+   "n": 25, "title": "1: upfront disclosed?", "peakFrame": 4800, "world": "ink",
+   "hero": "pedestal 1 with the '$ ?' coin", "supports": ["pedestal 2 (edge of frame)", "THE REAL PRICE OF ENTRY"],
+   "move": "fall-and-squash",
+   "note": "three numbered pedestals rise in a row on 'signal comes'; the camera pushes in on pedestal 1 on 'First'; the '$ ?' upfront coin (S21 callback) falls onto it and squashes on 'discloses'; THE REAL PRICE OF ENTRY prints",
+   "camera": [{ "cue": "First,", "after": 152128 }],
+   "movers": [
+    { "what": "pedestals rise", "cue": "signal comes", "after": 152128, "durMs": 600 },
+    { "what": "coin drops", "cue": "discloses the", "after": 152128, "durMs": 450 },
+    { "what": "tag prints", "cue": "real price", "after": 152128, "durMs": 380 }
+   ]
+  },
+  {
+   "n": 26, "title": "2: STP-100 Phase 1, early 2027", "peakFrame": 5076, "world": "ink",
+   "hero": "pedestal 2: mini PHASE 1 gate with the STP-100 cart waiting", "supports": ["EARLY 2027 plate", "FIRST TIME IN PEOPLE"],
+   "move": "NEW: gate-rises-on-pedestal",
+   "note": "the camera trucks + cranes to pedestal 2 on 'Then'; a mini PHASE 1 gate rises on it with the STP-100 cart in front (S18 callback); EARLY 2027 drops onto the lintel; FIRST TIME IN PEOPLE prints",
+   "camera": [{ "cue": "Then,", "after": 152128 }],
+   "movers": [
+    { "what": "gate rises", "cue": "Phase 1 start", "after": 152128, "durMs": 600 },
+    { "what": "date plate drops", "cue": "early 2027,", "after": 152128, "durMs": 420 },
+    { "what": "tag prints", "cue": "in people", "after": 152128, "durMs": 380 }
+   ]
+  },
+  {
+   "n": 27, "title": "3: first named program; a ceiling", "peakFrame": 5355, "world": "ink",
+   "hero": "the red $5.9B plate hanging over the three pedestals", "supports": ["A CEILING, NOT A PAYMENT", "the three pedestals"],
+   "move": "NEW: pull-back-to-the-ceiling",
+   "note": "the camera whips to pedestal 3 on 'And then'; a shut '?' box drops onto it on 'first named'; on 'Until that' the camera pulls back to all three; the $5.9B plate drops onto its cables over them on '$5.9' (S1 callback); A CEILING, NOT A PAYMENT prints",
+   "camera": [{ "cue": "And then,", "after": 152128 }, { "cue": "Until that", "after": 152128 }],
+   "movers": [
+    { "what": "box drops", "cue": "first named", "after": 152128, "durMs": 450 },
+    { "what": "plate drops", "cue": "$5.9", "after": 173000, "durMs": 450 },
+    { "what": "read prints", "cue": "ceiling, not", "after": 152128, "durMs": 380 }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+[
+ {
+  "label": "S1 LILLY",
+  "phrase": "Eli Lilly's",
+  "after": 0,
+  "expect": 130,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 orb",
+  "phrase": "Stipple Bio",
+  "after": 0,
+  "expect": 2070,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 plate",
+  "phrase": "up to",
+  "after": 0,
+  "expect": 3360,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 fig",
+  "phrase": "$5.9",
+  "after": 0,
+  "expect": 3820,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 headline",
+  "phrase": "headline.",
+  "after": 0,
+  "expect": 6600,
+  "blockFrom": 0
+ },
+ {
+  "label": "S2 plate",
+  "phrase": "The number",
+  "after": 7580,
+  "expect": 7580,
+  "blockFrom": 7580
+ },
+ {
+  "label": "S2 slot",
+  "phrase": "number that",
+  "after": 7580,
+  "expect": 8693,
+  "blockFrom": 7580
+ },
+ {
+  "label": "S2 ball",
+  "phrase": "neither company",
+  "after": 7580,
+  "expect": 10400,
+  "blockFrom": 7580
+ },
+ {
+  "label": "S2 print",
+  "phrase": "published.",
+  "after": 7580,
+  "expect": 11070,
+  "blockFrom": 7580
+ },
+ {
+  "label": "S3 date",
+  "phrase": "November 16,",
+  "after": 12386,
+  "expect": 12386,
+  "blockFrom": 12386
+ },
+ {
+  "label": "S3 roll",
+  "phrase": "announced",
+  "after": 12386,
+  "expect": 13760,
+  "blockFrom": 12386
+ },
+ {
+  "label": "S3 title",
+  "phrase": "research collaboration",
+  "after": 12386,
+  "expect": 14370,
+  "blockFrom": 12386
+ },
+ {
+  "label": "S3 targets",
+  "phrase": "covering multiple",
+  "after": 12386,
+  "expect": 17902,
+  "blockFrom": 12386
+ },
+ {
+  "label": "S3 drugs",
+  "phrase": "and multiple types",
+  "after": 12386,
+  "expect": 19110,
+  "blockFrom": 12386
+ },
+ {
+  "label": "S4 floor",
+  "phrase": "the money,",
+  "after": 20630,
+  "expect": 21420,
+  "blockFrom": 20630
+ },
+ {
+  "label": "S4 upfront",
+  "phrase": "upfront payment,",
+  "after": 20630,
+  "expect": 23940,
+  "blockFrom": 20630
+ },
+ {
+  "label": "S4 equity",
+  "phrase": "equity investment",
+  "after": 20630,
+  "expect": 26080,
+  "blockFrom": 20630
+ },
+ {
+  "label": "S5 flip",
+  "phrase": "How big",
+  "after": 20630,
+  "expect": 28590,
+  "blockFrom": 20630
+ },
+ {
+  "label": "S5 slam",
+  "phrase": "not been disclosed.",
+  "after": 20630,
+  "expect": 30070,
+  "blockFrom": 20630
+ },
+ {
+  "label": "S6 plate",
+  "phrase": "Everything after",
+  "after": 31710,
+  "expect": 31710,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S6 puck",
+  "phrase": "conditional.",
+  "after": 31710,
+  "expect": 33120,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S6 step1",
+  "phrase": "research,",
+  "after": 31710,
+  "expect": 36800,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S6 step2",
+  "phrase": "development and",
+  "after": 31710,
+  "expect": 37530,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S6 step3",
+  "phrase": "commercial milestones,",
+  "after": 31710,
+  "expect": 38790,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S6 hop",
+  "phrase": "paid only",
+  "after": 31710,
+  "expect": 40360,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S6 coin",
+  "phrase": "programs reach",
+  "after": 31710,
+  "expect": 41300,
+  "blockFrom": 31710
+ },
+ {
+  "label": "S7 tiers",
+  "phrase": "tiered royalties",
+  "after": 42740,
+  "expect": 43860,
+  "blockFrom": 42740
+ },
+ {
+  "label": "S7 carton",
+  "phrase": "if a product",
+  "after": 42740,
+  "expect": 44760,
+  "blockFrom": 42740
+ },
+ {
+  "label": "S8 globe",
+  "phrase": "Lilly gets",
+  "after": 46832,
+  "expect": 47717,
+  "blockFrom": 46832
+ },
+ {
+  "label": "S8 band",
+  "phrase": "exclusive worldwide",
+  "after": 46832,
+  "expect": 48240,
+  "blockFrom": 46832
+ },
+ {
+  "label": "S8 rights",
+  "phrase": "rights to",
+  "after": 46832,
+  "expect": 49220,
+  "blockFrom": 46832
+ },
+ {
+  "label": "S9 vial",
+  "phrase": "Lilly is not",
+  "after": 51980,
+  "expect": 53110,
+  "blockFrom": 51980
+ },
+ {
+  "label": "S9 knock",
+  "phrase": "not buying",
+  "after": 51980,
+  "expect": 53680,
+  "blockFrom": 51980
+ },
+ {
+  "label": "S9 lens",
+  "phrase": "way to find",
+  "after": 51980,
+  "expect": 55840,
+  "blockFrom": 51980
+ },
+ {
+  "label": "S10 dots",
+  "phrase": "Pointillist platform",
+  "after": 57320,
+  "expect": 57990,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S10 binders",
+  "phrase": "binders to",
+  "after": 57320,
+  "expect": 60080,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S10 epi",
+  "phrase": "epitopes on",
+  "after": 57320,
+  "expect": 61730,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S11 spot",
+  "phrase": "exact spot",
+  "after": 57320,
+  "expect": 64710,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S11 attach",
+  "phrase": "antibody attaches.",
+  "after": 57320,
+  "expect": 66610,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S12 says",
+  "phrase": "says these",
+  "after": 57320,
+  "expect": 68350,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S12 hit",
+  "phrase": "hit tumor",
+  "after": 57320,
+  "expect": 70340,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S12 sel",
+  "phrase": "selectively.",
+  "after": 57320,
+  "expect": 71270,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S13 drug",
+  "phrase": "avoid on-target,",
+  "after": 57320,
+  "expect": 73230,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S13 off",
+  "phrase": "off-tumor",
+  "after": 57320,
+  "expect": 74666,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S13 tox",
+  "phrase": "toxicity: a drug",
+  "after": 57320,
+  "expect": 75250,
+  "blockFrom": 57320
+ },
+ {
+  "label": "S14 pair",
+  "phrase": "will pair",
+  "after": 79594,
+  "expect": 79610,
+  "blockFrom": 79594
+ },
+ {
+  "label": "S14 bases",
+  "phrase": "own oncology",
+  "after": 79594,
+  "expect": 81420,
+  "blockFrom": 79594
+ },
+ {
+  "label": "S14 more",
+  "phrase": "more than one",
+  "after": 79594,
+  "expect": 83420,
+  "blockFrom": 79594
+ },
+ {
+  "label": "S15 orb",
+  "phrase": "private biotech",
+  "after": 85200,
+  "expect": 85840,
+  "blockFrom": 85200
+ },
+ {
+  "label": "S15 pin",
+  "phrase": "Cambridge,",
+  "after": 85200,
+  "expect": 87040,
+  "blockFrom": 85200
+ },
+ {
+  "label": "S16 stealth",
+  "phrase": "of stealth",
+  "after": 88853,
+  "expect": 89400,
+  "blockFrom": 88853
+ },
+ {
+  "label": "S16 hundred",
+  "phrase": "$100",
+  "after": 88853,
+  "expect": 90950,
+  "blockFrom": 88853
+ },
+ {
+  "label": "S16 series",
+  "phrase": "Series A,",
+  "after": 88853,
+  "expect": 92210,
+  "blockFrom": 88853
+ },
+ {
+  "label": "S16 l1",
+  "phrase": "RA Capital,",
+  "after": 88853,
+  "expect": 93650,
+  "blockFrom": 88853
+ },
+ {
+  "label": "S16 l2",
+  "phrase": "a16z Bio+Health,",
+  "after": 88853,
+  "expect": 94765,
+  "blockFrom": 88853
+ },
+ {
+  "label": "S16 l3",
+  "phrase": "Nextech",
+  "after": 88853,
+  "expect": 96830,
+  "blockFrom": 88853
+ },
+ {
+  "label": "S17 name",
+  "phrase": "lead drug,",
+  "after": 98370,
+  "expect": 98490,
+  "blockFrom": 98370
+ },
+ {
+  "label": "S17 drop",
+  "phrase": "STP-100,",
+  "after": 98370,
+  "expect": 99440,
+  "blockFrom": 98370
+ },
+ {
+  "label": "S17 click",
+  "phrase": "an antibody-drug",
+  "after": 98370,
+  "expect": 100950,
+  "blockFrom": 98370
+ },
+ {
+  "label": "S18 adv",
+  "phrase": "keep advancing",
+  "after": 102983,
+  "expect": 104830,
+  "blockFrom": 102983
+ },
+ {
+  "label": "S18 phase",
+  "phrase": "Phase 1 trial",
+  "after": 102983,
+  "expect": 106870,
+  "blockFrom": 102983
+ },
+ {
+  "label": "S18 early",
+  "phrase": "early 2027,",
+  "after": 102983,
+  "expect": 109900,
+  "blockFrom": 102983
+ },
+ {
+  "label": "S18 solid",
+  "phrase": "solid tumors",
+  "after": 102983,
+  "expect": 111370,
+  "blockFrom": 102983
+ },
+ {
+  "label": "S19 d1",
+  "phrase": "no targets",
+  "after": 114350,
+  "expect": 115360,
+  "blockFrom": 114350
+ },
+ {
+  "label": "S19 d2",
+  "phrase": "no count,",
+  "after": 114350,
+  "expect": 117390,
+  "blockFrom": 114350
+ },
+ {
+  "label": "S19 d3",
+  "phrase": "none of it",
+  "after": 114350,
+  "expect": 118680,
+  "blockFrom": 114350
+ },
+ {
+  "label": "S20 land",
+  "phrase": "matters.",
+  "after": 120090,
+  "expect": 121200,
+  "blockFrom": 120090
+ },
+ {
+  "label": "S21 ceil",
+  "phrase": "ceiling is",
+  "after": 122950,
+  "expect": 124062,
+  "blockFrom": 122950
+ },
+ {
+  "label": "S21 up",
+  "phrase": "upfront is",
+  "after": 122950,
+  "expect": 125380,
+  "blockFrom": 122950
+ },
+ {
+  "label": "S21 big",
+  "phrase": "how big",
+  "after": 122950,
+  "expect": 128300,
+  "blockFrom": 122950
+ },
+ {
+  "label": "S21 paid",
+  "phrase": "not what",
+  "after": 122950,
+  "expect": 129900,
+  "blockFrom": 122950
+ },
+ {
+  "label": "S22 signs",
+  "phrase": "Lilly is paying",
+  "after": 131740,
+  "expect": 131740,
+  "blockFrom": 131740
+ },
+ {
+  "label": "S22 flag",
+  "phrase": "target discovery,",
+  "after": 131740,
+  "expect": 133200,
+  "blockFrom": 131740
+ },
+ {
+  "label": "S22 pat",
+  "phrase": "reaching patients.",
+  "after": 131740,
+  "expect": 137030,
+  "blockFrom": 131740
+ },
+ {
+  "label": "S23 plate",
+  "phrase": "$5.9",
+  "after": 138560,
+  "expect": 139190,
+  "blockFrom": 138560
+ },
+ {
+  "label": "S23 only",
+  "phrase": "only exists",
+  "after": 138560,
+  "expect": 140380,
+  "blockFrom": 138560
+ },
+ {
+  "label": "S23 p2",
+  "phrase": "works,",
+  "after": 138560,
+  "expect": 141990,
+  "blockFrom": 138560
+ },
+ {
+  "label": "S23 p3",
+  "phrase": "program by",
+  "after": 138560,
+  "expect": 142760,
+  "blockFrom": 138560
+ },
+ {
+  "label": "S24 eq",
+  "phrase": "equity matters.",
+  "after": 144447,
+  "expect": 144740,
+  "blockFrom": 144447
+ },
+ {
+  "label": "S24 partner",
+  "phrase": "a partner.",
+  "after": 144447,
+  "expect": 147310,
+  "blockFrom": 144447
+ },
+ {
+  "label": "S24 inv",
+  "phrase": "an investor",
+  "after": 144447,
+  "expect": 148780,
+  "blockFrom": 144447
+ },
+ {
+  "label": "S25 signal",
+  "phrase": "signal comes",
+  "after": 152128,
+  "expect": 152430,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S25 coin",
+  "phrase": "discloses the",
+  "after": 152128,
+  "expect": 156480,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S25 entry",
+  "phrase": "real price",
+  "after": 152128,
+  "expect": 158840,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S26 gate",
+  "phrase": "Phase 1 start",
+  "after": 152128,
+  "expect": 162370,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S26 early",
+  "phrase": "early 2027,",
+  "after": 152128,
+  "expect": 163460,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S26 people",
+  "phrase": "in people",
+  "after": 152128,
+  "expect": 167500,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S27 box",
+  "phrase": "first named",
+  "after": 152128,
+  "expect": 170502,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S27 until",
+  "phrase": "Until that",
+  "after": 152128,
+  "expect": 173281,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S27 plate",
+  "phrase": "$5.9",
+  "after": 152128,
+  "expect": 174780,
+  "blockFrom": 152128
+ },
+ {
+  "label": "S27 ceil",
+  "phrase": "ceiling, not",
+  "after": 152128,
+  "expect": 176580,
+  "blockFrom": 152128
+ },
+ {
+  "label": "CTA logo",
+  "phrase": "We track",
+  "after": 178860,
+  "expect": 178860,
+  "blockFrom": 178860
+ },
+ {
+  "label": "CTA sub",
+  "phrase": "every week",
+  "after": 178860,
+  "expect": 181170,
+  "blockFrom": 178860
+ },
+ {
+  "label": "CTA button",
+  "phrase": "Subscribe free",
+  "after": 178860,
+  "expect": 183370,
+  "blockFrom": 178860
+ },
+ {
+  "label": "CTA link",
+  "phrase": "at thecatalystbrief.com",
+  "after": 178860,
+  "expect": 184430,
+  "blockFrom": 178860
+ },
+ {
+  "label": "CTA tail",
+  "phrase": "Signal over",
+  "after": 178860,
+  "expect": 186500,
+  "blockFrom": 178860
+ }
+]
