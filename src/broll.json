@@ -1,0 +1,35 @@
+[
+  {
+    "id": "s5_hospital",
+    "sceneKey": "S5",
+    "query": "hospital corridor",
+    "start": 31,
+    "end": 37.4,
+    "file": "broll/s5_hospital.mp4",
+    "pexelsId": 6129930,
+    "credit": "RDNE Stock project",
+    "pexelsUrl": "https://www.pexels.com/video/nurse-pushing-patient-in-wheelchair-6129930/"
+  },
+  {
+    "id": "s13_waiting",
+    "sceneKey": "S13",
+    "query": "patients hospital waiting room",
+    "start": 82.6,
+    "end": 88.96,
+    "file": "broll/s13_waiting.mp4",
+    "pexelsId": 39885508,
+    "credit": "FREE VIDEO HAPPY",
+    "pexelsUrl": "https://www.pexels.com/video/waiting-area-overlooking-traditional-building-39885508/"
+  },
+  {
+    "id": "s17_lab",
+    "sceneKey": "S17",
+    "query": "scientist laboratory research",
+    "start": 108,
+    "end": 113.16,
+    "file": "broll/s17_lab.mp4",
+    "pexelsId": 32402606,
+    "credit": "TimePRO TV",
+    "pexelsUrl": "https://www.pexels.com/video/female-scientists-in-laboratory-with-microscopes-32402606/"
+  }
+]

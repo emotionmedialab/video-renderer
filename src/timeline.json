@@ -1,0 +1,3391 @@
+{
+  "durationMs": 198800,
+  "fps": 30,
+  "meta": {
+    "title": "CG Oncology's 68% bladder cancer readout",
+    "intro": "PIVOT-006, topline",
+    "cta": "Subscribe free at thecatalystbrief.com"
+  },
+  "sections": [
+    {
+      "index": 0,
+      "title": "The readout",
+      "startMs": 162
+    },
+    {
+      "index": 1,
+      "title": "The drug",
+      "startMs": 30460
+    },
+    {
+      "index": 2,
+      "title": "The trial",
+      "startMs": 51450
+    },
+    {
+      "index": 3,
+      "title": "The numbers",
+      "startMs": 88960
+    },
+    {
+      "index": 4,
+      "title": "What's missing",
+      "startMs": 107500
+    },
+    {
+      "index": 5,
+      "title": "Our read",
+      "startMs": 124800
+    },
+    {
+      "index": 6,
+      "title": "What to watch",
+      "startMs": 169450
+    },
+    {
+      "index": 7,
+      "title": "Subscribe",
+      "startMs": 189080
+    }
+  ],
+  "beats": [
+    {
+      "index": 0,
+      "sectionIndex": 0,
+      "section": "The readout",
+      "text": "CG Oncology says its bladder cancer drug cut the risk of the cancer coming back by 68% in a Phase 3 trial.",
+      "cue": {
+        "type": "stat",
+        "raw": "68% | lower risk of recurrence",
+        "value": "68%",
+        "label": "lower risk of recurrence"
+      },
+      "startMs": 162,
+      "endMs": 8400
+    },
+    {
+      "index": 1,
+      "sectionIndex": 0,
+      "section": "The readout",
+      "text": "On November 16, the company reported topline results from PIVOT-006. The trial met its primary endpoint.",
+      "cue": null,
+      "startMs": 8400,
+      "endMs": 16220
+    },
+    {
+      "index": 2,
+      "sectionIndex": 0,
+      "section": "The readout",
+      "text": "The details are not public yet. CG Oncology will present them on December 2, as a late-breaking talk at the Society of Urologic Oncology annual meeting. So here is what is known now, and what to look for then.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"December 2\"",
+        "phrase": "December 2"
+      },
+      "startMs": 16220,
+      "endMs": 30460
+    },
+    {
+      "index": 3,
+      "sectionIndex": 1,
+      "section": "The drug",
+      "text": "The drug is cretostimogene grenadenorepvec, an engineered virus delivered directly into the bladder.",
+      "cue": null,
+      "startMs": 30460,
+      "endMs": 37400
+    },
+    {
+      "index": 4,
+      "sectionIndex": 1,
+      "section": "The drug",
+      "text": "It is built to replicate in tumor cells where a growth-control pathway called RB is disrupted, and it carries a gene for GM-CSF, an immune signal. It is not approved anywhere.",
+      "cue": null,
+      "startMs": 37400,
+      "endMs": 51450
+    },
+    {
+      "index": 5,
+      "sectionIndex": 2,
+      "section": "The trial",
+      "text": "PIVOT-006 enrolled patients with intermediate-risk non-muscle-invasive bladder cancer, plus small high-grade TA tumors: cancer in the bladder lining that has not reached the muscle wall.",
+      "cue": null,
+      "startMs": 51450,
+      "endMs": 63850
+    },
+    {
+      "index": 6,
+      "sectionIndex": 2,
+      "section": "The trial",
+      "text": "These tumors are removed in surgery, but they can come back. CG Oncology puts this group at about 50,000 patients, and says no FDA-approved adjuvant treatment exists for them.",
+      "cue": {
+        "type": "stat",
+        "raw": "50,000 | patients, company estimate",
+        "value": "50,000",
+        "label": "patients, company estimate"
+      },
+      "startMs": 63850,
+      "endMs": 76160
+    },
+    {
+      "index": 7,
+      "sectionIndex": 2,
+      "section": "The trial",
+      "text": "The trial enrolled 367 patients at about 90 sites in the U.S. and Canada.",
+      "cue": {
+        "type": "stat",
+        "raw": "367 | patients, ~90 sites",
+        "value": "367",
+        "label": "patients, ~90 sites"
+      },
+      "startMs": 76160,
+      "endMs": 82050
+    },
+    {
+      "index": 8,
+      "sectionIndex": 2,
+      "section": "The trial",
+      "text": "After surgery, they were randomized to cretostimogene or to surveillance alone, in an open-label design.",
+      "cue": null,
+      "startMs": 82050,
+      "endMs": 88960
+    },
+    {
+      "index": 9,
+      "sectionIndex": 3,
+      "section": "The numbers",
+      "text": "The hazard ratio for recurrence-free survival was 0.32, which is where the 68% comes from. Median follow-up was 17 months.",
+      "cue": {
+        "type": "stat",
+        "raw": "0.32 | hazard ratio, recurrence-free survival",
+        "value": "0.32",
+        "label": "hazard ratio, recurrence-free survival"
+      },
+      "startMs": 88960,
+      "endMs": 99000
+    },
+    {
+      "index": 10,
+      "sectionIndex": 3,
+      "section": "The numbers",
+      "text": "On safety, the company reported no grade 3 or higher treatment-related side effects, and no patients stopping treatment because of one.",
+      "cue": null,
+      "startMs": 99000,
+      "endMs": 107500
+    },
+    {
+      "index": 11,
+      "sectionIndex": 4,
+      "section": "What's missing",
+      "text": "These are company-reported topline results, not yet presented or peer-reviewed.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"not yet presented or peer-reviewed\"",
+        "phrase": "not yet presented or peer-reviewed"
+      },
+      "startMs": 107500,
+      "endMs": 113160
+    },
+    {
+      "index": 12,
+      "sectionIndex": 4,
+      "section": "What's missing",
+      "text": "The release gives no recurrence rates for each arm, no event counts, and no separate high-grade or low-grade figures. The company says the benefit held in both, without the numbers.",
+      "cue": null,
+      "startMs": 113160,
+      "endMs": 124800
+    },
+    {
+      "index": 13,
+      "sectionIndex": 5,
+      "section": "Our read",
+      "text": "Why it matters. This is our read.",
+      "cue": null,
+      "startMs": 124800,
+      "endMs": 127900
+    },
+    {
+      "index": 14,
+      "sectionIndex": 5,
+      "section": "Our read",
+      "text": "The comparison was surveillance, not another drug. Against watching and waiting, a hazard ratio of 0.32 would be a large effect if the full data hold up. December 2nd should show how large, in which patients, and for how long.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"surveillance, not another drug\"",
+        "phrase": "surveillance, not another drug"
+      },
+      "startMs": 127900,
+      "endMs": 144100
+    },
+    {
+      "index": 15,
+      "sectionIndex": 5,
+      "section": "Our read",
+      "text": "It also reshapes the filing plan. CG Oncology's first FDA application, in patients whose cancer no longer responds to the standard treatment BCG, was due this quarter. After FDA feedback it now covers more patients, with completion expected by the end of March 2027.",
+      "cue": null,
+      "startMs": 144100,
+      "endMs": 163000
+    },
+    {
+      "index": 16,
+      "sectionIndex": 5,
+      "section": "Our read",
+      "text": "A second application, built on PIVOT-006, is planned for the second quarter of 2027.",
+      "cue": null,
+      "startMs": 163000,
+      "endMs": 169450
+    },
+    {
+      "index": 17,
+      "sectionIndex": 6,
+      "section": "What to watch",
+      "text": "Three markers, in order. First, December 2nd: the recurrence-free rates in each arm, the event count, and the high-grade and low-grade results on their own.",
+      "cue": null,
+      "startMs": 169450,
+      "endMs": 180320
+    },
+    {
+      "index": 18,
+      "sectionIndex": 6,
+      "section": "What to watch",
+      "text": "Then, the two filings, on the dates the company has set.",
+      "cue": null,
+      "startMs": 180320,
+      "endMs": 183850
+    },
+    {
+      "index": 19,
+      "sectionIndex": 6,
+      "section": "What to watch",
+      "text": "And a filing is not an approval. That decision sits with the FDA.",
+      "cue": {
+        "type": "emphasize",
+        "raw": "\"a filing is not an approval\"",
+        "phrase": "a filing is not an approval"
+      },
+      "startMs": 183850,
+      "endMs": 189080
+    },
+    {
+      "index": 20,
+      "sectionIndex": 7,
+      "section": "Subscribe",
+      "text": "We track the trials that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+      "cue": null,
+      "startMs": 189080,
+      "endMs": 198800
+    }
+  ],
+  "words": [
+    {
+      "raw": "CG",
+      "beat": 0,
+      "startMs": 162,
+      "endMs": 170
+    },
+    {
+      "raw": "Oncology",
+      "beat": 0,
+      "startMs": 170,
+      "endMs": 850
+    },
+    {
+      "raw": "says",
+      "beat": 0,
+      "startMs": 850,
+      "endMs": 1210
+    },
+    {
+      "raw": "its",
+      "beat": 0,
+      "startMs": 1210,
+      "endMs": 1470
+    },
+    {
+      "raw": "bladder",
+      "beat": 0,
+      "startMs": 1470,
+      "endMs": 2080
+    },
+    {
+      "raw": "cancer",
+      "beat": 0,
+      "startMs": 2080,
+      "endMs": 2590
+    },
+    {
+      "raw": "drug",
+      "beat": 0,
+      "startMs": 2590,
+      "endMs": 3070
+    },
+    {
+      "raw": "cut",
+      "beat": 0,
+      "startMs": 3070,
+      "endMs": 3190
+    },
+    {
+      "raw": "the",
+      "beat": 0,
+      "startMs": 3190,
+      "endMs": 3380
+    },
+    {
+      "raw": "risk",
+      "beat": 0,
+      "startMs": 3380,
+      "endMs": 3680
+    },
+    {
+      "raw": "of",
+      "beat": 0,
+      "startMs": 3680,
+      "endMs": 3750
+    },
+    {
+      "raw": "the",
+      "beat": 0,
+      "startMs": 3750,
+      "endMs": 3890
+    },
+    {
+      "raw": "cancer",
+      "beat": 0,
+      "startMs": 3890,
+      "endMs": 4200
+    },
+    {
+      "raw": "coming",
+      "beat": 0,
+      "startMs": 4200,
+      "endMs": 4540
+    },
+    {
+      "raw": "back",
+      "beat": 0,
+      "startMs": 4540,
+      "endMs": 4920
+    },
+    {
+      "raw": "by",
+      "beat": 0,
+      "startMs": 4920,
+      "endMs": 5060
+    },
+    {
+      "raw": "68%",
+      "beat": 0,
+      "startMs": 5060,
+      "endMs": 5990
+    },
+    {
+      "raw": "in",
+      "beat": 0,
+      "startMs": 5990,
+      "endMs": 6240
+    },
+    {
+      "raw": "a",
+      "beat": 0,
+      "startMs": 6240,
+      "endMs": 6370
+    },
+    {
+      "raw": "Phase",
+      "beat": 0,
+      "startMs": 6370,
+      "endMs": 7030
+    },
+    {
+      "raw": "3",
+      "beat": 0,
+      "startMs": 7030,
+      "endMs": 7390
+    },
+    {
+      "raw": "trial.",
+      "beat": 0,
+      "startMs": 7390,
+      "endMs": 8400
+    },
+    {
+      "raw": "On",
+      "beat": 1,
+      "startMs": 8400,
+      "endMs": 8630
+    },
+    {
+      "raw": "November",
+      "beat": 1,
+      "startMs": 8630,
+      "endMs": 9200
+    },
+    {
+      "raw": "16,",
+      "beat": 1,
+      "startMs": 9200,
+      "endMs": 9820
+    },
+    {
+      "raw": "the",
+      "beat": 1,
+      "startMs": 9823,
+      "endMs": 9970
+    },
+    {
+      "raw": "company",
+      "beat": 1,
+      "startMs": 9970,
+      "endMs": 10450
+    },
+    {
+      "raw": "reported",
+      "beat": 1,
+      "startMs": 10450,
+      "endMs": 11060
+    },
+    {
+      "raw": "topline",
+      "beat": 1,
+      "startMs": 11060,
+      "endMs": 11580
+    },
+    {
+      "raw": "results",
+      "beat": 1,
+      "startMs": 11580,
+      "endMs": 12070
+    },
+    {
+      "raw": "from",
+      "beat": 1,
+      "startMs": 12070,
+      "endMs": 12350
+    },
+    {
+      "raw": "PIVOT-006.",
+      "beat": 1,
+      "startMs": 12350,
+      "endMs": 13660
+    },
+    {
+      "raw": "The",
+      "beat": 1,
+      "startMs": 13660,
+      "endMs": 13900
+    },
+    {
+      "raw": "trial",
+      "beat": 1,
+      "startMs": 13900,
+      "endMs": 14300
+    },
+    {
+      "raw": "met",
+      "beat": 1,
+      "startMs": 14300,
+      "endMs": 14540
+    },
+    {
+      "raw": "its",
+      "beat": 1,
+      "startMs": 14540,
+      "endMs": 14780
+    },
+    {
+      "raw": "primary",
+      "beat": 1,
+      "startMs": 14780,
+      "endMs": 15320
+    },
+    {
+      "raw": "endpoint.",
+      "beat": 1,
+      "startMs": 15320,
+      "endMs": 16220
+    },
+    {
+      "raw": "The",
+      "beat": 2,
+      "startMs": 16220,
+      "endMs": 16440
+    },
+    {
+      "raw": "details",
+      "beat": 2,
+      "startMs": 16440,
+      "endMs": 16950
+    },
+    {
+      "raw": "are",
+      "beat": 2,
+      "startMs": 16950,
+      "endMs": 17170
+    },
+    {
+      "raw": "not",
+      "beat": 2,
+      "startMs": 17170,
+      "endMs": 17400
+    },
+    {
+      "raw": "public",
+      "beat": 2,
+      "startMs": 17400,
+      "endMs": 17830
+    },
+    {
+      "raw": "yet.",
+      "beat": 2,
+      "startMs": 17830,
+      "endMs": 18300
+    },
+    {
+      "raw": "CG",
+      "beat": 2,
+      "startMs": 18462,
+      "endMs": 18470
+    },
+    {
+      "raw": "Oncology",
+      "beat": 2,
+      "startMs": 18470,
+      "endMs": 19060
+    },
+    {
+      "raw": "will",
+      "beat": 2,
+      "startMs": 19060,
+      "endMs": 19310
+    },
+    {
+      "raw": "present",
+      "beat": 2,
+      "startMs": 19310,
+      "endMs": 19830
+    },
+    {
+      "raw": "them",
+      "beat": 2,
+      "startMs": 19830,
+      "endMs": 20120
+    },
+    {
+      "raw": "on",
+      "beat": 2,
+      "startMs": 20120,
+      "endMs": 20260
+    },
+    {
+      "raw": "December",
+      "beat": 2,
+      "startMs": 20260,
+      "endMs": 20850
+    },
+    {
+      "raw": "2,",
+      "beat": 2,
+      "startMs": 20850,
+      "endMs": 21070
+    },
+    {
+      "raw": "as",
+      "beat": 2,
+      "startMs": 21070,
+      "endMs": 21200
+    },
+    {
+      "raw": "a",
+      "beat": 2,
+      "startMs": 21200,
+      "endMs": 21540
+    },
+    {
+      "raw": "late-breaking",
+      "beat": 2,
+      "startMs": 21540,
+      "endMs": 22230
+    },
+    {
+      "raw": "talk",
+      "beat": 2,
+      "startMs": 22230,
+      "endMs": 22550
+    },
+    {
+      "raw": "at",
+      "beat": 2,
+      "startMs": 22550,
+      "endMs": 22660
+    },
+    {
+      "raw": "the",
+      "beat": 2,
+      "startMs": 22660,
+      "endMs": 23000
+    },
+    {
+      "raw": "Society",
+      "beat": 2,
+      "startMs": 23000,
+      "endMs": 23560
+    },
+    {
+      "raw": "of",
+      "beat": 2,
+      "startMs": 23560,
+      "endMs": 23760
+    },
+    {
+      "raw": "Urologic",
+      "beat": 2,
+      "startMs": 23760,
+      "endMs": 24450
+    },
+    {
+      "raw": "Oncology",
+      "beat": 2,
+      "startMs": 24450,
+      "endMs": 25160
+    },
+    {
+      "raw": "annual",
+      "beat": 2,
+      "startMs": 25160,
+      "endMs": 25660
+    },
+    {
+      "raw": "meeting.",
+      "beat": 2,
+      "startMs": 25660,
+      "endMs": 26450
+    },
+    {
+      "raw": "So",
+      "beat": 2,
+      "startMs": 26450,
+      "endMs": 26760
+    },
+    {
+      "raw": "here",
+      "beat": 2,
+      "startMs": 26760,
+      "endMs": 27080
+    },
+    {
+      "raw": "is",
+      "beat": 2,
+      "startMs": 27080,
+      "endMs": 27240
+    },
+    {
+      "raw": "what",
+      "beat": 2,
+      "startMs": 27240,
+      "endMs": 27560
+    },
+    {
+      "raw": "is",
+      "beat": 2,
+      "startMs": 27560,
+      "endMs": 27720
+    },
+    {
+      "raw": "known",
+      "beat": 2,
+      "startMs": 27720,
+      "endMs": 28130
+    },
+    {
+      "raw": "now,",
+      "beat": 2,
+      "startMs": 28130,
+      "endMs": 28530
+    },
+    {
+      "raw": "and",
+      "beat": 2,
+      "startMs": 28530,
+      "endMs": 28770
+    },
+    {
+      "raw": "what",
+      "beat": 2,
+      "startMs": 28770,
+      "endMs": 29090
+    },
+    {
+      "raw": "to",
+      "beat": 2,
+      "startMs": 29090,
+      "endMs": 29250
+    },
+    {
+      "raw": "look",
+      "beat": 2,
+      "startMs": 29250,
+      "endMs": 29570
+    },
+    {
+      "raw": "for",
+      "beat": 2,
+      "startMs": 29570,
+      "endMs": 29754
+    },
+    {
+      "raw": "then.",
+      "beat": 2,
+      "startMs": 29754,
+      "endMs": 30460
+    },
+    {
+      "raw": "The",
+      "beat": 3,
+      "startMs": 30460,
+      "endMs": 30670
+    },
+    {
+      "raw": "drug",
+      "beat": 3,
+      "startMs": 30670,
+      "endMs": 30990
+    },
+    {
+      "raw": "is",
+      "beat": 3,
+      "startMs": 30990,
+      "endMs": 31100
+    },
+    {
+      "raw": "cretostimogene",
+      "beat": 3,
+      "startMs": 31100,
+      "endMs": 32090
+    },
+    {
+      "raw": "grenadenorepvec,",
+      "beat": 3,
+      "startMs": 32090,
+      "endMs": 33350
+    },
+    {
+      "raw": "an",
+      "beat": 3,
+      "startMs": 33700,
+      "endMs": 33710
+    },
+    {
+      "raw": "engineered",
+      "beat": 3,
+      "startMs": 33850,
+      "endMs": 34240
+    },
+    {
+      "raw": "virus",
+      "beat": 3,
+      "startMs": 34240,
+      "endMs": 34600
+    },
+    {
+      "raw": "delivered",
+      "beat": 3,
+      "startMs": 34600,
+      "endMs": 35250
+    },
+    {
+      "raw": "directly",
+      "beat": 3,
+      "startMs": 35250,
+      "endMs": 35830
+    },
+    {
+      "raw": "into",
+      "beat": 3,
+      "startMs": 35830,
+      "endMs": 36240
+    },
+    {
+      "raw": "the",
+      "beat": 3,
+      "startMs": 36240,
+      "endMs": 36530
+    },
+    {
+      "raw": "bladder.",
+      "beat": 3,
+      "startMs": 36530,
+      "endMs": 37400
+    },
+    {
+      "raw": "It",
+      "beat": 4,
+      "startMs": 37400,
+      "endMs": 37730
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 37730,
+      "endMs": 37820
+    },
+    {
+      "raw": "built",
+      "beat": 4,
+      "startMs": 37820,
+      "endMs": 38230
+    },
+    {
+      "raw": "to",
+      "beat": 4,
+      "startMs": 38230,
+      "endMs": 38390
+    },
+    {
+      "raw": "replicate",
+      "beat": 4,
+      "startMs": 38390,
+      "endMs": 39120
+    },
+    {
+      "raw": "in",
+      "beat": 4,
+      "startMs": 39120,
+      "endMs": 39280
+    },
+    {
+      "raw": "tumor",
+      "beat": 4,
+      "startMs": 39280,
+      "endMs": 39690
+    },
+    {
+      "raw": "cells",
+      "beat": 4,
+      "startMs": 39690,
+      "endMs": 40100
+    },
+    {
+      "raw": "where",
+      "beat": 4,
+      "startMs": 40100,
+      "endMs": 40510
+    },
+    {
+      "raw": "a",
+      "beat": 4,
+      "startMs": 40510,
+      "endMs": 40590
+    },
+    {
+      "raw": "growth-control",
+      "beat": 4,
+      "startMs": 40590,
+      "endMs": 41650
+    },
+    {
+      "raw": "pathway",
+      "beat": 4,
+      "startMs": 41650,
+      "endMs": 42220
+    },
+    {
+      "raw": "called",
+      "beat": 4,
+      "startMs": 42220,
+      "endMs": 42710
+    },
+    {
+      "raw": "RB",
+      "beat": 4,
+      "startMs": 42710,
+      "endMs": 42890
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 42890,
+      "endMs": 43550
+    },
+    {
+      "raw": "disrupted,",
+      "beat": 4,
+      "startMs": 43550,
+      "endMs": 43820
+    },
+    {
+      "raw": "and",
+      "beat": 4,
+      "startMs": 43820,
+      "endMs": 44180
+    },
+    {
+      "raw": "it",
+      "beat": 4,
+      "startMs": 44180,
+      "endMs": 44420
+    },
+    {
+      "raw": "carries",
+      "beat": 4,
+      "startMs": 44420,
+      "endMs": 45280
+    },
+    {
+      "raw": "a",
+      "beat": 4,
+      "startMs": 45280,
+      "endMs": 45400
+    },
+    {
+      "raw": "gene",
+      "beat": 4,
+      "startMs": 45400,
+      "endMs": 45890
+    },
+    {
+      "raw": "for",
+      "beat": 4,
+      "startMs": 45890,
+      "endMs": 46250
+    },
+    {
+      "raw": "GM-CSF,",
+      "beat": 4,
+      "startMs": 46250,
+      "endMs": 47090
+    },
+    {
+      "raw": "an",
+      "beat": 4,
+      "startMs": 47090,
+      "endMs": 47710
+    },
+    {
+      "raw": "immune",
+      "beat": 4,
+      "startMs": 47711,
+      "endMs": 48060
+    },
+    {
+      "raw": "signal.",
+      "beat": 4,
+      "startMs": 48060,
+      "endMs": 49240
+    },
+    {
+      "raw": "It",
+      "beat": 4,
+      "startMs": 49240,
+      "endMs": 49430
+    },
+    {
+      "raw": "is",
+      "beat": 4,
+      "startMs": 49430,
+      "endMs": 49620
+    },
+    {
+      "raw": "not",
+      "beat": 4,
+      "startMs": 49620,
+      "endMs": 49890
+    },
+    {
+      "raw": "approved",
+      "beat": 4,
+      "startMs": 49890,
+      "endMs": 50650
+    },
+    {
+      "raw": "anywhere.",
+      "beat": 4,
+      "startMs": 50650,
+      "endMs": 51450
+    },
+    {
+      "raw": "PIVOT-006",
+      "beat": 5,
+      "startMs": 51450,
+      "endMs": 52680
+    },
+    {
+      "raw": "enrolled",
+      "beat": 5,
+      "startMs": 52680,
+      "endMs": 53190
+    },
+    {
+      "raw": "patients",
+      "beat": 5,
+      "startMs": 53190,
+      "endMs": 53730
+    },
+    {
+      "raw": "with",
+      "beat": 5,
+      "startMs": 53730,
+      "endMs": 53950
+    },
+    {
+      "raw": "intermediate-risk",
+      "beat": 5,
+      "startMs": 53950,
+      "endMs": 55030
+    },
+    {
+      "raw": "non-muscle-invasive",
+      "beat": 5,
+      "startMs": 55030,
+      "endMs": 56220
+    },
+    {
+      "raw": "bladder",
+      "beat": 5,
+      "startMs": 56220,
+      "endMs": 56660
+    },
+    {
+      "raw": "cancer,",
+      "beat": 5,
+      "startMs": 56660,
+      "endMs": 57050
+    },
+    {
+      "raw": "plus",
+      "beat": 5,
+      "startMs": 57050,
+      "endMs": 57560
+    },
+    {
+      "raw": "small",
+      "beat": 5,
+      "startMs": 57560,
+      "endMs": 58000
+    },
+    {
+      "raw": "high-grade",
+      "beat": 5,
+      "startMs": 58000,
+      "endMs": 58760
+    },
+    {
+      "raw": "TA",
+      "beat": 5,
+      "startMs": 58760,
+      "endMs": 58910
+    },
+    {
+      "raw": "tumors:",
+      "beat": 5,
+      "startMs": 58910,
+      "endMs": 59520
+    },
+    {
+      "raw": "cancer",
+      "beat": 5,
+      "startMs": 59520,
+      "endMs": 60130
+    },
+    {
+      "raw": "in",
+      "beat": 5,
+      "startMs": 60357,
+      "endMs": 60357
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 60470,
+      "endMs": 60470
+    },
+    {
+      "raw": "bladder",
+      "beat": 5,
+      "startMs": 60580,
+      "endMs": 60940
+    },
+    {
+      "raw": "lining",
+      "beat": 5,
+      "startMs": 60940,
+      "endMs": 61350
+    },
+    {
+      "raw": "that",
+      "beat": 5,
+      "startMs": 61350,
+      "endMs": 61670
+    },
+    {
+      "raw": "has",
+      "beat": 5,
+      "startMs": 61670,
+      "endMs": 61910
+    },
+    {
+      "raw": "not",
+      "beat": 5,
+      "startMs": 61910,
+      "endMs": 62130
+    },
+    {
+      "raw": "reached",
+      "beat": 5,
+      "startMs": 62130,
+      "endMs": 62670
+    },
+    {
+      "raw": "the",
+      "beat": 5,
+      "startMs": 62670,
+      "endMs": 62900
+    },
+    {
+      "raw": "muscle",
+      "beat": 5,
+      "startMs": 62900,
+      "endMs": 63211
+    },
+    {
+      "raw": "wall.",
+      "beat": 5,
+      "startMs": 63211,
+      "endMs": 63850
+    },
+    {
+      "raw": "These",
+      "beat": 6,
+      "startMs": 63850,
+      "endMs": 64380
+    },
+    {
+      "raw": "tumors",
+      "beat": 6,
+      "startMs": 64380,
+      "endMs": 64840
+    },
+    {
+      "raw": "are",
+      "beat": 6,
+      "startMs": 64840,
+      "endMs": 65070
+    },
+    {
+      "raw": "removed",
+      "beat": 6,
+      "startMs": 65070,
+      "endMs": 65610
+    },
+    {
+      "raw": "in",
+      "beat": 6,
+      "startMs": 65610,
+      "endMs": 65760
+    },
+    {
+      "raw": "surgery,",
+      "beat": 6,
+      "startMs": 65760,
+      "endMs": 66510
+    },
+    {
+      "raw": "but",
+      "beat": 6,
+      "startMs": 66510,
+      "endMs": 66680
+    },
+    {
+      "raw": "they",
+      "beat": 6,
+      "startMs": 66680,
+      "endMs": 66990
+    },
+    {
+      "raw": "can",
+      "beat": 6,
+      "startMs": 66990,
+      "endMs": 67170
+    },
+    {
+      "raw": "come",
+      "beat": 6,
+      "startMs": 67170,
+      "endMs": 67308
+    },
+    {
+      "raw": "back.",
+      "beat": 6,
+      "startMs": 67308,
+      "endMs": 68120
+    },
+    {
+      "raw": "CG",
+      "beat": 6,
+      "startMs": 68120,
+      "endMs": 68260
+    },
+    {
+      "raw": "Oncology",
+      "beat": 6,
+      "startMs": 68260,
+      "endMs": 68820
+    },
+    {
+      "raw": "puts",
+      "beat": 6,
+      "startMs": 68820,
+      "endMs": 69100
+    },
+    {
+      "raw": "this",
+      "beat": 6,
+      "startMs": 69100,
+      "endMs": 69380
+    },
+    {
+      "raw": "group",
+      "beat": 6,
+      "startMs": 69380,
+      "endMs": 69790
+    },
+    {
+      "raw": "at",
+      "beat": 6,
+      "startMs": 69790,
+      "endMs": 69870
+    },
+    {
+      "raw": "about",
+      "beat": 6,
+      "startMs": 69870,
+      "endMs": 70270
+    },
+    {
+      "raw": "50,000",
+      "beat": 6,
+      "startMs": 70270,
+      "endMs": 71400
+    },
+    {
+      "raw": "patients,",
+      "beat": 6,
+      "startMs": 71400,
+      "endMs": 72110
+    },
+    {
+      "raw": "and",
+      "beat": 6,
+      "startMs": 72110,
+      "endMs": 72320
+    },
+    {
+      "raw": "says",
+      "beat": 6,
+      "startMs": 72320,
+      "endMs": 72600
+    },
+    {
+      "raw": "no",
+      "beat": 6,
+      "startMs": 72600,
+      "endMs": 72740
+    },
+    {
+      "raw": "FDA-approved",
+      "beat": 6,
+      "startMs": 72740,
+      "endMs": 73580
+    },
+    {
+      "raw": "adjuvant",
+      "beat": 6,
+      "startMs": 73580,
+      "endMs": 74240
+    },
+    {
+      "raw": "treatment",
+      "beat": 6,
+      "startMs": 74240,
+      "endMs": 74930
+    },
+    {
+      "raw": "exists",
+      "beat": 6,
+      "startMs": 74930,
+      "endMs": 75380
+    },
+    {
+      "raw": "for",
+      "beat": 6,
+      "startMs": 75380,
+      "endMs": 75527
+    },
+    {
+      "raw": "them.",
+      "beat": 6,
+      "startMs": 75527,
+      "endMs": 76160
+    },
+    {
+      "raw": "The",
+      "beat": 7,
+      "startMs": 76160,
+      "endMs": 76420
+    },
+    {
+      "raw": "trial",
+      "beat": 7,
+      "startMs": 76420,
+      "endMs": 76850
+    },
+    {
+      "raw": "enrolled",
+      "beat": 7,
+      "startMs": 76850,
+      "endMs": 77540
+    },
+    {
+      "raw": "367",
+      "beat": 7,
+      "startMs": 77540,
+      "endMs": 78350
+    },
+    {
+      "raw": "patients",
+      "beat": 7,
+      "startMs": 78350,
+      "endMs": 79010
+    },
+    {
+      "raw": "at",
+      "beat": 7,
+      "startMs": 79010,
+      "endMs": 79190
+    },
+    {
+      "raw": "about",
+      "beat": 7,
+      "startMs": 79190,
+      "endMs": 79610
+    },
+    {
+      "raw": "90",
+      "beat": 7,
+      "startMs": 79610,
+      "endMs": 80130
+    },
+    {
+      "raw": "sites",
+      "beat": 7,
+      "startMs": 80130,
+      "endMs": 80560
+    },
+    {
+      "raw": "in",
+      "beat": 7,
+      "startMs": 80560,
+      "endMs": 80730
+    },
+    {
+      "raw": "the",
+      "beat": 7,
+      "startMs": 80730,
+      "endMs": 81040
+    },
+    {
+      "raw": "U.S.",
+      "beat": 7,
+      "startMs": 81040,
+      "endMs": 81160
+    },
+    {
+      "raw": "and",
+      "beat": 7,
+      "startMs": 81160,
+      "endMs": 81390
+    },
+    {
+      "raw": "Canada.",
+      "beat": 7,
+      "startMs": 81390,
+      "endMs": 82050
+    },
+    {
+      "raw": "After",
+      "beat": 8,
+      "startMs": 82050,
+      "endMs": 82590
+    },
+    {
+      "raw": "surgery,",
+      "beat": 8,
+      "startMs": 82590,
+      "endMs": 83180
+    },
+    {
+      "raw": "they",
+      "beat": 8,
+      "startMs": 83180,
+      "endMs": 83440
+    },
+    {
+      "raw": "were",
+      "beat": 8,
+      "startMs": 83440,
+      "endMs": 83690
+    },
+    {
+      "raw": "randomized",
+      "beat": 8,
+      "startMs": 83690,
+      "endMs": 84350
+    },
+    {
+      "raw": "to",
+      "beat": 8,
+      "startMs": 84350,
+      "endMs": 84480
+    },
+    {
+      "raw": "cretostimogene",
+      "beat": 8,
+      "startMs": 84480,
+      "endMs": 85530
+    },
+    {
+      "raw": "or",
+      "beat": 8,
+      "startMs": 85530,
+      "endMs": 85630
+    },
+    {
+      "raw": "to",
+      "beat": 8,
+      "startMs": 85630,
+      "endMs": 85760
+    },
+    {
+      "raw": "surveillance",
+      "beat": 8,
+      "startMs": 85760,
+      "endMs": 86540
+    },
+    {
+      "raw": "alone,",
+      "beat": 8,
+      "startMs": 86540,
+      "endMs": 86850
+    },
+    {
+      "raw": "in",
+      "beat": 8,
+      "startMs": 86850,
+      "endMs": 87180
+    },
+    {
+      "raw": "an",
+      "beat": 8,
+      "startMs": 87180,
+      "endMs": 87250
+    },
+    {
+      "raw": "open-label",
+      "beat": 8,
+      "startMs": 87250,
+      "endMs": 87960
+    },
+    {
+      "raw": "design.",
+      "beat": 8,
+      "startMs": 87960,
+      "endMs": 88960
+    },
+    {
+      "raw": "The",
+      "beat": 9,
+      "startMs": 88960,
+      "endMs": 89200
+    },
+    {
+      "raw": "hazard",
+      "beat": 9,
+      "startMs": 89200,
+      "endMs": 89680
+    },
+    {
+      "raw": "ratio",
+      "beat": 9,
+      "startMs": 89680,
+      "endMs": 90080
+    },
+    {
+      "raw": "for",
+      "beat": 9,
+      "startMs": 90080,
+      "endMs": 90320
+    },
+    {
+      "raw": "recurrence-free",
+      "beat": 9,
+      "startMs": 90320,
+      "endMs": 91520
+    },
+    {
+      "raw": "survival",
+      "beat": 9,
+      "startMs": 91520,
+      "endMs": 92140
+    },
+    {
+      "raw": "was",
+      "beat": 9,
+      "startMs": 92140,
+      "endMs": 92410
+    },
+    {
+      "raw": "0.32,",
+      "beat": 9,
+      "startMs": 92410,
+      "endMs": 93520
+    },
+    {
+      "raw": "which",
+      "beat": 9,
+      "startMs": 93520,
+      "endMs": 93920
+    },
+    {
+      "raw": "is",
+      "beat": 9,
+      "startMs": 93920,
+      "endMs": 94080
+    },
+    {
+      "raw": "where",
+      "beat": 9,
+      "startMs": 94080,
+      "endMs": 94480
+    },
+    {
+      "raw": "the",
+      "beat": 9,
+      "startMs": 94480,
+      "endMs": 94720
+    },
+    {
+      "raw": "68%",
+      "beat": 9,
+      "startMs": 94720,
+      "endMs": 95280
+    },
+    {
+      "raw": "comes",
+      "beat": 9,
+      "startMs": 95280,
+      "endMs": 95602
+    },
+    {
+      "raw": "from.",
+      "beat": 9,
+      "startMs": 95602,
+      "endMs": 96280
+    },
+    {
+      "raw": "Median",
+      "beat": 9,
+      "startMs": 96280,
+      "endMs": 96790
+    },
+    {
+      "raw": "follow-up",
+      "beat": 9,
+      "startMs": 96790,
+      "endMs": 97550
+    },
+    {
+      "raw": "was",
+      "beat": 9,
+      "startMs": 97550,
+      "endMs": 97830
+    },
+    {
+      "raw": "17",
+      "beat": 9,
+      "startMs": 97830,
+      "endMs": 98310
+    },
+    {
+      "raw": "months.",
+      "beat": 9,
+      "startMs": 98310,
+      "endMs": 99000
+    },
+    {
+      "raw": "On",
+      "beat": 10,
+      "startMs": 99000,
+      "endMs": 99260
+    },
+    {
+      "raw": "safety,",
+      "beat": 10,
+      "startMs": 99260,
+      "endMs": 100020
+    },
+    {
+      "raw": "the",
+      "beat": 10,
+      "startMs": 100023,
+      "endMs": 100040
+    },
+    {
+      "raw": "company",
+      "beat": 10,
+      "startMs": 100040,
+      "endMs": 100540
+    },
+    {
+      "raw": "reported",
+      "beat": 10,
+      "startMs": 100540,
+      "endMs": 101110
+    },
+    {
+      "raw": "no",
+      "beat": 10,
+      "startMs": 101110,
+      "endMs": 101250
+    },
+    {
+      "raw": "grade",
+      "beat": 10,
+      "startMs": 101250,
+      "endMs": 101610
+    },
+    {
+      "raw": "3",
+      "beat": 10,
+      "startMs": 101610,
+      "endMs": 101850
+    },
+    {
+      "raw": "or",
+      "beat": 10,
+      "startMs": 101850,
+      "endMs": 101960
+    },
+    {
+      "raw": "higher",
+      "beat": 10,
+      "startMs": 101960,
+      "endMs": 102390
+    },
+    {
+      "raw": "treatment-related",
+      "beat": 10,
+      "startMs": 102390,
+      "endMs": 103600
+    },
+    {
+      "raw": "side",
+      "beat": 10,
+      "startMs": 103600,
+      "endMs": 103870
+    },
+    {
+      "raw": "effects,",
+      "beat": 10,
+      "startMs": 103870,
+      "endMs": 104600
+    },
+    {
+      "raw": "and",
+      "beat": 10,
+      "startMs": 104600,
+      "endMs": 104810
+    },
+    {
+      "raw": "no",
+      "beat": 10,
+      "startMs": 104810,
+      "endMs": 104950
+    },
+    {
+      "raw": "patients",
+      "beat": 10,
+      "startMs": 104950,
+      "endMs": 105450
+    },
+    {
+      "raw": "stopping",
+      "beat": 10,
+      "startMs": 105450,
+      "endMs": 106030
+    },
+    {
+      "raw": "treatment",
+      "beat": 10,
+      "startMs": 106030,
+      "endMs": 106320
+    },
+    {
+      "raw": "because",
+      "beat": 10,
+      "startMs": 106320,
+      "endMs": 106610
+    },
+    {
+      "raw": "of",
+      "beat": 10,
+      "startMs": 106610,
+      "endMs": 106700
+    },
+    {
+      "raw": "one.",
+      "beat": 10,
+      "startMs": 106700,
+      "endMs": 107500
+    },
+    {
+      "raw": "These",
+      "beat": 11,
+      "startMs": 107500,
+      "endMs": 108170
+    },
+    {
+      "raw": "are",
+      "beat": 11,
+      "startMs": 108170,
+      "endMs": 108420
+    },
+    {
+      "raw": "company-reported",
+      "beat": 11,
+      "startMs": 108420,
+      "endMs": 109530
+    },
+    {
+      "raw": "topline",
+      "beat": 11,
+      "startMs": 109530,
+      "endMs": 110050
+    },
+    {
+      "raw": "results,",
+      "beat": 11,
+      "startMs": 110050,
+      "endMs": 110550
+    },
+    {
+      "raw": "not",
+      "beat": 11,
+      "startMs": 110550,
+      "endMs": 110920
+    },
+    {
+      "raw": "yet",
+      "beat": 11,
+      "startMs": 110920,
+      "endMs": 111140
+    },
+    {
+      "raw": "presented",
+      "beat": 11,
+      "startMs": 111140,
+      "endMs": 111800
+    },
+    {
+      "raw": "or",
+      "beat": 11,
+      "startMs": 111800,
+      "endMs": 111940
+    },
+    {
+      "raw": "peer-reviewed.",
+      "beat": 11,
+      "startMs": 111940,
+      "endMs": 113160
+    },
+    {
+      "raw": "The",
+      "beat": 12,
+      "startMs": 113160,
+      "endMs": 113360
+    },
+    {
+      "raw": "release",
+      "beat": 12,
+      "startMs": 113360,
+      "endMs": 113830
+    },
+    {
+      "raw": "gives",
+      "beat": 12,
+      "startMs": 113830,
+      "endMs": 114160
+    },
+    {
+      "raw": "no",
+      "beat": 12,
+      "startMs": 114160,
+      "endMs": 114300
+    },
+    {
+      "raw": "recurrence",
+      "beat": 12,
+      "startMs": 114300,
+      "endMs": 114950
+    },
+    {
+      "raw": "rates",
+      "beat": 12,
+      "startMs": 114950,
+      "endMs": 115280
+    },
+    {
+      "raw": "for",
+      "beat": 12,
+      "startMs": 115280,
+      "endMs": 115480
+    },
+    {
+      "raw": "each",
+      "beat": 12,
+      "startMs": 115480,
+      "endMs": 115940
+    },
+    {
+      "raw": "arm,",
+      "beat": 12,
+      "startMs": 115945,
+      "endMs": 116070
+    },
+    {
+      "raw": "no",
+      "beat": 12,
+      "startMs": 116070,
+      "endMs": 116200
+    },
+    {
+      "raw": "event",
+      "beat": 12,
+      "startMs": 116200,
+      "endMs": 116520
+    },
+    {
+      "raw": "counts,",
+      "beat": 12,
+      "startMs": 116520,
+      "endMs": 117120
+    },
+    {
+      "raw": "and",
+      "beat": 12,
+      "startMs": 117120,
+      "endMs": 117260
+    },
+    {
+      "raw": "no",
+      "beat": 12,
+      "startMs": 117260,
+      "endMs": 117390
+    },
+    {
+      "raw": "separate",
+      "beat": 12,
+      "startMs": 117390,
+      "endMs": 118000
+    },
+    {
+      "raw": "high-grade",
+      "beat": 12,
+      "startMs": 118000,
+      "endMs": 118760
+    },
+    {
+      "raw": "or",
+      "beat": 12,
+      "startMs": 118760,
+      "endMs": 118910
+    },
+    {
+      "raw": "low-grade",
+      "beat": 12,
+      "startMs": 118910,
+      "endMs": 119590
+    },
+    {
+      "raw": "figures.",
+      "beat": 12,
+      "startMs": 119590,
+      "endMs": 120420
+    },
+    {
+      "raw": "The",
+      "beat": 12,
+      "startMs": 120420,
+      "endMs": 120650
+    },
+    {
+      "raw": "company",
+      "beat": 12,
+      "startMs": 120650,
+      "endMs": 121190
+    },
+    {
+      "raw": "says",
+      "beat": 12,
+      "startMs": 121190,
+      "endMs": 121560
+    },
+    {
+      "raw": "the",
+      "beat": 12,
+      "startMs": 121560,
+      "endMs": 121730
+    },
+    {
+      "raw": "benefit",
+      "beat": 12,
+      "startMs": 121730,
+      "endMs": 122270
+    },
+    {
+      "raw": "held",
+      "beat": 12,
+      "startMs": 122270,
+      "endMs": 122420
+    },
+    {
+      "raw": "in",
+      "beat": 12,
+      "startMs": 122420,
+      "endMs": 122980
+    },
+    {
+      "raw": "both,",
+      "beat": 12,
+      "startMs": 122987,
+      "endMs": 123190
+    },
+    {
+      "raw": "without",
+      "beat": 12,
+      "startMs": 123190,
+      "endMs": 123730
+    },
+    {
+      "raw": "the",
+      "beat": 12,
+      "startMs": 123730,
+      "endMs": 123920
+    },
+    {
+      "raw": "numbers.",
+      "beat": 12,
+      "startMs": 123920,
+      "endMs": 124800
+    },
+    {
+      "raw": "Why",
+      "beat": 13,
+      "startMs": 124800,
+      "endMs": 125150
+    },
+    {
+      "raw": "it",
+      "beat": 13,
+      "startMs": 125150,
+      "endMs": 125370
+    },
+    {
+      "raw": "matters.",
+      "beat": 13,
+      "startMs": 125370,
+      "endMs": 126210
+    },
+    {
+      "raw": "This",
+      "beat": 13,
+      "startMs": 126210,
+      "endMs": 126630
+    },
+    {
+      "raw": "is",
+      "beat": 13,
+      "startMs": 126630,
+      "endMs": 126830
+    },
+    {
+      "raw": "our",
+      "beat": 13,
+      "startMs": 126830,
+      "endMs": 127130
+    },
+    {
+      "raw": "read.",
+      "beat": 13,
+      "startMs": 127130,
+      "endMs": 127900
+    },
+    {
+      "raw": "The",
+      "beat": 14,
+      "startMs": 127900,
+      "endMs": 128140
+    },
+    {
+      "raw": "comparison",
+      "beat": 14,
+      "startMs": 128140,
+      "endMs": 128940
+    },
+    {
+      "raw": "was",
+      "beat": 14,
+      "startMs": 128940,
+      "endMs": 129180
+    },
+    {
+      "raw": "surveillance,",
+      "beat": 14,
+      "startMs": 129180,
+      "endMs": 130300
+    },
+    {
+      "raw": "not",
+      "beat": 14,
+      "startMs": 130300,
+      "endMs": 130540
+    },
+    {
+      "raw": "another",
+      "beat": 14,
+      "startMs": 130540,
+      "endMs": 131390
+    },
+    {
+      "raw": "drug.",
+      "beat": 14,
+      "startMs": 131390,
+      "endMs": 131700
+    },
+    {
+      "raw": "Against",
+      "beat": 14,
+      "startMs": 131750,
+      "endMs": 132060
+    },
+    {
+      "raw": "watching",
+      "beat": 14,
+      "startMs": 132060,
+      "endMs": 132640
+    },
+    {
+      "raw": "and",
+      "beat": 14,
+      "startMs": 132640,
+      "endMs": 133000
+    },
+    {
+      "raw": "waiting,",
+      "beat": 14,
+      "startMs": 133000,
+      "endMs": 133500
+    },
+    {
+      "raw": "a",
+      "beat": 14,
+      "startMs": 133500,
+      "endMs": 133570
+    },
+    {
+      "raw": "hazard",
+      "beat": 14,
+      "startMs": 133570,
+      "endMs": 134010
+    },
+    {
+      "raw": "ratio",
+      "beat": 14,
+      "startMs": 134010,
+      "endMs": 134360
+    },
+    {
+      "raw": "of",
+      "beat": 14,
+      "startMs": 134360,
+      "endMs": 134620
+    },
+    {
+      "raw": "0.32",
+      "beat": 14,
+      "startMs": 134620,
+      "endMs": 135350
+    },
+    {
+      "raw": "would",
+      "beat": 14,
+      "startMs": 135350,
+      "endMs": 135720
+    },
+    {
+      "raw": "be",
+      "beat": 14,
+      "startMs": 135720,
+      "endMs": 135850
+    },
+    {
+      "raw": "a",
+      "beat": 14,
+      "startMs": 135850,
+      "endMs": 135920
+    },
+    {
+      "raw": "large",
+      "beat": 14,
+      "startMs": 135920,
+      "endMs": 136280
+    },
+    {
+      "raw": "effect",
+      "beat": 14,
+      "startMs": 136280,
+      "endMs": 136710
+    },
+    {
+      "raw": "if",
+      "beat": 14,
+      "startMs": 136710,
+      "endMs": 136870
+    },
+    {
+      "raw": "the",
+      "beat": 14,
+      "startMs": 136870,
+      "endMs": 137060
+    },
+    {
+      "raw": "full",
+      "beat": 14,
+      "startMs": 137060,
+      "endMs": 137480
+    },
+    {
+      "raw": "data",
+      "beat": 14,
+      "startMs": 137480,
+      "endMs": 137940
+    },
+    {
+      "raw": "hold",
+      "beat": 14,
+      "startMs": 137940,
+      "endMs": 138336
+    },
+    {
+      "raw": "up.",
+      "beat": 14,
+      "startMs": 138336,
+      "endMs": 139000
+    },
+    {
+      "raw": "December",
+      "beat": 14,
+      "startMs": 139000,
+      "endMs": 139610
+    },
+    {
+      "raw": "2nd",
+      "beat": 14,
+      "startMs": 139610,
+      "endMs": 139990
+    },
+    {
+      "raw": "should",
+      "beat": 14,
+      "startMs": 139990,
+      "endMs": 140450
+    },
+    {
+      "raw": "show",
+      "beat": 14,
+      "startMs": 140450,
+      "endMs": 140750
+    },
+    {
+      "raw": "how",
+      "beat": 14,
+      "startMs": 140750,
+      "endMs": 140980
+    },
+    {
+      "raw": "large,",
+      "beat": 14,
+      "startMs": 140980,
+      "endMs": 141400
+    },
+    {
+      "raw": "in",
+      "beat": 14,
+      "startMs": 141400,
+      "endMs": 141660
+    },
+    {
+      "raw": "which",
+      "beat": 14,
+      "startMs": 141660,
+      "endMs": 142040
+    },
+    {
+      "raw": "patients,",
+      "beat": 14,
+      "startMs": 142040,
+      "endMs": 142800
+    },
+    {
+      "raw": "and",
+      "beat": 14,
+      "startMs": 142800,
+      "endMs": 143030
+    },
+    {
+      "raw": "for",
+      "beat": 14,
+      "startMs": 143030,
+      "endMs": 143260
+    },
+    {
+      "raw": "how",
+      "beat": 14,
+      "startMs": 143260,
+      "endMs": 143444
+    },
+    {
+      "raw": "long.",
+      "beat": 14,
+      "startMs": 143444,
+      "endMs": 144100
+    },
+    {
+      "raw": "It",
+      "beat": 15,
+      "startMs": 144100,
+      "endMs": 144260
+    },
+    {
+      "raw": "also",
+      "beat": 15,
+      "startMs": 144260,
+      "endMs": 144580
+    },
+    {
+      "raw": "reshapes",
+      "beat": 15,
+      "startMs": 144580,
+      "endMs": 145220
+    },
+    {
+      "raw": "the",
+      "beat": 15,
+      "startMs": 145220,
+      "endMs": 145460
+    },
+    {
+      "raw": "filing",
+      "beat": 15,
+      "startMs": 145460,
+      "endMs": 145903
+    },
+    {
+      "raw": "plan.",
+      "beat": 15,
+      "startMs": 145903,
+      "endMs": 146520
+    },
+    {
+      "raw": "CG",
+      "beat": 15,
+      "startMs": 146520,
+      "endMs": 146660
+    },
+    {
+      "raw": "Oncology's",
+      "beat": 15,
+      "startMs": 146660,
+      "endMs": 147370
+    },
+    {
+      "raw": "first",
+      "beat": 15,
+      "startMs": 147370,
+      "endMs": 147730
+    },
+    {
+      "raw": "FDA",
+      "beat": 15,
+      "startMs": 147730,
+      "endMs": 147950
+    },
+    {
+      "raw": "application,",
+      "beat": 15,
+      "startMs": 147950,
+      "endMs": 148870
+    },
+    {
+      "raw": "in",
+      "beat": 15,
+      "startMs": 148870,
+      "endMs": 149010
+    },
+    {
+      "raw": "patients",
+      "beat": 15,
+      "startMs": 149010,
+      "endMs": 149580
+    },
+    {
+      "raw": "whose",
+      "beat": 15,
+      "startMs": 149580,
+      "endMs": 149950
+    },
+    {
+      "raw": "cancer",
+      "beat": 15,
+      "startMs": 149950,
+      "endMs": 150370
+    },
+    {
+      "raw": "no",
+      "beat": 15,
+      "startMs": 150370,
+      "endMs": 150510
+    },
+    {
+      "raw": "longer",
+      "beat": 15,
+      "startMs": 150510,
+      "endMs": 150940
+    },
+    {
+      "raw": "responds",
+      "beat": 15,
+      "startMs": 150940,
+      "endMs": 151510
+    },
+    {
+      "raw": "to",
+      "beat": 15,
+      "startMs": 151510,
+      "endMs": 151720
+    },
+    {
+      "raw": "the",
+      "beat": 15,
+      "startMs": 151720,
+      "endMs": 151860
+    },
+    {
+      "raw": "standard",
+      "beat": 15,
+      "startMs": 151860,
+      "endMs": 152240
+    },
+    {
+      "raw": "treatment",
+      "beat": 15,
+      "startMs": 152240,
+      "endMs": 153130
+    },
+    {
+      "raw": "BCG,",
+      "beat": 15,
+      "startMs": 153130,
+      "endMs": 153900
+    },
+    {
+      "raw": "was",
+      "beat": 15,
+      "startMs": 153900,
+      "endMs": 153910
+    },
+    {
+      "raw": "due",
+      "beat": 15,
+      "startMs": 153910,
+      "endMs": 154210
+    },
+    {
+      "raw": "this",
+      "beat": 15,
+      "startMs": 154210,
+      "endMs": 154610
+    },
+    {
+      "raw": "quarter.",
+      "beat": 15,
+      "startMs": 154610,
+      "endMs": 155350
+    },
+    {
+      "raw": "After",
+      "beat": 15,
+      "startMs": 155350,
+      "endMs": 156000
+    },
+    {
+      "raw": "FDA",
+      "beat": 15,
+      "startMs": 156000,
+      "endMs": 156210
+    },
+    {
+      "raw": "feedback",
+      "beat": 15,
+      "startMs": 156210,
+      "endMs": 156950
+    },
+    {
+      "raw": "it",
+      "beat": 15,
+      "startMs": 156950,
+      "endMs": 157080
+    },
+    {
+      "raw": "now",
+      "beat": 15,
+      "startMs": 157080,
+      "endMs": 157270
+    },
+    {
+      "raw": "covers",
+      "beat": 15,
+      "startMs": 157270,
+      "endMs": 157700
+    },
+    {
+      "raw": "more",
+      "beat": 15,
+      "startMs": 157700,
+      "endMs": 157990
+    },
+    {
+      "raw": "patients,",
+      "beat": 15,
+      "startMs": 157990,
+      "endMs": 158730
+    },
+    {
+      "raw": "with",
+      "beat": 15,
+      "startMs": 158730,
+      "endMs": 159210
+    },
+    {
+      "raw": "completion",
+      "beat": 15,
+      "startMs": 159210,
+      "endMs": 159710
+    },
+    {
+      "raw": "expected",
+      "beat": 15,
+      "startMs": 159710,
+      "endMs": 160290
+    },
+    {
+      "raw": "by",
+      "beat": 15,
+      "startMs": 160290,
+      "endMs": 160420
+    },
+    {
+      "raw": "the",
+      "beat": 15,
+      "startMs": 160420,
+      "endMs": 160630
+    },
+    {
+      "raw": "end",
+      "beat": 15,
+      "startMs": 160630,
+      "endMs": 160840
+    },
+    {
+      "raw": "of",
+      "beat": 15,
+      "startMs": 160840,
+      "endMs": 160980
+    },
+    {
+      "raw": "March",
+      "beat": 15,
+      "startMs": 160980,
+      "endMs": 161440
+    },
+    {
+      "raw": "2027.",
+      "beat": 15,
+      "startMs": 161490,
+      "endMs": 162440
+    },
+    {
+      "raw": "A",
+      "beat": 16,
+      "startMs": 163000,
+      "endMs": 163000
+    },
+    {
+      "raw": "second",
+      "beat": 16,
+      "startMs": 163100,
+      "endMs": 163100
+    },
+    {
+      "raw": "application,",
+      "beat": 16,
+      "startMs": 163400,
+      "endMs": 164040
+    },
+    {
+      "raw": "built",
+      "beat": 16,
+      "startMs": 164040,
+      "endMs": 164460
+    },
+    {
+      "raw": "on",
+      "beat": 16,
+      "startMs": 164460,
+      "endMs": 164600
+    },
+    {
+      "raw": "PIVOT-006,",
+      "beat": 16,
+      "startMs": 164600,
+      "endMs": 165870
+    },
+    {
+      "raw": "is",
+      "beat": 16,
+      "startMs": 165870,
+      "endMs": 166030
+    },
+    {
+      "raw": "planned",
+      "beat": 16,
+      "startMs": 166030,
+      "endMs": 166400
+    },
+    {
+      "raw": "for",
+      "beat": 16,
+      "startMs": 166400,
+      "endMs": 166840
+    },
+    {
+      "raw": "the",
+      "beat": 16,
+      "startMs": 166840,
+      "endMs": 167080
+    },
+    {
+      "raw": "second",
+      "beat": 16,
+      "startMs": 167080,
+      "endMs": 167580
+    },
+    {
+      "raw": "quarter",
+      "beat": 16,
+      "startMs": 167580,
+      "endMs": 168120
+    },
+    {
+      "raw": "of",
+      "beat": 16,
+      "startMs": 168120,
+      "endMs": 168310
+    },
+    {
+      "raw": "2027.",
+      "beat": 16,
+      "startMs": 168310,
+      "endMs": 169450
+    },
+    {
+      "raw": "Three",
+      "beat": 17,
+      "startMs": 169450,
+      "endMs": 169950
+    },
+    {
+      "raw": "markers,",
+      "beat": 17,
+      "startMs": 169950,
+      "endMs": 170490
+    },
+    {
+      "raw": "in",
+      "beat": 17,
+      "startMs": 170490,
+      "endMs": 170640
+    },
+    {
+      "raw": "order.",
+      "beat": 17,
+      "startMs": 170640,
+      "endMs": 171280
+    },
+    {
+      "raw": "First,",
+      "beat": 17,
+      "startMs": 171280,
+      "endMs": 171990
+    },
+    {
+      "raw": "December",
+      "beat": 17,
+      "startMs": 171990,
+      "endMs": 172400
+    },
+    {
+      "raw": "2nd:",
+      "beat": 17,
+      "startMs": 172400,
+      "endMs": 173060
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 173350,
+      "endMs": 173360
+    },
+    {
+      "raw": "recurrence-free",
+      "beat": 17,
+      "startMs": 173360,
+      "endMs": 174250
+    },
+    {
+      "raw": "rates",
+      "beat": 17,
+      "startMs": 174250,
+      "endMs": 174620
+    },
+    {
+      "raw": "in",
+      "beat": 17,
+      "startMs": 174620,
+      "endMs": 174800
+    },
+    {
+      "raw": "each",
+      "beat": 17,
+      "startMs": 174800,
+      "endMs": 175070
+    },
+    {
+      "raw": "arm,",
+      "beat": 17,
+      "startMs": 175070,
+      "endMs": 175400
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 175400,
+      "endMs": 175770
+    },
+    {
+      "raw": "event",
+      "beat": 17,
+      "startMs": 175770,
+      "endMs": 176030
+    },
+    {
+      "raw": "count,",
+      "beat": 17,
+      "startMs": 176030,
+      "endMs": 176770
+    },
+    {
+      "raw": "and",
+      "beat": 17,
+      "startMs": 176770,
+      "endMs": 176810
+    },
+    {
+      "raw": "the",
+      "beat": 17,
+      "startMs": 176810,
+      "endMs": 177080
+    },
+    {
+      "raw": "high-grade",
+      "beat": 17,
+      "startMs": 177080,
+      "endMs": 177680
+    },
+    {
+      "raw": "and",
+      "beat": 17,
+      "startMs": 177680,
+      "endMs": 177920
+    },
+    {
+      "raw": "low-grade",
+      "beat": 17,
+      "startMs": 177920,
+      "endMs": 178650
+    },
+    {
+      "raw": "results",
+      "beat": 17,
+      "startMs": 178650,
+      "endMs": 179220
+    },
+    {
+      "raw": "on",
+      "beat": 17,
+      "startMs": 179220,
+      "endMs": 179380
+    },
+    {
+      "raw": "their",
+      "beat": 17,
+      "startMs": 179380,
+      "endMs": 179610
+    },
+    {
+      "raw": "own.",
+      "beat": 17,
+      "startMs": 179610,
+      "endMs": 180320
+    },
+    {
+      "raw": "Then,",
+      "beat": 18,
+      "startMs": 180320,
+      "endMs": 180730
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 180732,
+      "endMs": 180860
+    },
+    {
+      "raw": "two",
+      "beat": 18,
+      "startMs": 180860,
+      "endMs": 181090
+    },
+    {
+      "raw": "filings,",
+      "beat": 18,
+      "startMs": 181090,
+      "endMs": 181900
+    },
+    {
+      "raw": "on",
+      "beat": 18,
+      "startMs": 181904,
+      "endMs": 181930
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 181930,
+      "endMs": 182170
+    },
+    {
+      "raw": "dates",
+      "beat": 18,
+      "startMs": 182170,
+      "endMs": 182620
+    },
+    {
+      "raw": "the",
+      "beat": 18,
+      "startMs": 182620,
+      "endMs": 182780
+    },
+    {
+      "raw": "company",
+      "beat": 18,
+      "startMs": 182780,
+      "endMs": 183310
+    },
+    {
+      "raw": "has",
+      "beat": 18,
+      "startMs": 183310,
+      "endMs": 183453
+    },
+    {
+      "raw": "set.",
+      "beat": 18,
+      "startMs": 183453,
+      "endMs": 183850
+    },
+    {
+      "raw": "And",
+      "beat": 19,
+      "startMs": 183850,
+      "endMs": 184200
+    },
+    {
+      "raw": "a",
+      "beat": 19,
+      "startMs": 184200,
+      "endMs": 184260
+    },
+    {
+      "raw": "filing",
+      "beat": 19,
+      "startMs": 184260,
+      "endMs": 185020
+    },
+    {
+      "raw": "is",
+      "beat": 19,
+      "startMs": 185020,
+      "endMs": 185210
+    },
+    {
+      "raw": "not",
+      "beat": 19,
+      "startMs": 185210,
+      "endMs": 185550
+    },
+    {
+      "raw": "an",
+      "beat": 19,
+      "startMs": 185550,
+      "endMs": 185690
+    },
+    {
+      "raw": "approval.",
+      "beat": 19,
+      "startMs": 185690,
+      "endMs": 186600
+    },
+    {
+      "raw": "That",
+      "beat": 19,
+      "startMs": 186600,
+      "endMs": 187090
+    },
+    {
+      "raw": "decision",
+      "beat": 19,
+      "startMs": 187090,
+      "endMs": 187720
+    },
+    {
+      "raw": "sits",
+      "beat": 19,
+      "startMs": 187720,
+      "endMs": 188130
+    },
+    {
+      "raw": "with",
+      "beat": 19,
+      "startMs": 188130,
+      "endMs": 188340
+    },
+    {
+      "raw": "the",
+      "beat": 19,
+      "startMs": 188340,
+      "endMs": 188550
+    },
+    {
+      "raw": "FDA.",
+      "beat": 19,
+      "startMs": 188550,
+      "endMs": 189080
+    },
+    {
+      "raw": "We",
+      "beat": 20,
+      "startMs": 189080,
+      "endMs": 189230
+    },
+    {
+      "raw": "track",
+      "beat": 20,
+      "startMs": 189230,
+      "endMs": 189610
+    },
+    {
+      "raw": "the",
+      "beat": 20,
+      "startMs": 189610,
+      "endMs": 189820
+    },
+    {
+      "raw": "trials",
+      "beat": 20,
+      "startMs": 189820,
+      "endMs": 190270
+    },
+    {
+      "raw": "that",
+      "beat": 20,
+      "startMs": 190270,
+      "endMs": 190610
+    },
+    {
+      "raw": "move",
+      "beat": 20,
+      "startMs": 190610,
+      "endMs": 190870
+    },
+    {
+      "raw": "biotech,",
+      "beat": 20,
+      "startMs": 190870,
+      "endMs": 191570
+    },
+    {
+      "raw": "every",
+      "beat": 20,
+      "startMs": 191570,
+      "endMs": 191910
+    },
+    {
+      "raw": "week",
+      "beat": 20,
+      "startMs": 191910,
+      "endMs": 192350
+    },
+    {
+      "raw": "in",
+      "beat": 20,
+      "startMs": 192350,
+      "endMs": 192360
+    },
+    {
+      "raw": "The",
+      "beat": 20,
+      "startMs": 192360,
+      "endMs": 192590
+    },
+    {
+      "raw": "Catalyst",
+      "beat": 20,
+      "startMs": 192590,
+      "endMs": 193180
+    },
+    {
+      "raw": "Brief.",
+      "beat": 20,
+      "startMs": 193180,
+      "endMs": 193840
+    },
+    {
+      "raw": "Subscribe",
+      "beat": 20,
+      "startMs": 193881,
+      "endMs": 194680
+    },
+    {
+      "raw": "free,",
+      "beat": 20,
+      "startMs": 194680,
+      "endMs": 194950
+    },
+    {
+      "raw": "at",
+      "beat": 20,
+      "startMs": 194950,
+      "endMs": 195240
+    },
+    {
+      "raw": "thecatalystbrief.com.",
+      "beat": 20,
+      "startMs": 195240,
+      "endMs": 197360
+    },
+    {
+      "raw": "Signal",
+      "beat": 20,
+      "startMs": 197360,
+      "endMs": 197980
+    },
+    {
+      "raw": "over",
+      "beat": 20,
+      "startMs": 197980,
+      "endMs": 198310
+    },
+    {
+      "raw": "noise.",
+      "beat": 20,
+      "startMs": 198310,
+      "endMs": 198800
+    }
+  ],
+  "captions": [
+    {
+      "text": "CG Oncology says its bladder cancer drug cut",
+      "startMs": 162,
+      "endMs": 3190
+    },
+    {
+      "text": "the risk of the cancer coming back by 68%",
+      "startMs": 3190,
+      "endMs": 5990
+    },
+    {
+      "text": "in a Phase 3 trial.",
+      "startMs": 5990,
+      "endMs": 8400
+    },
+    {
+      "text": "On November 16, the company reported topline",
+      "startMs": 8400,
+      "endMs": 11580
+    },
+    {
+      "text": "results from PIVOT-006.",
+      "startMs": 11580,
+      "endMs": 13660
+    },
+    {
+      "text": "The trial met its primary endpoint.",
+      "startMs": 13660,
+      "endMs": 16220
+    },
+    {
+      "text": "The details are not public yet.",
+      "startMs": 16220,
+      "endMs": 18462
+    },
+    {
+      "text": "CG Oncology will present them on December",
+      "startMs": 18462,
+      "endMs": 20850
+    },
+    {
+      "text": "2, as a late-breaking talk at the Society",
+      "startMs": 20850,
+      "endMs": 23560
+    },
+    {
+      "text": "of Urologic Oncology annual meeting.",
+      "startMs": 23560,
+      "endMs": 26450
+    },
+    {
+      "text": "So here is what is known now, and what to",
+      "startMs": 26450,
+      "endMs": 29250
+    },
+    {
+      "text": "look for then.",
+      "startMs": 29250,
+      "endMs": 30460
+    },
+    {
+      "text": "The drug is cretostimogene grenadenorepvec,",
+      "startMs": 30460,
+      "endMs": 33700
+    },
+    {
+      "text": "an engineered virus delivered directly into the bladder.",
+      "startMs": 33700,
+      "endMs": 37400
+    },
+    {
+      "text": "It is built to replicate in tumor cells where",
+      "startMs": 37400,
+      "endMs": 40510
+    },
+    {
+      "text": "a growth-control pathway called RB is disrupted,",
+      "startMs": 40510,
+      "endMs": 43820
+    },
+    {
+      "text": "and it carries a gene for GM-CSF, an immune signal.",
+      "startMs": 43820,
+      "endMs": 49240
+    },
+    {
+      "text": "It is not approved anywhere.",
+      "startMs": 49240,
+      "endMs": 51450
+    },
+    {
+      "text": "PIVOT-006 enrolled patients with intermediate-risk",
+      "startMs": 51450,
+      "endMs": 55030
+    },
+    {
+      "text": "non-muscle-invasive bladder cancer, plus small",
+      "startMs": 55030,
+      "endMs": 58000
+    },
+    {
+      "text": "high-grade TA tumors: cancer in the bladder",
+      "startMs": 58000,
+      "endMs": 60940
+    },
+    {
+      "text": "lining that has not reached the muscle wall.",
+      "startMs": 60940,
+      "endMs": 63850
+    },
+    {
+      "text": "These tumors are removed in surgery, but they",
+      "startMs": 63850,
+      "endMs": 66990
+    },
+    {
+      "text": "can come back.",
+      "startMs": 66990,
+      "endMs": 68120
+    },
+    {
+      "text": "CG Oncology puts this group at about 50,000",
+      "startMs": 68120,
+      "endMs": 71400
+    },
+    {
+      "text": "patients, and says no FDA-approved adjuvant",
+      "startMs": 71400,
+      "endMs": 74240
+    },
+    {
+      "text": "treatment exists for them.",
+      "startMs": 74240,
+      "endMs": 76160
+    },
+    {
+      "text": "The trial enrolled 367 patients at about 90",
+      "startMs": 76160,
+      "endMs": 80130
+    },
+    {
+      "text": "sites in the U.S. and Canada.",
+      "startMs": 80130,
+      "endMs": 82050
+    },
+    {
+      "text": "After surgery, they were randomized to cretostimogene",
+      "startMs": 82050,
+      "endMs": 85530
+    },
+    {
+      "text": "or to surveillance alone, in an open-label design.",
+      "startMs": 85530,
+      "endMs": 88960
+    },
+    {
+      "text": "The hazard ratio for recurrence-free survival",
+      "startMs": 88960,
+      "endMs": 92140
+    },
+    {
+      "text": "was 0.32, which is where the 68% comes from.",
+      "startMs": 92140,
+      "endMs": 96280
+    },
+    {
+      "text": "Median follow-up was 17 months.",
+      "startMs": 96280,
+      "endMs": 99000
+    },
+    {
+      "text": "On safety, the company reported no grade 3",
+      "startMs": 99000,
+      "endMs": 101850
+    },
+    {
+      "text": "or higher treatment-related side effects,",
+      "startMs": 101850,
+      "endMs": 104600
+    },
+    {
+      "text": "and no patients stopping treatment because of one.",
+      "startMs": 104600,
+      "endMs": 107500
+    },
+    {
+      "text": "These are company-reported topline results,",
+      "startMs": 107500,
+      "endMs": 110550
+    },
+    {
+      "text": "not yet presented or peer-reviewed.",
+      "startMs": 110550,
+      "endMs": 113160
+    },
+    {
+      "text": "The release gives no recurrence rates for",
+      "startMs": 113160,
+      "endMs": 115480
+    },
+    {
+      "text": "each arm, no event counts, and no separate",
+      "startMs": 115480,
+      "endMs": 118000
+    },
+    {
+      "text": "high-grade or low-grade figures.",
+      "startMs": 118000,
+      "endMs": 120420
+    },
+    {
+      "text": "The company says the benefit held in both,",
+      "startMs": 120420,
+      "endMs": 123190
+    },
+    {
+      "text": "without the numbers.",
+      "startMs": 123190,
+      "endMs": 124800
+    },
+    {
+      "text": "Why it matters.",
+      "startMs": 124800,
+      "endMs": 126210
+    },
+    {
+      "text": "This is our read.",
+      "startMs": 126210,
+      "endMs": 127900
+    },
+    {
+      "text": "The comparison was surveillance, not another drug.",
+      "startMs": 127900,
+      "endMs": 131750
+    },
+    {
+      "text": "Against watching and waiting, a hazard ratio",
+      "startMs": 131750,
+      "endMs": 134360
+    },
+    {
+      "text": "of 0.32 would be a large effect if the full",
+      "startMs": 134360,
+      "endMs": 137480
+    },
+    {
+      "text": "data hold up.",
+      "startMs": 137480,
+      "endMs": 139000
+    },
+    {
+      "text": "December 2nd should show how large, in which",
+      "startMs": 139000,
+      "endMs": 142040
+    },
+    {
+      "text": "patients, and for how long.",
+      "startMs": 142040,
+      "endMs": 144100
+    },
+    {
+      "text": "It also reshapes the filing plan.",
+      "startMs": 144100,
+      "endMs": 146520
+    },
+    {
+      "text": "CG Oncology's first FDA application, in patients",
+      "startMs": 146520,
+      "endMs": 149580
+    },
+    {
+      "text": "whose cancer no longer responds to the standard",
+      "startMs": 149580,
+      "endMs": 152240
+    },
+    {
+      "text": "treatment BCG, was due this quarter.",
+      "startMs": 152240,
+      "endMs": 155350
+    },
+    {
+      "text": "After FDA feedback it now covers more patients,",
+      "startMs": 155350,
+      "endMs": 158730
+    },
+    {
+      "text": "with completion expected by the end of March 2027.",
+      "startMs": 158730,
+      "endMs": 163000
+    },
+    {
+      "text": "A second application, built on PIVOT-006,",
+      "startMs": 163000,
+      "endMs": 165870
+    },
+    {
+      "text": "is planned for the second quarter of 2027.",
+      "startMs": 165870,
+      "endMs": 169450
+    },
+    {
+      "text": "Three markers, in order.",
+      "startMs": 169450,
+      "endMs": 171280
+    },
+    {
+      "text": "First, December 2nd: the recurrence-free rates",
+      "startMs": 171280,
+      "endMs": 174620
+    },
+    {
+      "text": "in each arm, the event count, and the high-grade",
+      "startMs": 174620,
+      "endMs": 177680
+    },
+    {
+      "text": "and low-grade results on their own.",
+      "startMs": 177680,
+      "endMs": 180320
+    },
+    {
+      "text": "Then, the two filings, on the dates the company has set.",
+      "startMs": 180320,
+      "endMs": 183850
+    },
+    {
+      "text": "And a filing is not an approval.",
+      "startMs": 183850,
+      "endMs": 186600
+    },
+    {
+      "text": "That decision sits with the FDA.",
+      "startMs": 186600,
+      "endMs": 189080
+    },
+    {
+      "text": "We track the trials that move biotech, every",
+      "startMs": 189080,
+      "endMs": 191910
+    },
+    {
+      "text": "week in The Catalyst Brief.",
+      "startMs": 191910,
+      "endMs": 193881
+    },
+    {
+      "text": "Subscribe free, at thecatalystbrief.com.",
+      "startMs": 193881,
+      "endMs": 197360
+    },
+    {
+      "text": "Signal over noise.",
+      "startMs": 197360,
+      "endMs": 199200
+    }
+  ]
+}

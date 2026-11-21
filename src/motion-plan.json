@@ -1,0 +1,140 @@
+{
+ "composition": "CgOncology",
+ "chunk": 6,
+ "kit": [
+  "src/kit/cgon6.tsx"
+ ],
+ "scenes": [
+  {
+   "n": 27,
+   "title": "Three markers, first Dec 2",
+   "peakFrame": 5187,
+   "world": "ink",
+   "hero": "three receding marker posts",
+   "supports": [
+    "marker 1 reading DEC 2"
+   ],
+   "move": "NEW: markers-rise-flip",
+   "note": "three numbered marker posts rise in a receding line on 'Three markers' (camera cranes with them); marker 1's disc flips to a red DEC 2 on 'December 2nd'",
+   "camera": [
+    {
+     "cue": "Three markers",
+     "after": 169450
+    }
+   ],
+   "movers": [
+    {
+     "what": "posts rise",
+     "durMs": 1000,
+     "cue": "Three markers",
+     "after": 169450
+    },
+    {
+     "what": "disc 1 flips",
+     "durMs": 700,
+     "cue": "December 2nd:",
+     "after": 169450
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "title": "What Dec 2 should fill",
+   "peakFrame": 5397,
+   "world": "paper",
+   "hero": "S18 cabinet with three DEC 2 tags",
+   "supports": [
+    "row labels (3-row list)"
+   ],
+   "move": "NEW: tags-fill-cavities",
+   "note": "S18's cabinet back on its seats with its empty cavities; a red DEC 2 tag slides in and seats in each cavity on its item (rates by arm, event count, high/low-grade); push-in on the third",
+   "camera": [
+    {
+     "cue": "high-grade and",
+     "after": 173350
+    }
+   ],
+   "movers": [
+    {
+     "what": "tag 1",
+     "durMs": 600,
+     "cue": "rates in each",
+     "after": 173350
+    },
+    {
+     "what": "tag 2",
+     "durMs": 600,
+     "cue": "event count,",
+     "after": 173350
+    },
+    {
+     "what": "tag 3",
+     "durMs": 600,
+     "cue": "high-grade and",
+     "after": 173350
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "title": "Then the two filings",
+   "peakFrame": 5502,
+   "world": "red",
+   "hero": "the two binders",
+   "supports": [
+    "their date plates"
+   ],
+   "move": "fall-and-squash",
+   "note": "the two application binders drop and squash together on 'two filings' (camera cranes); BY END OF MARCH 2027 and Q2 2027 drop under them on 'dates the company'",
+   "camera": [
+    {
+     "ms": 180480
+    }
+   ],
+   "movers": [
+    {
+     "what": "binders drop",
+     "durMs": 760,
+     "cue": "two filings,",
+     "after": 180320
+    },
+    {
+     "what": "date plates drop",
+     "durMs": 400,
+     "cue": "dates the company",
+     "after": 180320
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "title": "A filing is not an approval",
+   "peakFrame": 5658,
+   "world": "ink",
+   "hero": "FDA plinth with the APPROVAL stamp",
+   "supports": [
+    "FILING binder"
+   ],
+   "move": "NEW: stamp-rests-at-fda",
+   "note": "a FILING binder drops; on 'not an approval' the FDA plinth rises with the red APPROVAL stamp resting on it, unused; push-in on 'decision'",
+   "camera": [
+    {
+     "ms": 187090
+    }
+   ],
+   "movers": [
+    {
+     "what": "binder drops",
+     "durMs": 760,
+     "ms": 183930
+    },
+    {
+     "what": "FDA plinth rises",
+     "durMs": 800,
+     "cue": "not an approval.",
+     "after": 183850
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+[
+ { "id": "s5_hospital", "sceneKey": "S5", "query": "hospital corridor", "start": 31.0, "end": 37.4 },
+ { "id": "s13_waiting", "sceneKey": "S13", "query": "patients hospital waiting room", "start": 82.6, "end": 88.96 },
+ { "id": "s17_lab", "sceneKey": "S17", "query": "scientist laboratory research", "start": 108.0, "end": 113.16 }
+]

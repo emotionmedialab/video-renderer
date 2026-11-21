@@ -1,0 +1,42 @@
+[
+  {
+    "index": 0,
+    "title": "The readout",
+    "firstBeat": 0
+  },
+  {
+    "index": 1,
+    "title": "The drug",
+    "firstBeat": 3
+  },
+  {
+    "index": 2,
+    "title": "The trial",
+    "firstBeat": 5
+  },
+  {
+    "index": 3,
+    "title": "The numbers",
+    "firstBeat": 9
+  },
+  {
+    "index": 4,
+    "title": "What's missing",
+    "firstBeat": 11
+  },
+  {
+    "index": 5,
+    "title": "Our read",
+    "firstBeat": 13
+  },
+  {
+    "index": 6,
+    "title": "What to watch",
+    "firstBeat": 17
+  },
+  {
+    "index": 7,
+    "title": "Subscribe",
+    "firstBeat": 20
+  }
+]

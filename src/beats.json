@@ -1,0 +1,185 @@
+[
+  {
+    "index": 0,
+    "sectionIndex": 0,
+    "section": "The readout",
+    "text": "CG Oncology says its bladder cancer drug cut the risk of the cancer coming back by 68% in a Phase 3 trial.",
+    "cue": {
+      "type": "stat",
+      "raw": "68% | lower risk of recurrence",
+      "value": "68%",
+      "label": "lower risk of recurrence"
+    }
+  },
+  {
+    "index": 1,
+    "sectionIndex": 0,
+    "section": "The readout",
+    "text": "On November 16, the company reported topline results from PIVOT-006. The trial met its primary endpoint.",
+    "cue": null
+  },
+  {
+    "index": 2,
+    "sectionIndex": 0,
+    "section": "The readout",
+    "text": "The details are not public yet. CG Oncology will present them on December 2, as a late-breaking talk at the Society of Urologic Oncology annual meeting. So here is what is known now, and what to look for then.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"December 2\"",
+      "phrase": "December 2"
+    }
+  },
+  {
+    "index": 3,
+    "sectionIndex": 1,
+    "section": "The drug",
+    "text": "The drug is cretostimogene grenadenorepvec, an engineered virus delivered directly into the bladder.",
+    "cue": null
+  },
+  {
+    "index": 4,
+    "sectionIndex": 1,
+    "section": "The drug",
+    "text": "It is built to replicate in tumor cells where a growth-control pathway called RB is disrupted, and it carries a gene for GM-CSF, an immune signal. It is not approved anywhere.",
+    "cue": null
+  },
+  {
+    "index": 5,
+    "sectionIndex": 2,
+    "section": "The trial",
+    "text": "PIVOT-006 enrolled patients with intermediate-risk non-muscle-invasive bladder cancer, plus small high-grade TA tumors: cancer in the bladder lining that has not reached the muscle wall.",
+    "cue": null
+  },
+  {
+    "index": 6,
+    "sectionIndex": 2,
+    "section": "The trial",
+    "text": "These tumors are removed in surgery, but they can come back. CG Oncology puts this group at about 50,000 patients, and says no FDA-approved adjuvant treatment exists for them.",
+    "cue": {
+      "type": "stat",
+      "raw": "50,000 | patients, company estimate",
+      "value": "50,000",
+      "label": "patients, company estimate"
+    }
+  },
+  {
+    "index": 7,
+    "sectionIndex": 2,
+    "section": "The trial",
+    "text": "The trial enrolled 367 patients at about 90 sites in the U.S. and Canada.",
+    "cue": {
+      "type": "stat",
+      "raw": "367 | patients, ~90 sites",
+      "value": "367",
+      "label": "patients, ~90 sites"
+    }
+  },
+  {
+    "index": 8,
+    "sectionIndex": 2,
+    "section": "The trial",
+    "text": "After surgery, they were randomized to cretostimogene or to surveillance alone, in an open-label design.",
+    "cue": null
+  },
+  {
+    "index": 9,
+    "sectionIndex": 3,
+    "section": "The numbers",
+    "text": "The hazard ratio for recurrence-free survival was 0.32, which is where the 68% comes from. Median follow-up was 17 months.",
+    "cue": {
+      "type": "stat",
+      "raw": "0.32 | hazard ratio, recurrence-free survival",
+      "value": "0.32",
+      "label": "hazard ratio, recurrence-free survival"
+    }
+  },
+  {
+    "index": 10,
+    "sectionIndex": 3,
+    "section": "The numbers",
+    "text": "On safety, the company reported no grade 3 or higher treatment-related side effects, and no patients stopping treatment because of one.",
+    "cue": null
+  },
+  {
+    "index": 11,
+    "sectionIndex": 4,
+    "section": "What's missing",
+    "text": "These are company-reported topline results, not yet presented or peer-reviewed.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"not yet presented or peer-reviewed\"",
+      "phrase": "not yet presented or peer-reviewed"
+    }
+  },
+  {
+    "index": 12,
+    "sectionIndex": 4,
+    "section": "What's missing",
+    "text": "The release gives no recurrence rates for each arm, no event counts, and no separate high-grade or low-grade figures. The company says the benefit held in both, without the numbers.",
+    "cue": null
+  },
+  {
+    "index": 13,
+    "sectionIndex": 5,
+    "section": "Our read",
+    "text": "Why it matters. This is our read.",
+    "cue": null
+  },
+  {
+    "index": 14,
+    "sectionIndex": 5,
+    "section": "Our read",
+    "text": "The comparison was surveillance, not another drug. Against watching and waiting, a hazard ratio of 0.32 would be a large effect if the full data hold up. December 2nd should show how large, in which patients, and for how long.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"surveillance, not another drug\"",
+      "phrase": "surveillance, not another drug"
+    }
+  },
+  {
+    "index": 15,
+    "sectionIndex": 5,
+    "section": "Our read",
+    "text": "It also reshapes the filing plan. CG Oncology's first FDA application, in patients whose cancer no longer responds to the standard treatment BCG, was due this quarter. After FDA feedback it now covers more patients, with completion expected by the end of March 2027.",
+    "cue": null
+  },
+  {
+    "index": 16,
+    "sectionIndex": 5,
+    "section": "Our read",
+    "text": "A second application, built on PIVOT-006, is planned for the second quarter of 2027.",
+    "cue": null
+  },
+  {
+    "index": 17,
+    "sectionIndex": 6,
+    "section": "What to watch",
+    "text": "Three markers, in order. First, December 2nd: the recurrence-free rates in each arm, the event count, and the high-grade and low-grade results on their own.",
+    "cue": null
+  },
+  {
+    "index": 18,
+    "sectionIndex": 6,
+    "section": "What to watch",
+    "text": "Then, the two filings, on the dates the company has set.",
+    "cue": null
+  },
+  {
+    "index": 19,
+    "sectionIndex": 6,
+    "section": "What to watch",
+    "text": "And a filing is not an approval. That decision sits with the FDA.",
+    "cue": {
+      "type": "emphasize",
+      "raw": "\"a filing is not an approval\"",
+      "phrase": "a filing is not an approval"
+    }
+  },
+  {
+    "index": 20,
+    "sectionIndex": 7,
+    "section": "Subscribe",
+    "text": "We track the trials that move biotech, every week in The Catalyst Brief. Subscribe free, at thecatalystbrief.com. Signal over noise.",
+    "cue": null
+  }
+]

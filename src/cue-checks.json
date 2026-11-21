@@ -1,0 +1,604 @@
+[
+ {
+  "label": "S1 column drops",
+  "phrase": "bladder cancer drug",
+  "after": 0,
+  "expect": 1470,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 blade",
+  "phrase": "cut the risk",
+  "after": 0,
+  "expect": 3070,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 top falls",
+  "phrase": "coming back",
+  "after": 0,
+  "expect": 4200,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 -68%",
+  "phrase": "68%",
+  "after": 0,
+  "expect": 5060,
+  "blockFrom": 0
+ },
+ {
+  "label": "S1 chip",
+  "phrase": "Phase 3",
+  "after": 0,
+  "expect": 6370,
+  "blockFrom": 0
+ },
+ {
+  "label": "S2 date",
+  "phrase": "November 16,",
+  "after": 8400,
+  "expect": 8630,
+  "blockFrom": 8400
+ },
+ {
+  "label": "S2 gate",
+  "phrase": "topline results",
+  "after": 8400,
+  "expect": 11060,
+  "blockFrom": 8400
+ },
+ {
+  "label": "S2 sled",
+  "phrase": "PIVOT-006.",
+  "after": 8400,
+  "expect": 12350,
+  "blockFrom": 8400
+ },
+ {
+  "label": "S2 met",
+  "phrase": "met its",
+  "after": 8400,
+  "expect": 14300,
+  "blockFrom": 8400
+ },
+ {
+  "label": "S3 folder",
+  "phrase": "details are",
+  "after": 16220,
+  "expect": 16440,
+  "blockFrom": 16220
+ },
+ {
+  "label": "S3 seal",
+  "phrase": "not public",
+  "after": 16220,
+  "expect": 17170,
+  "blockFrom": 16220
+ },
+ {
+  "label": "S3 flip",
+  "phrase": "December 2,",
+  "after": 16220,
+  "expect": 20260,
+  "blockFrom": 16220
+ },
+ {
+  "label": "S3 podium",
+  "phrase": "late-breaking",
+  "after": 16220,
+  "expect": 21540,
+  "blockFrom": 16220
+ },
+ {
+  "label": "S3 SUO",
+  "phrase": "Society of",
+  "after": 16220,
+  "expect": 23000,
+  "blockFrom": 16220
+ },
+ {
+  "label": "S4 scope",
+  "phrase": "So here",
+  "after": 26450,
+  "expect": 26450,
+  "blockFrom": 26450
+ },
+ {
+  "label": "S4 known",
+  "phrase": "known now",
+  "after": 26450,
+  "expect": 27720,
+  "blockFrom": 26450
+ },
+ {
+  "label": "S4 extend",
+  "phrase": "and what to look",
+  "after": 26450,
+  "expect": 28530,
+  "blockFrom": 26450
+ },
+ {
+  "label": "S5 bladder",
+  "phrase": "drug is",
+  "after": 30460,
+  "expect": 30670,
+  "blockFrom": 30460
+ },
+ {
+  "label": "S5 name",
+  "phrase": "cretostimogene grenadenorepvec,",
+  "after": 30460,
+  "expect": 31100,
+  "blockFrom": 30460
+ },
+ {
+  "label": "S5 virus",
+  "phrase": "engineered virus",
+  "after": 30460,
+  "expect": 33850,
+  "blockFrom": 30460
+ },
+ {
+  "label": "S5 ride",
+  "phrase": "delivered directly",
+  "after": 30460,
+  "expect": 34600,
+  "blockFrom": 30460
+ },
+ {
+  "label": "S6 cell",
+  "phrase": "It is built",
+  "after": 37400,
+  "expect": 37400,
+  "blockFrom": 37400
+ },
+ {
+  "label": "S6 enter",
+  "phrase": "built to",
+  "after": 37400,
+  "expect": 37820,
+  "blockFrom": 37400
+ },
+ {
+  "label": "S6 replicate",
+  "phrase": "replicate",
+  "after": 37400,
+  "expect": 38390,
+  "blockFrom": 37400
+ },
+ {
+  "label": "S6 RB",
+  "phrase": "pathway called",
+  "after": 37400,
+  "expect": 41650,
+  "blockFrom": 37400
+ },
+ {
+  "label": "S7 carries",
+  "phrase": "carries a",
+  "after": 43820,
+  "expect": 44420,
+  "blockFrom": 43820
+ },
+ {
+  "label": "S7 signal",
+  "phrase": "immune signal.",
+  "after": 43820,
+  "expect": 47711,
+  "blockFrom": 43820
+ },
+ {
+  "label": "S8 slam",
+  "phrase": "approved anywhere.",
+  "after": 49240,
+  "expect": 49890,
+  "blockFrom": 49240
+ },
+ {
+  "label": "S9 layers",
+  "phrase": "enrolled patients",
+  "after": 51450,
+  "expect": 52680,
+  "blockFrom": 51450
+ },
+ {
+  "label": "S9 sprout",
+  "phrase": "intermediate-risk",
+  "after": 51450,
+  "expect": 53950,
+  "blockFrom": 51450
+ },
+ {
+  "label": "S9 title",
+  "phrase": "non-muscle-invasive",
+  "after": 51450,
+  "expect": 55030,
+  "blockFrom": 51450
+ },
+ {
+  "label": "S9 red",
+  "phrase": "high-grade TA",
+  "after": 51450,
+  "expect": 58000,
+  "blockFrom": 51450
+ },
+ {
+  "label": "S9 muscle",
+  "phrase": "not reached",
+  "after": 51450,
+  "expect": 61910,
+  "blockFrom": 51450
+ },
+ {
+  "label": "S10 loop",
+  "phrase": "removed in",
+  "after": 63850,
+  "expect": 65070,
+  "blockFrom": 63850
+ },
+ {
+  "label": "S10 regrow",
+  "phrase": "but they can",
+  "after": 63850,
+  "expect": 66510,
+  "blockFrom": 63850
+ },
+ {
+  "label": "S11 figures",
+  "phrase": "50,000",
+  "after": 68120,
+  "expect": 70270,
+  "blockFrom": 68120
+ },
+ {
+  "label": "S11 pedestal",
+  "phrase": "says no",
+  "after": 68120,
+  "expect": 72320,
+  "blockFrom": 68120
+ },
+ {
+  "label": "S11 plate",
+  "phrase": "adjuvant",
+  "after": 68120,
+  "expect": 73580,
+  "blockFrom": 68120
+ },
+ {
+  "label": "S12 dots",
+  "phrase": "enrolled 367",
+  "after": 76160,
+  "expect": 76850,
+  "blockFrom": 76160
+ },
+ {
+  "label": "S12 367",
+  "phrase": "367",
+  "after": 76160,
+  "expect": 77540,
+  "blockFrom": 76160
+ },
+ {
+  "label": "S12 sites",
+  "phrase": "90 sites",
+  "after": 76160,
+  "expect": 79610,
+  "blockFrom": 76160
+ },
+ {
+  "label": "S13 tokens",
+  "phrase": "randomized",
+  "after": 82050,
+  "expect": 83690,
+  "blockFrom": 82050
+ },
+ {
+  "label": "S14 ref",
+  "phrase": "hazard ratio",
+  "after": 88960,
+  "expect": 89200,
+  "blockFrom": 88960
+ },
+ {
+  "label": "S14 0.32",
+  "phrase": "0.32,",
+  "after": 88960,
+  "expect": 92410,
+  "blockFrom": 88960
+ },
+ {
+  "label": "S14 gap",
+  "phrase": "68% comes",
+  "after": 88960,
+  "expect": 94720,
+  "blockFrom": 88960
+ },
+ {
+  "label": "S15 follow",
+  "phrase": "follow-up",
+  "after": 96280,
+  "expect": 96790,
+  "blockFrom": 96280
+ },
+ {
+  "label": "S15 17",
+  "phrase": "17 months.",
+  "after": 96280,
+  "expect": 97830,
+  "blockFrom": 96280
+ },
+ {
+  "label": "S16 jar1",
+  "phrase": "no grade",
+  "after": 99260,
+  "expect": 101110,
+  "blockFrom": 99260
+ },
+ {
+  "label": "S16 jar2",
+  "phrase": "no patients",
+  "after": 99260,
+  "expect": 104810,
+  "blockFrom": 99260
+ },
+ {
+  "label": "S17 gates",
+  "phrase": "company-reported topline",
+  "after": 107500,
+  "expect": 108420,
+  "blockFrom": 107500
+ },
+ {
+  "label": "S17 roll",
+  "phrase": "not yet",
+  "after": 107500,
+  "expect": 110550,
+  "blockFrom": 107500
+ },
+ {
+  "label": "S18 h1",
+  "phrase": "no recurrence",
+  "after": 113160,
+  "expect": 114160,
+  "blockFrom": 113160
+ },
+ {
+  "label": "S18 h2",
+  "phrase": "no event",
+  "after": 113160,
+  "expect": 116070,
+  "blockFrom": 113160
+ },
+ {
+  "label": "S18 h3",
+  "phrase": "no separate",
+  "after": 113160,
+  "expect": 117260,
+  "blockFrom": 113160
+ },
+ {
+  "label": "S19 plank",
+  "phrase": "held in both",
+  "after": 120420,
+  "expect": 122270,
+  "blockFrom": 120420
+ },
+ {
+  "label": "S19 flip",
+  "phrase": "without the numbers",
+  "after": 120420,
+  "expect": 123190,
+  "blockFrom": 120420
+ },
+ {
+  "label": "S20 flip",
+  "phrase": "This is",
+  "after": 124800,
+  "expect": 126210,
+  "blockFrom": 124800
+ },
+ {
+  "label": "S21 vial",
+  "phrase": "not another",
+  "after": 127900,
+  "expect": 130300,
+  "blockFrom": 127900
+ },
+ {
+  "label": "S21 hourglass",
+  "phrase": "watching and",
+  "after": 127900,
+  "expect": 132060,
+  "blockFrom": 127900
+ },
+ {
+  "label": "S22 block",
+  "phrase": "0.32 would",
+  "after": 133500,
+  "expect": 134620,
+  "blockFrom": 133500
+ },
+ {
+  "label": "S22 large",
+  "phrase": "large effect",
+  "after": 133500,
+  "expect": 135920,
+  "blockFrom": 133500
+ },
+ {
+  "label": "S22 if",
+  "phrase": "if the full",
+  "after": 133500,
+  "expect": 136710,
+  "blockFrom": 133500
+ },
+ {
+  "label": "S23 plates",
+  "phrase": "how large,",
+  "after": 139000,
+  "expect": 140750,
+  "blockFrom": 139000
+ },
+ {
+  "label": "S24 rail",
+  "phrase": "reshapes the",
+  "after": 144100,
+  "expect": 144580,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S24 binder",
+  "phrase": "first FDA",
+  "after": 144100,
+  "expect": 147370,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S24 bcg",
+  "phrase": "no longer responds",
+  "after": 144100,
+  "expect": 150370,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S24 due",
+  "phrase": "due this",
+  "after": 144100,
+  "expect": 153900,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S25 fb",
+  "phrase": "FDA feedback",
+  "after": 144100,
+  "expect": 156000,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S25 more",
+  "phrase": "covers more",
+  "after": 144100,
+  "expect": 157270,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S25 exp",
+  "phrase": "completion expected",
+  "after": 144100,
+  "expect": 159210,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S25 slide",
+  "phrase": "end of March",
+  "after": 144100,
+  "expect": 160630,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S26 b2",
+  "phrase": "second application,",
+  "after": 144100,
+  "expect": 163100,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S26 q2",
+  "phrase": "second quarter of 2027.",
+  "after": 144100,
+  "expect": 167080,
+  "blockFrom": 144100
+ },
+ {
+  "label": "S27 posts",
+  "phrase": "Three markers",
+  "after": 169450,
+  "expect": 169450,
+  "blockFrom": 169450
+ },
+ {
+  "label": "S27 flip",
+  "phrase": "December 2nd:",
+  "after": 169450,
+  "expect": 171990,
+  "blockFrom": 169450
+ },
+ {
+  "label": "S28 t1",
+  "phrase": "rates in each",
+  "after": 173350,
+  "expect": 174250,
+  "blockFrom": 173350
+ },
+ {
+  "label": "S28 t2",
+  "phrase": "event count,",
+  "after": 173350,
+  "expect": 175770,
+  "blockFrom": 173350
+ },
+ {
+  "label": "S28 t3",
+  "phrase": "high-grade and",
+  "after": 173350,
+  "expect": 177080,
+  "blockFrom": 173350
+ },
+ {
+  "label": "S29 binders",
+  "phrase": "two filings,",
+  "after": 180320,
+  "expect": 180860,
+  "blockFrom": 180320
+ },
+ {
+  "label": "S29 plates",
+  "phrase": "dates the company",
+  "after": 180320,
+  "expect": 182170,
+  "blockFrom": 180320
+ },
+ {
+  "label": "S30 plinth",
+  "phrase": "not an approval.",
+  "after": 183850,
+  "expect": 185210,
+  "blockFrom": 183850
+ },
+ {
+  "label": "CTA logo",
+  "phrase": "We track",
+  "after": 189080,
+  "expect": 189080,
+  "blockFrom": 189080
+ },
+ {
+  "label": "CTA sub",
+  "phrase": "every week",
+  "after": 189080,
+  "expect": 191570,
+  "blockFrom": 189080
+ },
+ {
+  "label": "CTA button",
+  "phrase": "Subscribe free",
+  "after": 189080,
+  "expect": 193881,
+  "blockFrom": 189080
+ },
+ {
+  "label": "CTA link",
+  "phrase": "at thecatalystbrief.com",
+  "after": 189080,
+  "expect": 194950,
+  "blockFrom": 189080
+ },
+ {
+  "label": "CTA tail",
+  "phrase": "Signal over",
+  "after": 189080,
+  "expect": 197360,
+  "blockFrom": 189080
+ }
+]
